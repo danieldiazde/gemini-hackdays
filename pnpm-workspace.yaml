@@ -1,0 +1,9 @@
+packages:
+  - 'apps/frontend'
+
+# Native postinstall scripts we explicitly allow to run.
+# `sharp` powers Next.js image optimization; `unrs-resolver` is the
+# Rust-based module resolver used by eslint-config-next.
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
