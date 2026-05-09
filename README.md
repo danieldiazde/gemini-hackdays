@@ -111,18 +111,6 @@ Important correction: there is no Python backend in the target architecture. New
 - Add approval flow for suggested blocks.
 - Add demo data fallback for local development when external credentials are not configured.
 
-## Open questions before implementation
-
-These still need owner confirmation before large feature work:
-
-- Should the repository become a single Next.js app at the repo root, or keep the current `apps/frontend` workspace package as the app?
-- Which Supabase project and Google Cloud project should be used for the hackathon demo?
-- Are we using real Canvas iCal URLs in the demo, seeded fixture data, or both?
-- Which Tec degree programs must be included in the first `planes_estudio` seed?
-- Should the product UI be Spanish-only for the demo, as `PROJECT.md` suggests?
-
----
-
 ## Local setup today
 
 ```bash
@@ -136,10 +124,10 @@ App: <http://localhost:3000>
 
 ## Branch workflow
 
-- `main` is the stable branch and is currently locked to prevent accidental merges.
+- `main` is the stable branch and requires PRs plus passing `Frontend CI`.
 - `dev` is the integration branch.
 - Feature branches should start from `dev`.
-- Changes should flow through PRs unless the team explicitly unlocks `main`.
+- Changes should flow through PRs.
 
 ```text
 feature/<name> -> dev -> main

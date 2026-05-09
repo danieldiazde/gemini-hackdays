@@ -29,9 +29,10 @@ The old `apps/backend` FastAPI service has been removed. Do not reintroduce a Py
 
 ## Branch and merge policy
 
-- `main` is currently locked to prevent accidental merges.
+- `main` is not locked, but it is protected.
+- Merges to `main` must go through PRs with passing `Frontend CI`.
 - Do work on `dev` or feature branches.
-- Do not unlock or merge to `main` without explicit user approval.
+- Do not bypass PR protection or push directly to `main`.
 - Preserve user changes, including untracked files, unless the user asks otherwise.
 
 ## Documentation policy
@@ -43,9 +44,9 @@ When product direction, architecture, API contracts, or branch policy changes:
 - Update this `AGENTS.md` so future agents inherit the latest decision.
 - Update architecture docs when stack or system design changes.
 
-## Open implementation questions
+## Implementation confirmations
 
-Before large code changes, confirm:
+Before large code changes, confirm details that are not already specified in `PROJECT.md`, especially:
 
 - Whether Next.js should remain under `apps/frontend` or move to the repo root.
 - Which Supabase and Google Cloud projects are used for the demo.

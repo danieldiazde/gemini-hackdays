@@ -8,4 +8,4 @@ Current critical decisions:
 - TecCoach is the selected product.
 - FastAPI and the old generic Gemini scaffold have been removed.
 - New backend behavior belongs in Next.js API routes.
-- `main` is locked; do not merge or unlock it without explicit user approval.
+- `main` is protected but not locked; changes should go through PRs with passing `Frontend CI`.
