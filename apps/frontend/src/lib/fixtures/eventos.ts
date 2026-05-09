@@ -4,21 +4,21 @@ import type { Evento } from "@/lib/types/eventos";
 export const EVENTOS_FIXTURE: Evento[] = [
   {
     id: "evt-1",
-    fuente: "google_calendar",
+    fuente: "google",
     titulo: "Clase de Compiladores",
     inicio: "2026-05-11T09:00:00-06:00",
     fin: "2026-05-11T10:30:00-06:00",
   },
   {
     id: "evt-2",
-    fuente: "google_calendar",
+    fuente: "google",
     titulo: "Clase de Bases de datos II",
     inicio: "2026-05-11T11:00:00-06:00",
     fin: "2026-05-11T12:30:00-06:00",
   },
   {
     id: "evt-3",
-    fuente: "google_calendar",
+    fuente: "google",
     titulo: "Junta sociedad de alumnos",
     inicio: "2026-05-12T14:00:00-06:00",
     fin: "2026-05-12T15:00:00-06:00",
@@ -33,7 +33,7 @@ export const EVENTOS_FIXTURE: Evento[] = [
   },
   {
     id: "evt-5",
-    fuente: "google_calendar",
+    fuente: "google",
     titulo: "Clase de Ética y ciudadanía",
     inicio: "2026-05-13T15:00:00-06:00",
     fin: "2026-05-13T16:30:00-06:00",
@@ -48,7 +48,7 @@ export const EVENTOS_FIXTURE: Evento[] = [
   },
   {
     id: "evt-7",
-    fuente: "google_calendar",
+    fuente: "google",
     titulo: "Comida con equipo de proyecto",
     inicio: "2026-05-15T13:00:00-06:00",
     fin: "2026-05-15T14:30:00-06:00",

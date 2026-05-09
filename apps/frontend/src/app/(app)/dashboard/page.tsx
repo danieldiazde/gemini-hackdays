@@ -2,6 +2,7 @@ import { parseISO } from "date-fns";
 
 import { DashboardView } from "@/components/dashboard/DashboardView";
 import { EmptyInsightCard } from "@/components/dashboard/EmptyInsightCard";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { getWeekRange } from "@/lib/dates";
 import { EVENTOS_FIXTURE } from "@/lib/fixtures/eventos";
 import { INSIGHT_FIXTURE } from "@/lib/fixtures/insights";
@@ -18,7 +19,7 @@ function hasSupabaseConfig() {
   );
 }
 
-async function loadCurrentInsight(): Promise<Insight | null | "missing"> {
+async function loadCurrentInsight(): Promise<Insight | null | "missing" | "error"> {
   if (!hasSupabaseConfig()) return "missing";
   try {
     const supabase = await getSupabaseServer({ allowCookieWriteFailure: true });
@@ -29,14 +30,15 @@ async function loadCurrentInsight(): Promise<Insight | null | "missing"> {
       .limit(1)
       .maybeSingle();
 
-    if (error || !data) return null;
+    if (error) return "error";
+    if (!data) return null;
     return data as Insight;
   } catch {
-    return "missing";
+    return "error";
   }
 }
 
-async function loadWeekEventos(start: Date, end: Date): Promise<Evento[] | "missing"> {
+async function loadWeekEventos(start: Date, end: Date): Promise<Evento[] | "missing" | "error"> {
   if (!hasSupabaseConfig()) return "missing";
   try {
     const supabase = await getSupabaseServer({ allowCookieWriteFailure: true });
@@ -47,10 +49,10 @@ async function loadWeekEventos(start: Date, end: Date): Promise<Evento[] | "miss
       .lte("inicio", end.toISOString())
       .order("inicio", { ascending: true });
 
-    if (error) return "missing";
+    if (error) return "error";
     return (data ?? []) as Evento[];
   } catch {
-    return "missing";
+    return "error";
   }
 }
 
@@ -69,12 +71,28 @@ export default async function DashboardPage({
   const showEmpty = params.empty === "1";
 
   const realInsight = demo ? "missing" : await loadCurrentInsight();
-  const insight: Insight | null =
+  const insight: Insight | null | "error" =
     realInsight === "missing"
       ? showEmpty
         ? null
         : INSIGHT_FIXTURE
+      : realInsight === "error"
+        ? "error"
       : realInsight;
+
+  if (insight === "error") {
+    return (
+      <Card className="mx-auto max-w-xl">
+        <CardHeader>
+          <CardTitle className="text-xl">No pudimos cargar tu semana</CardTitle>
+        </CardHeader>
+        <CardContent className="text-sm text-muted-foreground">
+          Revisa la configuración de Supabase o usa <code>?demo=1</code> para
+          continuar el demo.
+        </CardContent>
+      </Card>
+    );
+  }
 
   if (!insight) {
     return <EmptyInsightCard />;
@@ -92,9 +110,11 @@ export default async function DashboardPage({
 
   const realEventos = demo ? "missing" : await loadWeekEventos(week.start, week.end);
   const eventos: Evento[] =
-    realEventos === "missing" || realEventos.length === 0
+    realEventos === "missing"
       ? EVENTOS_FIXTURE
-      : realEventos;
+      : realEventos === "error"
+        ? []
+        : realEventos;
 
   return (
     <DashboardView

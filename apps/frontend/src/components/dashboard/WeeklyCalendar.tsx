@@ -2,6 +2,7 @@
 
 import {
   differenceInMinutes,
+  isValid,
   isSameDay,
   parseISO,
   setHours,
@@ -47,15 +48,17 @@ function timeLabel(date: Date) {
 }
 
 const FUENTE_LABEL: Record<Evento["fuente"], string> = {
-  google_calendar: "GCal",
+  google: "GCal",
   canvas: "Canvas",
-  teccoach: "TecCoach",
+  ai_suggested: "TecCoach",
+  manual: "Manual",
 };
 
 const FUENTE_STYLE: Record<Evento["fuente"], string> = {
-  google_calendar: "bg-slate-100 text-slate-700 ring-slate-200",
+  google: "bg-slate-100 text-slate-700 ring-slate-200",
   canvas: "bg-orange-50 text-orange-700 ring-orange-200",
-  teccoach: "bg-gemini-blue/10 text-gemini-blue ring-gemini-blue/30",
+  ai_suggested: "bg-gemini-blue/10 text-gemini-blue ring-gemini-blue/30",
+  manual: "bg-emerald-50 text-emerald-700 ring-emerald-200",
 };
 
 export function blockKey(b: BloqueSugerido): string {
@@ -108,12 +111,16 @@ export function WeeklyCalendar({
         </div>
 
         {week.days.map((day) => {
-          const dayEventos = eventos.filter((e) =>
-            isSameDay(parseISO(e.inicio), day),
-          );
-          const dayBloques = bloques.filter((b) =>
-            isSameDay(parseISO(b.inicio_iso), day),
-          );
+          const dayEventos = eventos.filter((e) => {
+            const start = parseISO(e.inicio);
+            const end = parseISO(e.fin);
+            return isValid(start) && isValid(end) && isSameDay(start, day);
+          });
+          const dayBloques = bloques.filter((b) => {
+            const start = parseISO(b.inicio_iso);
+            const end = parseISO(b.fin_iso);
+            return isValid(start) && isValid(end) && isSameDay(start, day);
+          });
 
           return (
             <div

@@ -48,6 +48,7 @@ export function ApplyBlocksButton({
 
   async function handleConfirm() {
     if (selectedBlocks.length === 0) return;
+    if (pending) return;
 
     const body: CalendarCreateBody = {
       events: selectedBlocks.map((b) => ({

@@ -1,4 +1,4 @@
-export type EventoFuente = "google_calendar" | "canvas" | "teccoach";
+export type EventoFuente = "google" | "canvas" | "ai_suggested" | "manual";
 
 export type Evento = {
   id: string;
