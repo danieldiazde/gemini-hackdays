@@ -23,9 +23,13 @@ async function loadCurrentInsight(): Promise<Insight | null | "missing" | "error
   if (!hasSupabaseConfig()) return "missing";
   try {
     const supabase = await getSupabaseServer({ allowCookieWriteFailure: true });
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) return "error";
+
     const { data, error } = await supabase
       .from("insights")
       .select("semana_iso, contenido")
+      .eq("user_id", user.id)
       .order("generated_at", { ascending: false })
       .limit(1)
       .maybeSingle();
@@ -42,15 +46,27 @@ async function loadWeekEventos(start: Date, end: Date): Promise<Evento[] | "miss
   if (!hasSupabaseConfig()) return "missing";
   try {
     const supabase = await getSupabaseServer({ allowCookieWriteFailure: true });
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) return "error";
+
     const { data, error } = await supabase
       .from("eventos")
-      .select("id, fuente, titulo, descripcion, inicio, fin, metadata")
-      .gte("inicio", start.toISOString())
-      .lte("inicio", end.toISOString())
-      .order("inicio", { ascending: true });
+      .select("id, source, titulo, descripcion, fecha_inicio, fecha_fin")
+      .eq("user_id", user.id)
+      .gte("fecha_inicio", start.toISOString())
+      .lte("fecha_inicio", end.toISOString())
+      .order("fecha_inicio", { ascending: true });
 
     if (error) return "error";
-    return (data ?? []) as Evento[];
+    // Map DB columns to the Evento type the UI expects
+    return (data ?? []).map((e) => ({
+      id: e.id,
+      fuente: (e.source ?? "manual") as Evento["fuente"],
+      titulo: e.titulo,
+      descripcion: e.descripcion,
+      inicio: e.fecha_inicio,
+      fin: e.fecha_fin,
+    }));
   } catch {
     return "error";
   }

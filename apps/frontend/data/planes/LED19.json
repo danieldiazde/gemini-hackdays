@@ -1,0 +1,1644 @@
+{
+  "carreraClave": "LED19",
+  "nombre": "Licenciatura en Derecho",
+  "descripcionES": "Para acreditar las materias Tópico, es elección del alumno las unidades de formación que desea cursar , contando con la asesoría de su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Legal experts",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1001B",
+            "nombre": "Transformación del México contemporáneo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0203A&lang=ES",
+            "nombreCompleto": "Transformación del México contemporáneo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Identifica los elementos y principios del Derecho, relacionándolos con Economía, Ciencia Política y Relaciones Internacionales. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "MA1022",
+            "nombre": "Pensamiento matemático I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0105B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1060",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el comportamiento de una variable a través de su descripción lógica, del análisis de funciones y calculando su valor aplicando diferentes metodologías."
+          },
+          {
+            "clave": "P1010",
+            "nombre": "Filosofía política para los dilemas contemporáneos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0501B&lang=ES",
+            "nombreCompleto": "Filosofía política para los dilemas contemporáneos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Evalúa casos de decisiones con impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de casos de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "P1011",
+            "nombre": "Introducción a las ciencias sociales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0401B&lang=ES",
+            "nombreCompleto": "Introducción a las ciencias sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0401B",
+              "SCIS0402B",
+              "SCIS0403A",
+              "SCIS0502B",
+              "SEG0602A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Compara soluciones político-sociales, aplicando teorías de elección social. - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz."
+          },
+          {
+            "clave": "RI1001B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0301B&lang=ES",
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0501A",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0404A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: RI1003B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las perspectivas teóricas de la política internacional, considerando niveles y unidades de análisis de la realidad contemporánea. - Analiza los desafíos de la agenda global contemporánea, considerando los intereses de los Estados nación. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre los dilemas que generen consenso e inclusión."
+          },
+          {
+            "clave": "TC1001B",
+            "nombre": "Principios de programación para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0403B&lang=ES",
+            "nombreCompleto": "Principios de programación para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1001B",
+            "nombre": "Introducción al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0201B&lang=ES",
+            "nombreCompleto": "Introducción al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0201B",
+              "SCIS0202B",
+              "SCIS0203B",
+              "SCIS0204A"
+            ],
+            "requisitosDetalle": "Equivalencia: D1003B",
+            "objetivo": "En la unidad de formación el alumno: - Identifica los elementos y principios que garantizan el Estado de Derecho y cultura de la legalidad en una sociedad democrática, tomando en cuenta su rol en el mantenimiento de los mismos. - Analiza problemas jurídicos, identificando las normas jurídicas aplicables. - Identifica los elementos y principios del Derecho, relacionándolos con la Economía, la Ciencia Política y las Relaciones Internacionales. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, considerando la participación de los actores relevantes."
+          },
+          {
+            "clave": "EC1002B",
+            "nombre": "Emprendimiento y tecnología para la transformación de México",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0204C&lang=ES",
+            "nombreCompleto": "Emprendimiento y tecnología para la transformación de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, sumando la participación de diferentes actores pertinentes en un modelo de intervención sostenible. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          },
+          {
+            "clave": "EC1013",
+            "nombre": "Macroeconomía",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103A&lang=ES",
+            "nombreCompleto": "Macroeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0103A",
+              "SCIS0104A",
+              "SEG0502A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EC1014",
+            "nombre": "Microeconomía",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101A&lang=ES",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "MA1023",
+            "nombre": "Métodos cuantitativos I",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702B&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0702B"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "MA1024",
+            "nombre": "Pensamiento matemático II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1022",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0106B",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Describe las variables económicas que afectan el desempeño de una economía, a partir del estudio matemático."
+          },
+          {
+            "clave": "TC1002B",
+            "nombre": "Herramientas tecnológicas para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado TC1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0601C&lang=ES",
+            "nombreCompleto": "Herramientas tecnológicas para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "D2001B",
+            "nombre": "Bienes y derechos reales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "(Estar Cursando D2034 o Haber Cursado D2034 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0404B&lang=ES",
+            "nombreCompleto": "Bienes y derechos reales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDE0404B",
+              "SDE0403B",
+              "SDE0405A",
+              "SDE0401B",
+              "SEG0601B"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Asesora en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito privado, particularmente vinculadas con los bienes y derechos reales de las personas físicas y morales, mediante la suscripción del instrumento jurídico adecuado. - Elabora los instrumentos que otorguen certeza jurídica a los particulares, en el ámbito de sus relaciones patrimoniales. - Previene riesgos legales derivados de la celebración de actos jurídicos que transmiten derechos reales, tomando en cuenta las circunstancias, condiciones de cumplimiento y el marco jurídico vigente. - Propone escenarios de solución a conflictos derivados de relaciones jurídicas entre particulares, en materia de bienes y derechos reales, considerando tanto procedimientos judiciales como mecanismos alternativos de solución de controversias. - Analiza la naturaleza de los bienes desde un punto de vista jurídico, así como el conjunto de derechos reales, en situaciones jurídicas concretas. - Identifica y diferencia los derechos reales, las cosas y los bienes, el derecho de propiedad y posesión, en situaciones jurídicas dadas."
+          },
+          {
+            "clave": "D2002B",
+            "nombre": "Derecho constitucional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "(Estar Cursando D2035 o Haber Cursado D2035 ) o (Haber Aprobado P1001B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0203A&lang=ES",
+            "nombreCompleto": "Derecho constitucional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDE0203A",
+              "SDE0502A",
+              "SDE0201A",
+              "SDE0202A",
+              "SEG0404B"
+            ],
+            "requisitosDetalle": "Equivalencia: D1034",
+            "objetivo": "En la unidad de formación el alumno: - Analiza las estructuras fundamentales de la organización político-social del Estado, a través de la Constitución. - Analiza el origen, evolución y significado actual del concepto de Constitución, identificando las funciones que ésta asume en el contexto del Estado Social y Democrático de Derecho. - Analiza la evolución de la interpretación como institución esencial de la ciencia jurídica, destacando la naturaleza, concepto y características de la interpretación constitucional. - Identifica los derechos humanos tutelados por la Constitución y establece los escenarios posibles para la reparación del derecho humano vulnerado, cuando exista presunción fundada. - Aplica las diferentes teorías del Derecho, así como los conceptos jurídicos fundamentales, en casos o problemas jurídicos concretos, tutelando derechos humanos. - Analiza y compara las formas de estado y los sistemas de gobierno, particularizando en el Estado Federal y el modelo mexicano de distribución de competencias."
+          },
+          {
+            "clave": "D2031",
+            "nombre": "Argumentación jurídica",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Estar Cursando D2035 o Haber Cursado D2035 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0301A&lang=ES",
+            "nombreCompleto": "Argumentación jurídica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0301A",
+              "SEG0602B"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "D2032",
+            "nombre": "Personas y acto jurídico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Estar Cursando D2035 o Haber Cursado D2035 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0401A&lang=ES",
+            "nombreCompleto": "Personas y acto jurídico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0401A",
+              "SDE0402A",
+              "SDE0403A",
+              "SEG0301B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Constituye la persona jurídica idónea, seleccionando el régimen legal aplicable de acuerdo al contexto. - Constituye el acto jurídico idóneo, de acuerdo a los hechos, circunstancias y sujetos involucrados. - Identifica las instituciones jurídicas que se relacionan con la persona en el ámbito del derecho. - Analiza la intervención de la persona física y moral en la celebración del acto jurídico como principal fuente de las obligaciones, a través de la teoría general de las obligaciones y en particular de la teoría del acto jurídico. - Elabora los instrumentos que otorguen certeza jurídica a los particulares, en el ámbito de sus relaciones patrimoniales. - Previene riesgos legales derivados de la celebración de actos jurídicos que transmiten derechos reales, tomando en cuenta las circunstancias, condiciones de cumplimiento y el marco jurídico vigente. - Distingue los sujetos de la relación jurídica, personas físicas y morales, en toda situación jurídica que se le plantea. - Analiza los atributos de la personalidad propios de cada tipo de persona, identificando sus efectos en situaciones jurídicas dadas."
+          },
+          {
+            "clave": "D2033",
+            "nombre": "Seminario de argumentación jurídica",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Estar Cursando D2031 o Haber Cursado D2031 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0303A&lang=ES",
+            "nombreCompleto": "Seminario de argumentación jurídica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0303A",
+              "SEG0402B"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Aplica principios y reglas de la argumentación jurídica, en la solución de casos concretos. - Aplica los conocimientos y habilidades de argumentación jurídica, tanto en español como en inglés, en documentos, negociaciones y procedimientos de solución de conflictos. - Diseña la estrategia procesal conducente, con fundamento en los principios que garanticen el debido proceso. - Analiza los elementos esenciales para el desarrollo de sus capacidades argumentativas y la aplicación a los conocimientos y competencias diseñadas en todas las unidades formativas que forman parte del plan de estudios."
+          },
+          {
+            "clave": "D2034",
+            "nombre": "Seminario de personas y acto jurídico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Estar Cursando D2032 o Haber Cursado D2032 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0101A&lang=ES",
+            "nombreCompleto": "Seminario de personas y acto jurídico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0101A",
+              "SDE0402B",
+              "SDE0403B",
+              "SDE0401B",
+              "SEG0603B"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Constituye el acto jurídico idóneo, de acuerdo a los hechos, circunstancias y sujetos involucrados, en casos concretos. - Identifica las instituciones jurídicas que se relacionan con la persona en el ámbito del derecho, a partir de casos reales. - Distingue los sujetos de la relación jurídica, personas físicas y morales, en situaciones concretas - Analiza en casos reales los atributos de la personalidad, propios de cada tipo de persona. - Analiza la intervención de la persona física y moral, específicamente en la celebración del acto jurídico como principal fuente de las obligaciones, a través de la teoría general de las obligaciones y en particular de la teoría del acto jurídico, en situaciones reales."
+          },
+          {
+            "clave": "D2035",
+            "nombre": "Seminario de teoría del derecho",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Estar Cursando D2036 o Haber Cursado D2036 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0201B&lang=ES",
+            "nombreCompleto": "Seminario de teoría del derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0201B",
+              "SDE0202B",
+              "SEG0503B"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Aplica las diferentes teorías del derecho, así como los conceptos jurídicos fundamentales y su papel en la ciencia jurídica, y logra aplicarlos en casos o problemas jurídicos concretos. - Desarrolla el marco conceptual-doctrinal del derecho, en casos jurídicos concretos."
+          },
+          {
+            "clave": "D2036",
+            "nombre": "Teoría del derecho",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado D1001B o Estar Cursando D1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0201A&lang=ES",
+            "nombreCompleto": "Teoría del derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0201A",
+              "SDE0202A",
+              "SEG0403A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Aplica las diferentes teorías del Derecho, así como los conceptos jurídicos fundamentales, en casos o problemas jurídicos concretos, tutelando derechos humanos. - Analiza el marco conceptual-doctrinal del derecho que permita desarrollar y consolidar las competencias que exigen los distintos ámbitos o disciplinas jurídicas."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "D2003B",
+            "nombre": "Derecho penal y delitos en especial",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2036 y Haber Aprobado D2035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0201B&lang=ES",
+            "nombreCompleto": "Derecho penal y delitos en especial",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0201B",
+              "SDE0202B",
+              "SEG0404C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno establece los escenarios posibles para la reparación del derecho humano vulnerado, cuando exista presunción fundada, tomando en cuenta los conceptos de pena y medida de seguridad. Requiere conocimientos de: Fuentes del Derecho; conceptos jurídicos fundamentales. Como resultado del aprendizaje el alumno soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de identificar las penas y las medidas de seguridad.",
+            "objetivo": "En la unidad de formación el alumno: - Conoce y aplica las teorías, principios y conceptos fundamentales del Derecho Penal, en los casos en que sea necesario identificar si una conducta se ajusta al tipo establecido en las leyes. - Establece las diferencias entre la Teoría de la Ley Penal, la Teoría del Delito y la Teoría de la Pena, en situaciones jurídicas concretas. - Identifica las diversas fuentes del Derecho penal y su interpretación judicial. - Identifica el marco normativo aplicable a los distintos delitos según su tipología. - Establece los escenarios posibles para la reparación del derecho humano vulnerado tanto para la víctima, ofendido o imputado, cuando exista presunción fundada en los procesos penales y promueve las acciones procesales conducentes."
+          },
+          {
+            "clave": "D2004B",
+            "nombre": "Derechos humanos y su interpretación judicial",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0203A&lang=ES",
+            "nombreCompleto": "Derechos humanos y su interpretación judicial",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0203A",
+              "SDE0201B",
+              "SDE0202B",
+              "SEG0401B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno selecciona el escenario que mejor satisface las pretensiones de la víctima, en los casos de comprobado peligro o violación de derechos humanos, en situaciones de estados de excepción. Requiere conocimientos de: Norma jurídica; acto y hecho jurídico; fuentes del Derecho. Como resultado del aprendizaje el alumno soluciona ejercicios, problemas y casos para desarrollar la capacidad de diseñar estrategias de prevención de violación de derechos fundamentales. Trabaja en el contexto del entorno real en el que se enfrenta el reto relacionado con el sistema regional de derechos humanos, interactuando con compañeros de trabajo y con los actores clave para la solución del reto.",
+            "objetivo": "En la unidad de formación el alumno: - Identifica los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y por los tratados internacionales de los que el Estado Mexicano sea parte. - Establece los escenarios posibles para la reparación del derecho humano vulnerado, mediante el análisis de casos y el conocimiento de los criterios judiciales en la materia. - Selecciona el escenario que mejor satisface las pretensiones de la víctima, en los casos de comprobado peligro o violación de derechos humanos, examinando los mecanismos de protección de los derechos y libertades fundamentales. - Diseña estrategias de prevención, protección y defensa de los derechos fundamentales, tanto a nivel nacional como internacional."
+          },
+          {
+            "clave": "D2005B",
+            "nombre": "Solución de conflictos y teoría general del proceso",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0104A&lang=ES",
+            "nombreCompleto": "Solución de conflictos y teoría general del proceso",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0104A",
+              "SDE0302A",
+              "SDE0303A",
+              "SDE0301A",
+              "SDE0405B",
+              "SEG0502B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno propone escenarios de solución a conflictos derivados de relaciones jurídicas entre particulares, considerando tanto procedimientos judiciales como mecanismos alternativos de solución de controversias, siempre tomando en cuenta los principios procesales. Requiere conocimientos de: Norma jurídica; acto y hecho jurídico; fuentes del Derecho. Como resultado del aprendizaje el alumno investiga sobre las teorías de la acción, así como los actores implicados y sus intereses. Soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de diseño de estrategias de soluciones alternativas e controversias, orientadas al reto planteado en el bloque. Trabaja en el contexto del entorno real en el que se enfrenta el reto relacionado con la simulación de juicios, interactuando con compañeros de trabajo bajo la supervisión de tutores. Presenta el proyecto final con los resultados obtenidos de la investigación desarrollada durante el semestre, como evidencias del desarrollo de las competencias asociadas al reto.",
+            "objetivo": "En la unidad de formación el alumno: - Establece las diferencias entre los distintos sistemas de resolución de conflictos, en caso de presentar alternativas para la solución de conflictos particulares. - Aplica los conceptos básicos del derecho procesal relativos a la acción, jurisdicción y proceso. - Diseña las estrategias legales para la procedencia de la acción a interponer en un caso concreto, identificando las etapas procesales en el procedimiento. - Identifica las posibles soluciones alternas de resolución de conflictos y conduce a los procesos de negociación y/o mediación, respetando los derechos humanos de las partes involucradas. - Refiere los agravios ocasionados por la resolución judicial emitida por la autoridad competente, a fin de elegir el medio de impugnación idóneo para su procedencia y resolución favorable."
+          },
+          {
+            "clave": "D2037",
+            "nombre": "Derecho de las obligaciones I",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0401A&lang=ES",
+            "nombreCompleto": "Derecho de las obligaciones I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0401A",
+              "SDE0402A",
+              "SEG0501B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de derecho que tiene la intención de que el alumno pueda constituir el acto jurídico idóneo, de acuerdo a los hechos, circunstancias y sujetos involucrados en las obligaciones en general, teniendo en cuenta las obligaciones en general. Requiere conocimientos previos de fundamentos sobre el acto jurídico y fuentes del derecho. Como resultado de aprendizaje el alumno realizar una investigación sobre los acontecimientos naturales y humanos generadores de derechos y obligaciones civiles, obligación y sus principales fuentes, y diseña los instrumentos jurídicos idóneos que garanticen certeza en las relaciones jurídicas.",
+            "objetivo": "En la unidad de formación el alumno: - Asesora en el cumplimiento de las obligaciones aplicables a la persona, en todos los ámbitos que le sean requeridos. - Asesora en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito privado, mediante la suscripción del instrumento jurídico adecuado. - Analiza la teoría general de las obligaciones y en particular sus fuentes, permitiendo comprender los elementos de la relación jurídica obligatoria y su incidencia en los diversos hechos jurídicos naturales y humanos, así como en los actos jurídicos bilaterales y unilaterales con efectos mortis causa e inter vivos. - Analiza los hechos ilícitos y asesora a las personas que han sufrido un daño, sobre cómo obtener la reparación integral del mismo."
+          },
+          {
+            "clave": "D2038",
+            "nombre": "Derecho de las obligaciones II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando D2039 o Haber Cursado D2039",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0401C&lang=ES",
+            "nombreCompleto": "Derecho de las obligaciones II",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0401C",
+              "SDE0405A",
+              "SEG0501C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0401C",
+              "SDE0405A",
+              "SEG0501C"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de derecho que tiene la intención de que el alumno pueda constituir el acto jurídico idóneo, de acuerdo a los hechos, circunstancias y sujetos involucrados teniendo en cuenta los efectos de las obligaciones y sus consecuencias jurídicas. Requiere de conocimientos previos de relaciones jurídicas y constitución de actos jurídicos válidos. Como resultado de aprendizaje el alumno diseña los instrumentos jurídicos idóneos que garanticen certeza en las relaciones jurídicas para una situación determinada.",
+            "objetivo": "En la unidad de formación el alumno: - Formula una cesión de derecho y evita realizar una subrogación, en un caso concreto. - Asesora a una persona moral o física para evitar que sus deudores dispersen sus bienes, empleando las diversas acciones protectoras que concede el derecho civil mexicano. - Analiza los modos de extinguir la obligación que eventualmente un deudor puede oponer a su acreedor, de acuerdo con los hechos específicos del caso concreto."
+          },
+          {
+            "clave": "D2039",
+            "nombre": "Seminario de derecho de las obligaciones I",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando D2037 o Haber Cursado D2037",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0402B&lang=ES",
+            "nombreCompleto": "Seminario de derecho de las obligaciones I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0402B",
+              "SDE0401B",
+              "SEG0501B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de derecho que tiene la intención de que el alumno asesore en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito privado, mediante la suscripción del instrumento jurídico adecuado, tomando en cuenta la estructura de los contratos. Requiere de conocimientos previos de fuentes de derecho y relaciones jurídicas contractuales. Como resultado de aprendizaje el alumno realiza una investigación sobre los actos y hechos humanos, generadores de derechos y obligaciones civiles, diseñando los instrumentos jurídicos idóneos que garanticen certeza en las relaciones jurídicas.",
+            "objetivo": "En la unidad de formación el alumno: - Asesora en casos concretos el cumplimiento de las obligaciones aplicables a la persona, en todos los ámbitos que le sean requeridos. - Asesora en casos concretos el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito privado, mediante la suscripción del instrumento jurídico adecuado. - Analiza procesos judiciales concretos en materia de responsabilidad civil contractual y extracontractual y discute el alcance de las sentencias, de acuerdo con el contenido del seminario."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "D2006B",
+            "nombre": "Contratos civiles y mercantiles",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2038",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0403B&lang=ES",
+            "nombreCompleto": "Contratos civiles y mercantiles",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0403B",
+              "SDE0401C",
+              "SDE0405A",
+              "SDE0402C",
+              "SEG0303B"
+            ],
+            "competenciasEvaluan": [
+              "SDE0401C",
+              "SDE0402C",
+              "SDE0403B",
+              "SDE0405A",
+              "SEG0303B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno asesora en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito privado, mediante la suscripción del instrumento jurídico adecuado. Identifica los elementos de validez del contrato e interpreta los contratos. Requiere conocimientos de: Obligaciones y acto jurídico. Como resultado del aprendizaje el alumno investiga de forma individual y en equipo sobre los contratos y sus consecuencias jurídicas, es decir, los derechos y obligaciones idóneas para cada caso. Resuelve ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de diseñar contratos tanto civiles como mercantiles.",
+            "objetivo": "En la unidad de formación el alumno: - Elabora los instrumentos jurídicos que garantizan los derechos de la empresa en las diferentes operaciones económicas que ésta deba realizar. - Elabora los instrumentos jurídicos de carácter mercantil, que garanticen los derechos de la empresa, en las diferentes operaciones económicas que ésta deba realizar. - Asesora a las personas en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito privado, mediante la suscripción del instrumento jurídico adecuado. - Asesora a las personas en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito mercantil, mediante la suscripción del instrumento jurídico adecuado. - Analiza los principales contratos civiles y su regulación en el sistema jurídico mexicano, identificando sus características, elementos, principales derechos y obligación, así como sus efectos jurídicos y sus formas de terminación para cada caso en particular."
+          },
+          {
+            "clave": "D2007B",
+            "nombre": "Derecho administrativo I",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0501B&lang=ES",
+            "nombreCompleto": "Derecho administrativo I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0501B",
+              "SDE0502B",
+              "SDE0202A",
+              "SEG0403B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de derecho que tiene la intención de que el alumno pueda seleccionar el escenario que mejor satisface las pretensiones de la víctima, en los casos de comprobado peligro o violación de derechos humanos y comprende la facultad reglamentaria, las normas administrativas generales, y su problemática actual. Requiere de conocimientos previos de obligaciones y fuentes de derecho. Como resultado de aprendizaje el alumno realiza investigaciones sobre la desconcentración administrativa y soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, en donde demuestra la capacidad de diseño de normas oficiales mexicanas.",
+            "objetivo": "En la unidad de formación el alumno: - Analiza los conceptos e instituciones jurídicas fundamentales del Derecho administrativo en las relaciones de los particulares con la administración pública. - Delimita el sistema de fuentes normativas del Derecho administrativo en problemas derivados de la facultad reglamentaria y de mejora regulatoria. - Establece el marco jurídico que rige a la organización y la función de la administración pública, en las relaciones entre los tres niveles del Estado Federal Mexicano."
+          },
+          {
+            "clave": "D2008B",
+            "nombre": "Familia y sucesiones",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado D2037 o Estar Cursando D2037",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0301A&lang=ES",
+            "nombreCompleto": "Familia y sucesiones",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0301A",
+              "SDE0402B",
+              "SDE0403B",
+              "SDE0405B",
+              "SDE0401B",
+              "SEG0302B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno diseña la estrategia procesal conducente, con fundamento en los principios que garanticen el debido proceso. Distingue los tipos de familia, y los conceptos de paretesco, alimentos, matrimonio, divorcio, filiación, reconocimiento de hijos, patria potestad, adopción, tutela, patrimonio de familia, así como el concepto, clases, elementos y principios de la sucesión. Requiere conocimientos de: Acto jurídico, relaciones contractuales, obligaciones. Como resultado del aprendizaje el alumno investiga sobre instituciones familiares y el derecho de hereditario, con base en conocimientos previos de la teoría del acto jurídico, y normativa jurídica nacional en concordancia con los derechos humanos. Soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de elaborar alternativas jurídicas para la sucesión hereditaria. Demuestra su competencia para generar un testamento.",
+            "objetivo": "En la unidad de formación el alumno: - Desarrolla una visión general sobre el derecho de las familias, con base en conocimientos previos de la teoría del acto jurídico en los casos de instituciones familiares cuya fuente es la declaración de voluntades. - Comprende el derecho sucesorio sustantivo, testamentario e intestamentario, así como las principales instituciones sucesorias, en situaciones jurídicas concretas. - Relaciona el derecho de familia con el sucesorio y está en condiciones de proponer concretas soluciones en caso de problemas que precisen la interacción que éstas dos materias genera. - Selecciona el mejor escenario para garantizar y en todo caso reparar los derechos de las partes en materia familiar, en situaciones concretas en el que sea necesario dejar a salvo derechos humanos. - Constituye el acto jurídico idóneo, de acuerdo a los hechos, circunstancias y sujetos involucrados. - Asesora en el cumplimiento de las obligaciones aplicables a las relaciones jurídicas en el ámbito familiar, mediante la suscripción del instrumento jurídico adecuado. - Elabora los instrumentos que otorguen certeza jurídica a los particulares, en el ámbito de sus relaciones familiares y patrimoniales. - Previene riesgos legales derivados de la celebración de actos jurídicos que transmiten derechos reales, tomando en cuenta las circunstancias, condiciones de cumplimiento y el marco jurídico vigente. - Propone escenarios de solución a conflictos derivados de relaciones jurídicas entre particulares, considerando tanto procedimientos judiciales como mecanismos alternativos de solución de controversias."
+          },
+          {
+            "clave": "D2040",
+            "nombre": "Derecho laboral I",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2034",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0102A&lang=ES",
+            "nombreCompleto": "Derecho laboral I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0102A",
+              "SDE0201B",
+              "SEG0401C",
+              "SDE0202A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno asesora en el cumplimiento de las obligaciones aplicables a la persona jurídica, en todos los ámbitos que le sean requeridos, tales como las fuentes primarias y secundarias del Derecho Laboral. Requiere conocimientos de: Relaciones contractuales y obligaciones. Como resultado del aprendizaje el alumno investiga sobre el análisis de textos constitucionales que impactan en la relación laboral. Soluciona problemas y casos prácticos, tanto de manera individual como grupal, que refuercen el aprendizaje y fomenten la responsabilidad y disciplina de los estudiantes, así como su capacidad de análisis, como es el caso de la elaboración de los tipos de contratos que les sean asignados y su presentación en clase, a fin de someterlos a discusión en el grupo.Soluciona problemas y casos, tanto de manera individual como colaborativa, que permitan desarrollar la capacidad de diseño de estrategias para la toma de decisiones para modificar o suspender una relación de trabajo.",
+            "objetivo": "En la unidad de formación el alumno: - Conoce y aplica el régimen jurídico que norma las relaciones laborales, en el ámbito público y privado. - Analiza las condiciones de trabajo en una relación laboral, en relación con las diversas modalidades de contratación. - Identifica y reflexiona sobre los derechos y obligaciones que surgen entre el patrono y trabajador, en casos concretos. - Analiza las diversas formas de finiquito de una relación laboral, como son la suspensión, terminación y rescisión de dicha relación, identificando las consecuencias económicas que se derivan para las partes. - Elabora la documentación legal necesaria, como son los contratos individuales, actas de rescisión y liquidaciones, en el establecimiento o finalización de las relaciones laborales. - Analiza la competencia de las autoridades laborales y las de seguridad social, así como su tutela, en los casos de relaciones obrero-patronales."
+          },
+          {
+            "clave": "D2041",
+            "nombre": "Derecho laboral ll",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando D2040 o Haber Cursado D2040",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0102A&lang=ES",
+            "nombreCompleto": "Derecho laboral ll",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0102A",
+              "SDE0201B",
+              "SEG0303C",
+              "SDE0202A"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de derecho que tiene la intención de que el alumno pueda establecer los escenarios posibles para la reparación del derecho humano vulnerado, cuando exista presunción fundaday comprenda y aplique el marco Jurídico del derecho colectivo del trabajo. Requiere conocimientos previos de obligaciones, acto jurídico y contratos. Como resultado de aprendizaje el alumno soluciona casos en donde diseño de estrategias de la negociación y convenio colectivo en el derecho del trabajo.",
+            "objetivo": "En la unidad de formación el alumno: - Asesora a la persona jurídica en el cumplimiento de las obligaciones derivadas de la relación laboral, con base en la legislación del trabajo, las normas internacionales y las decisiones judiciales aplicables en la materia. - Promueve las acciones procedentes en casos de amenaza o violación de derechos sociales, ante los tribunales o autoridades competentes. - Analiza conflictos de carácter colectivo laboral, considerando sus causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. - Elige modelos jurisdiccionales y no jurisdiccionales de gestión de conflictos de carácter colectivo laboral, considerando su viabilidad y pertinencia para cada caso concreto. - Diseña y conduce procesos de negociación colectiva, privilegiando el estilo de negociación ganar – ganar."
+          },
+          {
+            "clave": "D2042",
+            "nombre": "Seminario de derecho de las obligaciones II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2038 o Estar Cursando D2038",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0401C&lang=ES",
+            "nombreCompleto": "Seminario de derecho de las obligaciones II",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0401C",
+              "SDE0405A",
+              "SEG0503C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0401C",
+              "SDE0405A",
+              "SEG0503C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Derecho donde el alumno constituye el acto jurídico idóneo, de acuerdo a los hechos, circunstancias y sujetos involucrados, tomando en cuenta los efectos y el cumplimiento de las obligaciones. Requiere conocimientos de: Acto jurídico, proceso y procedimiento. Como resultado del aprendizaje el alumno soluciona problemas y casos prácticos, tanto de manera individual como grupal, con los que se refuerza su aprendizaje y se fomenta su responsabilidad y su capacidad de análisis.",
+            "objetivo": "En la unidad de formación el alumno: - Formula una cesión de derecho y evita realizar una subrogación, en un caso concreto. - Asesora a una persona moral o física para evitar que sus deudores dispersen sus bienes, empleando las diversas acciones protectoras que concede el derecho civil mexicano. - Analiza los modos de extinguir la obligación que eventualmente un deudor puede oponer a su acreedor, de acuerdo con los hechos específicos del caso concreto."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "D3001B",
+            "nombre": "Controles constitucionales I",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Aprobado D2004B o Estar Cursando D2004B ) y (Haber Aprobado D2005B o Estar Cursando D2005B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0201B&lang=ES",
+            "nombreCompleto": "Controles constitucionales I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0201B",
+              "SDE0202B",
+              "SDE0203B",
+              "SEG0402C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0201B",
+              "SDE0202B",
+              "SDE0203B",
+              "SEG0402C"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno promueva las acciones procedentes en casos de amenaza o violación de derechos humanos, ante los tribunales o autoridades competentes, tomando en cuenta los principios del juicio de amparo, las causales de improcedencia, así como su sustanciación. Requiere conocimientos previos de teoría del derecho, solución de conflictos y teoría general del proceso; derecho constitucional, acto jurídico, derechos humanos. Como resultado de aprendizaje el alumno soluciona ejercicios, problemas y casos para identificar la violación de derechos humanos por parte del órgano de poder, orientadas al reto planteado en el bloque.",
+            "objetivo": "En la unidad de formación el alumno: - Analiza las funciones de tutela y normativa aplicable al juicio de amparo en México. - Promueve las acciones procedentes en casos de amenaza o violación de derechos humanos, ante los tribunales o autoridades competentes. - Selecciona el escenario que mejor satisface las pretensiones de la víctima, en los casos de comprobado peligro o violación de derechos humanos."
+          },
+          {
+            "clave": "D3002B",
+            "nombre": "Derecho administrativo II",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0501C&lang=ES",
+            "nombreCompleto": "Derecho administrativo II",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0501C",
+              "SDE0502C",
+              "SDE0601B",
+              "SEG0301C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0501C",
+              "SDE0502C",
+              "SDE0601B",
+              "SEG0301C"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno proponga mecanismos jurídicos de provisión de servicios públicos, a partir del contexto político, económico y social, tomando en cuenta la rectoría Económica y Planeación del Estado, así como los elementos del patrimonio del Estado. Requiere de conocimientos previos de Teoría del Derecho, obligaciones, acto jurídico, solución de conflictos y teoría general del proceso. Como resultado de aprendizaje el alumno realiza una investigación sobre el régimen jurídico de la obra pública; soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de elaborar contratos de adquisiciones públicas orientadas al reto planteado en el bloque.",
+            "objetivo": "En la unidad de formación el alumno: - Analiza las diferentes relaciones jurídicas que derivan de la actividad de la administración pública como rectoría económica, bienes públicos, contratación administrativa, finanzas públicas y régimen disciplinario, en los principales contextos de interés público. - Aplica la rectoría económica, planeación del estado, y su régimen patrimonial, incluyendo la concesión administrativa, así como las diferentes formas de adquirir bienes de los particulares, en situaciones jurídicas concretas. - Propone mecanismos jurídicos de provisión de servicios públicos, a partir del contexto político, económico y social. - Analiza el tipo de autoridad, facultades y capacidad para la provisión del servicio público, con base en el sistema constitucional de distribución de competencias."
+          },
+          {
+            "clave": "D3003B",
+            "nombre": "Derecho procesal civil y mercantil",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D2005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0104B&lang=ES",
+            "nombreCompleto": "Derecho procesal civil y mercantil",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0104B",
+              "SDE0301B",
+              "SDE0302B",
+              "SDE0303B",
+              "SDE0404C",
+              "SDE0405C",
+              "SEG0503C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0104B",
+              "SDE0301B",
+              "SDE0302B",
+              "SDE0303B",
+              "SDE0404C",
+              "SDE0405C",
+              "SEG0503C"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno diseñe una estrategia procesal conducente, con fundamento en los principios que garanticen el debido proceso, tomando en cuenta la función Jurisdiccional, el proceso Civil, los Juicios Civiles Especiales, los Juicios Orales y el resto de los procedimientos civiles y mercantiles. Requiere conocimientos previos de Teoría del Derecho, obligaciones, acto jurídico, solución de conflictos y teoría general del proceso. Como resultado de aprendizaje el alumno soluciona ejercicios, problemas y casos para demostrar su capacidad de diseño de estrategias de conciliación e implementación de las posibles soluciones legales orientadas al reto planteado en el bloque.",
+            "objetivo": "En la unidad de formación el alumno: - Diseña la estrategia procesal conducente en materia civil, con fundamento en los principios que garanticen el debido proceso ante situaciones jurídicas dadas. - Analiza los diferentes tipos de procedimientos judiciales, así como las reglas de competencias jurisdiccional y los supuestos normativos de la acción, de acuerdo al caso concreto. - Diseña las estrategias legales para la procedencia de la acción a interponer en un caso concreto, asegurando los derechos de las partes. - Identifica las posibles soluciones alternas de resolución de conflictos y conduce a los procesos de negociación y/o mediación, respetando los derechos humanos de las partes involucradas ante un problema o situación jurídica concreta. - Previene riesgos legales derivados de la celebración de actos jurídicos que transmiten derechos reales, tomando en cuenta las circunstancias, condiciones de cumplimiento y el marco jurídico vigente."
+          },
+          {
+            "clave": "D3039",
+            "nombre": "Derecho fiscal",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D3002B o Estar Cursando D3002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0402C&lang=ES",
+            "nombreCompleto": "Derecho fiscal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0402C",
+              "SDE0102C",
+              "SDE0103B",
+              "SEG0403C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0102C",
+              "SDE0103B",
+              "SDE0402C",
+              "SEG0403C"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno promoueva las acciones procedentes en casos de amenaza o violación de derechos humanos, ante los tribunales o autoridades competentes, tomando en cuenta la estructura y funcionamiento de la hacienda pública, así como el conocimiento de los diferentes tipos de impuestos. Requiere de conocimientos previos de obligaciones, acto jurídico y contratos. Como resultado de aprendizaje el alumno soluciona problemas, casos y ejercicios de manera individual y colaborativa para demostrar su capacidad de análisis y pensamiento crítico en torno a estrategias fiscales derivadas de los temas analizados.",
+            "objetivo": "En la unidad de formación el alumno: - Conoce y aplica el fundamento teórico y normativo de la potestad recaudatoria del Estado, en situaciones jurídicas concretas. - Asesora en el cumplimiento de las obligaciones aplicables a la persona jurídica en el ámbito fiscal, identificando las diferentes figuras tributarias y no tributarias, así como las infracciones y delitos contra las disposiciones fiscales. - Elabora propuestas de solución a problemas legales de la empresa, tomando en cuenta su impacto económico. - Establece y activa eficazmente los procedimientos jurisdiccionales y no jurisdiccionales relacionados con la materia tributaria."
+          },
+          {
+            "clave": "D3040",
+            "nombre": "Derecho procesal laboral",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando D2041 o Haber Cursado D2041",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0302B&lang=ES",
+            "nombreCompleto": "Derecho procesal laboral",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0302B",
+              "SDE0303C",
+              "SEG0303C",
+              "SDE0301C",
+              "SDE0203C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0203C",
+              "SDE0301C",
+              "SDE0302B",
+              "SDE0303C",
+              "SEG0303C"
+            ],
+            "requisitosDetalle": "Equivalencia: D3063",
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno asesore respecto a la idoneidad de la vía para la resolución de conflictos jurídicos, considerando el juicio o medios alternativos, y tomando en cuenta las diferencias en tre los conflictos individuales y colectivos de trabajo, así como las instancias y procedimientos aplicables. Requiere de conocimientos previos de obligaciones, fuentes de derecho, contratos y derechos humanos. Como resultado de aprendizaje el alumno soluciona problemas y casos prácticos que refuercen el aprendizaje y fomenten la responsabilidad y disciplina de los estudiantes, así como su capacidad de análisis; Investiga sobre la asociación profesional y la negociación colectiva.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Conoce y activa eficazmente los mecanismos jurisdiccionales y no jurisdiccionales de resolución de conflictos laborales, garantizando la observancia de los principios del debido proceso. - Asesora en el cumplimiento de las obligaciones aplicables a la persona jurídica, en el ámbito del trabajo, tanto en relaciones laborales como colectivas. - Analiza conflictos de carácter colectivo laboral, considerando sus causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. - Elige modelos de gestión de conflictos de carácter colectivo laboral, considerando su viabilidad y pertinencia para cada caso concreto. - Diseña y conduce procesos de negociación colectiva, privilegiando el estilo de negociación ganar – ganar y, en su caso , propone medios alternativos de solución de controversias."
+          },
+          {
+            "clave": "D3041",
+            "nombre": "Empresa y cumplimiento regulatorio",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2007B o Estar Cursando D2007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0502B&lang=ES",
+            "nombreCompleto": "Empresa y cumplimiento regulatorio",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0502B",
+              "SDE0602A",
+              "SDE0102B",
+              "SEG0403A"
+            ],
+            "competenciasEvaluan": [
+              "SDE0102B",
+              "SDE0502B",
+              "SDE0602A",
+              "SEG0403A"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno elabore los instrumentos jurídicos que garantizan los derechos de la empresa, en las diferentes operaciones económicas que ésta deba realizar, tomando en cuenta el origen, desarrollo y finalidad del compliance; así como el papel del cumplimiento normativo en la empresa. Requiere de conocimientos previos de teoría del derecho, obligaciones, acto jurídico y contratos. Como resultado de aprendizaje el alumno soluciona problemas y casos prácticos que refuercen el aprendizaje y fomenten la responsabilidad y disciplina; investiga sobre la aplicación del cumplimiento normativo, orientada al aprendizaje de los contenidos y desarrollo de las competencias.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Asesora en el cumplimiento de las obligaciones de compliance a la empresa, en todos los ámbitos que le sean requeridos. - Elabora los instrumentos jurídicos que garantizan los derechos de la empresa, en las diferentes operaciones económicas que ésta deba realizar. - Establece los distintos ámbitos de cumplimiento regulatorio de una empresa, en el sector económico al que pertenezca. - Diseña las estrategias jurídicas de cumplimiento regulatorio en las empresas, de acuerdo con las mejores prácticas en materia de gobierno corporativo. - Diseña estrategias preventivas en materia de corrupción, tomando en cuenta los escenarios posibles en los que pueda tener lugar. - Establece estrategias que garanticen la responsabilidad social de la empresa, en la región en donde desarrolle sus operaciones. - Elabora propuestas de solución a problemas legales de la empresa, tomando en cuenta procedimientos jurisdiccionales y no jurisdiccionales. - Propone mecanismos jurídicos de provisión de servicios públicos, a partir del contexto político, económico y social. - Analiza el tipo de autoridad, facultades y capacidad para la provisión del servicio público, con base en el sistema constitucional de distribución de competencias. - Diseña estrategias anticorrupción, en el ámbito público y privado, tomando en cuenta los escenarios posibles en los que pueda tener lugar. - Acciona los mecanismos legales que sancionan prácticas de corrupción, en los casos en que resulte procedente."
+          },
+          {
+            "clave": "D3042",
+            "nombre": "Juicios orales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Haber Aprobado D2003B o Estar Cursando D2003B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0301B&lang=ES",
+            "nombreCompleto": "Juicios orales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0301B",
+              "SDE0302C",
+              "SEG0601C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0301B",
+              "SDE0302C",
+              "SEG0601C"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno realice las actuaciones procesales pertinentes en casos de controversias, desde el juicio hasta la sentencia, ante los tribunales competentes, tomando en cuenta los principios constitucionales del nuevo sistema penal acusatorio en México, así como sus etapas procesales. Requiere de conocimientos previos de teoría del derecho, solución de conflictos y teoría del proceso; derecho constitucional, acto jurídico, derechos humanos. Como resultado de aprendizaje el alumno realiza una investigación en donde aplica los temas relacionados con el sistema penal acusatorio.",
+            "objetivo": "En la unidad de formación el alumno: - Conoce los principios y las reglas de la oralidad en los juicios, en los casos de ejercicio del derecho de acción que promueva como fiscal en los procesos penales. - Comprende el alcance de la teoría del caso para la adecuada defensa, en los casos que represente a una persona sometida a un proceso oral. - Desarrolla adecuadamente el interrogatorio y contra interrogatorio de testigos y peritos en la respectiva audiencia judicial de los procesos judiciales penales. - Diseña la estrategia procesal conducente que permite formular adecuadamente el alegato de apertura y de clausura en la primera instancia, en los casos en que participe en diversos roles en juicios orales."
+          },
+          {
+            "clave": "D3043",
+            "nombre": "Sistema penal acusatorio",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Haber Aprobado D2005B o Estar Cursando D2005B ) y (Haber Aprobado D2003B o Estar Cursando D2003B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0301B&lang=ES",
+            "nombreCompleto": "Sistema penal acusatorio",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0301B",
+              "SDE0302C",
+              "SEG0601C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0301B",
+              "SDE0302C",
+              "SEG0601C"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno realice las actuaciones procesales pertinentes en casos de controversias, desde el juicio hasta la sentencia, ante los tribunales competentes, tomando en cuenta el funcionamiento de los sistemas procesales inquisitivo, acusatorio y mixto. Requiere de conocimientos previos de teoría del derecho, solución de conflictos y teoría general del proceso; derecho constitucional, acto jurídico, derechos humanos. Como resultado de aprendizaje el alumno soluciona problemas y casos prácticos sobre casos de controversias.",
+            "objetivo": "En la unidad de formación el alumno: - Conoce los principios y las reglas del sistema penal acusatorio en casos de su aplicación ante un hecho que puede ser constitutivo de delito. - Distingue las diferencias entre el sistema inquisitivo y el oral acusatorio, en el caso de conflicto de leyes en el tiempo. - Desarrolla un manejo teórico y práctico del Derecho Procesal Penal, en los juicios en los que participa. - Analiza el funcionamiento de los mecanismos alternativos de solución de controversias en materia penal."
+          },
+          {
+            "clave": "D3044",
+            "nombre": "Sociedades mercantiles",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado D2042 o Estar Cursando D2042",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0101B&lang=ES",
+            "nombreCompleto": "Sociedades mercantiles",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0101B",
+              "SDE0403C",
+              "SDE0102C",
+              "SDE0103A",
+              "SEG0202B"
+            ],
+            "competenciasEvaluan": [
+              "SDE0101B",
+              "SDE0102C",
+              "SDE0103A",
+              "SDE0403C",
+              "SEG0202B"
+            ],
+            "descripcion": "Curso de nivel avanzado en el área de derecho que tiene la intención de que el alumno elabore los instrumentos jurídicos que garantizan los derechos de la empresa, en las diferentes operaciones económicas que ésta deba realizar, tomando en cuenta los derechos y las obligaciones de los socios frente a la sociedad mercantil, así como los derechos y las obligaciones de los socios frente a los terceros vinculados jurídicamente con la empresa. Requiere de conocimientos previos de acto jurídico, relaciones contractuales, obligaciones. Como resultado de aprendizaje el alumno realiza una investigación sobre los tipos de estructura legal y los órganos de gobierno de las sociedades mercantiles; soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de diseñar los instrumentos legales de una sociedad mercantil.",
+            "objetivo": "En la unidad de formación el alumno: - Analiza el marco teórico conceptual de los distintos tipos de sociedades mercantiles, ante la necesidad de constituir una empresa u organización. - Aplica el marco legal, a los distintos tipos de sociedades mercantiles, en casos concretos. - Constituye la persona jurídica idónea, seleccionando el régimen legal aplicable de acuerdo al caso planteado. - Elabora los instrumentos jurídicos que garanticen los derechos de los socios o asociados de la empresa. - Determina los derechos a proteger de las partes involucradas en un negocio jurídico, con base en el marco normativo nacional e internacional."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "D3004B",
+            "nombre": "Controles constitucionales II",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado D3001B o Estar Cursando D3001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0201C&lang=ES",
+            "nombreCompleto": "Controles constitucionales II",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0201C",
+              "SDE0202C",
+              "SDE0203C",
+              "SEG0502C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0201C",
+              "SDE0202C",
+              "SDE0203C",
+              "SEG0502C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Promueve las acciones procedentes en casos de amenaza o violación de derechos humanos, ante los tribunales o autoridades competentes. - Selecciona el escenario que mejor satisface las pretensiones de la víctima, en los casos de comprobado peligro o violación de derechos humanos. - Establece el mecanismo de regularidad constitucional como juicio de amparo, controversias constitucionales o acciones de inconstitucionalidad, que resulte aplicable al caso concreto."
+          },
+          {
+            "clave": "D3005B",
+            "nombre": "Derecho internacional privado y arbitraje comercial internacional",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Aprobado D3003B o Estar Cursando D3003B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0701C&lang=ES",
+            "nombreCompleto": "Derecho internacional privado y arbitraje comercial internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0701C",
+              "SDE0702C",
+              "SDE0703B",
+              "SEG0303C",
+              "SDE0704C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0701C",
+              "SDE0702C",
+              "SDE0703B",
+              "SDE0704C",
+              "SEG0303C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Formula las acciones conducentes en caso de imposibilidad de mediación o arbitraje, con base en los principios del derecho internacional privado. - Gestiona los procedimientos legales, en el caso de operaciones de comercio internacional. - Aplica las normas del derecho internacional, en casos de conflictos transnacionales. - Plantea estrategias de solución a conflictos internacionales, con base en los mecanismos pacíficos contemplados en el derecho internacional. - Identifica los órganos jurisdiccionales competentes en el ámbito internacional que pueden verse involucrados en la promoción de acciones conducentes en caso de conflictos. - Participa en la ejecución de sentencias extranjeras, con base en su contenido y derecho aplicable."
+          },
+          {
+            "clave": "D3006B",
+            "nombre": "Derecho procesal fiscal y administrativo",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Aprobado D3002B o Estar Cursando D3002B ) y (Haber Aprobado D3039 o Estar Cursando D3039 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0602C&lang=ES",
+            "nombreCompleto": "Derecho procesal fiscal y administrativo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDE0602C",
+              "SDE0302C",
+              "SDE0601C",
+              "SEG0404C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0302C",
+              "SDE0601C",
+              "SDE0602C",
+              "SEG0404C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza los medios de defensa de que dispone el particular frente a la actuación de la administración pública, elaborando propuestas de solución a problemas legales de la empresa y tomando en cuenta procedimientos jurisdiccionales y no jurisdiccionales. - Promueve las acciones procedentes en casos de amenaza o violación de derechos humanos por parte del poder público, ante los tribunales o autoridades competentes. - Acciona los mecanismos legales que sancionan prácticas de corrupción, en los casos en que resulte procedente. - Diferencia los conceptos de proceso y procedimiento administrativo, así como las fases que integran este último, y las disposiciones a que está sujeto en situaciones jurídicas concretas. - Aplica las reglas relativas a la sustanciación del contencioso administrativo y el amparo fiscal, en casos concretos que involucren a personas físicas y/o morales."
+          },
+          {
+            "clave": "D3045",
+            "nombre": "Derecho de la propiedad intelectual",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2042 o Estar Cursando D2042",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0101C&lang=ES",
+            "nombreCompleto": "Derecho de la propiedad intelectual",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0101C",
+              "SDE0104C",
+              "SDE0102C",
+              "SDE0103C",
+              "SEG0202C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0101C",
+              "SDE0102C",
+              "SDE0103C",
+              "SDE0104C",
+              "SEG0202C"
+            ],
+            "requisitosDetalle": "Equivalencia: D2056",
+            "objetivo": "En la unidad de formación el alumno: - Elabora los instrumentos jurídicos que garantizan los derechos de propiedad intelectual de las empresas y las personas, en las diferentes operaciones económicas que realicen. - Elabora propuestas de solución a problemas legales de la empresa relacionados con los derechos de propiedad intelectual, tomando en cuenta procedimientos jurisdiccionales y no jurisdiccionales. - Identifica los conceptos fundamentales sobre el derecho de propiedad Intelectual y su aplicación en el marco de los procedimientos administrativo y judicial, relacionados con la adquisición, conservación, trasmisión, respeto y terminación de los derechos de exclusividad, otorgados en materia de propiedad industrial y derechos de autor. - Reconoce la clasificación de infracciones y delitos en materia de propiedad industrial y derechos de autor, así como la forma en que se lleva a cabo la competencia desleal. - Identifica los conceptos generales relativos al traspaso de tecnología, su vinculación con el derecho intelectual, consideraciones económicas y su regulación."
+          },
+          {
+            "clave": "D3046",
+            "nombre": "Derecho internacional público",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2042 o Estar Cursando D2042",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0701A&lang=ES",
+            "nombreCompleto": "Derecho internacional público",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0701A",
+              "SDE0702A",
+              "SDE0704A",
+              "SEG0302C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Aplica las normas del derecho internacional, en casos de conflictos transnacionales. - Interpreta las normas de derecho internacional, en la búsqueda de solución a conflictos transnacionales. - Identifica los derechos y obligaciones de las partes en un tratado internacional, en caso de controversias derivadas de su aplicación. - Establece la subjetividad pasiva o activa de las partes de un tratado, con fundamento en el derecho consuetudinario y convencional internacional. - Define la responsabilidad jurídica internacional de los sujetos, considerando los acuerdos internacionales en caso de controversia."
+          },
+          {
+            "clave": "D3047",
+            "nombre": "Ética para abogados",
+            "creditos": 1,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2042 o Estar Cursando D2042",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0301C&lang=ES",
+            "nombreCompleto": "Ética para abogados",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0301C",
+              "SDE0403C",
+              "SDE0103C",
+              "SEG0403C",
+              "SDE0601C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0103C",
+              "SDE0301C",
+              "SDE0403C",
+              "SDE0601C",
+              "SEG0403C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Desarrolla un análisis crítico respecto a los conceptos de ética, moral, ética profesional y deontología jurídica, identificándolos como la base fundamental de la actividad de los operadores jurídicos. - Aplica eficazmente los principios y reglas de la ética profesional y la deontología jurídica, a partir de la solución de casos concretos."
+          },
+          {
+            "clave": "D3048",
+            "nombre": "Inglés legal",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D2042 o Estar Cursando D2042",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0703A&lang=ES",
+            "nombreCompleto": "Inglés legal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0703A",
+              "SEG0603C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0703A",
+              "SEG0603C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Establece las diferencias principales entre el sistema de tradición romanista y el common law, en los casos en que participe en negociaciones, litigios o arbitrajes que involucren ambos sistemas. - Aplica el vocabulario jurídico especializado del idioma inglés y lo usa en diversas áreas de la disciplina jurídica en casos concretos. - Aplica los conceptos jurídicos aprendidos, tanto de manera oral como escrita, en la formulación de argumentos jurídicos, alegatos, memorándums y otros instrumentos jurídicos. - Emplea en forma oral y escrita el idioma inglés en la aplicación de normas del derecho internacional, en casos de conflictos transnacionales. - Emplea el inglés legal en las estrategias de solución a conflictos internacionales, con base en los mecanismos pacíficos contemplados en el derecho internacional. - Formula mediante el idioma inglés especializado, las acciones conducentes en caso de imposibilidad de mediación o arbitraje, con base en los principios del derecho internacional privado."
+          },
+          {
+            "clave": "D3049",
+            "nombre": "Seminario de derecho internacional público",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D3046 o Estar Cursando D3046",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0702B&lang=ES",
+            "nombreCompleto": "Seminario de derecho internacional público",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0702B",
+              "SDE0704B",
+              "SEG0301C",
+              "SDE0701B",
+              "SEG0302C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Aplica las normas del derecho internacional, en casos de conflictos transnacionales reales. - Interpreta en casos concretos las normas de derecho internacional, en la búsqueda de solución a conflictos transnacionales. - Identifica los derechos y obligaciones de las partes en un tratado internacional, en caso de controversias reales derivadas de su aplicación. - Establece en casos específicos la subjetividad pasiva o activa de las partes de un tratado, con fundamento en el derecho consuetudinario y convencional internacional. - Define la responsabilidad jurídica internacional de los sujetos, considerando los acuerdos internacionales en caso de controversia, a partir de casos concretos."
+          },
+          {
+            "clave": "D3050",
+            "nombre": "Títulos y operaciones de crédito",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Haber Aprobado D2042 o Estar Cursando D2042 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0402C&lang=ES",
+            "nombreCompleto": "Títulos y operaciones de crédito",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDE0402C",
+              "SDE0403C",
+              "SDE0103C",
+              "SEG0302C"
+            ],
+            "competenciasEvaluan": [
+              "SDE0103C",
+              "SDE0402C",
+              "SDE0403C",
+              "SEG0302C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza el régimen jurídico aplicable a los diferentes títulos y operaciones de crédito, en el marco de las relaciones jurídicas mercantiles. - Elabora los instrumentos jurídicos que garantizan los derechos de la empresa, en las diferentes operaciones económicas que ésta deba realizar. - Elabora contratos que garanticen los derechos de la empresa en operaciones económicas, de acuerdo al marco jurídico aplicable."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "nombre": "Noveno Semestre",
+        "materias": [
+          {
+            "clave": "D3007B",
+            "nombre": "Investigación jurídica aplicada",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado D3042 o Haber Cursado D2033",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDE0701B&lang=ES",
+            "nombreCompleto": "Investigación jurídica aplicada",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SDE0701B",
+              "SEG0404C",
+              "SEG0502C"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica, organiza y maneja las técnicas adecuadas que, para cada caso, debe utilizar en la investigación jurídica. - Evalúa las diferentes fuentes de información y los principales centros de acopio de la misma, así como los servicios que ofrecen y su forma de utilización. - Describe las formas de consultar y citar correctamente los diversos tipos de fuentes, la forma de elegir, delimitar y justificar el tema de investigación y recopilar el material para ella, mediante la utilización de diversos tipos de fichas. - Explica lo relativo al análisis, ordenación y exposición de datos recopilados, la adecuada utilización de reglas gramaticales de redacción y el aparato crítico en la presentación de resultados."
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

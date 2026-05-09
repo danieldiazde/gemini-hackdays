@@ -1,0 +1,843 @@
+{
+  "carreraClave": "LDI19",
+  "nombre": "Licenciatura en Diseño",
+  "descripcionES": "Para acreditar las materias Tópico, el alumno puede elegir una de las siguientes opciones:",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1004",
+            "nombre": "Cultura visual y sonora",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0301A&lang=ES",
+            "nombreCompleto": "Cultura visual y sonora",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0301A",
+              "SESC0102A",
+              "SESC0401A",
+              "SEG0503A"
+            ],
+            "objetivo": "El estudiante producirá propuestas y prototipos creativos visuales y sonoros considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas del mundo occidental."
+          },
+          {
+            "clave": "AV1002B",
+            "nombre": "Técnicas y discursos fotográficos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Técnicas y discursos fotográficos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0205A"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1006B ; AV1003B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante produce fotografías para diversos usos bajo el conocimiento del escenario histórico de las narrativas fotográficas, las técnicas básicas de captura, iluminación y edición fotográficas, los fundamentos de composición visual y fotográfica, y resolverá un reto produciendo una narrativa fotográfica sobre identidad cultural."
+          },
+          {
+            "clave": "CO1001B",
+            "nombre": "Metodologías de investigación de factores humanos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0202A&lang=ES",
+            "nombreCompleto": "Metodologías de investigación de factores humanos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0202A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SESC0202A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1030",
+            "objetivo": "Al terminar la unidad de formación, el estudiante identifica necesidades, deseos, patrones de comportamiento y gustos de un público específico aplicando métodos de estudio de factores humanos. Al final, produce un reporte de investigación aplicando metodologías cualitativas y cuantitativas para estudiar una problemática relacionada con su área disciplinar y/o de interés."
+          },
+          {
+            "clave": "DL1022",
+            "nombre": "Metodologías del pensamiento creativo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0103A&lang=ES",
+            "nombreCompleto": "Metodologías del pensamiento creativo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A",
+              "SEG0201A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: DL1024",
+            "descripcion": "Es un curso de nivel básico en el área de diseño que tiene la intención de que el alumno conozca los fundamentos de la creatividad, las bases del proceso creativo y aplique sus herramientas en diferentes contextos, incluyendo el proceso de diseño para desarrollar propuestas de soluciones creativas a necesidades expresas de las personas. No requiere conocimientos previos. Como resultado del aprendizaje el alumno aplica herramientas del pensamiento creativo en el proceso de diseño.",
+            "objetivo": "El estudiante desarrollará y construirá propuestas creativas considerando las necesidades del usuario y aplicando principios de la creatividad, del pensamiento creativo y tecnologías pertinentes."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "EH1001B",
+            "nombre": "Inmersión y experimentación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Inmersión y experimentación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0401A",
+              "SESC0205A",
+              "SESC0203A",
+              "SEG0201A",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0101A",
+              "SESC0203A",
+              "SESC0205A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0403A",
+              "SEG0301A"
+            ],
+            "requisitosDetalle": "Equivalencia: A1007B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales y espaciales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Diseña propuestas utilizando metodologías basadas en procesos creativos. - Analiza contenidos y narrativas utilizando teorías y metodologías especializadas. - Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. -Incorpora el entorno físico y virtual como base en sus propuestas de representación."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AR1001B",
+            "nombre": "Representación formal del espacio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Representación formal del espacio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0401A",
+              "SESC0402A",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0403A",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Selecciona las tecnologías pertinentes a proyectos creativos."
+          },
+          {
+            "clave": "AV1001B",
+            "nombre": "Narrativa audiovisual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Narrativa audiovisual",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0204A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0205A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1005B ; AV2005B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante el estudiante conocerá el lenguaje audiovisual, sus características y su correcta utilización para transmitir mensajes en formatos audiovisuales. Será capaz de analizar un producto audiovisual, reconociendo los diferentes elementos de dicho lenguaje y de utilizarlo para realizar sus propias producciones a través del conocimiento teórico y técnico. - Maneja las estructuras narrativas y sus lenguajes en el análisis y la elaboración de diversos textos. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Producción de contenidos y narrativas CDA2.5. Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "EH1008",
+            "nombre": "Imaginarios culturales de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0102A&lang=ES",
+            "nombreCompleto": "Imaginarios culturales de México",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0603A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0401A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante producirá propuestas y prototipos creativos considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas de México."
+          },
+          {
+            "clave": "EH1009",
+            "nombre": "Semiótica y narratologías contemporáneas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0201A&lang=ES",
+            "nombreCompleto": "Semiótica y narratologías contemporáneas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0201A",
+              "SEG0603A",
+              "SESC0203A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0201A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: EH1025",
+            "objetivo": "Al terminar la unidad de formación, el estudiante analizará textos y prácticas culturales lingüísticas, gráficas, audiovisuales, sonoras y espaciales, a partir de teorías y metodologías para estudiar procesos de comunicación, significación y narrativas."
+          },
+          {
+            "clave": "H1001B",
+            "nombre": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0102A",
+              "SEG0501A"
+            ],
+            "descripcion": "Intención del curso en el contexto general del plan de estudios:",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa el impacto de una propuesta creativa desde un enfoque educativo. - Identifica necesidades de producción de contenidos y narrativas en contextos específicos. - Crea contenidos y narrativas en diferentes formatos, utilizando diversas tecnologías y gestionando los recursos de manera sostenible. - Analiza contenidos y narrativas utilizando aproximaciones teórico-metodológicas pertinentes para la representación mítica. - Evalúa contenidos y narrativas y su impacto, aplicando metodologías pertinentes. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Experimenta con tecnologías innovando en proyectos de arte."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "DL2001B",
+            "nombre": "Comunicación digital del producto",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0305A&lang=ES",
+            "nombreCompleto": "Comunicación digital del producto",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDI0305A",
+              "SDI0304A",
+              "SDI0401A",
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SDI0304A",
+              "SDI0305A",
+              "SDI0401A",
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: DL2060",
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene la intención de que el estudiante conozca y utilice medios de representación y comunicación digital en las diferentes fases del diseño de un producto. Se incluirán conceptos generales de representación y comunicación digital 2D y 3D, y fabricación digital del producto. No requiere conocimientos previos. Como resultado del aprendizaje el alumno realiza la representación digital de un producto específico en las diferentes fases del diseño para su comunicación integral.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - El alumno define configuraciones de comunicación acertiva de productos por medios visuales análogos y digitales que le ayuden a desarrollar soluciones innovadoras; además de configurar cada fase de diseño como una progresión de mejoras con la ayuda de las herramientas de comunicación. - Genera alternativas especulativas que respondan al concepto de diseño. - Define la configuración de la solución de diseño a través de fases de progresión iterativa que reducen la incertidumbre y potencian nuevos significados para los usuarios. - Valida soluciones innovadoras iterando con diferentes configuraciones espaciales tangibles e intangibles, en pruebas diseñadas ex profeso. - Divulga soluciones de diseño por medios visuales análogos y digitales. - Aplica las estructuras del mundo físico y virtual en los procesos de representación."
+          },
+          {
+            "clave": "DL2002B",
+            "nombre": "Configuración del objeto",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0101A&lang=ES",
+            "nombreCompleto": "Configuración del objeto",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDI0101A",
+              "SDI0102A",
+              "SDI0103A",
+              "SDI0201A",
+              "SDI0202A",
+              "SDI0203A",
+              "SDI0303A",
+              "SEG0201A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene la intención de que el estudiante conozca de manera integral el proceso y contexto del diseño de productos. Se incluirán conceptos generales de la historia y metodología del diseño, así como fundamentos del Diseño centrado en el usuario y sostenibilidad. No requiere conocimientos previos. Como resultado del aprendizaje el alumno resuelve y comunica un producto básico de diseño.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Proporciona una visión general de la metodología utilizada en el desarrollo de productos. Se utilizan técnicas de visualización en 2D (bocetos) y 3D (técnicas de modelado), así como la comunicación digital del producto. Introduce principios de diseño universal, sostenible, funcional, etnodiseño, ecodiseño, forma y función, diseño de manufactura en el desarrollo de productos físicos y en la visualización y comunicación de ideas y conceptos de diseño supervisados. - Comprende y aplica el proceso de diseño, explica los conceptos y métodos clave del proceso de diseño bajo la supervisión del tutor, aplica dicho proceso en una asignación de proyecto, mostrando habilidades en tiempo y gestión del proyecto manteniendo los plazos y cumpliendo los requisitos. - Aplica métodos de diseño para la declaración de problemas, investigación, ideación y evaluación junto con otros estudiantes en un grupo para compartir ideas y resultados a través de discusiones grupales, demostrando una conciencia básica de los procesos grupales en el trabajo del proyecto. - Tiene en cuenta los materiales y métodos utilizados en las técnicas de modelado, los relaciona con los conceptos y prácticas básicos en los estudios de formularios para aplicarlos en la creación de modelos físicos. - Demuestra habilidades elementales en la comunicación de ideas y conceptos de diseño simple a través de técnicas de bocetado manual para transferir visualizaciones 2D a modelos 3D simples en espuma u otros materiales. - Produce formas 3D geométricas simples usando software para modelado 3D digital justificadas en cada una de las etapas del proceso de diseño y da respuesta al uso de la modelación 3D digital. - Utiliza la tecnología asistida por computadora para escanear y manipular bocetos y otras imágenes e incluirlas en documentos y presentaciones digitales. - Demuestra habilidades básicas en el uso de herramientas de representación para el diseño de la propuesta. - Tiene en cuenta la sostenibilidad y el diseño para todos como enfoques de diseño para relacionarlos con los diferentes pasos del proceso de diseño. - Produce una presentación de proyecto visual simple en la cual se explica el proceso de diseño, desde el enunciado del problema hasta el concepto final, usando tecnología asistida por computadora y presenta los resultados oralmente de una manera estructurada y lógica. - Establece escenarios que delimitan el margen de acción entre presente, pasado y futuro. - Estructura hallazgos contextuales y de la persona, junto con los stakeholders. - Define requerimientos funcionales, constructivos, expresivos y sustentables de un proyecto de diseño que respondan a las necesidades del usuario y el contexto presente y futuro. - Declara un concepto de diseño coherente con los requerimientos del proyecto bajo una postura crítica. - Elabora un brief de diseño que muestre el alcance, la escala, los requerimientos y el concepto rector del proyecto. - Genera alternativas especulativas que respondan al concepto de diseño. - Define la configuración de la solución de diseño a través de fases de progresión iterativa que reducen la incertidumbre y potencian nuevos significados para los usuarios. - Valida soluciones innovadoras iterando con diferentes configuraciones espaciales tangibles e intangibles, en pruebas diseñadas ex profeso. - Genera valor en el proyecto ejecutivo utilizando herramientas que minimicen los errores en el proceso. - Analiza el contexto socio histórico, cultural y de las artes, identificando sus interrelaciones en la creación de propuestas creativas. - Evalúa el impacto de una propuesta creativa desde un enfoque sostenible."
+          },
+          {
+            "clave": "DL2042",
+            "nombre": "Representación visual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0301A&lang=ES",
+            "nombreCompleto": "Representación visual",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDI0301A",
+              "SEG0603B"
+            ],
+            "requisitosDetalle": "Equivalencia: DL1027",
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene la intención de que el estudiante conozca y utilice diferentes técnicas del dibujo a mano alzada. No requiere conocimientos previos. Como resultado del aprendizaje el alumno utiliza el boceto como recurso de exploración conceptual y de representación de ideas de manera asertiva.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Genera alternativas creativas por medio del proceso análogo del dibujo a mano alzada y aprender a comunicar efectivamente sus ideas con alta fidelidad, además de aportar creatividad a las mismas. Seleccionando los medios más adecuados para hacer esa comunicación lo mas asertiva posible. - Genera alternativas especulativas que respondan al concepto de diseño. - Lenguaje gráfico: Selecciona los recursos gráficos adecuados para transmitir sus ideas con claridad y creatividad. - Crea dibujos que describan propuesrtas de diseño, ilustraciones, diagramas, aplicando conceptos de diseño."
+          },
+          {
+            "clave": "DL2043",
+            "nombre": "Materia y expresión",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0302A&lang=ES",
+            "nombreCompleto": "Materia y expresión",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDI0302A",
+              "SEG0503B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene la intención de que el estudiante conozca las propiedades físicas y expresivas de distintos materiales para el diseño de productos. No requiere conocimientos previos. Como resultado del aprendizaje el alumno desarrolla prototipos que representan de manera tangible sus ideas y conceptos por medio de la selección y transformación responsable de materiales acorde a los requerimientos del proyecto.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Selecciona responsablemente materiales y procesos desde una visión sustentable que considere la funcionalidad de la propuesta. - Sustenta mecánicamente la configuración de diseño mediante la aplicación de conocimientos en física, matemáticas, dinámica y materiales, apoyándolo en el establecimiento de las metas que el proyecto debe alcanzar en su contexto funcional, constructivo, expresivo y sustentable. - Analiza los principios físicos de materia, espacio, vacío y espscio negativo. Reflexiona en la expresividad de los materiales."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "DL2003B",
+            "nombre": "Pensamiento y proceso creativo",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0101B&lang=ES",
+            "nombreCompleto": "Pensamiento y proceso creativo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDI0101B",
+              "SDI0102B",
+              "SDI0103B",
+              "SDI0201B",
+              "SDI0202B",
+              "SDI0203B",
+              "SEG0401A",
+              "SEG0501B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene la intención que el alumno realice investigación para generar una solución de problemas a casos prácticos teniendo como base un trabajo de campo en el contexto del entorno real. Requiere conocimientos previos de metodologias de investigacion etnografica y conceptualizacion de propuestas de diseño. Como resultado del aprendizaje el alumno integra un brief de diseño con sus alcances constructivos, expresivos, funcionales y sustentables a partir de un concepto rector del proyecto.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Declara un brief de diseño. - Define alcances constructivos, expresivos, funcionales y sustentables a partir de un concepto rector del proyecto. - Imagina la configuración de sus diseños en diversos escenarios contextuales, empleando fases de progresión iterativa durante el proceso creativo generando nuevos significados en productos o servicios."
+          },
+          {
+            "clave": "DL2004B",
+            "nombre": "Especificación de productos y servicios",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0302B&lang=ES",
+            "nombreCompleto": "Especificación de productos y servicios",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDI0302B",
+              "SDI0303B",
+              "SDI0301B",
+              "SEG0702B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene como intención que el alumno genere soluciones innovadoras de productos y servicios por medio de modelos y prototipos físicos elaborados con tecnología industrial. Requiere conocimientos previos de composición y representación, ergonomía básica, manejo de software de modelación digital, selección y uso de materiales, y procesos de producción. Como resultado del aprendizaje el alumno desarrolla un MVP (producto mínimo viable) para sustentar las propuestas de diseño.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Valida, especifica y define soluciones innovadoras de diseño tangibles e intangibles iterando diferentes configuraciones y pruebas exprofeso. - Aplica conocimientos de propiedades y transformación de materiales así como física, matemáticas, dinámica y óptica, entro otros para sustentar las propuestas de diseño."
+          },
+          {
+            "clave": "DL2005B",
+            "nombre": "Diseño e innovación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0402A&lang=ES",
+            "nombreCompleto": "Diseño e innovación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDI0402A",
+              "SDI0304B",
+              "SDI0305B",
+              "SDI0401B",
+              "SEG0201B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño, que tiene como intención que el alumno aprenda a solucionar problemas y casos prácticos que permitan fomentar su capacidad de monitorear medidas correctivas y resolver las mejoras sugeridas al producto/proyecto. Requiere conocimientos previos de diseño gráfico básico y comunicación digital del producto. Como resultado del aprendizaje el alumno desarrolla un plan estratégico para validar el MVP (producto mínimo viable) como solución de diseño.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - El alumno innova en la implementación del proyecto generando valor a través de iteraciones de diseño para formular estrategias, tácticas y planes de acción que le permitan responder a necesidades específicas del usuario en contextos particulares. - Valida aspectos ligados a escenarios reales y toma decisiones que lo llevan a actuar de manera autónoma para la resolución de problemas de diseño."
+          },
+          {
+            "clave": "DL2044",
+            "nombre": "Administración de proyectos de diseño",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDI0304B&lang=ES",
+            "nombreCompleto": "Administración de proyectos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SDI0304B",
+              "SDI0401A",
+              "SEG0303A"
+            ],
+            "competenciasEvaluan": [
+              "SDI0304B",
+              "SDI0401A",
+              "SEG0303A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de diseño que tiene como intención que el alumno aprenda sobre las etapas, estrategias y metodologías adecuadas para la correcta administración y gestión de un proyecto de diseño. Requiere conocimientos previos de composición y representación, ergonomía básica, manejo de software de modelación digital, selección y uso de materiales y procesos de producción y diseño gráfico básico. Como resultado del aprendizaje el alumno desarrolla planes de acción que le permite gestionar un proyecto de diseño.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Administra proyectos de diseño eficientemente para generar valor y minimiza errores. - Formula planes tácticos considerando las diferentes fases del proceso y recursos disponibles, contextos actuales y futuros para desarrollar estrategias efectivas para llevar a cabo de manera exitosa el diseño de productos y/o servicios."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3076",
+            "nombre": "Optativa de diseño I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de diseño I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3077",
+            "nombre": "Optativa de diseño II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de diseño II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3078",
+            "nombre": "Optativa de diseño III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de diseño III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3079",
+            "nombre": "Optativa de diseño IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "nombreCompleto": "Optativa de diseño IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 12,
+            "aDetalle": 4
+          },
+          {
+            "clave": "OP3080",
+            "nombre": "Optativa de diseño V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "nombreCompleto": "Optativa de diseño V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 12,
+            "aDetalle": 4
+          },
+          {
+            "clave": "OP3081",
+            "nombre": "Optativa de diseño VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "nombreCompleto": "Optativa de diseño VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 12,
+            "aDetalle": 4
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "DL3001B",
+            "nombre": "Proyecto de diseño",
+            "creditos": 18,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Proyecto de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 18
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "DL3002B",
+            "nombre": "Proyecto integral de diseño",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Proyecto integral de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

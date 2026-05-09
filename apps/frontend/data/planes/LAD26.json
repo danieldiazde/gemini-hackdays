@@ -1,0 +1,655 @@
+{
+  "carreraClave": "LAD26",
+  "nombre": "Licenciatura en Arte Digital",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Create recognizable imaginaries based on aesthetic and semantic principles, adhering to the fundamentals of motion representation.",
+    "Develop digital art projects from conception, experimentation, and development to distribution, integrating innovation, design, and advanced techniques with a focus on entrepreneurship.",
+    "Develop animation, interactive design, or visual effects projects through meaningful narratives and cutting-edge technology.",
+    "Exchange oral and written messages that enable professional and social development.",
+    "Develop conscious opportunities that generate economic, social, and environmental value.",
+    "Demonstrate ethical behavior, grounded in principles of dignity, integrity, responsibility, and the common good.",
+    "Construct personal and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Establish personal judgments or positions in various situations, based on rigorous evaluation of information.",
+    "Knowledge of basic and exact sciences, fundamental elements of logic, mathematics, and statistics. Basic understanding of research methodologies and techniques, as well as notions of general culture and history.",
+    "Skills in critical thinking, observation, and reasoning. Ability to develop projects and use digital media and tools. Capacity to express ideas clearly and effectively both verbally and in writing, and through images.",
+    "Aptitudes for teamwork and assertive communication, problem-solving, and the use of some software applications. Logical reasoning, creativity, leadership, and constant perseverance and dedication are also important.",
+    "It is desirable that applicants to the Bachelor's in Animation and Digital Art are capable of conveying their ideas through the creation of images and videos, have basic design and visual content creation application skills, are creative, innovative, and capable of utilizing emerging technologies."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Arte Digital, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas y estadística. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para expresar ideas de manera clara y e",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1001B",
+            "nombre": "Historia del arte, diseño y ciudad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Historia del arte, diseño y ciudad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "requisitosDetalle": "Equivalencia: AR2035",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender el contexto histórico mediante un análisis de las distintas visiones en los entornos creativos. - Promover la participación incluyente y la diversidad de pensamiento considerando aspectos del entorno creativo."
+          },
+          {
+            "clave": "A1007",
+            "nombre": "Teoría del arte, diseño y ciudad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0001&lang=ES",
+            "nombreCompleto": "Teoría del arte, diseño y ciudad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender las artes y el diseño mediante el análisis de la forma y sus significados. - Plantear conclusiones fundamentadas en argumentos validados considerando las teorías de las artes, diseño, arquitectura y ciudad."
+          },
+          {
+            "clave": "AR1010B",
+            "nombre": "Fundamentos de diseño",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Fundamentos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Expresar los fundamentos del diseño desde un enfoque sistémico para dar solución a problemas disciplinares. - Explorar alternativas que generan valor, mediante la ideación creativa que reta el pensamiento convencional, desde los fundamentos del diseño."
+          },
+          {
+            "clave": "AR1029",
+            "nombre": "Dibujo y expresión gráfica",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Dibujo y expresión gráfica",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Expresar los fundamentos del diseño aplicando distintas técnicas de dibujo. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado considerando una perspectiva creativa."
+          },
+          {
+            "clave": "DL1024",
+            "nombre": "Métodos creativos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Métodos creativos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "requisitosDetalle": "Equivalencia: DL1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y aplicar los métodos creativos del proceso de diseño a través de la solución de problemas reales. - Explorar alternativas que generan valor, mediante la ideación que reta el pensamiento convencional haciendo uso de métodos creativos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "A1002B",
+            "nombre": "Programación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Programación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar el lenguaje de programación computacional desde el enfoque creativo que facilite desarrollar procesos de diseño. - Identificar los supuestos a través del planteamiento de hipótesis, mediante una visión sistémica que resulte en objetivos de diseño."
+          },
+          {
+            "clave": "A1003B",
+            "nombre": "Experimentación digital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AR0009&lang=ES",
+            "nombreCompleto": "Experimentación digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26AR0009"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar herramientas tecnológicas para el proceso creativo como apoyo para dar soluciones de diseño y prototipado. - Experimentar de forma iterativa con las alternativas de solución emprendedoras como parte del proceso de diseño."
+          },
+          {
+            "clave": "AR1030",
+            "nombre": "Investigación para industrias creativas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AR0008&lang=ES",
+            "nombreCompleto": "Investigación para industrias creativas",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "competenciasEvaluan": [
+              "S26AR0008"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar el pensamiento sistémico a partir de un análisis dentro del contexto creativo. - Aplicar metodologías de investigación para la argumentación de propuestas críticas, proyectos o productos basadas en contextos creativos. - Aplicar las herramientas tecnológicas en la investigación para facilitar la comprensión de los problemas en contextos creativos. - Utilizar metodologías en la evaluación de argumentos y evidencias en el ámbito de las industrias creativas."
+          },
+          {
+            "clave": "AR1031",
+            "nombre": "Análisis y visualización de datos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0001&lang=ES",
+            "nombreCompleto": "Análisis y visualización de datos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "competenciasEvaluan": [
+              "S26DI0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar principios de estadística mediante una visión enfocada en el diseño. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, comunicándolo con bases de diseño de la información."
+          },
+          {
+            "clave": "DL1025",
+            "nombre": "Diseño con matemáticas y física",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Diseño con matemáticas y física",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver problemas simples de diseño aplicando principios de matemáticas y física. - Valorar la credibilidad de las afirmaciones y argumentos en la solución de problemas simples de diseño, basados en los principios de matemáticas y física."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "A1004B",
+            "nombre": "Guion y narrativa secuencial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Guion y narrativa secuencial",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Construir historias profundas, originales y representativas para formatos de corta duración. - Adaptar las historias construidas a diversos formatos transmedia desarrollando imaginarios culturales narrativos y promoviendo la participación incluyente y la diversidad de pensamiento."
+          },
+          {
+            "clave": "A1005B",
+            "nombre": "Cortometraje animado",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Cortometraje animado",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar el uso de los fundamentos de arte y diseño creando un anteproyecto con premisas que se corroborarán o no durante el desarrollo del proyecto. - Usar herramientas digitales desde un enfoque artístico en la creación de un proyecto de cortometraje animado. - Plasmar una idea a través de distintas etapas de desarrollo de un proyecto aplicando los valores de la democracia en acciones de interés compartido de forma colaborativa. - Valorar la credibilidad y viabilidad de las afirmaciones y argumentos visuales en la hipótesis de su anteproyecto."
+          },
+          {
+            "clave": "A1008",
+            "nombre": "Panorama de cultura digital",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Panorama de cultura digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender los contextos históricos para comunicar mensajes simbólicos, complejos y significativos a través de medios visuales y digitales, considerando cómo las prácticas artísticas actuales se han visto influenciadas por eventos y tendencias históricas. - Fundamentar la intersección narrativa en experiencias y expresiones artísticas transmediales y lúdicas, utilizando una integración de disciplinas que enriquezca tanto la narrativa como la interacción del usuario. - Promover el bienestar y la sostenibilidad en proyectos artísticos y digitales, desarrollando iniciativas que tengan en cuenta los impactos sociales y ambientales para contribuir positivamente a largo plazo. - Comprender la distribución de recursos, optimizando los procesos para maximizar la eficiencia y efectividad en todas las etapas de producción y entrega."
+          },
+          {
+            "clave": "A2018",
+            "nombre": "Dibujo artístico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Cursado AR1029",
+            "nombreCompleto": "Dibujo artístico",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "requisitosDetalle": "Equivalencia: A2012",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar versatilidad en la creación de imágenes artísticas mediante técnicas avanzadas de dibujo, documentando el proceso de evolución de ideas desde su concepción hasta su representación final. - Aplicar metodologías críticas para evaluar argumentos y evidencias de manera ética en la interpretación y análisis de obras artísticas, fortaleciendo su capacidad de expresión y crítica visual."
+          },
+          {
+            "clave": "AT1006",
+            "nombre": "Fundamentos de la animación",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Fundamentos de la animación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "requisitosDetalle": "Equivalencia: A2014",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar herramientas tecnológicas en procesos creativos de animación, aplicando efectivamente los principios de animación, artes y diseño en sus proyectos. - Usarán creativamente el software especializado para animación, y estarán preparados para formular argumentos y conclusiones críticas bien fundamentados sobre su trabajo y el de sus pares."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "A1006B",
+            "nombre": "Desarrollo visual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Cursado A2018",
+            "nombreCompleto": "Desarrollo visual",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar el lenguaje simbólico creando imaginarios culturales narrativos mediante el desarrollo de concepto enfocado a sentido humano con versatilidad en la creación de contenido gráfico derivado y de autoría. - Comprender las artes y el diseño a través de la conceptualización de múltiples escenarios y la anticipación de posibilidades de cambio en el contexto. - Diseñar proyectos empatizando con las necesidades del cliente y el público, siguiendo las metodologías de arte y diseño correspondientes al objetivo a partir de las etapas el desarrollo de una idea. - Plasmar posibles soluciones a problemas visuales a partir de propuestas estratégicas de acción para los futuros proyectados, integrando todos los conocimientos y habilidades adquiridas en un enfoque ético, cohesivo y profesional."
+          },
+          {
+            "clave": "A2006B",
+            "nombre": "Animación de personajes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado AT1006",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0004&lang=ES",
+            "nombreCompleto": "Animación de personajes",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente el estado actual de las problemáticas de una escena animada, utilizando herramientas para desarrollar múltiples soluciones futuras posibles. - Desarrollar un proyecto de escena animada aplicando las etapas propias de la producción de animación. - Aplicar los fundamentos de la animación, arte y diseño mediante la creación de un proyecto que siga las metodologías correspondientes. - Optimizar el uso de tecnología y herramientas de arte digital, integrándolas en el pipeline de producción y aplicando el conocimiento adquirido en clase."
+          },
+          {
+            "clave": "A2019",
+            "nombre": "Exploración de la forma",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Exploración de la forma",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar técnicas de modelado análogo para desarrollar modelos tridimensionales detallados, aplicando metodologías de arte y diseño en la creación de esculturas y personajes para animación. - Experimentar procesos iterativos con soluciones creativas y divergentes, integrando los fundamentos artísticos y de diseño para expresar ideas y narrativas efectivamente, transformando conceptos en creaciones artísticas tangibles."
+          },
+          {
+            "clave": "AT1007",
+            "nombre": "Bases técnicas y efectos visuales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Bases técnicas y efectos visuales",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar y desarrollar el pensamiento sistémico para entender y resolver problemáticas desde diversas escalas, dominios y disciplinas, facilitando soluciones integradas y sostenibles. - Crear y comunicar conceptos estéticos efectivos, conectando con audiencias mediante contenido gráfico original y estrategias de comunicación verbal que mejoren la interacción y el entendimiento. - Documentar y refinar el desarrollo de ideas, desde su concepción hasta su realización, destacando la evolución creativa y técnica a través de diversas etapas."
+          },
+          {
+            "clave": "AT2001B",
+            "nombre": "Modelado digital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Cursado A1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EM0002&lang=ES",
+            "nombreCompleto": "Modelado digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar versatilidad en la creación de imágenes tridimensionales tanto en escultura como en modelado digital básicos, experimentando iterativamente con soluciones innovadoras para el diseño de criaturas y objetos. - Identificar y aplicar los fundamentos del modelado 3D digital, registrando el proceso de desarrollo de ideas desde la concepción hasta la realización final de modelos orgánicos e inorgánicos en diversas etapas."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "A3006",
+            "nombre": "Creación de mundos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Cursado A2018",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0003&lang=ES",
+            "nombreCompleto": "Creación de mundos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0003",
+              "S26A0002",
+              "S26A0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar el lenguaje visual en la creación de contenidos gráficos de autoría propia, desarrollando versatilidad en la creación de ilustración avanzada y utilizando herramientas tecnológicas de arte digital de manera eficiente. - Expresar ideas y narrativas, identificando el uso de los fundamentos de arte y diseño para transmitir mensajes visuales y orales de manera clara, elocuente, responsable y contextualizada. - Integrar tecnologías y herramientas en el pipeline de producción, plasmando en distintas etapas el desarrollo de una idea, y aprovechando distintas herramientas tecnológicas disponibles para el proceso creativo."
+          },
+          {
+            "clave": "AT2002B",
+            "nombre": "Producción para arte digital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Cursado AR1031",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0005&lang=ES",
+            "nombreCompleto": "Producción para arte digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0005",
+              "S26A0008",
+              "S26EM0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar tecnología digital en proyectos transmediales, usando herramientas avanzadas para crear experiencias artísticas que integren arte y diseño de forma innovadora. - Eficientizar la tecnología y las herramientas de arte digital, manteniendo en cada etapa coherencia creativa y técnica. - Explorar la narrativa transmedial en el arte, analizando cómo se pueden expandir las historias a través de diversas plataformas para mejorar la experiencia del público objetivo. - Planificar la gestión de recursos y evaluar hipótesis críticamente para todo el proyecto, desde su inicio hasta la distribución, con un enfoque analítico para verificar suposiciones y validar decisiones."
+          },
+          {
+            "clave": "AT2003B",
+            "nombre": "Prototipo de videojuego",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado A1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0006&lang=ES",
+            "nombreCompleto": "Prototipo de videojuego",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Crear proyectos interactivos de videojuegos con narrativa original partiendo de un estudio de audiencias. - Desarrollar bases visuales y documentar diseños de videojuegos por medio del análisis del estado actual del prototipo y la iteración, considerando mecánicas de juego, géneros, y ética en la creación de videojuegos. - Desarrollar narrativas y comprender la cultura de videojuegos, implementando estrategias para la planeación, administración y gestión de proyectos de videojuegos. - Crear prototipos de videojuegos, integrando fundamentos de programación, computo visual, e investigación de experiencia de usuario, aplicando innovaciones tecnológicas de manera responsable para la toma de decisiones en el desarrollo de videojuegos."
+          },
+          {
+            "clave": "AT2019",
+            "nombre": "Diseño de juegos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0007&lang=ES",
+            "nombreCompleto": "Diseño de juegos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0007",
+              "S26EH0004",
+              "S26CO0002"
+            ],
+            "requisitosDetalle": "Equivalencia: A3004",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar tecnología digital en proyectos transmediales, inmersivos e intuitivos, utilizando enfoques innovadores para diseñar experiencias que mejoren la interacción del usuario. - Construir y fundamentar historias complejas en formatos transmediales, integrando narrativas originales y la intersección narrativa en experiencias artísticas, para reflejar diversidad y profundidad cultural. - Desarrollar la capacidad de intercambiar mensajes orales efectivos mediante el uso del diálogo, la negociación y la persuasión para presentar ideas en forma de propuestas de proyectos. - Eficientizar y optimizar el uso de tecnología en el pipeline de producción de arte digital, integrando herramientas avanzadas para mejorar los flujos de trabajo y anticipar cambios en el contexto analizado."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3117",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3118",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3119",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3120",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3121",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3122",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "AT3013B",
+            "nombre": "Profesionalización en arte digital",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26A0001&lang=ES",
+            "nombreCompleto": "Profesionalización en arte digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "C26A0001",
+              "C26A0002",
+              "C26A0004",
+              "C26A0003",
+              "C26CO0001",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "requisitosDetalle": "Equivalencia: AT3010B ; AT3011B ; A3005B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar tecnología digital y usar herramientas digitales en proyectos transmediales, inmersivos e intuitivos, para crear y transmitir contenido gráfico original que conecte efectivamente con audiencias. - Desarrollar y gestionar proyectos de arte digital, desde la ideación hasta la distribución, integrando etapas propias de producción con una gestión eficaz de recursos. - Construir y comunicar historias complejas y estéticas, formulando propuestas estratégicas y creativas que desafíen el pensamiento convencional y resuenen con valores culturales y humanos. - Explorar alternativas que generen valor, utilizando la creatividad para retar ideas convencionales y proyectar futuros estratégicos, manteniendo siempre un respeto por la legalidad y los valores humanos. - Comunicar de manera clara, elocuente y responsable, asegurando que los mensajes sean contextuales y representativos de la cultura y los acuerdos establecidos."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

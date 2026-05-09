@@ -1,0 +1,597 @@
+{
+  "carreraClave": "LLE26",
+  "nombre": "Licenciatura en Letras y Emprendimiento Editorial",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Develop and manage editorial and cultural projects using cutting-edge technology under criteria of innovation, sustainability, and social impact.",
+    "Analyze and create texts of different genres and styles by integrating language resources and generative artificial intelligence tools ethically.",
+    "Develop research projects in language and literature using both analog and digital methods, data science, and digital humanities.",
+    "Design interfaces for the management and/or dissemination of digital editorial content.",
+    "Editing of printed and digital content.",
+    "Publishing industry.",
+    "Content creation agencies.",
+    "Strategic information departments in public and private institutions.",
+    "Public and private cultural institutions.",
+    "Higher research centers.",
+    "Literary content creation.",
+    "Scriptwriting for media and film.",
+    "Textual analysis and criticism.",
+    "Periodical publications, both printed and digital.",
+    "Data science and strategic data management.",
+    "Interface design for the management and/or dissemination of digital editorial content.",
+    "Analyzes literary texts and cultural practices that provide information about realities and contexts of interest.",
+    "Creates texts of discursive genres under the scope and characteristics of the corresponding discursive line.",
+    "Solves contextual problems based on theoretical concepts, approaches, and procedures of their discipline, and emerging technologies.",
+    "Designs editorial projects based on strategic thinking and analysis."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Letras y Emprendimiento Editorial, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas y estadística. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para exp",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "AV1003B",
+            "nombre": "Producción de contenidos I: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Producción de contenidos I: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "requisitosDetalle": "Equivalencia: AV1002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar proyectos de producción de contenidos digitales narrativos, mediante la definición clara de objetivos, la conceptualización creativa del proyecto para audiencias específicas y la gestión eficiente de recursos para garantizar su viabilidad, generando alternativas de valor. - Utilizar tecnologías visuales, sonoras y audiovisuales mediante la producción de sentido y contenidos narrativos, redactando textos y utilizando lenguajes y códigos lingüísticos y no-lingüísticos. - Explorar alternativas que generan valor mediante la ideación creativa que reta el pensamiento convencional, a través de planear la redacción de textos tomando en cuenta el propósito de comunicación y el contexto. - Utilizar lenguajes y códigos lingüísticos y no-lingüísticos en la producción de contenidos, mediante la planeación y diseño de contenidos digital."
+          },
+          {
+            "clave": "CO1003B",
+            "nombre": "Cultura digital e inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Cultura digital e inteligencia artificial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar patrones y tendencias tecnológicas y de contenidos de la cultura digital como la esfera en la que se desarrolla la producción creativa expresando ejemplos concretos que den cuenta de ello. - Distinguir herramientas de inteligencia artificial y tecnologías generativas emergentes que pueden apoyar la producción creativa en la música, la literatura, la comunicación y la educación, cumpliendo con los estándares de dichas disciplinas. - Realizar propuestas estratégicas de acción a través de la producción de contenidos con herramientas generativas aplicadas a la producción creativa musical, literaria, comunicativa, educativa o informativa."
+          },
+          {
+            "clave": "CO1004B",
+            "nombre": "Exploración de prácticas, tendencias y audiencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Exploración de prácticas, tendencias y audiencias",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar fenómenos y problemáticas humanas mediante la aplicación de instrumentos y herramientas de investigación cualitativos, a través de la observación participante, la entrevista a profundidad, los grupos de enfoque, el análisis de materiales de archivo, artefactos culturales, los enfoques audiovisuales y nuevos enfoques virtuales. - Utilizar técnicas e instrumentos cualitativos de recopilación y análisis de datos para explicar los objetivos, posibilidades y limitaciones de los métodos de investigación cualitativa y las formas en que los antropólogos socioculturales los emplean en el trabajo de campo etnográfico. - Promover la participación incluyente y la diversidad de pensamiento a través de la generación de estrategias verbales de comunicación en donde se demuestre una comprensión crítica de las consideraciones éticas relacionadas con la investigación con personas, la importancia de reconocer y reflexionar sobre las relaciones de poder dentro de los contextos de investigación y de transmitir mensajes de manera clara, elocuente, responsable y contextualizada. - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cualitativos de recopilación de datos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1022",
+            "nombre": "Del homo sapiens al humano postdigital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Del homo sapiens al humano postdigital",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH2006",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Distinguir las bases teóricas y los conceptos de la filosofía y la antropología cultural, a partir del análisis de textos fundamentales, para desarrollar una comprensión crítica de la evolución de la modernidad y la noción de lo humano desde el Renacimiento y hasta nuestros días, considerando las teorías relacionadas con raza, etnicidad, género y sexualidad. - Plantear múltiples escenarios y metodologías de análisis de riesgo para anticipar las posibilidades de cambio en el contexto analizado a partir de la comprensión del concepto de posthumanismo y sus diversas interpretaciones contemporáneas, incluyendo discusiones sobre el fin de la historia, riesgos globales, transhumanismo, inteligencia artificial, desarrollo sostenible y los dilemas éticos contemporáneos."
+          },
+          {
+            "clave": "EH1023",
+            "nombre": "Programación para humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Programación para humanidades digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y aplicar los principios del pensamiento computacional, incluyendo la descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos para resolver problemas mediante la comprensión de las bases del pensamiento computacional y enfoques algorítmicos. - Usar el pensamiento computacional en la programación y diseño de soluciones a problemas concretos ya que conocerá los lenguajes de programación y convertir soluciones lógicas en códigos ejecutables. - Identificar oportunidades de valor relevantes para el contexto de aplicación , evaluando críticamente y utilizando herramientas y técnicas computacionales en el contexto de proyectos de humanidades y medios creativos."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AV2005B",
+            "nombre": "Producción de contenidos II: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AT0001&lang=ES",
+            "nombreCompleto": "Producción de contenidos II: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26AT0001",
+              "S26EM0002"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Producir contenidos digitales a través de lenguajes, tecnologías y metodologías para el desarrollo de proyectos audiovisuales, narrativos o educativos, integrando lenguajes y códigos lingüísticos y no-lingüísticos. - Administrar proyectos digitales de producción de contenidos, audiovisuales, narrativos o educativos, mediante la definición de objetivos, la conceptualización creativa del proyecto para audiencias específicas, así como la gestión eficiente de recursos para garantizar su viabilidad. - Experimentar de forma iterativa en las diferentes fases del desarrollo del proyecto con alternativas para encontrar las mejores soluciones para la producción del prototipo."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1024",
+            "nombre": "Estudios críticos de la cultura",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0007&lang=ES",
+            "nombreCompleto": "Estudios críticos de la cultura",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26EH0007"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Promover la participación incluyente y la diversidad de pensamiento, a partir del análisis de las prácticas culturales y problemáticas humanas, mediante conceptos teórico-filosóficos que dan forma a las nociones de cultura e identidad en un mundo interconectado, así como a sus expresiones desde el multiculturalismo, la hibridación, el interculturalismo, la apropiación cultural, la globalización, y la resistencia cultural. - Distinguir conceptos de la teoría crítica y el análisis cultural, a partir de su representación identitaria y contextual presente en el arte y la cultura moderna y contemporánea, tanto a nivel global como en el contexto específico de México, analizando sus transformaciones y continuidades en los siglos XX y XXI."
+          },
+          {
+            "clave": "EH1025",
+            "nombre": "Lenguajes digitales, tecnologías y semiótica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Lenguajes digitales, tecnologías y semiótica",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH1009",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender los mecanismos de producción de sentido, de significación y de comunicación de lenguajes y códigos lingüísticos y no-lingüísticos para una compresión integral de la semiótica y sus posibles aplicaciones en diversos ámbitos, incluyendo el lenguaje, la cultura, el análisis de medios, de textos culturales y la comunicación digital. - Elaborar escritos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados aplicando el análisis semiótico en diversos textos culturales como medios visuales, cine, publicidad y música para comprender la producción de significados."
+          },
+          {
+            "clave": "H1003B",
+            "nombre": "Inteligencia y estrategia de datos culturales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0001&lang=ES",
+            "nombreCompleto": "Inteligencia y estrategia de datos culturales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cuantitativos de recopilación de datos. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, identificando los supuestos a través del planteamiento de hipótesis y del uso de R como herramienta de estadística descriptiva e inferencial. - Aplicar herramientas de estadística descriptiva e inferencial a partir del análisis de textos culturales y de la preparación de los datos para el análisis estadístico."
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1003B",
+            "nombre": "Lengua y corrección de textos",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Lengua y corrección de textos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer las características formales de la lengua española a través de las metodologías de descripción lingüística. - Conocer las propiedades textuales del español a través del análisis textual. - Elaborar y corregir escritos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados. - Utilizar de forma responsable tecnologías y medios digitales para la generación y corrección de textos de forma responsable y ética."
+          },
+          {
+            "clave": "EH1004B",
+            "nombre": "Medios y estrategias discursivas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Medios y estrategias discursivas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender estrategias verbales de comunicación a través del análisis de discursos mediáticos. - Desarrollar propuestas para la comunicación de mensajes en su aplicación a la promoción de textos literarios. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada a través del diseño de estrategias discursivas. - Conocer los fundamentos de la creatividad y las metodologías del pensamiento creativo a través de la generación de ideas novedosas para la promoción de textos literarios."
+          },
+          {
+            "clave": "EH1027",
+            "nombre": "Análisis crítico de textos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Análisis crítico de textos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: H2050",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar metodologías de análisis e interpretación crítica a través del análisis de textos literarios. - Conocer los elementos de cada género literario identificando las características a partir de ejemplos concretos. - Utilizar metodologías en la evaluación de argumentos y evidencias con sustento en una evaluación rigurosa de información."
+          },
+          {
+            "clave": "EH1028",
+            "nombre": "Literatura mundial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Literatura mundial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Plantear proyectos de investigación a partir de métodos de análisis propios de las humanidades. - Evaluar las fuentes de información disponibles desde distintas perspectivas y con el rigor metodológico aplicable al contexto. - Evaluar la calidad y relevancia de un texto generando una crítica literaria desde una aproximación que reconoce sus valores, aportaciones y relevancia en la cultura occidental. - Valorar la credibilidad de las afirmaciones y argumentos mediante una revisión cuidadosa de las evidencias que los sustentan."
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH2002B",
+            "nombre": "Proyecto de escritura para medios digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AT0002&lang=ES",
+            "nombreCompleto": "Proyecto de escritura para medios digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26AT0002",
+              "S26H0010",
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Producir textos creativos y adecuados para distintos ámbitos integrando tecnologías emergentes a través del uso de herramientas de inteligencia artificial, plataformas de publicación e integración multimedia. - Incorporar los valores de la democracia en acciones de interés ciudadano a través de proyectos de escritura que visibilizan grupos marginados. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través del reconocimiento de minorías en proyectos de escritura."
+          },
+          {
+            "clave": "EH2003B",
+            "nombre": "Edición crítica digital",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0008&lang=ES",
+            "nombreCompleto": "Edición crítica digital",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0008",
+              "S26H0009",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar metodologías de análisis e interpretación crítica a través de la revisión de textos de la tradición hispánica. - Comunicar los resultados de su investigación mediante proyectos de humanidades digitales. - Plantear conclusiones fundamentadas a través de la evaluación de argumentos y de las evidencias disponibles."
+          },
+          {
+            "clave": "EH2043",
+            "nombre": "Literatura mexicana contemporánea",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Literatura mexicana contemporánea",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar técnicas de recolección y análisis de datos a través de proyectos de investigación de literatura mexicana. - Comunicar los resultados de la investigación a través de publicaciones en diferentes foros académicos, revistas científicas, conferencias y congresos. - Evaluar textos literarios desde una aproximación que reconoce su aportación y pertenencia en la cultura mexicana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto. - Utilizar metodologías en la evaluación de argumentos y evidencias tanto de propuestas propias y de terceros como de información recabada como resultado de su investigación."
+          },
+          {
+            "clave": "EH2044",
+            "nombre": "Literatura latinoamericana contemporánea",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Literatura latinoamericana contemporánea",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar metodologías de análisis e interpretación crítica a través del análisis de textos literarios latinoamericanos. - Aplicar técnicas de recolección y análisis de datos para evaluar textos desde una aproximación que reconoce sus valores, aportaciones y relevancia en la cultura latinoamericana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto a través de la evaluación de argumentos y de las evidencias documentales disponibles. - Utilizar metodologías en la evaluación de argumentos y evidencias en proyectos de análisis literario para plantear conclusiones fundamentadas en argumentos validados."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "AV2007B",
+            "nombre": "Diseño de experiencias interactivas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CB0001&lang=ES",
+            "nombreCompleto": "Diseño de experiencias interactivas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26CB0001",
+              "S26IA0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar experiencias interactivas mediante la aplicación de principios y conceptos de diseño interactivo, diseño de interfaces y experiencia de usuario. - Experimentar la elaboración de prototipos usando herramientas para su generación y evaluación iterativa. - Producir contenidos con herramientas de tecnologías generativas emergentes y un sitio web multimedia por medio de la codificación de los elementos necesarios para su construcción."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH2004B",
+            "nombre": "Negocios editoriales: formatos y soportes",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Estar Cursando EH2045",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MI0002&lang=ES",
+            "nombreCompleto": "Negocios editoriales: formatos y soportes",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26MI0002",
+              "S26EH0004",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y administrar las fases de un proyecto editorial a partir de la realización de un proyecto editorial en materialidades diversas. - Analizar los recursos humanos y financieros considerando los distintos formatos y espacios de la industria editorial. - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar a través del desarrollo y presentación de un modelo de negocios. - Realizar propuestas estratégicas de acción para los futuros proyectados ejecutando proyectos editoriales accesibles y sustentables."
+          },
+          {
+            "clave": "EH2042",
+            "nombre": "Métodos digitales y ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0002&lang=ES",
+            "nombreCompleto": "Métodos digitales y ciencia de datos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26IA0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender las aproximaciones al análisis de textos culturales aplicando técnicas cuantitativas de análisis y visualización de datos, storytelling para la presentación de resultados de estudios de textos y prácticas culturales en archivos digitales, redes sociales y/o plataformas de distribución y consumo de contenidos. - Aplicar herramientas de estadística descriptiva e inferencial al análisis de textos y prácticas culturales a través de la comprensión y aplicación de los conceptos matemáticos, estadísticos y computacionales subyacentes a los algoritmos asociados con la ciencia de datos y los métodos digitales. - Identificar supuestos a través del planteamiento de hipótesis mediante la validación de soluciones emprendedoras."
+          },
+          {
+            "clave": "EH2045",
+            "nombre": "Prototipos editoriales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "(Estar Cursando EH2004B y Haber Cursado EH1003B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MI0001&lang=ES",
+            "nombreCompleto": "Prototipos editoriales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26MI0001"
+            ],
+            "requisitosDetalle": "Equivalencia: H2053",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las necesidades de un proyecto editorial para su implementación, por medio de la comprensión de las fases de un proyecto de esta índole. - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad, a través de la realización de un prototipo editorial y del conocimiento de las diferentes plataformas de publicación, así como sus características. - Ejecutar un proyecto editorial a través de la implementación de las fases de edición."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3117",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "VA3118",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3119",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3120",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3121",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3122",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "EH3001B",
+            "nombre": "Proyecto de letras y emprendimiento editorial",
+            "creditos": 12,
+            "tipo": "life",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26H0003&lang=ES",
+            "nombreCompleto": "Proyecto de letras y emprendimiento editorial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "C26H0003",
+              "C26H0004",
+              "C26H0005",
+              "C26MI0001",
+              "C26CO0001",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar un proyecto editorial a través de un proyecto propio que incluya la producción de contenidos con herramientas de inteligencia artificial y tecnologías emergentes. - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar mediante la presentación de un proyecto ante expertos del área. - Evaluar la calidad y relevancia de los textos dictaminándolos para un proyecto editorial. - Experimentar de forma iterativa con las alternativas de solución emprendedoras al proponer diversas soluciones para un proyecto editorial. - Producir textos a través de la generación de textos para promocionar un proyecto editorial. - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos al ejecutar un proyecto editorial. - Utilizar de forma responsable tecnologías y medios digitales para la comunicación escrita humana y no humana al producir contenidos para un proyecto editorial."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

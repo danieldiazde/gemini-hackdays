@@ -1,0 +1,619 @@
+{
+  "carreraClave": "BIR26",
+  "nombre": "Licenciatura en Relaciones Internacionales",
+  "descripcionES": "",
+  "competencias": [
+    "Analyze social phenomena from a scientific perspective.",
+    "Analyze international complexity based on theoretical foundations of International Relations.",
+    "Evaluate international risks and opportunities using various methodological and technological tools.",
+    "Build solutions to global and local challenges from the perspective of International Relations, considering political, legal, economic, and social aspects.",
+    "Exchange oral and written messages that enable professional and social development.",
+    "Develop conscious opportunities that generate economic, social, and environmental value.",
+    "Exhibit ethical behavior based on principles of dignity, integrity, responsibility, and the common good.",
+    "Build individual and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Establish personal judgments or stances on various situations, based on a rigorous evaluation of information."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Relaciones Internacionales, se requiere que las y los estudiantes cuenten con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias sociales y humanísticas, como una comprensión básica de los aspectos históricos, culturales y políticos. Manejo del idioma inglés, así como, fundamentos de matemáticas. Habilidades de pensamiento crítico como el análisis y cuestionamiento de la realidad. Capacidad para expresar ideas de manera clara y efectiva, en forma verbal y escrita. Uso de medios y herramientas informáticas. Actit",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1005B",
+            "nombre": "Panorama macroeconómico de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Panorama macroeconómico de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir y entender las causas de problemas macroeconómicos a través de la aplicación de conceptos y teorías, y la utilización de estadísticas económicas de México. - Evaluar el impacto de las medidas de política fiscal, política monetaria y política cambiaria mediante la aplicación de modelos macroeconómicos a la economía mexicana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto con base en la teoría económica."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1060",
+            "nombre": "Pensamiento matemático",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Pensamiento matemático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Explicar el comportamiento de las variables de un modelo económico mediante la aplicación de herramientas matemáticas. - Plantear conclusiones fundamentadas en argumentos validados mediante el uso de modelos matemáticos."
+          },
+          {
+            "clave": "P1017",
+            "nombre": "Filosofía política",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Filosofía política",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano, utilizando las nociones analizadas en clase, aplicadas a situaciones contemporáneas, vigentes y cercanas a su realidad. - Vincular los problemas sociales con conceptos y teorías, a partir de documentar, discutir y examinar situaciones actuales, a la luz de la perspectiva filosófica y las diferentes corrientes recorridas a lo largo del curso."
+          },
+          {
+            "clave": "RI1003B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "requisitosDetalle": "Equivalencia: RI1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reconocer los problemas sociales globales especificando sus principales causas y consecuencias - Vincular los problemas sociales internacionales con conceptos y teorías básicos de las relaciones internacionales a través de la revisión de casos - Promover la participación incluyente y la diversidad de pensamiento mediante el diálogo, la escucha activa y la generación de acuerdos - Elaborar escritos como memorándums y ensayos cortos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados - Ser consciente de la responsabilidad cívica que implica ser un ciudadano del mundo considerando los diversos desafíos globales"
+          },
+          {
+            "clave": "SO1001",
+            "nombre": "Lógica y pensamiento científico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Lógica y pensamiento científico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Generar hipótesis para la explicación de fenómenos sociales mediante la revisión de literatura existente y la integración de diferentes enfoques teóricos - Valorar la credibilidad de las afirmaciones y argumentos utilizando métodos de evaluación crítica, verificación de fuentes y análisis lógico de la consistencia y coherencia de la información presentada - Identificar variables independientes, dependientes e intervinientes a través del análisis y lecturas de artículos científicos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1032",
+            "nombre": "Introducción a la ciencia jurídica y al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Introducción a la ciencia jurídica y al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y comprender conceptos jurídicos fundamentales de manera analítica y crítica. - Distinguir entre ciencia jurídica y derecho a partir de sus implicaciones y alcances propios. - Vincular los problemas sociales con conceptos y teorías jurídicas a partir del análisis metódico. - Valorar la credibilidad de afirmaciones y argumentos en el contexto jurídico a través de las bases teórico jurídicas."
+          },
+          {
+            "clave": "EC1022",
+            "nombre": "Microeconomía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado MA1060",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Vincular los problemas sociales con conceptos y teorías económicas con base a los principios del análisis microeconómico. - Plantear conclusiones fundamentadas en argumentos validados con base en los principios del análisis microeconómico."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "SO1001B",
+            "nombre": "Analítica de datos sociales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado MA1060",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SO0001&lang=ES",
+            "nombreCompleto": "Analítica de datos sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26SO0001",
+              "S26SO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los supuestos teóricos de problemas sociales a través del planteamiento de hipótesis - Identificar variables independientes, dependientes e intervinientes a partir de la vinculación de los modelos teóricos y el análisis empírico de la información disponible - Generar hipótesis para la explicación de fenómenos sociales a partir del análisis de datos - Experimentar de forma iterativa con las alternativas de solución emprendedoras"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "RI2007B",
+            "nombre": "Economía internacional y desarrollo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado EC1022 y Haber Aprobado EC1005B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Economía internacional y desarrollo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Establecer la naturaleza y las dinámicas de los procesos mundiales económicos y financieros mediante la aplicación de conceptos y teorías - Generar análisis de escenarios económicos que orienten la toma de decisiones a través de proyectos - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a partir de análisis de los retos y oportunidades de la economía internacional"
+          },
+          {
+            "clave": "RI2008B",
+            "nombre": "México y las Américas en perspectiva comparada",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC1005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26SO0001&lang=ES",
+            "nombreCompleto": "México y las Américas en perspectiva comparada",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "C26SO0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las dinámicas políticas, económicas, sociales y culturales de las Américas en el orden internacional a partir el método comparado - Elaborar análisis de escenarios relacionados con los retos que enfrentan las Américas basados en información y datos que orienten la toma de decisiones - Valorar la democracia a la luz del devenir histórico de las Américas - Promover la participación incluyente y la diversidad de pensamiento mediante el intercambio de ideas - Proponer acciones orientadas a promover el bienestar y la sostenibilidad fundamentadas en la definición de las problemáticas y el análisis de las alternativas"
+          },
+          {
+            "clave": "RI2045",
+            "nombre": "Estructura y evolución del sistema internacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado RI1003B y Haber Aprobado D1032",
+            "nombreCompleto": "Estructura y evolución del sistema internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Contrastar los conceptos básicos para el análisis del sistema internacional mediante la revisión rigurosa de distintas perspectivas - Distinguir los conceptos de orden internacional y régimen internacional a través del análisis crítico - Analizar la evolución y configuración de los distintos órdenes internacionales mediante la comprensión de su devenir histórico - Reconocer los elementos e importancia de los distintos regímenes internacionales a través de su identificarlos en el sistema internacional - Evaluar la pertinencia y utilidad de las fuentes de información disponibles a través de su adecuada utilización"
+          },
+          {
+            "clave": "RI2046",
+            "nombre": "Métodos cualitativos en el análisis internacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado SO1001",
+            "nombreCompleto": "Métodos cualitativos en el análisis internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar supuestos que sustentan el planteamiento de hipótesis a través de investigaciones cualitativas de la ciencia política y las relaciones internacionales - Aplicar herramientas tecnológicas mediante el análisis de una problemática internacional - Implementar metodologías de investigación por medio del desarrollo de una propuesta de proyecto - Utilizar metodologías cualitativas en la evaluación de argumentos y evidencias de carácter cualitativo"
+          },
+          {
+            "clave": "RI2047",
+            "nombre": "Geopolítica",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado RI1003B",
+            "nombreCompleto": "Geopolítica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las causas de tensiones y conflictos internacionales con base en su contexto y antecedentes históricos - Formular los intereses de actores internacionales en términos de lucha por el espacio y por el poder - Comprender conflictos y sucesos internacionales presentes con base en principios geopolíticos - Evaluar al riesgo geopolítico con base en metodologías establecidas - Analizar la problemática presentada mediante el análisis de distintas perspectivas"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "RI2009B",
+            "nombre": "Gobernanza global y cooperación internacional",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado RI2045",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0001&lang=ES",
+            "nombreCompleto": "Gobernanza global y cooperación internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0001",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar los riesgos actuales y emergentes, así como la detección de oportunidades de cooperación mediante el desarrollo de soluciones emprendedoras validadas - Elaborar propuestas de acción integrales mediante el análisis de los objetivos planteados de los actores implicados en el reto global en consideración - Emplear estrategias de negociación con base en los intereses, fuerzas, y debilidades propias así como de las contrapartes - Identificar las alternativas de políticas o proyectos en función del reto global y considerando criterios que promuevan el bienestar y la sostenibilidad"
+          },
+          {
+            "clave": "RI2048",
+            "nombre": "Teorías de relaciones internacionales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado RI2045",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26RI0003&lang=ES",
+            "nombreCompleto": "Teorías de relaciones internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26RI0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las principales corrientes teóricas que han influido en la comprensión del sistema internacional, realizando una lectura crítica sobre los supuestos paradigmáticos en que éstas se sustentan - Contrastar teóricamente entre sí los conceptos clave de las Relaciones Internacionales desde la evaluación de su pertinencia y validez en el análisis - Aplicar los marcos teóricos mediante casos que demuestren la realidad internacional - Sostener discusiones sobre la realidad internacional fundamentadas en lo teórico y lo metodológico - Identificar ideas, afirmaciones y razones en la información con solidez argumentativa a través de análisis crítico"
+          },
+          {
+            "clave": "RI2049",
+            "nombre": "Métodos cuantitativos del análisis internacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado SO1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0006&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos del análisis internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar los riesgos actuales y emergentes, así como la detección de oportunidades de cooperación a través de metodologías cuantitativas - Aplicar herramientas tecnológicas para la investigación en el análisis de una problemática internacional - Implementar metodologías de investigación mediante la ejecución de un proyecto que evalúe argumentos a partir de bases de datos disponibles - Plantear conclusiones fundamentadas en argumentos validados por medio de un análisis de diversas fuentes y datos"
+          },
+          {
+            "clave": "RI2050",
+            "nombre": "Aspectos jurídicos para relaciones internacionales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado RI1003B y Haber Aprobado D1032 )",
+            "nombreCompleto": "Aspectos jurídicos para relaciones internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las fuentes del derecho internacional público (DIP), los instrumentos relevantes y los órganos jurisdiccionales competentes frente a controversias políticas o legales - Evaluar el grado de conformidad al DIP del comportamiento de determinado actor internacional en escenarios concretos - Apreciar las aportaciones y limitaciones del derecho internacional público a partir de situaciones históricas e hipotéticas - Concebir acciones orientadas a promover el bienestar y la sostenibilidad desde el DIP"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "RI2051",
+            "nombre": "Economía política internacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado RI2007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26RI0002&lang=ES",
+            "nombreCompleto": "Economía política internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26RI0002",
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas de la economía política internacional desde diversos niveles y perspectivas teóricas - Diseñar acuerdos o alianzas en el ámbito económico que atiendan los intereses de las partes y las características del tema negociado con base en el marco jurídico aplicable - Evaluar las fuentes de información disponibles identificando sesgos o carencias que puedan tener - Evaluar los efectos de la interdependencia económica en las dinámicas de cooperación y conflicto en los niveles sistémico, estatal e individual"
+          },
+          {
+            "clave": "RI2052",
+            "nombre": "Política exterior y paradiplomacia",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado RI2008B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26RI0007&lang=ES",
+            "nombreCompleto": "Política exterior y paradiplomacia",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26RI0007",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los intereses de los actores involucrados para interactuar de manera productiva con el equipo propio y las contrapartes a partir de la promoción de la equidad y la justicia - Interpretar las acciones de la política exterior y la paradiplomacia de diversos actores desde la lógica de su poder y rol en el escenario internacional - Analizar la política exterior de México atendiendo sus bases, componentes y devenir histórico - Generación de propuestas de acción transnacionales, contrastando la política exterior de México con la de otros estados a través del método comparado - Comprender estrategias verbales de comunicación mediante el estudio de casos de la diplomacia"
+          },
+          {
+            "clave": "RI2053",
+            "nombre": "Negociación y resolución de conflictos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado RI2050",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26RI0001&lang=ES",
+            "nombreCompleto": "Negociación y resolución de conflictos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26RI0001",
+              "S26RI0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Establecer la naturaleza y las dinámicas de los procesos mundiales a través del análisis de las características, atribuciones y roles de los actores y factores del sistema internacional - Construir propuestas a partir de la evaluación de alternativas de escenarios de negociación - Presentar propuestas de negociación a través de la transmisión clara, elocuente, responsable y contextualizada de mensajes - Diseñar acuerdos o alianzas empleando estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar"
+          },
+          {
+            "clave": "RI3007B",
+            "nombre": "Seguridad internacional y análisis de riesgos",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado RI2047",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26RI0004&lang=ES",
+            "nombreCompleto": "Seguridad internacional y análisis de riesgos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26RI0004",
+              "S26RI0005",
+              "S26RI0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las principales megatendencias y los problemas de larga data del orden global a través del uso de herramientas metodológicas y tecnológicas - Evaluar las dinámicas internacionales de seguridad mediante el desarrollo de escenarios y futuros proyectados - Plantear múltiples escenarios para anticipar las posibilidades de cambio a partir del análisis de las dinámicas internacionales y sus riesgos - Realizar propuestas estratégicas de acción para los futuros proyectados con base en conclusiones validadas y cuyo valor sea relevante para las dinámicas internacionales analizadas"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3116",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3117",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3118",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3119",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3120",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3121",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3129",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3130",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3131",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3132",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3133",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3134",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          },
+          {
+            "clave": "RI3008B",
+            "nombre": "Construcción de estrategias para retos globales",
+            "creditos": 12,
+            "tipo": "semana_tec",
+            "horasClase": 18,
+            "requisitos": "(Haber Aprobado RI2049 y Haber Aprobado RI3007B y Haber Aprobado RI2009B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26RI0002&lang=ES",
+            "nombreCompleto": "Construcción de estrategias para retos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "C26RI0002",
+              "C26RI0003",
+              "C26RI0001",
+              "C26CO0001",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, incorporando las perspectivas teóricas y metodológicas de las relaciones internacionales - Identificar intereses, fuerzas, debilidades propias y de las contrapartes mediante el pensamiento crítico - Plantear múltiples escenarios que consideren variables sociales, políticas, económicas y jurídicas y que anticipen las posibilidades de cambio en el contexto analizado - Desarrollar una propuesta de política o programa estructurada y alineada con los objetivos definidos previamente"
+          }
+        ]
+      }
+    ]
+  }
+}

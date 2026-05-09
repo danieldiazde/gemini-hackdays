@@ -1,0 +1,398 @@
+{
+  "carreraClave": "ICT19",
+  "nombre": "Ingeniería - Computación y Tecnologías de Información (avenida) / Exploración",
+  "descripcionES": "Un crédito académico implica 750 minutos de instrucción directa por un docente en horas-clase y, al menos, 1500 minutos de trabajo independiente.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Computer Scie",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "F1001B",
+            "nombre": "Modelación de la ingeniería y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0402A&lang=ES"
+          },
+          {
+            "clave": "F1004B",
+            "nombre": "Modelación computacional del movimiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES"
+          },
+          {
+            "clave": "F1005B",
+            "nombre": "Modelación computacional aplicando leyes de conservación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1004B o Estar Cursando F1004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102A&lang=ES"
+          },
+          {
+            "clave": "MA1028",
+            "nombre": "Modelación matemática fundamental",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101A&lang=ES"
+          },
+          {
+            "clave": "Q1028",
+            "nombre": "Fundamentación de la estructura y transformación de la materia",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101A&lang=ES"
+          },
+          {
+            "clave": "TC1028",
+            "nombre": "Pensamiento computacional para ingeniería",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0401A&lang=ES"
+          },
+          {
+            "clave": "TC1033",
+            "nombre": "Pensamiento computacional orientado a objetos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando TC1028 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "BT1013",
+            "nombre": "Análisis de biología computacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o (Haber Cursado TC1028 y Haber Cursado TC1033 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0201A&lang=ES"
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "F1008",
+            "nombre": "Experimentación física y pensamiento estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1003B o Haber Cursado F1005B o Haber Cursado F1007B o Haber Cursado F1009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0102A&lang=ES",
+            "nombreCompleto": "Experimentación física y pensamiento estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0102A",
+              "SING0203A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0102A",
+              "SING0203A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          },
+          {
+            "clave": "F1013B",
+            "nombre": "Modelación computacional de sistemas eléctricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1005B o Estar Cursando F1005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional de sistemas eléctricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0301A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SICT0301A",
+              "SICT0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1011B ; F1016B ; F1019B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "F1014B",
+            "nombre": "Modelación computacional de sistemas electromagnéticos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1013B o Estar Cursando F1013B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional de sistemas electromagnéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0102A",
+              "SEG0503A",
+              "SICT0303A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1012B ; F1017B ; F1020B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas a través de la modelación computacional de sistemas electromagnéticos. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación computacional de sistemas electromagnéticos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales mediante la modelación computacional de sistemas electromagnéticos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo a través de la modelación computacional de sistemas electromagnéticos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida mediante la modelación computacional de sistemas electromagnéticos."
+          },
+          {
+            "clave": "MA1029",
+            "nombre": "Modelación matemática intermedia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Modelación matemática intermedia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0301A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0603A",
+              "SING0101B",
+              "SING0301A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "MA1031",
+            "nombre": "Análisis estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0203B&lang=ES",
+            "nombreCompleto": "Análisis estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0203B",
+              "SING0202B",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0202B",
+              "SING0203B",
+              "SEG0501A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Desarrolla escenarios de acción en la toma de decisiones con base en el análisis de patrones de un conjunto de datos."
+          },
+          {
+            "clave": "TC1003B",
+            "nombre": "Modelación de la ingeniería con matemática computacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0202A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería con matemática computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0202A",
+              "SICT0102A",
+              "SICT0101B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "TC1030",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1033 o Estar Cursando TC1033",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0301A&lang=ES",
+            "nombreCompleto": "Programación orientada a objetos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0301A",
+              "SICT0303A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          },
+          {
+            "clave": "MA1033",
+            "nombre": "Análisis de ecuaciones diferenciales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102B&lang=ES"
+          },
+          {
+            "clave": "TC1004B",
+            "nombre": "Implementación de internet de las cosas",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado TC1030 y Haber Cursado TC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0201B&lang=ES"
+          },
+          {
+            "clave": "TC1031",
+            "nombre": "Programación de estructuras de datos y algoritmos fundamentales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1030 y Haber Cursado TC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302B&lang=ES"
+          },
+          {
+            "clave": "TC1032",
+            "nombre": "Modelación de sistemas mínimos y arquitecturas computacionales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102B&lang=ES"
+          },
+          {
+            "clave": "TI1015",
+            "nombre": "Análisis de requerimientos de software",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o (Haber Cursado TC1028 y Haber Cursado TC1033 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0401A&lang=ES"
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "carreraClave": "LTM26",
+  "nombre": "Licenciatura en Tecnología y Producción Musical",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Diseñar, implementar y gestionar proyectos artísticos, creativos, musicales, tecnológicos y sonoros de acuerdo con los estándares de la industria, la normativa de los derechos de autor y la ética profesional.",
+    "Usar y aplicar tecnologías digitales para los procesos de pre-producción, producción y postproducción musical.",
+    "Analizar ecosistemas e insumos informativos de usuarios productores y consumidores de materiales sonoros y musicales desde los métodos análogos y digitales, la ciencia de datos y la analítica cultural.",
+    "Proponer soluciones para diferentes necesidades sonoras integrando de manera multidisciplinar técnicas, metodologías y teorías tanto de la producción como de la tecnología musical.",
+    "Estudios de grabación y postproducción de audio Industria de la música Empresas de producción audiovisual",
+    "Cine, radio y televisión",
+    "Instituciones culturales",
+    "Industrias del entretenimiento",
+    "Empresas de organización y gestión de eventos masivos en vivo",
+    "Diseño de software y hardware para la producción musical y la música.",
+    "Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica y matemáticas.",
+    "Comprensión básica de metodologías y técnicas de investigación, así como, nociones sobre cultura general, historia, política y economía.",
+    "Habilidades para el pensamiento crítico, el análisis, la observación y el razonamiento.",
+    "Elaboración de proyectos y uso de medios y herramientas digitales.",
+    "Capacidades para expresar ideas de manera clara y efectiva tanto en forma verbal, como escrita.",
+    "Aptitudes, para el trabajo en equipo y una comunicación asertiva, para la solución de problemas y el uso de algunas aplicaciones informáticas. Así como, para el razonamiento lógico, el liderazgo y una perseverancia y dedicación constantes.",
+    "Preferentemente, estudiantes interesado en la intersección entre la música, los fenómenos sonoros y la tecnología, así como su interacción con diferentes medios como el cine, la televisión y los nuevos entornos virtuales.",
+    "Design, implement, and manage artistic, creative, musical, technological, and sound projects according to industry standards, copyright regulations, and professional ethics.",
+    "Use and apply digital technologies for the processes of pre-production, production, and post-production of music.",
+    "Analyze ecosystems and informational inputs of users, producers, and consumers of sound and musical materials from both analog and digital methods, data science, and cultural analytics."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Tecnología y Producción Musical, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica y matemáticas. Comprensión básica de metodologías y técnicas de investigación, así como, nociones sobre cultura general, historia, política y economía. Habilidades para el pensamiento crítico, el análisis, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales. Capaci",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "AV1003B",
+            "nombre": "Producción de contenidos I: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Producción de contenidos I: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "requisitosDetalle": "Equivalencia: AV1002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar proyectos de producción de contenidos digitales narrativos, mediante la definición clara de objetivos, la conceptualización creativa del proyecto para audiencias específicas y la gestión eficiente de recursos para garantizar su viabilidad, generando alternativas de valor. - Utilizar tecnologías visuales, sonoras y audiovisuales mediante la producción de sentido y contenidos narrativos, redactando textos y utilizando lenguajes y códigos lingüísticos y no-lingüísticos. - Explorar alternativas que generan valor mediante la ideación creativa que reta el pensamiento convencional, a través de planear la redacción de textos tomando en cuenta el propósito de comunicación y el contexto. - Utilizar lenguajes y códigos lingüísticos y no-lingüísticos en la producción de contenidos, mediante la planeación y diseño de contenidos digital."
+          },
+          {
+            "clave": "CO1003B",
+            "nombre": "Cultura digital e inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Cultura digital e inteligencia artificial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar patrones y tendencias tecnológicas y de contenidos de la cultura digital como la esfera en la que se desarrolla la producción creativa expresando ejemplos concretos que den cuenta de ello. - Distinguir herramientas de inteligencia artificial y tecnologías generativas emergentes que pueden apoyar la producción creativa en la música, la literatura, la comunicación y la educación, cumpliendo con los estándares de dichas disciplinas. - Realizar propuestas estratégicas de acción a través de la producción de contenidos con herramientas generativas aplicadas a la producción creativa musical, literaria, comunicativa, educativa o informativa."
+          },
+          {
+            "clave": "CO1004B",
+            "nombre": "Exploración de prácticas, tendencias y audiencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Exploración de prácticas, tendencias y audiencias",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar fenómenos y problemáticas humanas mediante la aplicación de instrumentos y herramientas de investigación cualitativos, a través de la observación participante, la entrevista a profundidad, los grupos de enfoque, el análisis de materiales de archivo, artefactos culturales, los enfoques audiovisuales y nuevos enfoques virtuales. - Utilizar técnicas e instrumentos cualitativos de recopilación y análisis de datos para explicar los objetivos, posibilidades y limitaciones de los métodos de investigación cualitativa y las formas en que los antropólogos socioculturales los emplean en el trabajo de campo etnográfico. - Promover la participación incluyente y la diversidad de pensamiento a través de la generación de estrategias verbales de comunicación en donde se demuestre una comprensión crítica de las consideraciones éticas relacionadas con la investigación con personas, la importancia de reconocer y reflexionar sobre las relaciones de poder dentro de los contextos de investigación y de transmitir mensajes de manera clara, elocuente, responsable y contextualizada. - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cualitativos de recopilación de datos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1022",
+            "nombre": "Del homo sapiens al humano postdigital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Del homo sapiens al humano postdigital",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH2006",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Distinguir las bases teóricas y los conceptos de la filosofía y la antropología cultural, a partir del análisis de textos fundamentales, para desarrollar una comprensión crítica de la evolución de la modernidad y la noción de lo humano desde el Renacimiento y hasta nuestros días, considerando las teorías relacionadas con raza, etnicidad, género y sexualidad. - Plantear múltiples escenarios y metodologías de análisis de riesgo para anticipar las posibilidades de cambio en el contexto analizado a partir de la comprensión del concepto de posthumanismo y sus diversas interpretaciones contemporáneas, incluyendo discusiones sobre el fin de la historia, riesgos globales, transhumanismo, inteligencia artificial, desarrollo sostenible y los dilemas éticos contemporáneos."
+          },
+          {
+            "clave": "EH1023",
+            "nombre": "Programación para humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Programación para humanidades digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y aplicar los principios del pensamiento computacional, incluyendo la descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos para resolver problemas mediante la comprensión de las bases del pensamiento computacional y enfoques algorítmicos. - Usar el pensamiento computacional en la programación y diseño de soluciones a problemas concretos ya que conocerá los lenguajes de programación y convertir soluciones lógicas en códigos ejecutables. - Identificar oportunidades de valor relevantes para el contexto de aplicación , evaluando críticamente y utilizando herramientas y técnicas computacionales en el contexto de proyectos de humanidades y medios creativos."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AV2005B",
+            "nombre": "Producción de contenidos II: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AT0001&lang=ES"
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "EH1024",
+            "nombre": "Estudios críticos de la cultura",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0007&lang=ES"
+          },
+          {
+            "clave": "EH1025",
+            "nombre": "Lenguajes digitales, tecnologías y semiótica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "H1003B",
+            "nombre": "Inteligencia y estrategia de datos culturales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0001&lang=ES"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "TM1001",
+            "nombre": "Teoría musical",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "TM1002B",
+            "nombre": "Técnicas de grabación sonora",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CO0002&lang=ES",
+            "nombreCompleto": "Técnicas de grabación sonora",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26CO0002",
+              "S26IM0004",
+              "S26IM0005"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comparar técnica y estéticamente el contenido sonoro a partir de un análisis de su calidad y características técnicas, la apreciación de su belleza, expresión y coherencia estética - Crear condiciones propicias para el desarrollo creativo donde se pueda experimentar con el funcionamiento de equipo profesional de grabación sonora a partir de la manipulación y aplicación de técnicas adecuadas para su control - Coordinar una sesión de grabación musical a partir de la planeación y administración de las tareas donde se pueda emplear estrategias verbales y no verbales para dialogar, negociar , persuadir e inspirar, logrando una comunicación efectiva y el fomento de la colaboración entre los miembros del equipo - Ejecutar estrategias planificadas de producción donde se proponen y emplean las herramientas adecuadas para la transducción y manipulación de parámetros sonoros"
+          },
+          {
+            "clave": "TM2008B",
+            "nombre": "Ingeniería de sistemas de sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0006&lang=ES",
+            "nombreCompleto": "Ingeniería de sistemas de sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar y manipular entornos acústicos, mediante el uso de metodologías y herramientas propias de la disciplina - Emplear herramientas para la transducción, conversión y manipulación de audio analógico y digital, a partir de las especificaciones técnicas disponibles - Plantear conclusiones fundamentadas en argumentos validados, mediante la aplicación de metodologías para valorar la credibilidad de afirmaciones, argumentos y evidencias - Evaluar argumentos y evidencias, a través de la utilización de metodologías disponibles"
+          },
+          {
+            "clave": "TM3007",
+            "nombre": "Electrónica y programación de audio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Electrónica y programación de audio",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer herramientas para la transducción y manipulación de parámetros sonoros, mediante el uso de técnicas y herramientas propias de la disciplina - Identificar tecnologías sonoras para la conversión y manipulación de audio analógico y digital, a partir de las especificaciones técnicas disponibles - Emplear herramientas para la transducción sonora, a partir de las especificaciones técnicas disponibles así como emplear herramientas para la conversión y manipulación de audio analógico y digital - Integrar tecnologías existentes a requisitos del proyecto justificando las decisiones por medio del análisis y evaluación de las fuentes de información disponibles - Interpretar información, ideas, afirmaciones y razones a partir de parámetros o procedimientos propios del contexto a través de la elaboración de propuestas para un desarrollo tecnológico."
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "TM1003B",
+            "nombre": "Negocios de proyectos de tecnología musical",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Negocios de proyectos de tecnología musical",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26EH0002",
+              "S26IM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Definir alcance y concepto de un proyecto de tecnología musical mediante el análisis de fortalezas, debilidades, requerimientos del proyecto, así como recursos disponibles y mercado meta - Manejar un equipo de trabajo en la realización de un proyecto de tecnología musical a través de proponer estrategias, recursos disponibles, así como la definición de personal, roles y tareas - Ejecutar un plan de trabajo para un proyecto de tecnología musical cumpliendo con los objetivos declarados en la preproducción logrando el cierre de proyectos de materiales sonoros - Manejar negociaciones y aspectos legales con clientes incorporando los valores de la democracia en acciones de interés ciudadano"
+          },
+          {
+            "clave": "TM2009B",
+            "nombre": "Edición, mezcla y masterización",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Cursado TM2008B o Haber Cursado TM3007 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IM0002&lang=ES",
+            "nombreCompleto": "Edición, mezcla y masterización",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26IM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar, a través del conocimiento de los requerimientos del proyecto y de las tendencias en la industria musical - Garantizar calidad equivalente a estándares profesionales de referencia, mediante la correcta aplicación de metodologías propias de la industria - Garantizar la calidad estética y musical del proyecto, a través del uso de referencias - Manipular entornos acústicos, mediante le uso de herramientas de medición y corrección de parámetros sonoros"
+          },
+          {
+            "clave": "TM2016",
+            "nombre": "Historia de la música",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IM0007&lang=ES",
+            "nombreCompleto": "Historia de la música",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26IM0007",
+              "S26IM0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar auralmente elementos musicales en la lectura y gramática musicales mediante ejemplos concretos de la historia de la música - Identificar formas y estructuras musicales a través de los contextos socioculturales por conducto de la discusión histórica de la música academizada y popular - Usar análisis funcional para comprender formas y estructuras musicales a través de ejemplos concretos de la historia de la música - Planear la redacción de textos tomando en cuenta el propósito de comunicación y el contexto mediante la investigación básica de temas de la historia de la música"
+          },
+          {
+            "clave": "TM2017",
+            "nombre": "Fundamentos de composición musical",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Cursado TM1001",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IM0009&lang=ES",
+            "nombreCompleto": "Fundamentos de composición musical",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26IM0009"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Considerar los contextos socio culturales de las prácticas musicales para la creación musical a través de la revisión de ejemplos concretos - Garantizar la calidad estética y musical del proyecto a través de la generación de repertorios musicales específicos que utilicen los estándares correspondientes al estilo, género y forma musicales - Usar el análisis musical para la creación de diferentes repertorios mediante ejercicios y composiciones musicales específicas - Utilizar de forma responsable tecnologías y medios digitales para la comunicación escrita humana y no humana al utilizar las herramientas musicales adecuadas para la composición musical y proyectos relacionados"
+          },
+          {
+            "clave": "TM3008",
+            "nombre": "Taller de tecnología musical",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "(Haber Cursado TM3007 y Haber Cursado TM2008B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IM0006&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "AV2007B",
+            "nombre": "Diseño de experiencias interactivas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CB0001&lang=ES"
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3
+          },
+          {
+            "clave": "EH2042",
+            "nombre": "Métodos digitales y ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0002&lang=ES"
+          },
+          {
+            "clave": "TM2010B",
+            "nombre": "Proyecto de producción musical",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado TM1002B y Haber Aprobado TM2009B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26IM0001&lang=ES"
+          },
+          {
+            "clave": "TM3009",
+            "nombre": "Diseño sonoro y postproducción",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "(Haber Aprobado TM2009B y Haber Cursado TM1002B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IM0003&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3117",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3118",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3119",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3120",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3121",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3122",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          },
+          {
+            "clave": "TM3003B",
+            "nombre": "Proyecto de tecnología y producción musical",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26IM0002&lang=ES",
+            "nombreCompleto": "Proyecto de tecnología y producción musical",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "C26IM0002",
+              "C26TM0001",
+              "C26CO0001",
+              "C26EH0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Experimentar con herramientas de tecnologías generativas emergentes a través de la integración de un proyecto de producción y tecnología musical - Proponer herramientas para la transducción, manipulación de parámetros sonoros y manipulación de entornos acústicos a través de un proyecto integral de producción y tecnología musical que cubre diferentes áreas interdisciplinares - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos a través de su integración en el proyecto - Elaborar escritos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados mediante el planteamiento, desarrollo y presentación de un proyecto integrador de producción y tecnología musical - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través de un proyecto integral"
+          }
+        ]
+      }
+    ]
+  }
+}
