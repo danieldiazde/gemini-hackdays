@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { Loader2, WandSparkles } from "lucide-react";
 import { toast } from "sonner";
@@ -16,55 +16,70 @@ import {
 export function EmptyInsightCard() {
   const router = useRouter();
   const [pending, setPending] = useState(false);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const autoTriggered = useRef(false);
 
-  async function handleGenerate() {
+  async function handleGenerate(force = false) {
     setPending(true);
+    setErrorMessage(null);
     try {
       const res = await fetch("/api/insights/generate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ forceRefresh: false }),
+        body: JSON.stringify({ forceRefresh: force }),
       });
 
-      if (res.status === 404) {
-        toast.info("Aún no hay backend de insights", {
-          description: "Mientras llega Persona B, usa modo demo (?demo=1).",
-        });
-        return;
-      }
       if (!res.ok) {
-        const msg = await res.text().catch(() => "");
-        throw new Error(msg || `status ${res.status}`);
+        const body = await res.json().catch(() => ({}));
+        throw new Error(body.error ?? `status ${res.status}`);
       }
       toast.success("Tu semana está lista");
       router.refresh();
     } catch (err) {
       const description =
-        err instanceof Error
-          ? err.message
-          : "Inténtalo de nuevo en un momento.";
+        err instanceof Error ? err.message : "Inténtalo de nuevo en un momento.";
+      setErrorMessage(description);
       toast.error("No pudimos generar tus insights", { description });
-    } finally {
-      setPending(false);
+      setPending(false); // only reset on error; success path triggers refresh
     }
   }
+
+  // Auto-trigger generation on first mount so the user doesn't have to click.
+  useEffect(() => {
+    if (autoTriggered.current) return;
+    autoTriggered.current = true;
+    void handleGenerate(false);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <Card className="mx-auto max-w-xl text-center">
       <CardHeader className="items-center gap-3">
         <span className="inline-flex size-12 items-center justify-center rounded-xl bg-gemini-gradient text-white shadow-md">
-          <WandSparkles className="size-6" />
+          {pending ? (
+            <Loader2 className="size-6 animate-spin" />
+          ) : (
+            <WandSparkles className="size-6" />
+          )}
         </span>
-        <CardTitle className="text-xl">Vamos a planear tu semana</CardTitle>
+        <CardTitle className="text-xl">
+          {pending ? "Generando tu semana…" : "Vamos a planear tu semana"}
+        </CardTitle>
       </CardHeader>
       <CardContent className="space-y-4 pb-4">
         <p className="text-sm text-muted-foreground">
-          Gemini va a analizar tus materias, tus entregas en Canvas y tu
-          calendario para sugerir qué estudiar y cuándo.
+          {pending
+            ? "Gemini está analizando tu horario, materias y entregas. Toma 5-15 segundos."
+            : "Gemini va a analizar tus materias, tus entregas en Canvas y tu calendario para sugerir qué estudiar y cuándo."}
         </p>
+        {errorMessage && (
+          <p className="rounded-md border border-destructive/40 bg-destructive/5 px-3 py-2 text-xs text-destructive">
+            {errorMessage}
+          </p>
+        )}
         <Button
           type="button"
-          onClick={handleGenerate}
+          onClick={() => handleGenerate(true)}
           disabled={pending}
           className="bg-gemini-gradient text-white shadow-md hover:opacity-90"
         >
@@ -74,7 +89,8 @@ export function EmptyInsightCard() {
             </>
           ) : (
             <>
-              <WandSparkles className="size-4" /> Generar mi semana
+              <WandSparkles className="size-4" />{" "}
+              {errorMessage ? "Reintentar" : "Generar mi semana"}
             </>
           )}
         </Button>

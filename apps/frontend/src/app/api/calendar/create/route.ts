@@ -81,11 +81,31 @@ export async function POST(request: Request) {
       fin: e.fin,
     }))
 
-    const createdIds = await createEvents(token, newCalEvents)
+    const { ids: createdIds, errors: createErrors } = await createEvents(
+      token,
+      newCalEvents,
+    )
 
     if (createdIds.length === 0) {
+      const first = createErrors[0]
+      const detail = first
+        ? ` Google respondió ${first.status}: ${first.message}`
+        : ''
+      let hint = ''
+      if (first) {
+        const msg = first.message.toLowerCase()
+        if (msg.includes('has not been used') || msg.includes('disabled')) {
+          hint = ' Habilita la Google Calendar API en Google Cloud Console y reintenta.'
+        } else if (first.status === 401 || msg.includes('insufficient')) {
+          hint = ' Cierra sesión y vuelve a entrar para autorizar Google Calendar.'
+        }
+      }
       return NextResponse.json(
-        { success: false, error: 'No se pudo crear ningún evento en Google Calendar' },
+        {
+          success: false,
+          error: `No se pudo crear ningún evento.${detail}${hint}`,
+          errors: createErrors,
+        },
         { status: 500 },
       )
     }

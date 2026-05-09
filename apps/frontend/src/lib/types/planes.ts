@@ -33,8 +33,5 @@ export type ProfileSetupBody = {
   carreraClave: string;
   modelo: Modelo;
   semestre: number;
-  /** ISO date YYYY-MM-DD for the start of the current semester. */
-  semestreInicio?: string;
-  materias: Array<Pick<Materia, "clave" | "nombre" | "creditos"> & { prioridad: number }>;
   canvasIcalUrl?: string;
 };
