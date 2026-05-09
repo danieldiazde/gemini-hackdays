@@ -4,11 +4,11 @@ Use this when reviewing TecCoach pull requests.
 
 ## Review focus
 
-- Does the change follow `PROJECT.md` as the source of truth?
+- Does the change follow `README.md` as the source of truth?
 - Are new backend behaviors implemented as Next.js API routes?
 - Are Gemini, Supabase service-role, and Google OAuth secrets kept server-side?
 - Are Supabase RLS expectations preserved for user-owned data?
-- Do API request and response shapes match `PROJECT.md` and `docs/architecture/api-contract.md`?
+- Do API request and response shapes match `README.md` and `docs/architecture/api-contract.md`?
 - Does the UI preserve the approval step before writing suggested blocks to Google Calendar?
 - Are fallback fixtures or demo data clearly separated from real user data?
 

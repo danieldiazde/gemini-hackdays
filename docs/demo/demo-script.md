@@ -1,6 +1,6 @@
 # Demo script
 
-The demo follows the TecCoach flow from `PROJECT.md`.
+The demo follows the TecCoach flow from the repo README.
 
 ## Opening
 

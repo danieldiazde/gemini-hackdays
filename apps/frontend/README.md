@@ -23,4 +23,4 @@ src/
 │   └── globals.css             Tailwind v4 entry
 ```
 
-Next implementation steps are defined in the repo README and `PROJECT.md`.
+Next implementation steps are defined in the repo README.

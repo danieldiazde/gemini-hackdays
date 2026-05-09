@@ -1,94 +1,105 @@
-const priorities = [
-  ["Compiladores", "Alta", "Entrega crítica en Canvas"],
-  ["Bases de datos", "Media", "Examen en 5 días"],
-  ["Semana Tec", "Baja", "Bloque corto de repaso"],
-];
+import {
+  CalendarRange,
+  GraduationCap,
+  Sparkles,
+  WandSparkles,
+} from "lucide-react";
 
-const planItems = [
-  "Supabase Auth con Google OAuth",
-  "Onboarding de carrera, semestre, materias e iCal Canvas",
-  "Sync de Canvas iCal y Google Calendar",
-  "Gemini structured output para insights semanales",
-  "Dashboard con prioridades y bloques sugeridos",
-  "Aplicar bloques aprobados a Google Calendar",
+import { LoginButton } from "@/components/auth/LoginButton";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+
+const features = [
+  {
+    icon: GraduationCap,
+    title: "Entiende Tec21",
+    description:
+      "Sabe de Semanas Tec, materias life y bloques académicos. Tus prioridades respetan tu modelo educativo.",
+  },
+  {
+    icon: CalendarRange,
+    title: "Conecta Canvas + Calendar",
+    description:
+      "Sincroniza entregas de Canvas y eventos de Google Calendar. Sin compartir contraseñas del Tec.",
+  },
+  {
+    icon: WandSparkles,
+    title: "Bloques con un click",
+    description:
+      "Aprueba los bloques sugeridos y se crean directo en tu Google Calendar. Sin copiar y pegar.",
+  },
 ];
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen bg-[--color-bg] text-[--color-fg]">
-      <section className="mx-auto grid min-h-screen max-w-6xl content-center gap-8 px-6 py-10 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
-        <div>
-          <p className="text-sm font-medium text-[--color-accent]">
-            MLH · RoBorregos · Gemini Hackdays
-          </p>
-          <h1 className="mt-4 text-5xl font-semibold tracking-tight text-balance">
+    <main className="relative min-h-screen overflow-hidden bg-gemini-bg">
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-x-0 -top-40 -z-10 mx-auto h-[480px] max-w-5xl bg-gemini-gradient opacity-15 blur-3xl"
+      />
+
+      <header className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6">
+        <div className="flex items-center gap-2">
+          <span className="bg-gemini-gradient bg-clip-text text-xl font-bold tracking-tight text-transparent">
             TecCoach
-          </h1>
-          <p className="mt-5 max-w-2xl text-lg leading-8 text-[--color-fg-dim]">
-            Coach académico inteligente para alumnos del Tec. Conecta Canvas,
-            Google Calendar y el contexto Tec21 para recomendar qué estudiar,
-            cuándo estudiarlo y por qué.
-          </p>
-          <div className="mt-8 flex flex-wrap gap-3">
-            <a
-              href="#plan"
-              className="rounded-md bg-[--color-accent] px-4 py-2 text-sm font-semibold text-slate-950 transition hover:bg-[--color-accent-hi]"
-            >
-              Ver plan
-            </a>
-            <a
-              href="https://aistudio.google.com/app/apikey"
-              className="rounded-md border border-[--color-border] px-4 py-2 text-sm font-semibold text-[--color-fg] transition hover:bg-[--color-panel]"
-            >
-              Gemini API key
-            </a>
-          </div>
+          </span>
+        </div>
+        <span className="hidden rounded-full border border-border bg-card/70 px-3 py-1 text-xs font-medium text-muted-foreground shadow-sm sm:inline-block">
+          MLH · RoBorregos · Gemini Hackdays
+        </span>
+      </header>
+
+      <section className="mx-auto flex max-w-3xl flex-col items-center gap-8 px-6 pt-10 pb-16 text-center sm:pt-16">
+        <span className="inline-flex items-center gap-2 rounded-full border border-gemini-blue/30 bg-card/80 px-3 py-1 text-xs font-medium text-gemini-blue shadow-sm backdrop-blur motion-safe:animate-in motion-safe:fade-in-0 motion-safe:duration-500">
+          <Sparkles className="size-3.5" />
+          Tu coach académico, impulsado por Gemini
+        </span>
+
+        <h1 className="text-balance text-5xl font-semibold tracking-tight text-foreground motion-safe:animate-in motion-safe:fade-in-0 motion-safe:slide-in-from-bottom-2 motion-safe:duration-700 sm:text-6xl md:text-7xl">
+          Estudia lo correcto,{" "}
+          <span className="bg-gemini-gradient bg-clip-text text-transparent">
+            en el momento correcto
+          </span>
+          .
+        </h1>
+
+        <p className="max-w-2xl text-balance text-lg leading-8 text-muted-foreground motion-safe:animate-in motion-safe:fade-in-0 motion-safe:duration-700 motion-safe:delay-150">
+          TecCoach lee tu carga real desde Canvas y Google Calendar, entiende tu
+          plan Tec21 y te dice qué estudiar esta semana, cuándo y por qué.
+          Aprueba los bloques sugeridos y se agendan con un click.
+        </p>
+
+        <div className="motion-safe:animate-in motion-safe:fade-in-0 motion-safe:zoom-in-95 motion-safe:duration-500 motion-safe:delay-300">
+          <LoginButton />
         </div>
 
-        <div className="rounded-lg border border-[--color-border] bg-[--color-panel] p-5 shadow-2xl shadow-black/20">
-          <div className="flex items-center justify-between border-b border-[--color-border] pb-4">
-            <div>
-              <p className="text-sm text-[--color-fg-dim]">Semana actual</p>
-              <h2 className="text-xl font-semibold">Prioridades de estudio</h2>
-            </div>
-            <span className="rounded-full bg-[--color-accent]/15 px-3 py-1 text-xs font-medium text-[--color-accent-hi]">
-              Demo UI
-            </span>
-          </div>
-
-          <div className="mt-5 space-y-4">
-            {priorities.map(([materia, urgencia, razon]) => (
-              <div
-                key={materia}
-                className="rounded-md border border-[--color-border] bg-[--color-panel-hi] p-4"
-              >
-                <div className="flex items-center justify-between gap-4">
-                  <h3 className="font-semibold">{materia}</h3>
-                  <span className="text-sm text-[--color-accent-hi]">
-                    {urgencia}
-                  </span>
-                </div>
-                <p className="mt-2 text-sm text-[--color-fg-dim]">{razon}</p>
-              </div>
-            ))}
-          </div>
-        </div>
+        <p className="text-xs text-muted-foreground">
+          Solo Google OAuth. Nunca pedimos tus credenciales del Tec.
+        </p>
       </section>
 
-      <section
-        id="plan"
-        className="border-t border-[--color-border] bg-white text-slate-950"
-      >
-        <div className="mx-auto max-w-6xl px-6 py-12">
-          <h2 className="text-2xl font-semibold">Plan de implementación</h2>
-          <div className="mt-6 grid gap-4 md:grid-cols-2">
-            {planItems.map((item) => (
-              <div key={item} className="rounded-md border border-slate-200 p-4">
-                {item}
+      <section className="mx-auto grid max-w-6xl gap-4 px-6 pb-20 sm:grid-cols-3">
+        {features.map(({ icon: Icon, title, description }, i) => (
+          <Card
+            key={title}
+            style={{ animationDelay: `${400 + i * 100}ms` }}
+            className="bg-card/90 p-2 shadow-sm transition duration-200 hover:-translate-y-0.5 hover:shadow-lg motion-safe:animate-in motion-safe:fade-in-0 motion-safe:slide-in-from-bottom-2 motion-safe:fill-mode-both"
+          >
+            <CardHeader>
+              <div className="mb-2 inline-flex size-10 items-center justify-center rounded-lg bg-gemini-gradient text-white shadow-sm">
+                <Icon className="size-5" />
               </div>
-            ))}
-          </div>
-        </div>
+              <CardTitle className="text-base">{title}</CardTitle>
+              <CardDescription>{description}</CardDescription>
+            </CardHeader>
+            <CardContent />
+          </Card>
+        ))}
       </section>
     </main>
   );

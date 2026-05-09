@@ -17,6 +17,5 @@ TecCoach is an academic coach for Tec de Monterrey students. It uses Gemini API 
 
 ## Source of truth
 
-- Product brief and contracts: [`../../PROJECT.md`](../../PROJECT.md)
-- Implementation overview: [`../../README.md`](../../README.md)
+- Product brief, contracts, and implementation overview: [`../../README.md`](../../README.md)
 - Architecture: [`../architecture/system-design.md`](../architecture/system-design.md)
