@@ -2,12 +2,38 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import confetti from "canvas-confetti";
 import { format, parseISO } from "date-fns";
 import { es } from "date-fns/locale";
 import { CalendarPlus, Loader2 } from "lucide-react";
 import { toast } from "sonner";
 
 import { Button } from "@/components/ui/button";
+
+function fireApplyConfetti() {
+  if (typeof window === "undefined") return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const colors = ["#1A73E8", "#9168C0", "#D96570", "#E94235"];
+  const origin = { x: 0.85, y: 0.92 };
+  confetti({
+    particleCount: 70,
+    spread: 65,
+    startVelocity: 38,
+    origin,
+    colors,
+    scalar: 0.9,
+  });
+  window.setTimeout(() => {
+    confetti({
+      particleCount: 40,
+      spread: 90,
+      startVelocity: 28,
+      origin,
+      colors,
+      scalar: 0.7,
+    });
+  }, 180);
+}
 import {
   Dialog,
   DialogContent,
@@ -85,6 +111,7 @@ export function ApplyBlocksButton({
         );
       }
 
+      fireApplyConfetti();
       setOpen(false);
       router.refresh();
     } catch (err) {
