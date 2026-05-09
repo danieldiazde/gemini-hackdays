@@ -20,9 +20,9 @@ We execute one TAREA per phase: ship → commit → PR (`feat/c-<slug>` → `dev
 
 | Phase | TAREA | Branch | Status |
 | --- | --- | --- | --- |
-| 1 | Foundation (shadcn, palette, Supabase clients) | `feat/c-foundation` | ✅ Code done, committing |
-| 2 | Landing + Google login | `feat/c-landing-login` (stacked) | ⏳ Next |
-| 3 | Onboarding multi-step | `feat/c-onboarding` | ☐ |
+| 1 | Foundation (shadcn, palette, Supabase clients) | `feat/c-foundation` | ✅ PR #4 open against `dev` |
+| 2 | Landing + Google login | `feat/c-landing-login` (stacked on c-foundation) | ✅ Code done, opening PR |
+| 3 | Onboarding multi-step | `feat/c-onboarding` | ⏳ Next |
 | 4 | Dashboard | `feat/c-dashboard` | ☐ |
 | 5 | Polish + demo data | `feat/c-polish` | ☐ |
 | 6 | Stretch | `feat/c-stretch` | ☐ |
