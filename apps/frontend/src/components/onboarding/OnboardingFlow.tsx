@@ -48,6 +48,7 @@ import type {
 } from "@/lib/types/planes";
 
 const MATRICULA_REGEX = /^A0\d{7}$/;
+const ICAL_URL_REGEX = /^https:\/\/\S+\.ics(?:[?#]\S*)?$/i;
 const TOTAL_STEPS = 3;
 const SEMESTRES = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
@@ -143,9 +144,29 @@ function isStepValid(step: number, state: State): boolean {
     return Boolean(state.carreraClave) && Boolean(state.modelo) && state.semestre != null;
   }
   if (step === 3) {
-    return Object.keys(state.materias).length >= 1;
+    return (
+      Object.keys(state.materias).length >= 1 &&
+      isCanvasIcalValid(state.canvasIcalUrl)
+    );
   }
   return false;
+}
+
+function isCanvasIcalValid(value: string): boolean {
+  const trimmed = value.trim();
+  return trimmed.length === 0 || ICAL_URL_REGEX.test(trimmed);
+}
+
+function toDemoProfile(body: ProfileSetupBody) {
+  const safeBody: Omit<ProfileSetupBody, "canvasIcalUrl"> = {
+    matricula: body.matricula,
+    nombre: body.nombre,
+    carreraClave: body.carreraClave,
+    modelo: body.modelo,
+    semestre: body.semestre,
+    materias: body.materias,
+  };
+  return safeBody;
 }
 
 export function OnboardingFlow() {
@@ -215,6 +236,7 @@ export function OnboardingFlow() {
   const progress = (state.step / TOTAL_STEPS) * 100;
 
   function handleNext() {
+    if (state.submitting) return;
     if (state.step < TOTAL_STEPS) {
       dispatch({ type: "NEXT" });
     } else {
@@ -226,6 +248,7 @@ export function OnboardingFlow() {
     if (!isStepValid(3, state) || !state.carreraClave || !state.modelo || state.semestre == null) {
       return;
     }
+    if (state.submitting) return;
 
     const body: ProfileSetupBody = {
       matricula: state.matricula.trim(),
@@ -233,10 +256,11 @@ export function OnboardingFlow() {
       carreraClave: state.carreraClave,
       modelo: state.modelo as Modelo,
       semestre: state.semestre,
-      materias: Object.values(state.materias).map(({ clave, nombre, creditos }) => ({
+      materias: Object.values(state.materias).map(({ clave, nombre, creditos, prioridad }) => ({
         clave,
         nombre,
         creditos,
+        prioridad,
       })),
       canvasIcalUrl: state.canvasIcalUrl.trim() || undefined,
     };
@@ -257,7 +281,7 @@ export function OnboardingFlow() {
           if (typeof window !== "undefined") {
             window.localStorage.setItem(
               "teccoach.demoProfile",
-              JSON.stringify({ ...body, prioridades: state.materias }),
+              JSON.stringify(toDemoProfile(body)),
             );
           }
           toast.success("Perfil guardado en modo demo", {
@@ -500,6 +524,8 @@ function StepClasses({
   materias: Materia[];
   loading: boolean;
 }) {
+  const canvasIcalInvalid = !isCanvasIcalValid(state.canvasIcalUrl);
+
   return (
     <div className="space-y-6">
       <div className="space-y-3">
@@ -598,12 +624,13 @@ function StepClasses({
           inputMode="url"
           placeholder="https://canvas.tec.mx/feeds/calendars/...ics"
           value={state.canvasIcalUrl}
+          aria-invalid={canvasIcalInvalid}
           onChange={(e) =>
             dispatch({ type: "SET", field: "canvasIcalUrl", value: e.target.value })
           }
         />
         <p className="text-xs text-muted-foreground">
-          Solo lectura. La usamos para conocer tus entregas y exámenes.
+          Solo lectura. Debe ser una URL https que termine en .ics.
         </p>
       </div>
     </div>

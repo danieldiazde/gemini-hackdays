@@ -33,6 +33,6 @@ export type ProfileSetupBody = {
   carreraClave: string;
   modelo: Modelo;
   semestre: number;
-  materias: Array<Pick<Materia, "clave" | "nombre" | "creditos">>;
+  materias: Array<Pick<Materia, "clave" | "nombre" | "creditos"> & { prioridad: number }>;
   canvasIcalUrl?: string;
 };
