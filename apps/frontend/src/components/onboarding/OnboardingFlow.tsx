@@ -35,6 +35,7 @@ import {
 } from "@/components/ui/select";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Slider } from "@/components/ui/slider";
+import { isDemoMode } from "@/lib/demo";
 import {
   CARRERAS_FIXTURE,
   getFixturePlan,
@@ -266,6 +267,30 @@ export function OnboardingFlow() {
     };
 
     dispatch({ type: "SET", field: "submitting", value: true });
+
+    const demo = isDemoMode(
+      typeof window !== "undefined"
+        ? new URLSearchParams(window.location.search)
+        : null,
+    );
+    if (demo) {
+      if (typeof window !== "undefined") {
+        window.localStorage.setItem(
+          "teccoach.demoProfile",
+          JSON.stringify(toDemoProfile(body)),
+        );
+      }
+      toast.success("Perfil guardado en modo demo", {
+        description: "Saltando el backend para mantener el demo limpio.",
+      });
+      const next =
+        typeof window !== "undefined" &&
+        new URLSearchParams(window.location.search).get("demo") === "1"
+          ? "/dashboard?demo=1"
+          : "/dashboard";
+      router.push(next);
+      return;
+    }
 
     try {
       const res = await fetch("/api/profile/setup", {

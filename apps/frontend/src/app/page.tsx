@@ -55,12 +55,12 @@ export default function HomePage() {
       </header>
 
       <section className="mx-auto flex max-w-3xl flex-col items-center gap-8 px-6 pt-10 pb-16 text-center sm:pt-16">
-        <span className="inline-flex items-center gap-2 rounded-full border border-gemini-blue/30 bg-card/80 px-3 py-1 text-xs font-medium text-gemini-blue shadow-sm backdrop-blur">
+        <span className="inline-flex items-center gap-2 rounded-full border border-gemini-blue/30 bg-card/80 px-3 py-1 text-xs font-medium text-gemini-blue shadow-sm backdrop-blur motion-safe:animate-in motion-safe:fade-in-0 motion-safe:duration-500">
           <Sparkles className="size-3.5" />
           Tu coach académico, impulsado por Gemini
         </span>
 
-        <h1 className="text-balance text-5xl font-semibold tracking-tight text-foreground sm:text-6xl md:text-7xl">
+        <h1 className="text-balance text-5xl font-semibold tracking-tight text-foreground motion-safe:animate-in motion-safe:fade-in-0 motion-safe:slide-in-from-bottom-2 motion-safe:duration-700 sm:text-6xl md:text-7xl">
           Estudia lo correcto,{" "}
           <span className="bg-gemini-gradient bg-clip-text text-transparent">
             en el momento correcto
@@ -68,13 +68,15 @@ export default function HomePage() {
           .
         </h1>
 
-        <p className="max-w-2xl text-balance text-lg leading-8 text-muted-foreground">
+        <p className="max-w-2xl text-balance text-lg leading-8 text-muted-foreground motion-safe:animate-in motion-safe:fade-in-0 motion-safe:duration-700 motion-safe:delay-150">
           TecCoach lee tu carga real desde Canvas y Google Calendar, entiende tu
           plan Tec21 y te dice qué estudiar esta semana, cuándo y por qué.
           Aprueba los bloques sugeridos y se agendan con un click.
         </p>
 
-        <LoginButton />
+        <div className="motion-safe:animate-in motion-safe:fade-in-0 motion-safe:zoom-in-95 motion-safe:duration-500 motion-safe:delay-300">
+          <LoginButton />
+        </div>
 
         <p className="text-xs text-muted-foreground">
           Solo Google OAuth. Nunca pedimos tus credenciales del Tec.
@@ -82,10 +84,11 @@ export default function HomePage() {
       </section>
 
       <section className="mx-auto grid max-w-6xl gap-4 px-6 pb-20 sm:grid-cols-3">
-        {features.map(({ icon: Icon, title, description }) => (
+        {features.map(({ icon: Icon, title, description }, i) => (
           <Card
             key={title}
-            className="bg-card/90 p-2 shadow-sm transition hover:shadow-md"
+            style={{ animationDelay: `${400 + i * 100}ms` }}
+            className="bg-card/90 p-2 shadow-sm transition duration-200 hover:-translate-y-0.5 hover:shadow-lg motion-safe:animate-in motion-safe:fade-in-0 motion-safe:slide-in-from-bottom-2 motion-safe:fill-mode-both"
           >
             <CardHeader>
               <div className="mb-2 inline-flex size-10 items-center justify-center rounded-lg bg-gemini-gradient text-white shadow-sm">

@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import { redirect } from "next/navigation";
 
+import { isDemoModeEnv } from "@/lib/demo";
 import { getSupabaseServer } from "@/lib/supabase/server";
 
 function hasSupabaseConfig() {
@@ -11,7 +12,7 @@ function hasSupabaseConfig() {
 }
 
 export default async function AppLayout({ children }: { children: ReactNode }) {
-  if (hasSupabaseConfig()) {
+  if (hasSupabaseConfig() && !isDemoModeEnv()) {
     const supabase = await getSupabaseServer({
       allowCookieWriteFailure: true,
     });
@@ -32,9 +33,14 @@ export default async function AppLayout({ children }: { children: ReactNode }) {
           <span className="bg-gemini-gradient bg-clip-text text-lg font-bold tracking-tight text-transparent">
             TecCoach
           </span>
+          {isDemoModeEnv() && (
+            <span className="rounded-full border border-gemini-blue/40 bg-card px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-gemini-blue">
+              Modo demo
+            </span>
+          )}
         </div>
       </header>
-      <main className="mx-auto max-w-6xl px-6 py-8">{children}</main>
+      <main className="mx-auto max-w-6xl px-4 py-8 sm:px-6">{children}</main>
     </div>
   );
 }
