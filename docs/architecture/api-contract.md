@@ -1,147 +1,163 @@
 # API contract
 
-The frontend renders against this contract. Keep `apps/backend/app/schemas/interpret.py` and `apps/frontend/src/types/interpret.ts` in sync when you change it.
+The source of truth is `PROJECT.md`. This file mirrors the active TecCoach API surface for architecture reference.
+
+All endpoints are implemented as Next.js API routes. There is no separate FastAPI service.
 
 ---
 
-## `GET /health`
+## Data endpoints
 
-Quick liveness check. Useful for the frontend to detect that the backend is up and to surface mock-mode in the UI.
+### `POST /api/canvas/sync`
 
-**Response 200**
+Syncs assignments/deadlines from a student-provided Canvas iCal URL into Supabase.
 
-```json
+Request:
+
+```ts
+{ icalUrl: string }
+```
+
+Response:
+
+```ts
+{ success: true; eventsAdded: number }
+```
+
+### `POST /api/calendar/sync`
+
+Reads the next 14 days from the authenticated student's primary Google Calendar and stores normalized events.
+
+Request: empty body, uses session.
+
+Response:
+
+```ts
+{ success: true; eventsAdded: number }
+```
+
+### `POST /api/calendar/create`
+
+Writes student-approved study blocks to Google Calendar.
+
+Request:
+
+```ts
 {
-  "status": "ok",
-  "mock_mode": true,
-  "model": "gemini-2.5-flash"
+  events: Array<{
+    titulo: string;
+    descripcion?: string;
+    inicio: string;
+    fin: string;
+  }>;
+}
+```
+
+Response:
+
+```ts
+{ success: true; created: number; ids: string[] }
+```
+
+### `GET /api/planes/:carreraClave`
+
+Returns seeded Tec study-plan data.
+
+Response:
+
+```ts
+{
+  carreraClave: string;
+  nombre: string;
+  data: {
+    semestres: Array<{
+      numero: number;
+      materias: Array<{
+        clave: string;
+        nombre: string;
+        creditos: number;
+        tipo: "regular" | "life" | "semana_tec";
+      }>;
+    }>;
+  };
 }
 ```
 
 ---
 
-## `POST /api/interpret`
+## AI endpoints
 
-The single endpoint the demo runs through. The backend turns the user's prompt into a structured plan the UI can render.
+### `POST /api/insights/generate`
 
-### Request
+Generates or refreshes weekly study insights using Gemini structured output.
 
-```json
+Request:
+
+```ts
+{ forceRefresh?: boolean }
+```
+
+Response:
+
+```ts
 {
-  "prompt": "Show me our hackathon team's progress",
-  "mode": "auto"
+  semana_iso: string;
+  contenido: {
+    mensaje: string;
+    prioridades: Array<{
+      materia: string;
+      razon: string;
+      urgencia: "alta" | "media" | "baja";
+    }>;
+    bloques_sugeridos: Array<{
+      titulo: string;
+      materia: string;
+      inicio_iso: string;
+      fin_iso: string;
+      razon: string;
+    }>;
+  };
 }
 ```
 
-| Field    | Type                                                | Required | Notes                                  |
-| -------- | --------------------------------------------------- | -------- | -------------------------------------- |
-| `prompt` | string (1–4000 chars)                               | yes      | The user's natural-language request    |
-| `mode`   | `"dynamic_ui"` \| `"agentic_simulation"` \| `"auto"`| yes      | Hint to Gemini about expected output  |
+### `GET /api/insights/current`
 
-### Response 200
+Returns the current week's cached insight, or `null`.
 
-```json
-{
-  "summary": "string",
-  "intent": "string",
-  "mode": "auto",
-  "components": [
-    {
-      "type": "card | chart | table | timeline | simulation_panel",
-      "title": "string",
-      "description": "string",
-      "data": { "...": "free-form, type-specific" }
-    }
-  ],
-  "actions": [
-    {
-      "type": "tool_call | agent_action | ui_action",
-      "name": "string",
-      "arguments": { "...": "free-form" }
-    }
-  ],
-  "raw_model_output": { "...": "anything" },
-  "is_mock": false
-}
+Response:
+
+```ts
+{ insight: Insight | null }
 ```
-
-### Component data shapes
-
-The schema deliberately keeps `data` as a free-form `Record<string, unknown>`, but the renderers expect these shapes today:
-
-#### `card`
-
-```json
-{ "any_key": "any_value" }
-```
-
-Rendered as a key/value grid plus the description.
-
-#### `chart`
-
-```json
-{
-  "kind": "bar",
-  "x_label": "Category",
-  "y_label": "Value",
-  "series": [{ "label": "alpha", "value": 12 }]
-}
-```
-
-Rendered as a horizontal bar chart. Add new `kind` values (`line`, `area`, …) by extending `ChartRenderer.tsx`.
-
-#### `table`
-
-```json
-{
-  "columns": ["id", "name", "status"],
-  "rows": [[1, "Sensor A", "online"]]
-}
-```
-
-#### `timeline`
-
-```json
-{ "events": [{ "t": "T+0s", "label": "Receive prompt" }] }
-```
-
-#### `simulation_panel`
-
-```json
-{
-  "world": { "grid_w": 8, "grid_h": 8 },
-  "agents": [{ "id": "robot-1", "x": 1, "y": 2, "heading": "N" }],
-  "tick": 0
-}
-```
-
-### Action types
-
-| `type`         | Meaning                                              | Example `name`     |
-| -------------- | ---------------------------------------------------- | ------------------ |
-| `tool_call`    | Backend should execute a registered tool             | `search_inventory` |
-| `agent_action` | Simulated agent action in the rendered world         | `plan_route`       |
-| `ui_action`    | Frontend-only directive (open panel, scroll to, …)   | `open_panel`       |
-
-### Errors
-
-| Status | When                                              | Body                                     |
-| ------ | ------------------------------------------------- | ---------------------------------------- |
-| 422    | Invalid request (empty prompt, unknown mode)      | FastAPI default validation error         |
-| 502    | Upstream Gemini call failed                       | `{ "detail": "upstream model error: ..." }` |
-
-### Mock mode
-
-If `GEMINI_API_KEY` is not set, the response carries `is_mock: true` and a clearly-labeled summary. The shape is identical to the real response so the frontend never has to special-case mock data.
 
 ---
 
-## Extending the contract
+## Profile endpoint
 
-When you add a new component type:
+### `POST /api/profile/setup`
 
-1. Add it to the `ComponentType` literal in `interpret.py`.
-2. Mirror it in `interpret.ts`.
-3. Add a sample to `mock_data.py` so the mock still exercises every type.
-4. Create `apps/frontend/src/components/dynamic/<Name>Renderer.tsx`.
-5. Wire it into the switch in `ResponseDisplay.tsx`.
+Creates or updates the student's TecCoach onboarding profile.
+
+Request:
+
+```ts
+{
+  matricula: string;
+  nombre: string;
+  carreraClave: string;
+  modelo: "tec21" | "clasico";
+  semestre: number;
+  materias: Array<{
+    clave: string;
+    nombre: string;
+    creditos: number;
+  }>;
+  canvasIcalUrl?: string;
+}
+```
+
+Response:
+
+```ts
+{ success: true }
+```

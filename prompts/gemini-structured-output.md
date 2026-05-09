@@ -1,112 +1,82 @@
 # Gemini structured-output prompts
 
-This file is the team's working notebook for the system prompt and few-shot examples that get Gemini 2.5 Flash to emit our schema reliably. It is *not* loaded automatically — copy what works into `apps/backend/app/services/gemini_client.py`.
+Working notebook for TecCoach Gemini prompts. Copy stable prompt text into the Next.js API route that owns `POST /api/insights/generate`.
 
----
+## Contract
 
-## The contract Gemini must produce
+Gemini should return JSON matching the `contenido` shape in `PROJECT.md`:
 
-See [`docs/architecture/api-contract.md`](../docs/architecture/api-contract.md) for the canonical response shape.
-
-When we wire structured outputs, we'll pass:
-
-```python
-from google.genai import types
-
-config = types.GenerateContentConfig(
-    response_mime_type="application/json",
-    response_schema=InterpretResponse,  # Pydantic model
-    system_instruction=SYSTEM_PROMPT,
-)
+```ts
+{
+  mensaje: string;
+  prioridades: Array<{
+    materia: string;
+    razon: string;
+    urgencia: "alta" | "media" | "baja";
+  }>;
+  bloques_sugeridos: Array<{
+    titulo: string;
+    materia: string;
+    inicio_iso: string;
+    fin_iso: string;
+    razon: string;
+  }>;
+}
 ```
-
-This forces Gemini to return JSON that matches our Pydantic model. No string parsing, no fragile regex.
-
----
 
 ## System-prompt draft
 
 ```text
-You are the planner for "gemini-hackdays", a hackathon prototype that turns
-natural-language requests into structured UI plans.
+Eres TecCoach, un coach académico para estudiantes del Tec de Monterrey.
 
-Always return JSON matching the InterpretResponse schema you were given.
+Tu tarea es crear prioridades de estudio y bloques sugeridos para la semana
+actual usando solamente el contexto proporcionado.
 
-Rules:
-- Be concise. The user is watching a demo.
-- Pick the smallest set of components that answer the request.
-- Set `summary` to one sentence the user could read aloud.
-- Set `intent` to a short noun phrase describing what they asked for.
-- Use `chart` for numeric comparisons, `table` for records, `timeline` for
-  ordered events, `simulation_panel` for spatial / robotic state, and
-  `card` for everything else.
-- Use `actions[].tool_call` only for tools you were told are available.
-- If you're uncertain, return one `card` with your best summary and an empty
-  `actions` list. Do not invent data.
+Reglas:
+- Responde únicamente JSON válido con el schema indicado.
+- No inventes materias, entregas, fechas ni eventos.
+- Considera Semanas Tec, materias life, carga académica y conflictos de
+  calendario cuando el contexto los incluya.
+- Sugiere bloques de estudio en horarios libres.
+- No sugieras escribir a Google Calendar; la aplicación pedirá aprobación al
+  estudiante antes de crear eventos.
+- El mensaje debe ser breve, claro y accionable.
+- Cada prioridad debe explicar la razón concreta de la urgencia.
 ```
 
----
+## Input context shape
 
-## Few-shot examples (to be added)
+The route should build a compact context object before calling Gemini:
 
-We'll fill these in once we pick the product direction. Some seeds:
-
-### Direction 1 — generative UI
-
-```text
-USER: "Show me sensor health for the warehouse robots."
-ASSISTANT: {
-  "summary": "Two robots online, one degraded.",
-  "intent": "warehouse robot sensor health",
-  "mode": "dynamic_ui",
-  "components": [
-    { "type": "table", "title": "Robot status", "data": { ... } },
-    { "type": "chart", "title": "Battery levels", "data": { ... } }
-  ],
-  "actions": [{ "type": "tool_call", "name": "fetch_robot_status", "arguments": {} }],
-  "raw_model_output": {},
-  "is_mock": false
+```ts
+{
+  profile: {
+    nombre: string;
+    carrera_clave: string;
+    modelo: "tec21" | "clasico";
+    semestre: number;
+  };
+  materias: Array<{
+    clave: string;
+    nombre: string;
+    creditos: number;
+    prioridad: number;
+  }>;
+  eventos: Array<{
+    fuente: "google" | "canvas" | "ai_suggested" | "manual";
+    titulo: string;
+    inicio: string;
+    fin: string;
+    metadata?: Record<string, unknown>;
+  }>;
+  plan_estudio?: unknown;
+  semana_iso: string;
 }
 ```
 
-### Direction 2 — agentic simulation
+## Pitfalls
 
-```text
-USER: "Robot at (1,2). Patrol to (5,4) avoiding the guard NPC."
-ASSISTANT: {
-  "summary": "5-step patrol plan that avoids the guard.",
-  "intent": "patrol route around guard",
-  "mode": "agentic_simulation",
-  "components": [
-    { "type": "simulation_panel", "data": { ... } },
-    { "type": "timeline", "data": { ... } }
-  ],
-  "actions": [
-    { "type": "agent_action", "name": "move", "arguments": { "to": [2,2] } },
-    { "type": "agent_action", "name": "move", "arguments": { "to": [3,2] } }
-  ],
-  "raw_model_output": {},
-  "is_mock": false
-}
-```
-
----
-
-## Pitfalls to watch for
-
-- **Too many components.** Cap the response at 3–4 components for demo legibility.
-- **Made-up data.** If we don't have a tool to fetch reality, the mock should be obvious or absent.
-- **Drift from schema.** Use `response_schema` from day one, not just a system prompt.
-- **Long descriptions.** Component descriptions render small — keep them under one sentence.
-
----
-
-## Useful Gemini features to evaluate
-
-| Feature             | Why we'd want it                              |
-| ------------------- | --------------------------------------------- |
-| `response_schema`   | Force-fit our Pydantic shape                  |
-| Function calling    | Replace mock tools with real ones             |
-| `thinking_config`   | Better plans on harder prompts (Gemini 2.5)   |
-| Multimodal input    | Drop in a screenshot, get a UI plan back      |
-| File API            | Long-context dataset summaries                |
+- Do not send secrets, OAuth tokens, or raw calendar descriptions unless needed.
+- Do not let Gemini choose final calendar writes. It only suggests blocks.
+- Keep output small enough for the dashboard to scan quickly.
+- Cache by `user_id` and `semana_iso` so repeated dashboard loads do not spend quota.
