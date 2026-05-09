@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "gemini-hackdays",
+  title: "TecCoach",
   description:
-    "Gemini-powered hackathon project — natural-language requests rendered as live UI.",
+    "Gemini-powered academic coach for Tec de Monterrey students.",
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="es">
       <body className="min-h-screen">{children}</body>
     </html>
   );

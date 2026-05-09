@@ -1,69 +1,57 @@
 # Demo script
 
-> **Status: placeholder.** Fill this in once the team commits to a product direction (see [`docs/planning/project-directions.md`](../planning/project-directions.md)).
+The demo follows the TecCoach flow from `PROJECT.md`.
 
-The goal is a 60–90 second live demo that lands without narration if the audio cuts out.
+## Opening
 
----
+TecCoach is an academic coach for Tec students. It connects calendar context, Canvas deadlines, and Tec21 study-plan context so Gemini can recommend what to study this week and schedule approved study blocks.
 
-## Template
+## Flow
 
-### Opening (10s)
+1. Open TecCoach.
+2. Click "Iniciar sesión con Google".
+3. Complete onboarding:
+   - matricula
+   - carrera
+   - semestre
+   - materias inscritas
+   - Canvas iCal URL
+4. Show dashboard:
+   - coach message
+   - three priorities
+   - urgency and rationale
+   - suggested weekly study blocks
+5. Click "Aplicar a Google Calendar".
+6. Open Google Calendar and show the created study blocks.
 
-- One sentence: what problem the project solves.
-- One sentence: who it's for.
+## Gemini moment
 
-### Setup (10s)
+Explain that Gemini receives structured academic context, not a generic prompt:
 
-- Open the deployed frontend (or local dev server).
-- Show the empty prompt form.
+- Tec profile and semester
+- enrolled classes
+- Canvas deadlines
+- Google Calendar availability
+- Tec21 rules such as Semanas Tec and life courses
 
-### The "wow" (30s)
+Gemini returns structured JSON for priorities and suggested blocks, which the UI renders and the calendar endpoint can apply.
 
-- Type the **canonical demo prompt** (defined below).
-- Press submit.
-- Watch the structured UI populate live.
-- Highlight 2–3 component renderers as they appear.
+## Recovery plan
 
-### Story (10s)
-
-- One sentence: how Gemini made this possible.
-- One sentence: what's interesting under the hood (structured outputs / tool use / multimodal).
-
-### Close (10s)
-
-- One sentence: what's next.
-- Repo URL.
-
----
-
-## Canonical demo prompt
-
-`<TBD — pick something that always works on stage and exercises the chosen component types>`
-
-Examples to riff on:
-
-- *"Show me a live dashboard for our robotics team's hackathon progress, including a sensor health table and a sprint burndown chart."*
-- *"Robot starts at (1,2). Patrol the warehouse and report blockers, then plan a rescue mission for any stuck teammates."*
-
----
-
-## Failure modes (and the recovery plan)
-
-| Failure                       | Mitigation                                        |
-| ----------------------------- | ------------------------------------------------- |
-| Wifi dies                     | Run backend in mock mode locally — UI still demos |
-| Gemini quota / 5xx            | Mock mode kicks in; flag bar shows "local mock"   |
-| Frontend white-screens        | `pnpm build && pnpm start` rather than dev server |
-| Backend slow to start         | Pre-warm with one dry-run prompt before going live |
-
----
+| Failure | Mitigation |
+| --- | --- |
+| Google OAuth is unavailable | Use a seeded local demo profile |
+| Calendar API write fails | Show the pending blocks and explain approval/write path |
+| Canvas iCal unavailable | Use fixture iCal data |
+| Gemini quota or network issue | Use cached weekly insight fixture |
+| Frontend dev server issue | Use Vercel preview or `pnpm build:frontend && pnpm --filter frontend start` |
 
 ## Pre-demo checklist
 
-- [ ] Backend is running and `/health` returns `mock_mode: false`
-- [ ] Frontend is running and pointing at the right API URL
-- [ ] Canonical demo prompt is in the clipboard
-- [ ] One backup prompt is in the clipboard
-- [ ] Slack notifications muted, browser tabs closed
-- [ ] Battery > 60% or plugged in
+- [ ] Supabase project configured
+- [ ] Google OAuth consent screen configured
+- [ ] Google Calendar API enabled
+- [ ] Gemini API key configured server-side
+- [ ] Demo profile and fallback fixture data available
+- [ ] Browser signed into the demo Google account
+- [ ] Notifications muted

@@ -2,19 +2,14 @@
   "name": "gemini-hackdays",
   "version": "0.1.0",
   "private": true,
-  "description": "Gemini-powered hackathon project — FastAPI backend + Next.js frontend.",
+  "description": "TecCoach — Gemini-powered academic coach for Tec de Monterrey students.",
   "scripts": {
     "dev:frontend": "pnpm --filter frontend dev",
-    "dev:backend": "uv --directory apps/backend run uvicorn app.main:app --reload --port 8000",
     "build:frontend": "pnpm --filter frontend build",
     "lint:frontend": "pnpm --filter frontend lint",
     "typecheck:frontend": "pnpm --filter frontend typecheck",
-    "lint:backend": "uv --directory apps/backend run ruff check .",
-    "format:backend": "uv --directory apps/backend run ruff format --check .",
-    "test:backend": "uv --directory apps/backend run pytest",
     "check:frontend": "pnpm lint:frontend && pnpm typecheck:frontend",
-    "check:backend": "pnpm lint:backend && pnpm format:backend && pnpm test:backend",
-    "check": "pnpm check:frontend && pnpm check:backend"
+    "check": "pnpm check:frontend"
   },
   "engines": {
     "node": ">=22"
