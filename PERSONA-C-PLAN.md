@@ -24,8 +24,8 @@ We execute one TAREA per phase: ship → commit → PR (`feat/c-<slug>` → `dev
 | 2 | Landing + Google login | `feat/c-landing-login` | ✅ Merged via #5 |
 | 3 | Onboarding multi-step | `feat/c-onboarding` | ✅ Merged via #6 |
 | 4 | Dashboard | `feat/c-dashboard` | ✅ Merged via #7 |
-| 5 | Polish + demo data | `feat/c-polish` | ✅ Code done, opening PR |
-| 6 | Stretch | `feat/c-stretch` | ⏳ Optional |
+| 5 | Polish + demo data | `feat/c-polish` | ✅ PR #8 |
+| 6 | Stretch (typewriter + confetti) | `feat/c-stretch` | ✅ Code done, opening PR |
 
 ---
 
