@@ -20,10 +20,10 @@ We execute one TAREA per phase: ship → commit → PR (`feat/c-<slug>` → `dev
 
 | Phase | TAREA | Branch | Status |
 | --- | --- | --- | --- |
-| 1 | Foundation (shadcn, palette, Supabase clients) | `feat/c-foundation` | ✅ PR #4 open against `dev` |
-| 2 | Landing + Google login | `feat/c-landing-login` (stacked on c-foundation) | ✅ Code done, opening PR |
-| 3 | Onboarding multi-step | `feat/c-onboarding` | ⏳ Next |
-| 4 | Dashboard | `feat/c-dashboard` | ☐ |
+| 1 | Foundation (shadcn, palette, Supabase clients) | `feat/c-foundation` | ✅ Merged via #4 |
+| 2 | Landing + Google login | `feat/c-landing-login` | ✅ Merged via #5 |
+| 3 | Onboarding multi-step | `feat/c-onboarding` | ✅ Code done, opening PR |
+| 4 | Dashboard | `feat/c-dashboard` | ⏳ Next |
 | 5 | Polish + demo data | `feat/c-polish` | ☐ |
 | 6 | Stretch | `feat/c-stretch` | ☐ |
 
@@ -177,9 +177,14 @@ PR: `feat/c-stretch`.
 
 - shadcn 4.7 default style is **`base-nova`**, built on **`@base-ui/react`** (not Radix). Components import from `@base-ui/react/<primitive>`.
 - Tailwind v4 is **CSS-first**. No `tailwind.config.ts`; Gemini tokens live in `@theme { --color-gemini-* }` inside `globals.css`. Generated utilities: `bg-gemini-blue|purple|pink|red|bg|card`, `text-gemini-*`, `border-gemini-*`, `bg-gemini-gradient`.
-- shadcn defaulted to **Geist**; the prompt mandates **Inter**, so I switched it in `layout.tsx`.
+- **Fonts: system fonts only.** The team's build env can't reach `fonts.gstatic.com`, so `next/font/google` is out. `--font-sans` is `ui-sans-serif, system-ui, sans-serif` in `globals.css`. Don't reintroduce Inter via `next/font/google` (commit `54fff17` removed it).
 - `next-themes` wraps the tree even though dark mode is off — the shadcn `Toaster` calls `useTheme()`, so the provider must exist.
 - Use `pnpm dlx shadcn@latest` from `apps/frontend` (NOT `pnpm --filter ... dlx`).
+- **Auth gate** lives in `app/(app)/layout.tsx`: when Supabase env vars are set, unauthenticated requests get redirected to `/?error=auth_required`. The gate is bypassed when env is missing so local dev / `?demo=1` still works. Anything new under `(app)` inherits this.
+- **`/auth/callback` `next` allow-list**: only `/onboarding` and `/dashboard` are accepted. Add new safe destinations to the `ALLOWED_NEXT_PATHS` set in `route.ts` if needed.
+- **Missing-table detection**: `isMissingProfilesTable()` in the callback handler matches Postgres code `42P01` or the `relation .* does not exist` error message — same pattern works for any table that may not be seeded yet.
+- **Google OAuth scope** is narrowed to `calendar.events` only (was `calendar` + `calendar.events`). The "Aplicar al GCal" flow only writes events, so least privilege is the right call. If Persona A needs read access to the user's other calendars later, widen this in `LoginButton.tsx` and re-prompt.
+- **`getSupabaseServer({ allowCookieWriteFailure: true })`** is the right call from Server Components (`app/(app)/layout.tsx` uses it). The default rethrows cookie-write errors so Route Handlers fail loudly.
 
 ## What this plan deliberately avoids
 
