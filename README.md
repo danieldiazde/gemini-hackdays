@@ -108,14 +108,19 @@ create table if not exists profiles (
   carrera_clave text,
   modelo text check (modelo in ('tec21','tec26')),
   semestre integer check (semestre between 1 and 10),
-  semestre_inicio date,
+  periodo_nombre text,
+  periodo_inicio date,
+  periodo_fin date,
   canvas_ical_url text,
   created_at timestamptz default now(),
   updated_at timestamptz default now()
 );
 
--- If profiles already exists, add the new column:
---   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS semestre_inicio date;
+-- If profiles already exists, run this migration:
+--   ALTER TABLE profiles DROP COLUMN IF EXISTS semestre_inicio;
+--   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS periodo_nombre text;
+--   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS periodo_inicio date;
+--   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS periodo_fin date;
 
 create table if not exists planes_estudio (
   carrera_clave text primary key,
@@ -128,12 +133,18 @@ create table if not exists materias_inscritas (
   user_id uuid references auth.users(id) on delete cascade,
   clave text not null,
   nombre text,
+  crn text,
   creditos integer,
   prioridad integer,
   horas_clase integer,
   horas_auto integer,
+  periodos jsonb default '[]'::jsonb,
   created_at timestamptz default now()
 );
+
+-- If materias_inscritas already exists:
+--   ALTER TABLE materias_inscritas ADD COLUMN IF NOT EXISTS crn text;
+--   ALTER TABLE materias_inscritas ADD COLUMN IF NOT EXISTS periodos jsonb default '[]'::jsonb;
 
 -- NOTE: column names are fecha_inicio/fecha_fin (not inicio/fin) and source (not fuente)
 create table if not exists eventos (
