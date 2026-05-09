@@ -1,0 +1,482 @@
+{
+  "carreraClave": "BME26",
+  "nombre": "Ingeniería en Mecatrónica",
+  "descripcionES": "",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Programa académico de Ingeniería en Mecatrónica, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de matemáticas, física y computación. Comprensión básica de metodologías y técnicas para la búsqueda de información y aprendizaje continuo, así como, nociones sobre ciencias sociales y cultura en general. Contar con habilidades de pensamiento crítico, capacidad de análisis, observación y el razonamiento lógico. Aptitudes para el trabajo en equipo, sol",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "IB1007",
+            "nombre": "Biología y sustentabilidad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Biología y sustentabilidad",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Bioingeniería",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer soluciones sustentables a problemas de ingeniería aplicando principios básicos de la biología. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad aplicando herramientas y conceptos de la biología."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1037",
+            "nombre": "Pensamiento algorítmico",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Pensamiento algorítmico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1028",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar colaborativamente soluciones a problemas ingenieriles en modelos físicos y computacionales a través del diseño e implementación de algoritmos utilizando un lenguaje de programación - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado a través del planteamiento y evaluación de diferentes alternativas de solución a los problemas propuestos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "F1028B",
+            "nombre": "Fundamentos de termodinámica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado F1025B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0005&lang=ES"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1"
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054"
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054"
+          },
+          {
+            "clave": "MA1056",
+            "nombre": "Álgebra lineal",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1
+          },
+          {
+            "clave": "Q1030",
+            "nombre": "Fundamentos de química",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "E1001B",
+            "nombre": "Circuitos eléctricos aplicados",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "F1026B",
+            "nombre": "Electricidad y magnetismo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado F1025B y Haber Cursado MA1055 )"
+          },
+          {
+            "clave": "M1001B",
+            "nombre": "Fundamentos de diseño ingenieril",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1
+          },
+          {
+            "clave": "M2039",
+            "nombre": "Fundamentos de mecánica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado F1025B y Haber Aprobado MA1056 )"
+          },
+          {
+            "clave": "MA2018",
+            "nombre": "Ecuaciones diferenciales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1055"
+          },
+          {
+            "clave": "TC1041",
+            "nombre": "Fundamentos de programación orientada a objetos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC1037"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "E2002",
+            "nombre": "Circuitos eléctricos y digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado E1001B )"
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3
+          },
+          {
+            "clave": "MR2008B",
+            "nombre": "Mecatrónica del movimiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado M2039"
+          },
+          {
+            "clave": "MR2009B",
+            "nombre": "Integración de elementos mecatrónicos",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado M2039 y Haber Cursado E1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0009&lang=ES"
+          },
+          {
+            "clave": "MR2028",
+            "nombre": "Modelado de sistemas dinámicos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA2018",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0004&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3
+          },
+          {
+            "clave": "M2046",
+            "nombre": "Fundamentos de termofluidos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado F1028B"
+          },
+          {
+            "clave": "MR2010B",
+            "nombre": "Microcontroladores y electrónica aplicada",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado E2002",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0010&lang=ES"
+          },
+          {
+            "clave": "MR2011B",
+            "nombre": "Automatización industrial",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Estar Cursando MR2010B y Haber Cursado MR2009B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0011&lang=ES"
+          },
+          {
+            "clave": "MR2027",
+            "nombre": "Diseño de sistemas de control",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA2018"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "MR3004B",
+            "nombre": "Redes industriales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MR2011B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0013&lang=ES"
+          },
+          {
+            "clave": "MR3005B",
+            "nombre": "Automatización de sistemas de manufactura",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MR2011B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0006&lang=ES"
+          },
+          {
+            "clave": "MR3046",
+            "nombre": "Sistemas de control avanzado",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado MR2027 y Haber Aprobado MR2028 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0008&lang=ES"
+          },
+          {
+            "clave": "MR3047",
+            "nombre": "Programación avanzada de sistemas robóticos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TC1041 )"
+          },
+          {
+            "clave": "MR3048",
+            "nombre": "Fundamentos de robótica industrial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MR2028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MR0005&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "MR3006B",
+            "nombre": "Proyecto integrador mecatrónico",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MR3005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26MR0002&lang=ES"
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES"
+          }
+        ]
+      }
+    ]
+  }
+}

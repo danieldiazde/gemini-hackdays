@@ -1,0 +1,1113 @@
+{
+  "carreraClave": "LTP19",
+  "nombre": "Licenciatura en Gobierno y Transformación Pública",
+  "descripcionES": "Para acreditar las materias Tópico, es elección del alumno las unidades de formación que desea cursar , contando con la asesoría de su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1001B",
+            "nombre": "Transformación del México contemporáneo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0203A&lang=ES",
+            "nombreCompleto": "Transformación del México contemporáneo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Identifica los elementos y principios del Derecho, relacionándolos con Economía, Ciencia Política y Relaciones Internacionales. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "MA1022",
+            "nombre": "Pensamiento matemático I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0105B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1060",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el comportamiento de una variable a través de su descripción lógica, del análisis de funciones y calculando su valor aplicando diferentes metodologías."
+          },
+          {
+            "clave": "P1010",
+            "nombre": "Filosofía política para los dilemas contemporáneos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0501B&lang=ES",
+            "nombreCompleto": "Filosofía política para los dilemas contemporáneos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Evalúa casos de decisiones con impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de casos de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "P1011",
+            "nombre": "Introducción a las ciencias sociales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0401B&lang=ES",
+            "nombreCompleto": "Introducción a las ciencias sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0401B",
+              "SCIS0402B",
+              "SCIS0403A",
+              "SCIS0502B",
+              "SEG0602A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Compara soluciones político-sociales, aplicando teorías de elección social. - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz."
+          },
+          {
+            "clave": "RI1001B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0301B&lang=ES",
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0501A",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0404A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: RI1003B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las perspectivas teóricas de la política internacional, considerando niveles y unidades de análisis de la realidad contemporánea. - Analiza los desafíos de la agenda global contemporánea, considerando los intereses de los Estados nación. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre los dilemas que generen consenso e inclusión."
+          },
+          {
+            "clave": "TC1001B",
+            "nombre": "Principios de programación para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0403B&lang=ES",
+            "nombreCompleto": "Principios de programación para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1001B",
+            "nombre": "Introducción al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0201B&lang=ES",
+            "nombreCompleto": "Introducción al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0201B",
+              "SCIS0202B",
+              "SCIS0203B",
+              "SCIS0204A"
+            ],
+            "requisitosDetalle": "Equivalencia: D1003B",
+            "objetivo": "En la unidad de formación el alumno: - Identifica los elementos y principios que garantizan el Estado de Derecho y cultura de la legalidad en una sociedad democrática, tomando en cuenta su rol en el mantenimiento de los mismos. - Analiza problemas jurídicos, identificando las normas jurídicas aplicables. - Identifica los elementos y principios del Derecho, relacionándolos con la Economía, la Ciencia Política y las Relaciones Internacionales. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, considerando la participación de los actores relevantes."
+          },
+          {
+            "clave": "EC1002B",
+            "nombre": "Emprendimiento y tecnología para la transformación de México",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0204C&lang=ES",
+            "nombreCompleto": "Emprendimiento y tecnología para la transformación de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, sumando la participación de diferentes actores pertinentes en un modelo de intervención sostenible. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          },
+          {
+            "clave": "EC1013",
+            "nombre": "Macroeconomía",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103A&lang=ES",
+            "nombreCompleto": "Macroeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0103A",
+              "SCIS0104A",
+              "SEG0502A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EC1014",
+            "nombre": "Microeconomía",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101A&lang=ES",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "MA1023",
+            "nombre": "Métodos cuantitativos I",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702B&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0702B"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "MA1024",
+            "nombre": "Pensamiento matemático II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1022",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0106B",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Describe las variables económicas que afectan el desempeño de una economía, a partir del estudio matemático."
+          },
+          {
+            "clave": "TC1002B",
+            "nombre": "Herramientas tecnológicas para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado TC1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0601C&lang=ES",
+            "nombreCompleto": "Herramientas tecnológicas para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EC1003B",
+            "nombre": "Macroeconomía y desarrollo económico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado EC1013",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103B&lang=ES",
+            "nombreCompleto": "Macroeconomía y desarrollo económico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0103B",
+              "SCIS0104B",
+              "SEG0502B"
+            ],
+            "requisitosDetalle": "Equivalencia: EC2009B",
+            "objetivo": "En la unidad de formación el estudiante: - Determina los efectos que genera en la sociedad el desarrollo y crecimiento económico de un país, con base en variables macroeconómicas reales y nominales."
+          },
+          {
+            "clave": "EC1015",
+            "nombre": "Economía conductual",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado EC1014",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101C&lang=ES",
+            "nombreCompleto": "Economía conductual",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0101C",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101C",
+              "SEG0302A"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las decisiones de los agentes económicos con base en sus preferencias, en los costos de oportunidad y la información que poseen, a través de técnicas experimentales de la economía conductual. - Analiza el comportamiento de los agentes económicos, en un contexto de racionalidad limitada."
+          },
+          {
+            "clave": "EC1016",
+            "nombre": "Economía para la toma de decisiones",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101B&lang=ES",
+            "nombreCompleto": "Economía para la toma de decisiones",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101B",
+              "SCIS0106C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las decisiones estratégicas de los agentes económicos, con base en la información que poseen y determina las estrategias óptimas de acción."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "MA1025",
+            "nombre": "Métodos cuantitativos II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1023",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702C&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0702C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Aplica las técnicas de análisis estadísticos descriptivos e inferenciales, necesarias para obtener información de interés sobre un conjunto datos. - Analiza parámetros y variables, a partir de la estadística."
+          },
+          {
+            "clave": "MA1026",
+            "nombre": "Pensamiento matemático III",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1024",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106C&lang=ES",
+            "nombreCompleto": "Pensamiento matemático III",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0106C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Estima los comportamientos de distintas variables, a partir de un modelo económico a resolver, mediante herramientas matemáticas."
+          },
+          {
+            "clave": "P1001B",
+            "nombre": "Participación política y sociología de la identidad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0303C&lang=ES",
+            "nombreCompleto": "Participación política y sociología de la identidad",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0303C",
+              "SCIS0401C",
+              "SCIS0501C",
+              "SCIS0502C",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0303C",
+              "SCIS0401C",
+              "SCIS0501C",
+              "SCIS0502C",
+              "SEG0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: P2005B ; P2025B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Evalúa casos de decisiones de impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "P2001B",
+            "nombre": "Opinión pública",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0403A&lang=ES",
+            "nombreCompleto": "Opinión pública",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0403A",
+              "SSP0502A",
+              "SEG0502B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Ciencia Política donde el alumno aplica métodos cualitativos en el estudio de los fenómenos políticos y sociales, considerando particularidades del caso estudiado y la visión de los actores. Requiere conocimientos de: Ciencia Política y estadística y probabilidad. Como resultado del aprendizaje el alumno investiga sobre el diseño muestral para la elaboración de una encuesta de opinión pública, incluyendo población objetivo, efecto de diseño y estratificacióin. Soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de elaborar preguntas de cuestionario para encuesta que permitan medir variables latentes. Trabajo de campo en el contexto del entorno real en el que se enfrenta el reto relacionado con el piloteo de un cuestionario de opinión pública y su validación, interactuando con compañeros de trabajo y con los actores clave para la solución del reto. Generación de levantamiento de encuesta en campo, con base en plan muestral, como evidencias del desarrollo de las competencias asociadas al reto.",
+            "objetivo": "En la unidad de formación el estudiate: - Aplica métodos cualitativos en el estudio de los fenómenos políticos y sociales, considerando particularidades del caso bajo estudio y la visión de los actores. - Elabora ensayos de investigación, con base en el análisis crítico de evidencia empírica que responda a las preguntas de investigación e hipótesis planteadas. - Analiza las preferencias de actores involucrados en la toma de decisiones políticas, utilizando herramientas de elección pública. - Identifica los factores que motivan a las personas a actuar en política, con base en modelos analíticos fundamentados en la teoría de la acción colectiva y la opinión pública. - Evalúa el efecto de instituciones de representación política sobre el bienestar social, utilizando el método comparativo y estudios de caso. - Genera modelos de solución a problemas de agregación de intereses políticos, utilizando herramientas de la teoría de juegos."
+          },
+          {
+            "clave": "P2002B",
+            "nombre": "Instituciones, regulación y política pública",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0103A&lang=ES",
+            "nombreCompleto": "Instituciones, regulación y política pública",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0103A",
+              "SSP0403B",
+              "SSP0602A",
+              "SSP0603A",
+              "SSP0601A",
+              "SEG0403B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0403B",
+              "SSP0103A",
+              "SSP0403B",
+              "SSP0601A",
+              "SSP0602A",
+              "SSP0603A"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de ciencia política que tiene la intención de que el alumno pueda proponer modelos institucionales de mejora para proyectos implementados en diversos sectores y entornos. Requiere conocimientos previos de teoría básica de ciencia política, microeconomía y políticas públicas. Como resultado de aprendizaje el alumno realiza un proyecto en donde analiza los elementos necesarios que toda política pública debe tener, utilizándolos para diseñar soluciones en términos de regulación para instituciones políticas o económicas de México.",
+            "objetivo": "En la unidad de formación el estudiante: - Formula políticas públicas sobre tecnología que permitan desencadenar transformaciones públicas y de gobierno de alto impacto. - Analiza fenómenos políticos, económicos y sociales, nacionales e internacionales, utilizando métodos y técnicas pertinentes en la atención de problemas públicos acotados. - Define problemas públicos, con fundamento y rigor metodológico. - Aplica métodos cualitativos en el estudio de los fenómenos políticos y sociales, considerando particularidades del caso bajo estudio y la visión de los actores. - Elabora ensayos de investigación, con base en el análisis crítico de evidencia empírica que responda a las preguntas de investigación e hipótesis planteadas. - Aplica teorías de institucionalismo que permitan identificar su origen, desempeño y sus consecuencias sobre la agenda pública. - Genera diagnósticos concretos sobre la forma de operación de una institución política específica, a partir de modelos teóricos del institucionalismo. - Propone modelos institucionales de mejora, a partir de herramientas de diagnóstico y modelos participativos."
+          },
+          {
+            "clave": "TC2001B",
+            "nombre": "Ciencia de datos para la toma de decisiones I",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TC1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0102A&lang=ES",
+            "nombreCompleto": "Ciencia de datos para la toma de decisiones I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0102A",
+              "SSP0302A",
+              "SSP0401B",
+              "SEG0701B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno formule estrategias de cooperación internacional y de gobernanza mundial, considerando las características de retos de globalización específicos y que comprenda cuáles son los actores o agentes de la cooperación internacional para el desarrollo, así como sus diversos instrumentos y modalidades. Requiere de conocimientos previos de la evolución del sistema internacional y de teorías de relaciones internacionales. Como producto de aprendizaje el alumno evalúa las causas, consecuencias y los intereses de los actores implicados en la cooperación internacional y gobernanza mundial y diseña estrategias de cooperación internacional y gobernanza mundial, buscando un reparto de poder más justo.",
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa herramientas tecnológicas útiles en la solución de problemas públicos, determinando sus costos, beneficios sociales y capacidad de disrupción. - Analiza fenómenos políticos, económicos y sociales, nacionales e internacionales, utilizando métodos y técnicas pertinentes en la atención de problemas públicos acotados. - Analiza alternativas de política pública bajo condiciones de incertidumbre, empleando herramientas de análisis cuantitativo y cualitativo. - Propone políticas públicas resilientes, que atiendan problemas públicos en ambientes complejos y profundamente inciertos. - Formula preguntas de investigación e hipótesis, que permiten diagnosticar problemas políticos y sociales. - Usa fuentes de información y bases de datos nacionales e internacionales, útiles en la comprensión y solución de problemas políticos y sociales. - Aplica métodos estadísticos y econométricos en el estudio de los fenómenos políticos y sociales, considerando su generalización y replicabilidad. - Utiliza herramientas computacionales en el análisis de los asuntos públicos, con base en su pertinencia empírica y teórica."
+          },
+          {
+            "clave": "TC3066",
+            "nombre": "Métodos econométricos y política pública",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0401A&lang=ES",
+            "nombreCompleto": "Métodos econométricos y política pública",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSP0401A",
+              "SSP0402A",
+              "SSP0404A",
+              "SEG0503B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en de economía donde las y los estudiantes emplean métodos cuantitativos econométricos que revelen la toma de decisiones de los agentes, detectando problemas que van contra los supuestos del modelo de regresión lineal simple. Requiere conocimientos de: Estadística básica y probabilidad. Como resultado del aprendizaje las y los estudiantes investigarán sobre la causalidad de fenómenos políticos o económicos aplicando diversas técnicas y modelos econométricos. Solucionarán problemas y casos prácticos, tanto de manera individual como grupal.",
+            "objetivo": "En la unidad de formación el estudiante: - Formula preguntas de investigación e hipótesis, que permiten diagnosticar problemas políticos y sociales. - Usa fuentes de información y bases de datos nacionales e internacionales, útiles en la comprensión y solución de problemas políticos y sociales. - Aplica métodos estadísticos y econométricos en el estudio de los fenómenos políticos y sociales, considerando su generalización y replicabilidad. - Utiliza herramientas computacionales en el análisis de los asuntos públicos, con base en su pertinencia empírica y teórica. - Elabora ensayos de investigación, con base en el análisis crítico de evidencia empírica que responda a las preguntas de investigación e hipótesis planteadas. - Identifica los factores que motivan a las personas a actuar en política, con base en modelos analíticos fundamentados en la teoría de la acción colectiva y la opinión pública. - Identifica los distintos marcos teóricos que explican el desarrollo, empleando el método comparativo y estudios de caso."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EC2002B",
+            "nombre": "Economía conductual y neurociencia política",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC1015",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0501A&lang=ES",
+            "nombreCompleto": "Economía conductual y neurociencia política",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0501A",
+              "SSP0301A",
+              "SEG0501B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de economía que tiene la intención de que el alumno analice fenómenos políticos, económicos y sociales, vinculados a problemas púbicos de carácter nacional o internacional relacionados con el comportamiento y/o preferencias sociales de las personas. Se incluirán conceptos de emociones, racionalidad limitada, preferencias sociales, además de elementos de preferencias intertemporales y teoría de juegos conductual. Requiere conocimientos previos de economía conductal, teoría de juegos y microeconomía intermedia. Como resultado de aprendizaje el alumno realiza un proyecto en donde analiza el uso de aplicaciones de economía conductal y neurociencia, para diseñar intervenciones basadas en las ciencias del comportamiento que permitan alterar patrones de agentes económicos específicos.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza fenómenos políticos, económicos y sociales, nacionales e internacionales, utilizando métodos y técnicas pertinentes en la atención de problemas públicos acotados. - Define problemas públicos, con fundamento y rigor metodológico. - Analiza alternativas de política pública bajo condiciones de incertidumbre, empleando herramientas de análisis cuantitativo y cualitativo. - Analiza las preferencias de actores involucrados en la toma de decisiones políticas, utilizando herramientas de elección pública. - Identifica los factores que motivan a las personas a actuar en política, con base en modelos analíticos fundamentados en la teoría de la acción colectiva y la opinión pública. - Evalúa el efecto de instituciones de representación política sobre el bienestar social, utilizando el método comparativo y estudios de caso. - Genera modelos de solución a problemas de agregación de intereses políticos, utilizando herramientas de la teoría de juegos."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "P2003B",
+            "nombre": "Políticas tecnológicas para el desarrollo",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0101A&lang=ES",
+            "nombreCompleto": "Políticas tecnológicas para el desarrollo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0101A",
+              "SSP0301B",
+              "SSP0102B",
+              "SSP0103B",
+              "SEG0404B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Ciencia Política donde el alumno evalua herramientas tecnológicas, útiles en la solución de problemas públicos, asociados a situaiones actuales del ámbito nacional. Requiere conocimientos de: Ciencia política, microeconomía y emprendimiento público. Como resultado del aprendizaje el alumno soluciona problemas asociados al desarrollo industrial de regiones específicas, vinculados a procesos de innovación tecnológica, a partir de casos de estudio prácticos que les permitan diseñar estrategias de especialización inteligentes.",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el cambio tecnológico, a través de modelos analíticos formales. - Analiza tendencias y propuestas tecnológicas relevantes para la resolución de problemas públicos, empleando herramientas de análisis de política pública. - Evalúa herramientas tecnológicas útiles en la solución de problemas públicos, determinando sus costos, beneficios sociales y capacidad de disrupción. - Formula políticas públicas sobre tecnología que permitan desencadenar transformaciones públicas y de gobierno de alto impacto. - Analiza fenómenos políticos, económicos y sociales, nacionales e internacionales, utilizando métodos y técnicas pertinentes en la atención de problemas públicos acotados. - Define problemas públicos, con fundamento y rigor metodológico. - Aplica teorías de institucionalismo que permitan identificar su origen, desempeño y sus consecuencias sobre la agenda pública."
+          },
+          {
+            "clave": "P2013",
+            "nombre": "Elección pública e instituciones políticas comparadas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0502B&lang=ES",
+            "nombreCompleto": "Elección pública e instituciones políticas comparadas",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSP0502B",
+              "SSP0602B",
+              "SSP0501B",
+              "SEG0402B"
+            ],
+            "competenciasEvaluan": [
+              "SSP0501B",
+              "SSP0502B",
+              "SSP0602B",
+              "SEG0402B"
+            ],
+            "requisitosDetalle": "Equivalencia: P3019",
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Ciencia Política donde el alumno analiza preferencias de actores involucrados en la toma de decisiones políticas, vinculados a problemas públicos asociados al sistema político mexicano. Requiere conocimientos de: Ciencia política, cálculo diferencial e integral y geometría. Como resultado del aprendizaje el alumno soluciona problemas asociados a la agregación de las preferencias de los actores políticos y económicos en diverss situaciones, a partir de casos prácticos relacionados con la transformación del ámbito públicos, instituciones, sistemas electorales, coaliciones legislativas y burocracias.",
+            "objetivo": "Al terminar la unidad de formación el estudiante: - Identifica los factores que motivan a las personas a actuar en política, con base en modelos analíticos fundamentados en la teoría de la acción colectiva y la opinión pública. - Evalúa el efecto de instituciones de representación política sobre el bienestar social, utilizando el método comparativo y estudios de caso. - Genera diagnósticos concretos sobre la forma de operación de una institución política específica, a partir de modelos teóricos del institucionalismo. - Analiza las preferencias de actores involucrados en la toma de decisiones políticas, utilizando herramientas de la elección pública. - Genera modelos de solución a problemas de agregación de intereses políticos, utilizando herramientas de la teoría de juegos. - Propone modelos institucionales de mejora, a partir de herramientas de diagnóstico y modelos participativos. - Aplica teorías de institucionalismo que permitan identificar su origen, desempeño y sus consecuencias sobre la agenda pública."
+          },
+          {
+            "clave": "TC2002B",
+            "nombre": "Ciencia de datos para la toma de decisiones II",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado TC2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0302B&lang=ES",
+            "nombreCompleto": "Ciencia de datos para la toma de decisiones II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0302B",
+              "SSP0402B",
+              "SSP0404B",
+              "SEG0702B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno pueda formular estrategias de cooperación internacional y de gobernanza mundial, considerando las características de retos de globalización específicos. Comprenda cuáles son los actores o agentes de la cooperación internacional para el desarrollo así como sus diversos instrumentos y modalidades. Emplee metodologías para la elaboración de proyectos de cooperación. Requiere de conocimientos previos de evolución del sistema internacional, Teorías de Relaciones Internacionales. Como resultado de aprendizaje el alumno evalúa las causas, consecuencias y los intereses de los actores implicados en la cooperación internacional y gobernanza mundial. Diseña estrategias de cooperación internacional y gobernanza mundial, buscando un reparto de poder más justo.",
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa herramientas tecnológicas útiles en la solución de problemas públicos, determinando sus costos, beneficios sociales y capacidad de disrupción. - Analiza fenómenos políticos, económicos y sociales, nacionales e internacionales, utilizando métodos y técnicas pertinentes en la atención de problemas públicos acotados. - Analiza alternativas de política pública, empleando el análisis sistémico en función de problemas públicos específicos. - Propone políticas públicas resilientes, que atiendan problemas públicos en ambientes complejos y profundamente inciertos. - Formula preguntas de investigación e hipótesis, que permiten diagnosticar problemas políticos y sociales. - Usa fuentes de información y bases de datos nacionales e internacionales, útiles en la comprensión y solución de problemas políticos y sociales. - Aplica métodos estadísticos y econométricos en el estudio de los fenómenos políticos y sociales, considerando su generalización y replicabilidad. - Utiliza herramientas computacionales en el análisis de los asuntos públicos, con base en su pertinencia empírica y teórica."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "EC3001B",
+            "nombre": "Análisis de decisiones bajo condiciones de incertidumbre",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado TC2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0401C&lang=ES",
+            "nombreCompleto": "Análisis de decisiones bajo condiciones de incertidumbre",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SSP0401C",
+              "SSP0402C",
+              "SSP0101C",
+              "SSP0301C",
+              "SSP0302C",
+              "SSP0703B",
+              "SEG0501C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0501C",
+              "SSP0101C",
+              "SSP0301C",
+              "SSP0302C",
+              "SSP0401C",
+              "SSP0402C",
+              "SSP0703B"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en la disciplina de Economía donde el alumno proponer alternativas de políticas públicas resiientes bajo condiciones de incertidumbre, en a atención de problemas públicos emergentes que contienen multiples escenarios de incertidumbre. Requiere conocimientos de: Cálculo diferencial e integral intermedia, probabiliad, estadística, microeconomía y econometría. Como resultado del aprendizaje el alumno soluciona problemas asociados a diversos métodos de modelación.",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el cambio tecnológico, a través de modelos analíticos formales. - Analiza fenómenos políticos, económicos y sociales, nacionales e internacionales, utilizando métodos y técnicas pertinentes en la atención de problemas públicos acotados. - Define problemas públicos, con fundamento y rigor metodológico. - Analiza alternativas de política pública, empleando el análisis sistémico en función de problemas públicos específicos. - Analiza alternativas de política pública bajo condiciones de incertidumbre, empleando herramientas de análisis cuantitativo y cualitativo. - Propone políticas públicas resilientes, que atiendan problemas públicos en ambientes complejos y profundamente inciertos. - Aplica métodos estadísticos y econométricos en el estudio de los fenómenos políticos y sociales, considerando su generalización y replicabilidad. - Utiliza herramientas computacionales en el análisis de los asuntos públicos, con base en su pertinencia empírica y teórica. - Analiza la incidencia de factores económicos que impactan en el desarrollo político nacional e internacional, con base en herramientas teóricas de la economía política."
+          },
+          {
+            "clave": "P2020",
+            "nombre": "Economía política del cambio tecnológico y el desarrollo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0701A&lang=ES",
+            "nombreCompleto": "Economía política del cambio tecnológico y el desarrollo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSP0701A",
+              "SSP0101B",
+              "SSP0703C",
+              "SEG0601B",
+              "SSP0702A",
+              "SEG0602C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0601B",
+              "SEG0602C",
+              "SSP0101B",
+              "SSP0701A",
+              "SSP0703C",
+              "SSP0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: P3020",
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Ciencia Política donde el alumno identifca los distintos marcos teóricos que explican el desarrollo económico, instituciones y regímenes políticos. Requiere conocimientos de: Fundamentos de microeconomía, econometría, política comparada e instituciones políticas y económicas. Como resultado del aprendizaje el alumno analiza la implentación de diversas políticas públicas a nivel internacional, para diseñar intervenciones basadas en economía política que permitan potenciar el desarrollo económico de distintas regiones.",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el cambio tecnológico, a través de modelos analíticos formales. - Analiza tendencias y propuestas tecnológicas relevantes para la resolución de problemas públicos, empleando herramientas de análisis de política pública. - Identifica los distintos marcos teóricos que explican el desarrollo, empleando el método comparativo y estudios de caso. - Discierne la influencia de actores e instituciones políticas sobre resultados económicos, tomando en consideración la distribución de recursos materiales y poder político. - Analiza la incidencia de factores económicos que impactan en el desarrollo político nacional e internacional, con base en herramientas teóricas de la economía política."
+          },
+          {
+            "clave": "P3001B",
+            "nombre": "Gobierno, sector privado, tecnología y nuevos mercados",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0601C&lang=ES",
+            "nombreCompleto": "Gobierno, sector privado, tecnología y nuevos mercados",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSP0601C",
+              "SSP0602C",
+              "SSP0603B",
+              "SSP0102C",
+              "SSP0202A",
+              "SEG0202B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0202B",
+              "SSP0102C",
+              "SSP0202A",
+              "SSP0601C",
+              "SSP0602C",
+              "SSP0603B"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en la disciplina de Ciencia Política donde el alumno propone nuevos modelos de emprendimiento público que incidan positivamente en iniciativas públicas y sociales. Requiere conocimientos de: Fundamentos de microeconomía, derecho, ciencia política y emprendimiento público. Como resultado del aprendizaje el alumno diseña potenciales emprendimientos públicos, a partir de asociaciones público-privadas para atender necesidades sociales en nuevos mercados.",
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa herramientas tecnológicas útiles en la solución de problemas públicos, determinando sus costos, beneficios sociales y capacidad de disrupción. - Analiza iniciativas públicas y sociales prioritarias, considerando los sectores involucrados y los problemas que buscan atender. - Define problemas públicos, con fundamento y rigor metodológico. - Aplica teorías de institucionalismo que permitan identificar su origen, desempeño y sus consecuencias sobre la agenda pública. - Genera diagnósticos concretos sobre la forma de operación de una institución política específica, a partir de modelos teóricos del institucionalismo. - Propone modelos institucionales de mejora, a partir de herramientas de diagnóstico y modelos participativos. - Analiza la incidencia de factores económicos que impactan en el desarrollo político nacional e internacional, con base en herramientas teóricas de la economía política."
+          },
+          {
+            "clave": "TC3065",
+            "nombre": "Experimentos e inferencia causal para política pública",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado TC3066 o Haber Aprobado EC2030",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0201A&lang=ES",
+            "nombreCompleto": "Experimentos e inferencia causal para política pública",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSP0201A",
+              "SSP0403C",
+              "SSP0404C",
+              "SEG0502C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502C",
+              "SSP0201A",
+              "SSP0403C",
+              "SSP0404C"
+            ],
+            "requisitosDetalle": "Equivalencia: P3018",
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Relaciones Internacionales donde el alumno elabora propuestas de gestión de riesgos relacionados con problemas sociales complejos de impacto internacional, formulando estrategias de prevención, respuesta y mitigación. Requiere conocimientos de: Evolución del sistema internacional, Métodos Cuantitativos y Cualitativos de Investigación. Como resultado del aprendizaje el alumno comprende el concepto de Bienes Públicos Globales y los princippales debates en torno a su provisión. Analiza los temas relacionados con el riesgo y las estrategias para gestionarlo. Aplica la metodología de análisis de riesgo. Diseña estrategias para gestionar el riesgo.",
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa herramientas tecnológicas útiles en la solución de problemas públicos, determinando sus costos, beneficios sociales y capacidad de disrupción. - Propone nuevos modelos de emprendimiento público, considerando las restricciones políticas, jurídicas y presupuestales para su implementación. - Implementa nuevos emprendimientos públicos, que incidan positivamente en iniciativas públicas y sociales. - Analiza alternativas de política pública, empleando el análisis sistémico en función de problemas públicos específicos. - Usa fuentes de información y bases de datos nacionales e internacionales, útiles en la comprensión y solución de problemas políticos y sociales. - Aplica métodos cualitativos en el estudio de los fenómenos políticos y sociales, considerando particularidades del caso bajo estudio y la visión de los actores. - Elabora ensayos de investigación, con base en el análisis crítico de evidencia empírica que responda a las preguntas de investigación e hipótesis planteadas."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          },
+          {
+            "clave": "P3002B",
+            "nombre": "Diseño e implementación de innovaciones públicas",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSP0103C&lang=ES",
+            "nombreCompleto": "Diseño e implementación de innovaciones públicas",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SSP0103C",
+              "SSP0201C",
+              "SSP0202C",
+              "SSP0501C",
+              "SSP0502C",
+              "SSP0603C",
+              "SSP0701C",
+              "SSP0702C",
+              "SEG0503C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0503C",
+              "SSP0103C",
+              "SSP0201C",
+              "SSP0202C",
+              "SSP0501C",
+              "SSP0502C",
+              "SSP0603C",
+              "SSP0701C",
+              "SSP0702C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Analiza tendencias y propuestas tecnológicas relevantes para la resolución de problemas públicos, empleando herramientas de análisis de política pública. - Formula políticas públicas sobre tecnología que permitan desencadenar transformaciones públicas y de gobierno de alto impacto. - Analiza iniciativas públicas y sociales prioritarias, considerando los sectores involucrados y los problemas que buscan atender. - Propone nuevos modelos de emprendimiento público, considerando las restricciones políticas, jurídicas y presupuestales para su implementación. - Implementa nuevos emprendimientos públicos, que incidan positivamente en iniciativas públicas y sociales. - Define problemas públicos, con fundamento y rigor metodológico. - Formula preguntas de investigación e hipótesis, que permiten diagnosticar problemas políticos y sociales. - Analiza las preferencias de actores involucrados en la toma de decisiones políticas, utilizando herramientas de elección pública. - Evalúa el efecto de instituciones de representación política sobre el bienestar social, utilizando el método comparativo y estudios de caso. - Genera modelos de solución a problemas de agregación de intereses políticos, utilizando herramientas de la teoría de juegos. - Propone modelos institucionales de mejora, a partir de herramientas de diagnóstico y modelos participativos. - Identifica los distintos marcos teóricos que explican el desarrollo, empleando el método comparativo y estudios de caso. - Discierne la influencia de actores e instituciones políticas sobre resultados económicos, tomando en consideración la distribución de recursos materiales y poder político."
+          }
+        ]
+      }
+    ]
+  }
+}

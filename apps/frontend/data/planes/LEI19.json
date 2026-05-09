@@ -1,0 +1,954 @@
+{
+  "carreraClave": "LEI19",
+  "nombre": "Licenciatura en Innovación Educativa",
+  "descripcionES": "La opción seleccionada por el alumno debe ser autorizada por su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1004",
+            "nombre": "Cultura visual y sonora",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0301A&lang=ES",
+            "nombreCompleto": "Cultura visual y sonora",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0301A",
+              "SESC0102A",
+              "SESC0401A",
+              "SEG0503A"
+            ],
+            "objetivo": "El estudiante producirá propuestas y prototipos creativos visuales y sonoros considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas del mundo occidental."
+          },
+          {
+            "clave": "AV1002B",
+            "nombre": "Técnicas y discursos fotográficos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Técnicas y discursos fotográficos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0205A"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1006B ; AV1003B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante produce fotografías para diversos usos bajo el conocimiento del escenario histórico de las narrativas fotográficas, las técnicas básicas de captura, iluminación y edición fotográficas, los fundamentos de composición visual y fotográfica, y resolverá un reto produciendo una narrativa fotográfica sobre identidad cultural."
+          },
+          {
+            "clave": "CO1001B",
+            "nombre": "Metodologías de investigación de factores humanos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0202A&lang=ES",
+            "nombreCompleto": "Metodologías de investigación de factores humanos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0202A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SESC0202A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1030",
+            "objetivo": "Al terminar la unidad de formación, el estudiante identifica necesidades, deseos, patrones de comportamiento y gustos de un público específico aplicando métodos de estudio de factores humanos. Al final, produce un reporte de investigación aplicando metodologías cualitativas y cuantitativas para estudiar una problemática relacionada con su área disciplinar y/o de interés."
+          },
+          {
+            "clave": "DL1022",
+            "nombre": "Metodologías del pensamiento creativo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0103A&lang=ES",
+            "nombreCompleto": "Metodologías del pensamiento creativo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A",
+              "SEG0201A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: DL1024",
+            "descripcion": "Es un curso de nivel básico en el área de diseño que tiene la intención de que el alumno conozca los fundamentos de la creatividad, las bases del proceso creativo y aplique sus herramientas en diferentes contextos, incluyendo el proceso de diseño para desarrollar propuestas de soluciones creativas a necesidades expresas de las personas. No requiere conocimientos previos. Como resultado del aprendizaje el alumno aplica herramientas del pensamiento creativo en el proceso de diseño.",
+            "objetivo": "El estudiante desarrollará y construirá propuestas creativas considerando las necesidades del usuario y aplicando principios de la creatividad, del pensamiento creativo y tecnologías pertinentes."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "EH1001B",
+            "nombre": "Inmersión y experimentación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Inmersión y experimentación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0401A",
+              "SESC0205A",
+              "SESC0203A",
+              "SEG0201A",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0101A",
+              "SESC0203A",
+              "SESC0205A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0403A",
+              "SEG0301A"
+            ],
+            "requisitosDetalle": "Equivalencia: A1007B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales y espaciales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Diseña propuestas utilizando metodologías basadas en procesos creativos. - Analiza contenidos y narrativas utilizando teorías y metodologías especializadas. - Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. -Incorpora el entorno físico y virtual como base en sus propuestas de representación."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AR1001B",
+            "nombre": "Representación formal del espacio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Representación formal del espacio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0401A",
+              "SESC0402A",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0403A",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Selecciona las tecnologías pertinentes a proyectos creativos."
+          },
+          {
+            "clave": "AV1001B",
+            "nombre": "Narrativa audiovisual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Narrativa audiovisual",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0204A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0205A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1005B ; AV2005B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante el estudiante conocerá el lenguaje audiovisual, sus características y su correcta utilización para transmitir mensajes en formatos audiovisuales. Será capaz de analizar un producto audiovisual, reconociendo los diferentes elementos de dicho lenguaje y de utilizarlo para realizar sus propias producciones a través del conocimiento teórico y técnico. - Maneja las estructuras narrativas y sus lenguajes en el análisis y la elaboración de diversos textos. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Producción de contenidos y narrativas CDA2.5. Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "EH1008",
+            "nombre": "Imaginarios culturales de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0102A&lang=ES",
+            "nombreCompleto": "Imaginarios culturales de México",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0603A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0401A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante producirá propuestas y prototipos creativos considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas de México."
+          },
+          {
+            "clave": "EH1009",
+            "nombre": "Semiótica y narratologías contemporáneas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0201A&lang=ES",
+            "nombreCompleto": "Semiótica y narratologías contemporáneas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0201A",
+              "SEG0603A",
+              "SESC0203A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0201A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: EH1025",
+            "objetivo": "Al terminar la unidad de formación, el estudiante analizará textos y prácticas culturales lingüísticas, gráficas, audiovisuales, sonoras y espaciales, a partir de teorías y metodologías para estudiar procesos de comunicación, significación y narrativas."
+          },
+          {
+            "clave": "H1001B",
+            "nombre": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0102A",
+              "SEG0501A"
+            ],
+            "descripcion": "Intención del curso en el contexto general del plan de estudios:",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa el impacto de una propuesta creativa desde un enfoque educativo. - Identifica necesidades de producción de contenidos y narrativas en contextos específicos. - Crea contenidos y narrativas en diferentes formatos, utilizando diversas tecnologías y gestionando los recursos de manera sostenible. - Analiza contenidos y narrativas utilizando aproximaciones teórico-metodológicas pertinentes para la representación mítica. - Evalúa contenidos y narrativas y su impacto, aplicando metodologías pertinentes. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Experimenta con tecnologías innovando en proyectos de arte."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "ED2001",
+            "nombre": "Fundamentos de la pedagogía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0101A&lang=ES",
+            "nombreCompleto": "Fundamentos de la pedagogía",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SED0101A",
+              "SED0102A",
+              "SEG0101B",
+              "SEG0503B"
+            ],
+            "competenciasEvaluan": [
+              "SED0101A",
+              "SED0102A",
+              "SEG0101B",
+              "SEG0503B"
+            ],
+            "requisitosDetalle": "Equivalencia: ED1001",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: Analiza las soluciones de aprendizaje aplicando los fundamentos de la pedagogía, la psicología educativa y las neurociencias en un contexto determinado."
+          },
+          {
+            "clave": "ED2001B",
+            "nombre": "Análisis de problemáticas educativas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0101A&lang=ES",
+            "nombreCompleto": "Análisis de problemáticas educativas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SED0101A",
+              "SED0302A",
+              "SEG0702B"
+            ],
+            "requisitosDetalle": "Equivalencia: ED1004B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: -Analiza las soluciones de aprendizaje aplicando los fundamentos de la pedagogía, la psicología educativa y las neurociencias en un contexto determinado. -Diagnostica las necesidades existentes en los procesos formativos de una comunidad educativa."
+          },
+          {
+            "clave": "ED2002",
+            "nombre": "Metodologías de la investigación educativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0201A&lang=ES",
+            "nombreCompleto": "Metodologías de la investigación educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SED0201A",
+              "SED0202A",
+              "SEG0602B",
+              "SEG0502B"
+            ],
+            "requisitosDetalle": "Equivalencia: ED1002",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: -Desarrolla modelos que respondan a necesidades educativas, fundamentados en los resultados de la investigación. - Examina las principales temáticas, tópicos o tendencias de orden mundial alrededor de los procesos de innovación y transformación educativa. - Valora las tendencias educativas en relación con la importancia que cobran para los públicos que atiende. - Realiza prospectivas de innovación educativa a partir de las tendencias sociales y tecnológicas de orden global."
+          },
+          {
+            "clave": "ED2002B",
+            "nombre": "Fundamentación pedagógica aplicada a las soluciones de aprendizaje",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0201A&lang=ES",
+            "nombreCompleto": "Fundamentación pedagógica aplicada a las soluciones de aprendizaje",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SED0201A",
+              "SED0301A",
+              "SEG0302B",
+              "SEG0501B"
+            ],
+            "competenciasEvaluan": [
+              "SED0201A",
+              "SED0301A",
+              "SEG0302B",
+              "SEG0501B"
+            ],
+            "requisitosDetalle": "Equivalencia: ED1002B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: -Analiza las soluciones de aprendizaje aplicando los fundamentos de la pedagogía, psicología educativa y neurociencias en un contexto determinado. -Desarrolla modelos que respondan a necesidades educativas, fundamentados en los resultados de la investigación."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "ED2003",
+            "nombre": "Introducción a la administración educativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0101B&lang=ES",
+            "nombreCompleto": "Introducción a la administración educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SED0101B",
+              "SED0301B",
+              "SEG0603C",
+              "SEG0503B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el que se presentan los conceptos y procesos básicos de la administración educativa, en el que se analizan las teorías administrativas, las dimensiones de la gestión escolar y la planificación, considerando sus herramientas y sistemas de control. No requiere de conocimiento o experiencia previa. Como resultado del aprendizaje el estudiante será capaz de reconocer que la gestión administrativa es esencial para el logro de los objetivos y propósitos de la organización educativa, partiendo de su cultura y realidad particulares.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante diseña entornos de aprendizaje valorando los recursos materiales y humanos idóneos."
+          },
+          {
+            "clave": "ED2003B",
+            "nombre": "Desarrollo de proyectos educativos basados en tecnología",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado ED2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0202B&lang=ES",
+            "nombreCompleto": "Desarrollo de proyectos educativos basados en tecnología",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SED0202B",
+              "SED0303A",
+              "SED0402B",
+              "SEG0604B"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa los conceptos fundamentales de diseño y gestión de proyectos educativos, la transformación digital, así como de la experimentación e investigación en la educación. Este curso no requiere conocimiento o experiencia previa. Como resultado del aprendizaje, el estudiante será capaz de desarrollar soluciones educativas basadas en tecnología teniendo como fundamento los resultados de la producción académica y científica en los campos de la pedagogía, psicología educativa y neurociencias.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa las problemáticas del entorno educativo considerando las múltiples variables involucradas. - Propone soluciones a problemáticas educativas con base en los resultados de la investigación teórica y empírica sobre uso de tecnología en diferentes contextos. - Aplica de forma exitosa las tecnologías seleccionadas en campo."
+          },
+          {
+            "clave": "ED2004B",
+            "nombre": "Exploración de tendencias tecnológicas en educación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0102B&lang=ES",
+            "nombreCompleto": "Exploración de tendencias tecnológicas en educación",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SED0102B",
+              "SED0401B",
+              "SED0302B",
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SED0102B",
+              "SED0302B",
+              "SED0401B",
+              "SEG0702A"
+            ],
+            "descripcion": "Este curso de nivel itermedio introductorio permite desarrollar habilidades para el diseño de procesos formativos aplicando fundamentos de la educación en un contexto determinado, al mismo tiempo que podrás seleccionar tecnologías factibles, eficaces y eficientes, que contribuyan a la atención de problemáticas educativas y de aprendizaje. Como resultado del aprendizaje, el estudiante diseñará propuestas de aprendizaje en las que considere componentes de la educación emocional con el fin de potencializar el aprendizaje socio-emocional de alumnos y profesores dentro de un marco de planeación basada en el diseño universal para educar emocionalmente en la diversidad.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa las problemáticas del entorno educativo considerando las múltiples variables involucradas. - Propone soluciones a problemáticas educativas con base en los resultados de la investigación teórica y empírica. - Aplica de forma exitosa las tecnologías seleccionadas en campo."
+          },
+          {
+            "clave": "ED2005B",
+            "nombre": "Uso de tecnología en la investigación educativa",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0103A&lang=ES",
+            "nombreCompleto": "Uso de tecnología en la investigación educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SED0103A",
+              "SED0401A",
+              "SED0402A",
+              "SED0403A",
+              "SEG0702C"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa los conceptos fundamentales de la Evaluación del Aprendizaje y de la Tecnología Educativa. Este curso no requiere conocimiento o experiencia previa. Como resultado del aprendizaje, el estudiante será capaz de diseñar e implementar una propuesta de evaluación del aprendizaje mediada por tecnología para un centro educativo, así como analizar los resultados obtenidos con dicha propuesta.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa las problemáticas del entorno educativo considerando las múltiples variables involucradas. - Desarrolla modelos que respondan a necesidades educativas, fundamentados en los resultados de la investigación. - Identifica tecnologías idóneas orientadas a la solución de problemáticas del aprendizaje y de las organizaciones."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "ED2004",
+            "nombre": "Educación global y comparada",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado ED2001",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0103B&lang=ES",
+            "nombreCompleto": "Educación global y comparada",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SED0103B",
+              "SED0201B",
+              "SED0403B",
+              "SEG0502C",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SED0103B",
+              "SED0201B",
+              "SED0403B",
+              "SEG0502C",
+              "SEG0404A"
+            ],
+            "requisitosDetalle": "Equivalencia: ED2005",
+            "descripcion": "En esta unidad de formación los estudiantes trabajarán activamente para lograr los fines de aprendizaje a través de la revisión de los contenidos, la comparación de distintos modelos educativos del mundo, y la vivencia de la educación global e intercultural desde diversas perspectivas y contextos.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante evalúa las problemáticas del entorno educativo considerando las múltiples variables involucradas."
+          },
+          {
+            "clave": "ED2006B",
+            "nombre": "Diseño de soluciones para retos educativos",
+            "creditos": 8,
+            "tipo": "semana_tec",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado ED2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0101C&lang=ES",
+            "nombreCompleto": "Diseño de soluciones para retos educativos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SED0101C",
+              "SED0102C",
+              "SED0201C",
+              "SED0401C",
+              "SED0301C",
+              "SED0302C",
+              "SEG0303B",
+              "SEG0404B"
+            ],
+            "competenciasEvaluan": [
+              "SED0101C",
+              "SED0102C",
+              "SED0201C",
+              "SED0301C",
+              "SED0302C",
+              "SED0401C",
+              "SEG0303B",
+              "SEG0404B"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa la perspectiva de inclusión, equidad y justicia en un contexto social considerando aspectos éticos que permitan la construcción de un diagnóstico de una problemática y generar una primera ideación para un plan formativo disruptivo. Este curso requiere conocimiento o experiencia previa sobre metodologías del pensamiento creativo. Como resultado del aprendizaje, el estudiante será capaz de construir y validar un prototipo de la propuesta de un plan de formación disruptivo que atienda las necesidades de la organización socio formadora, los beneficiarios y la comunidad orientada a generar una propuesta perfilada desde el mapeo y la ideación.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Diseña procesos formativos aplicando los fundamentos del desarrollo evolutivo y estrategias didácticas en un contexto determinado. - Diseña entornos de aprendizaje valorando los recursos materiales y humanos idóneos. - Propone soluciones a problemáticas educativas con base en los resultados de la investigación teórica y empírica. - Aplica de forma exitosa las tecnologías seleccionadas en campo."
+          },
+          {
+            "clave": "ED2007B",
+            "nombre": "Desarrollo de proyectos en el marco de las políticas educativas vigentes",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0202C&lang=ES",
+            "nombreCompleto": "Desarrollo de proyectos en el marco de las políticas educativas vigentes",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SED0202C",
+              "SED0103C",
+              "SEG0602C",
+              "SEG0601C",
+              "SEG0503C"
+            ],
+            "competenciasEvaluan": [
+              "SED0103C",
+              "SED0202C",
+              "SEG0503C",
+              "SEG0601C",
+              "SEG0602C"
+            ],
+            "descripcion": "En este curso de nivel intermedio en el área de educación en donde se espera que el alumno desarrolle competencias y logre el aprendizaje y tratamiento de los temas, mediante la atención de algún problema retador o necesidad desafiante en el campo de las políticas educativas de México. Como resultado de aprendizaje el alumno resuelve un reto, en donde demuestra su conocimiento sobre los conocimientos teóricos y prácticos en la elaboración de una propuesta o proyecto innovador, enmarcado en las políticas educativas vigentes, ya sea de educación inicial, básica o media superior.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Diseña procesos formativos aplicando los fundamentos del desarrollo evolutivo y estrategias didácticas en un contexto determinado. - Diseña entornos de aprendizaje valorando los recursos materiales y humanos idóneos. - Aplica de forma exitosa las tecnologías seleccionadas en campo. - Analiza tendencias locales y globales exitosas en la toma de decisiones en procesos de planeación estratégica y operativa de proyectos, organizaciones o política pública."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "ED3001B",
+            "nombre": "Proyecto integrador de innovación educativa",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado ED2006B y Haber Cursado ED2007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SED0403C&lang=ES",
+            "nombreCompleto": "Proyecto integrador de innovación educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SED0403C",
+              "SED0402C",
+              "SED0303C",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SED0303C",
+              "SED0402C",
+              "SED0403C",
+              "SEG0202A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Diseña procesos formativos aplicando los fundamentos del desarrollo evolutivo y estrategias didácticas en un contexto determinado. - Desarrolla modelos que respondan a necesidades educativas, fundamentados en los resultados de la investigación. - Evalúa las problemáticas del entorno educativo considerando las múltiples variables involucradas. - Diseña entornos de aprendizaje valorando los recursos materiales y humanos idóneos. - Evalúa críticamente la diversidad de procesos formativos desde una perspectiva de mejora continua. - Evalúa científicamente las aportaciones de innovaciones o nuevos desarrollos dirigidos al proceso de aprendizaje. - Evalúa las problemáticas del entorno educativo considerando las múltiples variables involucradas. Evalúa la escalabilidad de la propuesta a partir de indicadores."
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

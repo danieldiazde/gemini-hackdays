@@ -1,0 +1,693 @@
+{
+  "carreraClave": "IRS26",
+  "nombre": "Ingeniería en Robótica y Sistemas Inteligentes",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Develops digital and embedded systems based on functional needs and within established safety standards.",
+    "Develops functional components of a robot under criteria of autonomy in problem-solving.",
+    "Solves complex problems through computational methodologies and information technologies.",
+    "Generates data analysis models for decision-making, considering the requirements of the situation and project management.",
+    "Analyzes information from digital perception systems within the framework of the functional requirements of the situation.",
+    "Demonstrates ethical behavior based on principles of dignity, integrity, responsibility, and common good.",
+    "Constructs personal and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Develops conscious opportunities that generate economic, social, and environmental value.",
+    "Exchanges oral and written messages that enable professional and social development.",
+    "Establishes personal judgments or positions in various situations, based on rigorous evaluation of information."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al programa de Ingeniería en Robótica y Sistemas Inteligentes, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas y física. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades analíticas, pensamiento crítico y capacidad para resolver problemas técnicos. Habilidad para comunicarse de manera clara y efectiva. Aptitudes, para trabajar colaborativamente,",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1038",
+            "nombre": "Fundamentos de programación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Fundamentos de programación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1029",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar componentes de la solución a través del diseño e implementación de algoritmos computacionales, utilizando un lenguaje de alto nivel, a partir del planteamiento de un problema claramente definido - Utilizar herramientas computacionales y de tecnologías de información en la solución de problemas a través de la técnica de divide y vencerás, así como el uso efectivo de un ambiente de desarrollo integrado - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través del planteamiento y evaluación de varias alternativas de solución para seleccionar la más adecuada"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054",
+            "nombreCompleto": "Estadística y manejo de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles con el análisis de datos y la detección de patrones a través de métodos gráficos, medidas estadísticas y modelos matemáticos. - Plantear hipótesis para hacer estimaciones de parámetros e identificar supuestos de modelos obtenidos a partir de los datos. - Plantear conclusiones fundamentadas en argumentos validados con técnicas estadísticas."
+          },
+          {
+            "clave": "MA1005B",
+            "nombre": "Álgebra matricial y métodos numéricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1054 )",
+            "nombreCompleto": "Álgebra matricial y métodos numéricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Representar modelos con herramientas matemáticas y computacionales utilizando herramientas comerciales de solución de modelos lineales y no lineales. - Utilizar algoritmos para el procesamiento de datos utilizando herramientas de análisis para determinar soluciones de modelos matemáticos simples. - Utilizar metodologías en la evaluación de argumentos y evidencias para analizar cómo diferentes sesgos podrían afectar la evaluación de una solución matemática, proponiendo formas de mitigarlos. - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos a problemas simples de diseño ingenieril."
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Cálculo multivariable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, mediante la simulación de procesos ingenieriles de múltiples variables. - Describir el comportamiento de sistemas ingenieriles a través de la resolución de modelos matemáticos multivariables de aplicaciones prácticas."
+          },
+          {
+            "clave": "MA1057",
+            "nombre": "Matemáticas discretas",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Matemáticas discretas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar técnicas, paradigmas y lenguajes de programación en el diseño de la solución a través de modelar funciones que permitan representar problemas reales susceptibles de automatización con programación. - Utilizar algoritmos para el procesamiento de datos con la resolución de problemas donde se requiera encontrar la ruta óptima a través de grafos. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas utilizando herramientas de análisis para determinar una solución recursiva representa la mejor alternativa."
+          },
+          {
+            "clave": "TC1039",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC1038",
+            "nombreCompleto": "Programación orientada a objetos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar que la solución satisfaga los requerimientos originales, usando esquemas de pruebas contemplando escenarios extremos y la consistencia con los diagramas de clases en UML en un formato acorde a estándares de la industria del desarrollo de software - Utilizar técnicas, paradigmas y lenguajes de programación para diseñar la solución, a través de la solución de problemas reales no estructurados con un paradigma orientado a objetos - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado, a través de diseños de soluciones que sean robustas para contemplar más de contexto o uso - Documentar el proceso de diseño de la solución, usando buenas prácticas de programación y herramientas de control de versiones en acorde a estándares de la industria del desarrollo de software"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "E1001B",
+            "nombre": "Circuitos eléctricos aplicados",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Circuitos eléctricos aplicados",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas mediante la realización de proyectos relacionados a circuitos eléctricos de corriente directa. - Experimentar en ingeniería aplicando principios de física y matemáticas a través del desarrollo de proyectos de circuitos eléctricos de corriente directa."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1026B",
+            "nombre": "Electricidad y magnetismo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado F1025B y Haber Cursado MA1055 )",
+            "nombreCompleto": "Electricidad y magnetismo",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Planificar experimentos relacionado con los conceptos de electrostática, circuitos eléctricos y magnetostática, utilizando instrumentos de medición apropiados. - Evaluar la validez de los resultados experimentales mediante el análisis estadístico de los datos. - Comprender los resultados experimentales mediante el análisis crítico de los datos y su integración en aplicaciones prácticas. - Utilizar metodologías en la evaluación de argumentos y evidencia a través de la fundamentación y la verificación de pruebas."
+          },
+          {
+            "clave": "MA2018",
+            "nombre": "Ecuaciones diferenciales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1055",
+            "nombreCompleto": "Ecuaciones diferenciales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1035",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver matemáticamente sistemas y procesos mediante ecuaciones diferenciales, aplicando métodos analíticos y numéricos, en contextos de ingeniería. - Plantear conclusiones fundamentadas en argumentos validados, a partir de parámetros o procedimientos propios del contexto, mediante la aplicación de criterios y metodologías de solución pertinentes."
+          },
+          {
+            "clave": "TC2042",
+            "nombre": "Estructuras de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TC1039 y Estar Cursando MA1057 o Haber Cursado MA1057 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0002&lang=ES",
+            "nombreCompleto": "Estructuras de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0002",
+              "S26TI0001"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1031",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida"
+          },
+          {
+            "clave": "TC2045",
+            "nombre": "Estructura computacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TC1038",
+            "nombreCompleto": "Estructura computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, utilizando herramientas de modelado y simulación para comprender las interacciones y dependencias entre los componentes del sistema - Utilizar herramientas computacionales y de Tecnologías de la Información (TI) aplicando conocimientos en el uso de plataformas de desarrollo y lenguajes de programación"
+          },
+          {
+            "clave": "TE1001B",
+            "nombre": "Sistemas digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Estar Cursando TC2045 )",
+            "nombreCompleto": "Sistemas digitales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Considerar crítica y creativamente visiones de futuros posibles, probables, plausibles y preferibles tomando en cuenta las restricciones propias del diseño de sistemas digitales - Diseñar circuitos digitales considerando las características definidas por el usuario."
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "MA2026",
+            "nombre": "Algebra lineal y sistemas dinámicos",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1005B",
+            "nombreCompleto": "Algebra lineal y sistemas dinámicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir los principios básicos de operación de robots, sistemas inteligentes y otros fenómenos en ingeniería, aplicando conceptos fundamentales del álgebra lineal y sistemas dinámicos. - Utilizar metodologías en la evaluación de argumentos y evidencias, empleando herramientas formales de modelación matemática con álgebra lineal."
+          },
+          {
+            "clave": "TC2046",
+            "nombre": "Principios de sistemas operativos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TC2042",
+            "nombreCompleto": "Principios de sistemas operativos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Emplear los microcontroladores o microprocesadores utilizando sistemas operativos óptimos que hagan uso de procesos, hilos, y la sincronización necesaria para aplicaciones específicas - Evaluar las fuentes de información disponibles relacionadas con la historia de los sistemas operativos en el mercado por ejemplo, DOS, Windows, UNIX, Linux, etc"
+          },
+          {
+            "clave": "TC2047",
+            "nombre": "Fundamentos de redes",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC2045 o (Haber Aprobado TC2013B o Estar Cursando TC2013B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0001&lang=ES",
+            "nombreCompleto": "Fundamentos de redes",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad, utilizando metodologías de diseño centrado en el usuario y evaluando su impacto ambiental - Priorizar los requerimientos funcionales y no funcionales realizando análisis de impacto para evaluar la importancia de cada requerimiento"
+          },
+          {
+            "clave": "TC2048",
+            "nombre": "Análisis y diseño de algoritmos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC2042",
+            "nombreCompleto": "Análisis y diseño de algoritmos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar algoritmos de inteligencia artificial y ciencias computacionales mediante la aplicación eficiente de técnicas de diseño de algoritmos - Identificar oportunidades de valor relevantes para el contexto de aplicación a través del análisis del estado del arte y del uso sustentable de algoritmos computacionales"
+          },
+          {
+            "clave": "TE2019B",
+            "nombre": "Diseño de sistemas en chip",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Estar Cursando TE2020B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26E0009&lang=ES",
+            "nombreCompleto": "Diseño de sistemas en chip",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26E0009",
+              "S26SI0004",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar unidades de control digital mediante el uso de las herramientas de diseño asistido por computadora seleccionadas para el curso. - Seleccionar los dispositivos periféricos de acuerdo a las necesidades identificadas en la resolución del reto. - Emplear los microcontroladores o microprocesadores en el desarrollo de sistemas embebidos y sistemas en chip. - Evaluar la viabilidad económica de un proyecto de diseño de sistemas en chip tomando en consideración las necesidades presupuestales del cliente. - Administrar colaborativamente un proyecto de diseño de sistemas en chip siguiendo la metodología de administración de proyectos seleccionada para el curso. - Experimentar de forma iterativa con las alternativas de solución emprendedoras para desarrollar un producto mínimo viable."
+          },
+          {
+            "clave": "TE2020B",
+            "nombre": "Diseño con lógica programable",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TC2045 y Haber Aprobado TE1001B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0003&lang=ES",
+            "nombreCompleto": "Diseño con lógica programable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0003",
+              "S26E0007",
+              "S26E0008",
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Validar la congruencia de los hallazgos en la situación analizada tomando como referencia la metodología de diseño top-down - Evaluar los dispositivos periféricos, sensores y transductores requeridos para el diseño del sistema tomando como referencia la metodología de diseño top-down - Seleccionar los dispositivos periféricos de acuerdo a la aplicación del sistema a desarrollar tomando como referencia la metodología de diseño top-down - Aplicar técnicas de la Ingeniería de requerimientos para determinar el tipo de dispositivo lógico programable que se empleará tomando como referencia la metodología de co-diseño hardware-software - Realizar acciones orientadas a promover el bienestar y la sostenibilidad mediante el uso de lógica programable como alternativa a los procesos de fundición de silicio - Incorporar los valores de la democracia en acciones de interés ciudadano"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "E2003B",
+            "nombre": "Electrónica para instrumentación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado E1001B",
+            "nombreCompleto": "Electrónica para instrumentación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad por medio de transistores y/o amplificadores operacionales. - Evaluar los dispositivos periféricos electrónicos para su aplicación con sensores y transductores. - Identificar las características y operación de sensores y actuadores e instrumentar su aplicación por medio de transistores y/o amplificadores operacionales."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "MR2027",
+            "nombre": "Diseño de sistemas de control",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA2018",
+            "nombreCompleto": "Diseño de sistemas de control",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar estrategias de control mediante la aplicación de conceptos teóricos que puedan ser implementados en un sistema real. - Identificar los supuestos a través del planteamiento de hipótesis a través del diseño de estrategias y leyes de control automático."
+          },
+          {
+            "clave": "TC2049",
+            "nombre": "Algoritmos para inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TC2048 y Haber Cursado MA2026 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TC0001&lang=ES",
+            "nombreCompleto": "Algoritmos para inteligencia artificial",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TC0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar algoritmos de inteligencia artificial a partir del análisis de la problemática y el uso de metodologías estandarizadas - Detectar patrones relevantes en los datos mediante la aplicación de técnicas y herramientas de análisis y visualización de datos - Desarrollar modelos estadísticos de interpretación de datos mediante la aplicación de algoritmos de clasificación, regresión o agrupamiento, dependiendo del problema - Generar modelos de aprendizaje automático y aprendizaje profundo a través de la aplicación de metodologías estandarizadas de exploración, preprocesamiento, entrenamiento y evaluación de modelos - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos en el desarrollo de aplicaciones de inteligencia artificial mediante el uso ético de datos"
+          },
+          {
+            "clave": "TE3006B",
+            "nombre": "Sistemas embebidos avanzados",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TE2019B y Haber Cursado TE2020B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26E0006&lang=ES",
+            "nombreCompleto": "Sistemas embebidos avanzados",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26E0006",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar los protocolos de comunicación segura de sistemas tomando en consideración la cobertura y alcance de la aplicación - Diseñar unidades de control digital siguiendo la metodología de diseño de sistemas embebidos - Identificar oportunidades de valor relevantes para el contexto de aplicación considerando las restricciones del proyecto - Implementar protocolos de comunicación de acuerdo a las necesidades de alcance, cobertura y tipo de conexión deseada - Seleccionar los dispositivos periféricos que habiliten al sistema embebido para su funcionamiento óptimo - Validar el sistema lógico de control siguiendo la metodología de validación de sistemas embebidos"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "TC3007B",
+            "nombre": "Entornos ciberseguros de internet de las cosas",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TC2047 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26TC0001&lang=ES",
+            "nombreCompleto": "Entornos ciberseguros de internet de las cosas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26TC0001",
+              "C26EH0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar colaborativamente un proyecto utilizando metodologías ágiles - Diseñar de forma eficiente y segura la red de comunicaciones para la operación del sistema - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos mediante el conocimiento y aplicación de las normativas y regulaciones vigentes - Utilizar algoritmos para el procesamiento de datos empleando lenguajes de programación - Utilizar herramientas computacionales y de Tecnologías de la Información (TI) aplicando conocimientos en el uso de software y plataformas de colaboración en la nube"
+          },
+          {
+            "clave": "TC3084",
+            "nombre": "Análisis de señales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TC2049",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0007&lang=ES",
+            "nombreCompleto": "Análisis de señales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0007"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Modelar señales en tiempo continuo y en tiempo discreto, aplicando técnicas matemáticas y herramientas de simulación para la representación, análisis y caracterización de fenómenos que varían en el tiempo - Aplicar técnicas de filtrado y de extracción de información en señales continuas y discretas, utilizando métodos computacionales y de análisis en los dominios del tiempo y de la frecuencia - Implementar sistemas digitales que analizan información de sensores, diseñando e integrando hardware y software de procesamiento y de análisis de señales - Interpretar la información a partir de parámetros o procedimientos propios del contexto, analizando los resultados obtenidos de los sistemas de procesamiento de señales en la resolución de problemas específicos del área de estudio"
+          },
+          {
+            "clave": "TC3085",
+            "nombre": "Visión computacional en robots",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TC2049",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0008&lang=ES",
+            "nombreCompleto": "Visión computacional en robots",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26IA0008",
+              "S26TC0004",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar sistemas de captura de imágenes y video mediante herramientas de software estándares - Aplicar técnicas de extracción de información en imágenes empleando algoritmos de visión computacional - Generar modelos de aprendizaje automático para visión computacional a partir del entrenamiento y validación de redes neuronales - Desarrollar sistemas de visión computacional que detectan y dan seguimiento de objetos mediante la aplicación de algoritmos de aprendizaje profundo - Desarrollar aplicaciones de robótica basadas en algoritmos de inteligencia artificial, implementando técnicas de análisis y clasificación de imágenes - Valorar la credibilidad de las afirmaciones y argumentos en el desarrollo de aplicaciones de visión computacional mediante el uso de metodologías estándares de validación de modelos de aprendizaje profundo"
+          },
+          {
+            "clave": "TE3007B",
+            "nombre": "Fundamentos de robótica",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MR2027",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0009&lang=ES",
+            "nombreCompleto": "Fundamentos de robótica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26IA0009",
+              "S26IA0010",
+              "S26TE0006",
+              "S26EH0004",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir los principios de operación de un robot, usando las herramientas matemáticas, y principios físicos - Programar soluciones robóticas utilizando plataformas existentes - Programar robots utilizando herramientas de desarrollo estándares - Integrar el hardware y software necesarios para el funcionamiento de un robot capaz de navegar de forma autónoma - Implementar algoritmos de control mediante microcontroladores, sistemas embebidos o plataformas de desarrollo específicas - Diseñar la red de comunicaciones para la operación del sistema - Realizar propuestas estratégicas de acción para los futuros proyectados aplicando metodologías de prospectiva y análisis de escenarios - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar utilizando técnicas de comunicación efectiva"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          },
+          {
+            "clave": "TE3008B",
+            "nombre": "Robótica y sistemas inteligentes",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TE3007B y Haber Cursado TC3085 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26IA0003&lang=ES",
+            "nombreCompleto": "Robótica y sistemas inteligentes",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26IA0003",
+              "C26SI0001",
+              "C26TI0001",
+              "C26CO0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Detectar patrones relevantes en los datos para el desarrollo de sistemas inteligentes mediante el uso de técnicas de procesamiento de señales, visión computacional e inteligencia artificial - Desarrollar aplicaciones de robótica basadas en algoritmos de inteligencia artificial aplicando métodos como Q -Learning, SARSA y aprendizaje profundo para la planeación y ejecución de tareas robóticas - Implementar algoritmos de control para vehículos aéreos no tripulados utilizando técnicas de modelado dinámico y control de movimiento de multirrotores - Integrar el hardware y software necesarios para el funcionamiento de un robot capaz de navegar de forma autónoma utilizando métodos de localización, mapeo y SLAM (Simultaneous Localization and Mapping) - Programar robots utilizando herramientas de desarrollo estándar para crear soluciones que integren hardware y software en aplicaciones robóticas - Programar soluciones robóticas utilizando plataformas existentes y siguiendo metodologías ágiles como Agile/SCRUM - Elaborar escritos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados mediante la aplicación de una metodología de investigación que incluya la lectura, selección de artículos, elaboración de estados del arte, medición e interpretación de resultados, y la escritura de reportes técnicos"
+          }
+        ]
+      }
+    ]
+  }
+}

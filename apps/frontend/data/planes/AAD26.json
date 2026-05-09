@@ -1,0 +1,221 @@
+{
+  "carreraClave": "AAD26",
+  "nombre": "Arquitectura, Arte y Diseño / Exploración",
+  "descripcionES": "Un crédito académico implica 750 minutos de instrucción directa por un docente en horas-clase y, al menos, 1500 minutos de trabajo independiente. Las horas-clase ocurren en sesiones de 50 minutos cada una.",
+  "competencias": [],
+  "perfilIngreso": "",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1001B",
+            "nombre": "Historia del arte, diseño y ciudad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Historia del arte, diseño y ciudad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "requisitosDetalle": "Equivalencia: AR2035",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender el contexto histórico mediante un análisis de las distintas visiones en los entornos creativos. - Promover la participación incluyente y la diversidad de pensamiento considerando aspectos del entorno creativo."
+          },
+          {
+            "clave": "A1007",
+            "nombre": "Teoría del arte, diseño y ciudad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0001&lang=ES",
+            "nombreCompleto": "Teoría del arte, diseño y ciudad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender las artes y el diseño mediante el análisis de la forma y sus significados. - Plantear conclusiones fundamentadas en argumentos validados considerando las teorías de las artes, diseño, arquitectura y ciudad."
+          },
+          {
+            "clave": "AR1010B",
+            "nombre": "Fundamentos de diseño",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Fundamentos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Expresar los fundamentos del diseño desde un enfoque sistémico para dar solución a problemas disciplinares. - Explorar alternativas que generan valor, mediante la ideación creativa que reta el pensamiento convencional, desde los fundamentos del diseño."
+          },
+          {
+            "clave": "AR1029",
+            "nombre": "Dibujo y expresión gráfica",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Dibujo y expresión gráfica",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Expresar los fundamentos del diseño aplicando distintas técnicas de dibujo. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado considerando una perspectiva creativa."
+          },
+          {
+            "clave": "DL1024",
+            "nombre": "Métodos creativos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Métodos creativos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "requisitosDetalle": "Equivalencia: DL1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y aplicar los métodos creativos del proceso de diseño a través de la solución de problemas reales. - Explorar alternativas que generan valor, mediante la ideación que reta el pensamiento convencional haciendo uso de métodos creativos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "A1002B",
+            "nombre": "Programación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Programación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar el lenguaje de programación computacional desde el enfoque creativo que facilite desarrollar procesos de diseño. - Identificar los supuestos a través del planteamiento de hipótesis, mediante una visión sistémica que resulte en objetivos de diseño."
+          },
+          {
+            "clave": "A1003B",
+            "nombre": "Experimentación digital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AR0009&lang=ES",
+            "nombreCompleto": "Experimentación digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26AR0009"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar herramientas tecnológicas para el proceso creativo como apoyo para dar soluciones de diseño y prototipado. - Experimentar de forma iterativa con las alternativas de solución emprendedoras como parte del proceso de diseño."
+          },
+          {
+            "clave": "AR1030",
+            "nombre": "Investigación para industrias creativas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AR0008&lang=ES",
+            "nombreCompleto": "Investigación para industrias creativas",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "competenciasEvaluan": [
+              "S26AR0008"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar el pensamiento sistémico a partir de un análisis dentro del contexto creativo. - Aplicar metodologías de investigación para la argumentación de propuestas críticas, proyectos o productos basadas en contextos creativos. - Aplicar las herramientas tecnológicas en la investigación para facilitar la comprensión de los problemas en contextos creativos. - Utilizar metodologías en la evaluación de argumentos y evidencias en el ámbito de las industrias creativas."
+          },
+          {
+            "clave": "AR1031",
+            "nombre": "Análisis y visualización de datos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0001&lang=ES",
+            "nombreCompleto": "Análisis y visualización de datos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "competenciasEvaluan": [
+              "S26DI0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar principios de estadística mediante una visión enfocada en el diseño. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, comunicándolo con bases de diseño de la información."
+          },
+          {
+            "clave": "DL1025",
+            "nombre": "Diseño con matemáticas y física",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Diseño con matemáticas y física",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver problemas simples de diseño aplicando principios de matemáticas y física. - Valorar la credibilidad de las afirmaciones y argumentos en la solución de problemas simples de diseño, basados en los principios de matemáticas y física."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      }
+    ]
+  }
+}

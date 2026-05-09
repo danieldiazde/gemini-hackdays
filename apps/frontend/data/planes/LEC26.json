@@ -1,0 +1,653 @@
+{
+  "carreraClave": "LEC26",
+  "nombre": "Licenciatura en Economía",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Conocimientos en matemáticas y ciencias sociales. Asimismo muestra conciencia de los fenómenos históricos, sociales y culturales, y de los retos que vive la sociedad en un mundo global e interconectado. Además, es imprescindible que cuente con un conocimiento adecuado del idioma inglés, para poder desenvolverse con fluidez en un entorno internacional.",
+    "Habilidades cuantitativas y pensamiento crítico, al mismo tiempo que capacidad para el uso de herramientas informáticas, y la transmisión clara y concisa de ideas a través de la expresión escrita y verbal.",
+    "Una actitud orientada a la resolución de problemas y al trabajo en equipo es esencial. Es necesario tener un espíritu emprendedor dispuesto a materializar en soluciones concretas los planes y proyectos generados durante la carrera de Economía.",
+    "Finalmente, debe poseer un genuino deseo de convertirse en un agente de cambio, comprometido con la mejora de su entorno y la sociedad en su conjunto.",
+    "Analyzes social phenomena from a scientific perspective.",
+    "Analyzes the consequences of economic agents' decisions and their aggregate impact logically and structured.",
+    "Establishes forecasts and causal relationships using quantitative and qualitative data analysis methods.",
+    "Designs sustainable solutions to complex problems based on economic principles.",
+    "Exchanges oral and written messages enabling professional and social development.",
+    "Develops conscious opportunities that generate economic, social, and environmental value.",
+    "Exhibits ethical behavior based on principles of dignity, integrity, responsibility, and the common good.",
+    "Builds personal and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Establishes personal judgments or positions in various situations, based on a rigorous evaluation of information.",
+    "Knowledge in mathematics and social sciences.Awareness of historical, social, and cultural phenomena, and the challenges society faces in a global and interconnected world.",
+    "Adequate knowledge of the English language to function fluently in an international environment.",
+    "Quantitative skills and critical thinking, as well as the ability to use computer tools and clearly and concisely convey ideas through written and verbal expression.",
+    "A problem-solving and teamwork-oriented attitude is essential. An entrepreneurial spirit willing to materialize concrete solutions from the plans and projects generated during the Economics career."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Economía, se requiere que cada estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos en matemáticas y ciencias sociales. Asimismo muestra conciencia de los fenómenos históricos, sociales y culturales, y de los retos que vive la sociedad en un mundo global e interconectado. Además, es imprescindible que cuente con un conocimiento adecuado del idioma inglés, para poder desenvolverse con fluidez en un entorno internacional. Habilidades cuantitativas y pensamiento crítico, al mismo tiempo que",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1005B",
+            "nombre": "Panorama macroeconómico de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Panorama macroeconómico de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir y entender las causas de problemas macroeconómicos a través de la aplicación de conceptos y teorías, y la utilización de estadísticas económicas de México. - Evaluar el impacto de las medidas de política fiscal, política monetaria y política cambiaria mediante la aplicación de modelos macroeconómicos a la economía mexicana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto con base en la teoría económica."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1060",
+            "nombre": "Pensamiento matemático",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Pensamiento matemático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Explicar el comportamiento de las variables de un modelo económico mediante la aplicación de herramientas matemáticas. - Plantear conclusiones fundamentadas en argumentos validados mediante el uso de modelos matemáticos."
+          },
+          {
+            "clave": "P1017",
+            "nombre": "Filosofía política",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Filosofía política",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano, utilizando las nociones analizadas en clase, aplicadas a situaciones contemporáneas, vigentes y cercanas a su realidad. - Vincular los problemas sociales con conceptos y teorías, a partir de documentar, discutir y examinar situaciones actuales, a la luz de la perspectiva filosófica y las diferentes corrientes recorridas a lo largo del curso."
+          },
+          {
+            "clave": "RI1003B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "requisitosDetalle": "Equivalencia: RI1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reconocer los problemas sociales globales especificando sus principales causas y consecuencias - Vincular los problemas sociales internacionales con conceptos y teorías básicos de las relaciones internacionales a través de la revisión de casos - Promover la participación incluyente y la diversidad de pensamiento mediante el diálogo, la escucha activa y la generación de acuerdos - Elaborar escritos como memorándums y ensayos cortos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados - Ser consciente de la responsabilidad cívica que implica ser un ciudadano del mundo considerando los diversos desafíos globales"
+          },
+          {
+            "clave": "SO1001",
+            "nombre": "Lógica y pensamiento científico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Lógica y pensamiento científico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Generar hipótesis para la explicación de fenómenos sociales mediante la revisión de literatura existente y la integración de diferentes enfoques teóricos - Valorar la credibilidad de las afirmaciones y argumentos utilizando métodos de evaluación crítica, verificación de fuentes y análisis lógico de la consistencia y coherencia de la información presentada - Identificar variables independientes, dependientes e intervinientes a través del análisis y lecturas de artículos científicos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1032",
+            "nombre": "Introducción a la ciencia jurídica y al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Introducción a la ciencia jurídica y al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y comprender conceptos jurídicos fundamentales de manera analítica y crítica. - Distinguir entre ciencia jurídica y derecho a partir de sus implicaciones y alcances propios. - Vincular los problemas sociales con conceptos y teorías jurídicas a partir del análisis metódico. - Valorar la credibilidad de afirmaciones y argumentos en el contexto jurídico a través de las bases teórico jurídicas."
+          },
+          {
+            "clave": "EC1022",
+            "nombre": "Microeconomía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado MA1060",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Vincular los problemas sociales con conceptos y teorías económicas con base a los principios del análisis microeconómico. - Plantear conclusiones fundamentadas en argumentos validados con base en los principios del análisis microeconómico."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "SO1001B",
+            "nombre": "Analítica de datos sociales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado MA1060",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SO0001&lang=ES",
+            "nombreCompleto": "Analítica de datos sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26SO0001",
+              "S26SO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los supuestos teóricos de problemas sociales a través del planteamiento de hipótesis - Identificar variables independientes, dependientes e intervinientes a partir de la vinculación de los modelos teóricos y el análisis empírico de la información disponible - Generar hipótesis para la explicación de fenómenos sociales a partir del análisis de datos - Experimentar de forma iterativa con las alternativas de solución emprendedoras"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EC2009B",
+            "nombre": "Políticas macroeconómicas: análisis de corto plazo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado EC1022 y Haber Aprobado EC1005B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26SO0001&lang=ES",
+            "nombreCompleto": "Políticas macroeconómicas: análisis de corto plazo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "C26SO0001"
+            ],
+            "requisitosDetalle": "Equivalencia: EC1003B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar el impacto de la política macroeconómica sobre el empleo, la inflación, el bienestar y la sostenibilidad a través de la aplicación de modelos y el uso de estadísticas de la economía mexicana. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través de la política macroeconómica."
+          },
+          {
+            "clave": "EC2010B",
+            "nombre": "Economía conductual aplicada a las finanzas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC1022",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26FZ0010&lang=ES",
+            "nombreCompleto": "Economía conductual aplicada a las finanzas",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26FZ0010",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sesgos en la toma de decisiones financieras con base en las teorías de la economía conductual. - Utilizar metodologías en la evaluación del riesgo y la incertidumbre con base en la argumentación teórica y evidencia empírica."
+          },
+          {
+            "clave": "EC2043",
+            "nombre": "Historia del pensamiento y economía internacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Historia del pensamiento y economía internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las ideas más dominantes del pensamiento económico y los determinantes de la integración global y crisis financieras con énfasis en sus consecuencias sobre el bienestar económico nacional. - Explicar las principales teorías de la economía internacional a partir del análisis empírico."
+          },
+          {
+            "clave": "EC2044",
+            "nombre": "Incentivos en el consumo y la producción",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC1022",
+            "nombreCompleto": "Incentivos en el consumo y la producción",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar interacciones entre mercados o individuos a través del análisis del equilibrio parcial. - Analizar las decisiones de agentes individuales por medio del marco que brinda la teoría de la producción y el consumo. - Identificar las estructuras de mercado y organizacionales a través del análisis de los mercados. - Analizar sistemáticamente las problemáticas desde diversos dominios, escalas y disciplinas a partir del análisis de la interacción de los agentes."
+          },
+          {
+            "clave": "EC2045",
+            "nombre": "Economía matemática I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado MA1060 y Haber Aprobado SO1001B",
+            "nombreCompleto": "Economía matemática I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Plantear conclusiones fundamentadas en argumentos validados con base en la teoría económica y matemática. - Examina efectos agregados de equilibrio a partir del herramental económico y matemático."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EC2011B",
+            "nombre": "Dinero y capital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC2009B",
+            "nombreCompleto": "Dinero y capital",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las decisiones del gobierno en política macroeconómica a través de evaluar la postura de política monetaria del Banco de México y la toma de decisiones de inversión a través de la aplicación de los modelos de teoría financiera. - Analizar las decisiones financieras y su impacto en la economía internacional por medio del herramental de la teoría macroeconómica. - Trasmitir mensajes de manera clara, elocuente, responsable y contextualizada a través de la planeación de presentaciones orales."
+          },
+          {
+            "clave": "EC2012B",
+            "nombre": "Economía pública y evaluación de proyectos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC2044",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0006&lang=ES",
+            "nombreCompleto": "Economía pública y evaluación de proyectos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0006",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las opciones de política y sus efectos en el desempeño económico y el bienestar con base en las metodologías de evaluación social de proyectos. - Proponer soluciones económicas sostenibles para retos actuales y futuros a partir de análisis de bienestar. - Validar alternativas de solución innovadoras a través de la experimentación y evaluación de opciones de política."
+          },
+          {
+            "clave": "EC2046",
+            "nombre": "Métodos econométricos I: pronósticos en economía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "(Haber Aprobado EC2045 o Haber Aprobado P2006B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0003&lang=ES",
+            "nombreCompleto": "Métodos econométricos I: pronósticos en economía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Estimar modelos econométricos utilizando técnicas paramétricas. - Comprender los fundamentos estadísticos del modelo de regresión lineal desde un enfoque teórico. - Pronosticar mediante el modelo de regresión lineal y utilizando herramientas de series de tiempo. - Utilizar herramientas avanzadas de pronóstico desde un enfoque práctico. - Experimentar de forma iterativa con las alternativas de solución emprendedoras desde un enfoque econométrico."
+          },
+          {
+            "clave": "EC2047",
+            "nombre": "Teoría de los juegos y economía de la información",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC2045",
+            "nombreCompleto": "Teoría de los juegos y economía de la información",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las decisiones de agentes individuales a través del diseño de incentivos y mediante el manejo de conceptos de teoría de los juegos aplicado a distintos contextos temporales y de información. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado considerando las interacciones estratégicas entre los agentes."
+          },
+          {
+            "clave": "EC3045",
+            "nombre": "Economía matemática II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC2045",
+            "nombreCompleto": "Economía matemática II",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar interacciones entre mercados o individuos a partir del análisis matemático. - Examina efectos agregados de equilibrio mediante la resolución de problemas de optimización dinámica. - Plantear conclusiones fundamentadas en argumentos validados con base en la teoría económica y matemática."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EC3005B",
+            "nombre": "Decisiones estratégicas y competencia económica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC2047",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0005&lang=ES",
+            "nombreCompleto": "Decisiones estratégicas y competencia económica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0005",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las estructuras de mercado y organizacionales a través de la caracterización de la competencia perfecta, monopolio, competencia monopolística, además de la introducción a la teoría de organización industrial y la aplicación de los principios de economía administrativa, diseños organizacionales y sistemas de incentivos. - Evaluar la eficiencia de mercado mediante el análisis de competencia económica y la introducción a la economía de la regulación. - Analizar el diseño de incentivos por medio de la introducción a la teoría de contratos. - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar a través de la práctica ante situaciones reales."
+          },
+          {
+            "clave": "EC3006B",
+            "nombre": "Economía aplicada y herramientas computacionales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado EC2046 y Haber Aprobado EC2044 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0004&lang=ES",
+            "nombreCompleto": "Economía aplicada y herramientas computacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las opciones de política y sus efectos en el desempeño económico y el bienestar atendiendo los principales problemas del desarrollo económico. - Utilizar herramientas de aprendizaje automático a través de la introducción a las bases de datos grandes y uso continuo de herramientas de aprendizaje automático. - Realizar propuestas estratégicas de acción para los futuros proyectos a través de la economía aplicada y la aplicación de herramientas computacionales."
+          },
+          {
+            "clave": "EC3046",
+            "nombre": "Métodos econométricos II: inferencia causal",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC2046",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0004&lang=ES",
+            "nombreCompleto": "Métodos econométricos II: inferencia causal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los supuestos que validan causalidad entre variables económicas desde un enfoque teórico. - Estimar modelos econométricos para establecer causalidad utilizando herramientas estadísticas de programación. - Vincular la teoría económica con modelos estadísticos o cualitativos desde un enfoque teórico. - Experimentar de forma iterativa con las alternativas de solución emprendedoras a través del análisis econométrico."
+          },
+          {
+            "clave": "EC3047",
+            "nombre": "Equilibrio y fallas de mercado",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC2044",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0001&lang=ES",
+            "nombreCompleto": "Equilibrio y fallas de mercado",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar interacciones entre mercados o individuos mediante la aplicación de modelos de equilibrio parcial y general. - Examinar efectos agregados de equilibrio cuando existen fallas de mercado. - Plantear conclusiones fundamentadas en argumentos validados mediante el uso de la teoría económica. - Analizar las decisiones de agentes económicos a través de su impacto en el equilibrio."
+          },
+          {
+            "clave": "EC3048",
+            "nombre": "Macroeconomía dinámica y crecimiento económico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC2009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0002&lang=ES",
+            "nombreCompleto": "Macroeconomía dinámica y crecimiento económico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Examinar efectos agregados de equilibrios analizando el impacto de las políticas públicas sobre el crecimiento económico y el nivel de bienestar a través de la aplicación de diferentes modelos y el uso de estadísticas de la economía mexicana. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas empleando la macroeconomía dinámica y la teoría del crecimiento económico."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3104",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3105",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3106",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3107",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3108",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3109",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3123",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3124",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3125",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3126",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3127",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3128",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "EC3007B",
+            "nombre": "Investigación aplicada: desafíos contemporáneos",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "requisitos": "(Haber Aprobado EC3046 y Haber Aprobado EC3005B y Haber Aprobado EC2012B y Haber Aprobado EC3047 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EC0001&lang=ES",
+            "nombreCompleto": "Investigación aplicada: desafíos contemporáneos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "C26EC0001",
+              "C26EC0002",
+              "C26EC0003",
+              "C26CO0001",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "requisitosDetalle": "Equivalencia: EC3002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar interacciones entre mercados e individuos a través de temas avanzados de teoría económica. - Utilizar herramientas avanzadas de pronóstico por medio de temas avanzados de econometría. - Proponer políticas sostenibles con base en temas avanzados de política económica y generando propuestas de investigación aplicada, considerando los principios éticos de reconocimiento de la dignidad humana y los derechos humanos. - Identificar los supuestos a partir del planteamiento de hipótesis empleando modelos econométricos. - Elaborar un trabajo de investigación cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos de acuerdo con los lineamientos para la escritura de trabajos académicos."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

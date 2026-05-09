@@ -1,0 +1,577 @@
+{
+  "carreraClave": "BIE26",
+  "nombre": "Ingeniería Industrial y de Sistemas",
+  "descripcionES": "",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Programa académico de Ingeniería en Industrial y de Sistemas, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas, física y estadística. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, el análisis, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para e",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "IB1007",
+            "nombre": "Biología y sustentabilidad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Biología y sustentabilidad",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Bioingeniería",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer soluciones sustentables a problemas de ingeniería aplicando principios básicos de la biología. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad aplicando herramientas y conceptos de la biología."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1037",
+            "nombre": "Pensamiento algorítmico",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Pensamiento algorítmico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1028",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar colaborativamente soluciones a problemas ingenieriles en modelos físicos y computacionales a través del diseño e implementación de algoritmos utilizando un lenguaje de programación - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado a través del planteamiento y evaluación de diferentes alternativas de solución a los problemas propuestos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1028B",
+            "nombre": "Fundamentos de termodinámica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado F1025B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0005&lang=ES",
+            "nombreCompleto": "Fundamentos de termodinámica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26MA0005"
+            ],
+            "requisitosDetalle": "Equivalencia: F1010B ; F1015B ; F1018B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos y principios científicos mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Aplicar principios básicos de ciencias para proponer soluciones sustentables a problemas de ingeniería mediante la solución de retos, escenarios y/o problemas relacionados que consideren el impacto ambiental, la eficiencia energética y el uso responsable de recursos. - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con transferencia de calor, cambios de estado de la materia y ciclos termodinámicos."
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054",
+            "nombreCompleto": "Estadística y manejo de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles con el análisis de datos y la detección de patrones a través de métodos gráficos, medidas estadísticas y modelos matemáticos. - Plantear hipótesis para hacer estimaciones de parámetros e identificar supuestos de modelos obtenidos a partir de los datos. - Plantear conclusiones fundamentadas en argumentos validados con técnicas estadísticas."
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Cálculo multivariable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, mediante la simulación de procesos ingenieriles de múltiples variables. - Describir el comportamiento de sistemas ingenieriles a través de la resolución de modelos matemáticos multivariables de aplicaciones prácticas."
+          },
+          {
+            "clave": "MA1056",
+            "nombre": "Álgebra lineal",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Álgebra lineal",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través de la Resolución de problemas que involucren matrices y sistemas de ecuaciones lineales para analizar impactos económicos, ambientales y sociales. - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos lineales considerando factores ambientales y sociales. - Implementar colaborativamente soluciones a problemas ingenieriles través del desarrollo de modelos matemáticos y su solución computacional utilizando hojas de cálculo y software básico."
+          },
+          {
+            "clave": "Q1030",
+            "nombre": "Fundamentos de química",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Fundamentos de química",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar principios básicos de ciencias para proponer soluciones sustentables a problemas de ingeniería, integrando conocimientos teóricos y prácticos de química para abordar desafíos medioambientales y tecnológicos - Integrar metodologías de evaluación de argumentos y evidencias, combinando el estudio de principios químicos fundamentales con experimentos de laboratorio"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "IN1004B",
+            "nombre": "Diseño del trabajo y procesos productivos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Diseño del trabajo y procesos productivos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ingeniería Industrial",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender procesos operativos, identificar problemas en procesos industriales o de servicio y promover bienestar y sostenibilidad mediante ergonomía y normativas. - Aplicar metodologías en la administración de operaciones, y diseñar sistemas productivos y distribuciones de planta, incorporando tecnologías avanzadas como exoesqueletos, sensores y realidad aumentada."
+          },
+          {
+            "clave": "IN1005B",
+            "nombre": "Probabilidad y estadística descriptiva",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1004B",
+            "nombreCompleto": "Probabilidad y estadística descriptiva",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ingeniería Industrial",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir, comparar y modelar gráficamente un conjunto de datos, aplicando conceptos de estadística descriptiva e inferencial. - Determinar patrones relevantes, identificar e interpretar interacciones entre variables utilizando principios de ciencias naturales, de las matemáticas y fundamentos de probabilidad y estadística. - Elaborar, mejorar o diseñar un sistema de indicadores, a través de la visualización de datos y utilizando herramientas tecnológicas. - Aplicar los principios y normas en el ejercicio de su profesión para valorar credibilidad de las afirmaciones y argumentos."
+          },
+          {
+            "clave": "IN1011",
+            "nombre": "Ingeniería económica aplicada",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Ingeniería económica aplicada",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ingeniería Industrial",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar la viabilidad económica de un proyecto inversión operativa utilizando supuestos del área de ingeniería económica para determinar su rentabilidad y relevancia para una organización."
+          },
+          {
+            "clave": "IN1012",
+            "nombre": "Optimización de operaciones",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1056",
+            "nombreCompleto": "Optimización de operaciones",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ingeniería Industrial",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Sintetizar la información relevante de un problema por medio de un modelo matemático de optimización que le permitirá determinar la mejor utilización de los recursos limitados de un sistema, proceso u organización. - Interpretar la información a partir de parámetros o procedimientos propios del contexto."
+          },
+          {
+            "clave": "M1002B",
+            "nombre": "Procesos de manufactura",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado F1025B y Haber Cursado Q1030 )",
+            "nombreCompleto": "Procesos de manufactura",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecánica y Materiales Avanzados",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar principios básicos de ciencias para comprender las características de diferentes procesos de manufactura y sus operaciones. - Identificar cómo a través de la digitalización y el uso de tecnologías se pueden mejorar o innovar, considerando diversas perspectivas como ambientales, culturales y tecnológicas."
+          },
+          {
+            "clave": "MA2025",
+            "nombre": "Fundamentos de ecuaciones diferenciales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Fundamentos de ecuaciones diferenciales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1033",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver ecuaciones diferenciales planteadas o a partir de modelos de fenómenos en contextos de ingeniería mediante métodos analíticos. - Interpretar la información utilizando parámetros y procedimientos específicos del contexto, mediante la aplicación de criterios y metodologías adecuadas."
+          },
+          {
+            "clave": "TC1042",
+            "nombre": "Fundamentos de matemáticas discretas",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1056",
+            "nombreCompleto": "Fundamentos de matemáticas discretas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Razonar de manera rigurosa y formal usando las herramientas que le da la lógica matemática y usar los grafos como medio de modelar matemáticamente sistemas y concluir sobre el comportamiento de los mismos."
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "IN2011B",
+            "nombre": "Viabilidad de proyectos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado IN1011",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0006&lang=ES"
+          },
+          {
+            "clave": "IN2012B",
+            "nombre": "Métodos sistémicos para la solución de problemas",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0009&lang=ES"
+          },
+          {
+            "clave": "IN2049",
+            "nombre": "Estadística inferencial y predictiva",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1004B"
+          },
+          {
+            "clave": "IN2050",
+            "nombre": "Planeación de operaciones e inventarios",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado IN1012"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3
+          },
+          {
+            "clave": "IN1010",
+            "nombre": "Administración de proyectos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1
+          },
+          {
+            "clave": "IN2013B",
+            "nombre": "Sistemas de gestión de calidad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado IN2049 y Haber Cursado IN1004B )"
+          },
+          {
+            "clave": "IN2051",
+            "nombre": "Simulación discreta",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado IN2049 y Haber Cursado IN1012 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0006&lang=ES"
+          },
+          {
+            "clave": "IN2052",
+            "nombre": "Herramientas de ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado IN2049"
+          },
+          {
+            "clave": "IN3006B",
+            "nombre": "Excelencia operacional",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado IN2049",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0003&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "IN3007B",
+            "nombre": "Innovación de procesos con enfoque ágil",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado IN1010 y Haber Cursado IN3006B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0007&lang=ES"
+          },
+          {
+            "clave": "IN3008B",
+            "nombre": "Optimización de la cadena de suministro",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado IN2051 y Haber Cursado IN2050 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0010&lang=ES"
+          },
+          {
+            "clave": "IN3080",
+            "nombre": "Soluciones de ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado IN2052",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0007&lang=ES"
+          },
+          {
+            "clave": "IN3081",
+            "nombre": "Dinámica de sistemas",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA2025 y Haber Cursado IN2012B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0008&lang=ES"
+          },
+          {
+            "clave": "IN3082",
+            "nombre": "Simulación por agentes",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado IN2051"
+          },
+          {
+            "clave": "IN3083",
+            "nombre": "Algoritmos estocásticos y combinatorios",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado IN1012",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IN0004&lang=ES"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "IN3009B",
+            "nombre": "Proyectos de ingeniería industrial y de sistemas",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado IN3008B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26IN0002&lang=ES"
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES"
+          }
+        ]
+      }
+    ]
+  }
+}

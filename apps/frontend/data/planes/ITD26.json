@@ -1,0 +1,720 @@
+{
+  "carreraClave": "ITD26",
+  "nombre": "Ingeniería en Transformación Digital de Negocios",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Generates data analysis models for decision-making, considering the requirements of the situation and project management.",
+    "Creates value through the development of business architectures that contribute to the organization's strategic vision.",
+    "Solves complex problems using computational methodologies and information technologies.",
+    "Develops strategies for the flow and governance of data, information, and knowledge in an organization.",
+    "Develops digital transformation projects in organizations, incorporating best practices in change management and service integration.",
+    "Demonstrates ethical behavior based on principles of dignity, integrity, responsibility, and the common good.",
+    "Constructs personal and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Develops conscious opportunities that generate economic, social, and environmental value.",
+    "Exchanges oral and written messages that enable professional and social development.",
+    "Establishes personal judgments or positions on various situations based on a rigorous evaluation of information."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Programa académico de Ingeniería en Transformación Digital de Negocios se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas, física y estadística. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, el análisis de datos, el uso de algunas aplicaciones informáticas, la observación y el razonamiento. Elaboración de proyect",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1038",
+            "nombre": "Fundamentos de programación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Fundamentos de programación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1029",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar componentes de la solución a través del diseño e implementación de algoritmos computacionales, utilizando un lenguaje de alto nivel, a partir del planteamiento de un problema claramente definido - Utilizar herramientas computacionales y de tecnologías de información en la solución de problemas a través de la técnica de divide y vencerás, así como el uso efectivo de un ambiente de desarrollo integrado - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través del planteamiento y evaluación de varias alternativas de solución para seleccionar la más adecuada"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054",
+            "nombreCompleto": "Estadística y manejo de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles con el análisis de datos y la detección de patrones a través de métodos gráficos, medidas estadísticas y modelos matemáticos. - Plantear hipótesis para hacer estimaciones de parámetros e identificar supuestos de modelos obtenidos a partir de los datos. - Plantear conclusiones fundamentadas en argumentos validados con técnicas estadísticas."
+          },
+          {
+            "clave": "MA1005B",
+            "nombre": "Álgebra matricial y métodos numéricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1054 )",
+            "nombreCompleto": "Álgebra matricial y métodos numéricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Representar modelos con herramientas matemáticas y computacionales utilizando herramientas comerciales de solución de modelos lineales y no lineales. - Utilizar algoritmos para el procesamiento de datos utilizando herramientas de análisis para determinar soluciones de modelos matemáticos simples. - Utilizar metodologías en la evaluación de argumentos y evidencias para analizar cómo diferentes sesgos podrían afectar la evaluación de una solución matemática, proponiendo formas de mitigarlos. - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos a problemas simples de diseño ingenieril."
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Cálculo multivariable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, mediante la simulación de procesos ingenieriles de múltiples variables. - Describir el comportamiento de sistemas ingenieriles a través de la resolución de modelos matemáticos multivariables de aplicaciones prácticas."
+          },
+          {
+            "clave": "MA1057",
+            "nombre": "Matemáticas discretas",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Matemáticas discretas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar técnicas, paradigmas y lenguajes de programación en el diseño de la solución a través de modelar funciones que permitan representar problemas reales susceptibles de automatización con programación. - Utilizar algoritmos para el procesamiento de datos con la resolución de problemas donde se requiera encontrar la ruta óptima a través de grafos. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas utilizando herramientas de análisis para determinar una solución recursiva representa la mejor alternativa."
+          },
+          {
+            "clave": "TC1039",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC1038",
+            "nombreCompleto": "Programación orientada a objetos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar que la solución satisfaga los requerimientos originales, usando esquemas de pruebas contemplando escenarios extremos y la consistencia con los diagramas de clases en UML en un formato acorde a estándares de la industria del desarrollo de software - Utilizar técnicas, paradigmas y lenguajes de programación para diseñar la solución, a través de la solución de problemas reales no estructurados con un paradigma orientado a objetos - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado, a través de diseños de soluciones que sean robustas para contemplar más de contexto o uso - Documentar el proceso de diseño de la solución, usando buenas prácticas de programación y herramientas de control de versiones en acorde a estándares de la industria del desarrollo de software"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1026B",
+            "nombre": "Electricidad y magnetismo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado F1025B y Haber Cursado MA1055 )",
+            "nombreCompleto": "Electricidad y magnetismo",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Planificar experimentos relacionado con los conceptos de electrostática, circuitos eléctricos y magnetostática, utilizando instrumentos de medición apropiados. - Evaluar la validez de los resultados experimentales mediante el análisis estadístico de los datos. - Comprender los resultados experimentales mediante el análisis crítico de los datos y su integración en aplicaciones prácticas. - Utilizar metodologías en la evaluación de argumentos y evidencia a través de la fundamentación y la verificación de pruebas."
+          },
+          {
+            "clave": "IB1007",
+            "nombre": "Biología y sustentabilidad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Biología y sustentabilidad",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Bioingeniería",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer soluciones sustentables a problemas de ingeniería aplicando principios básicos de la biología. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad aplicando herramientas y conceptos de la biología."
+          },
+          {
+            "clave": "MA1059",
+            "nombre": "Análisis multivariante",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado MA1004B y Haber Cursado TC1038 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TC0001&lang=ES",
+            "nombreCompleto": "Análisis multivariante",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26TC0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar algoritmos para el procesamiento de datos multivariados al aplicar diferentes técnicas de análisis multivariado. - Desarrollar modelos estadísticos de interpretación de datos multivariados. - Detectar patrones relevantes en los datos utilizando modelos de regresión, y técnicas de agrupamiento y clasificación. - Aplicar herramientas de análisis multivariado para identificar supuestos y generación de hipótesis a partir de los datos."
+          },
+          {
+            "clave": "MA2025",
+            "nombre": "Fundamentos de ecuaciones diferenciales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Fundamentos de ecuaciones diferenciales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1033",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver ecuaciones diferenciales planteadas o a partir de modelos de fenómenos en contextos de ingeniería mediante métodos analíticos. - Interpretar la información utilizando parámetros y procedimientos específicos del contexto, mediante la aplicación de criterios y metodologías adecuadas."
+          },
+          {
+            "clave": "TC2011B",
+            "nombre": "Arquitectura y uso de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0006&lang=ES",
+            "nombreCompleto": "Arquitectura y uso de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Usar metodologías en el modelado de los datos para estructurar y organizar la información de manera eficiente, asegurando la integridad, la consistencia y la optimización del rendimiento de la base de datos - Aplicar estándares de representación y tratamiento de datos para garantizar la interoperabilidad, la coherencia y la accesibilidad de la información dentro del sistema de bases de datos - Utilizar metodologías en la evaluación de argumentos y evidencias para validar la precisión, la fiabilidad y la relevancia de los datos almacenados en la base de datos - Plantear conclusiones fundamentadas en argumentos validados, basados en el análisis exhaustivo de los datos almacenados y su interpretación precisa dentro del contexto de la base de datos - Valorar la credibilidad de las afirmaciones y argumentos mediante el análisis detallado de datos y la implementación de principios de arquitectura de bases de datos"
+          },
+          {
+            "clave": "TC2013B",
+            "nombre": "Internet de las cosas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Estar Cursando TC1039 o Haber Cursado TC1039",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Internet de las cosas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender los conceptos fundamentales de la organización y arquitectura de las computadoras, mediante el estudio de textos especializados, laboratorios prácticos y resolución de problemas sobre su funcionamiento interno - Dominar la representación de datos y los sistemas numéricos, practicando ejercicios de conversión entre distintos sistemas numéricos - Desarrollar habilidades en el diseño y análisis de sistemas digitales e internet de las cosas, realizando proyectos prácticos con dispositivos IoT, y utilizando simuladores y herramientas de diseño digital"
+          },
+          {
+            "clave": "TC2042",
+            "nombre": "Estructuras de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TC1039 y Estar Cursando MA1057 o Haber Cursado MA1057 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0002&lang=ES",
+            "nombreCompleto": "Estructuras de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0002",
+              "S26TI0001"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1031",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "AD2036",
+            "nombre": "Negocios y comportamiento organizacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CO0002&lang=ES",
+            "nombreCompleto": "Negocios y comportamiento organizacional",
+            "escuela": "Negocios",
+            "departamento": "Gestión y Liderazgo",
+            "competenciasEvaluan": [
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Emplear los conceptos de modelos, gestión y planeación estratégica del negocios al momento de plantear soluciones de transformación digital. - Identificar los aspectos de comportamiento individual, grupal y organizacional necesarios para formular una estrategia de gestión del cambio. - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "FZ2026",
+            "nombre": "Análisis de decisiones financieras",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Análisis de decisiones financieras",
+            "escuela": "Negocios",
+            "departamento": "Contabilidad y Finanzas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar los conceptos básicos de la contabilidad financiera y los fundamentos del análisis e interpretación de estados financieros para apoyar la toma de decisiones. - Identificar los conceptos básicos de control interno sobre reportes financieros y control administrativo para un sistema empresarial integral. - Aplicar los modelos de generación de valor y los principios de ética en el manejo de información financiera. - Utilizar información financiera en sus propuestas. - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos en sus propuestas."
+          },
+          {
+            "clave": "TI2009B",
+            "nombre": "Análisis de procesos y arquitecturas empresariales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0009&lang=ES",
+            "nombreCompleto": "Análisis de procesos y arquitecturas empresariales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0009"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar metodologías de diseño de arquitecturas empresariales mediante una propuesta de mejora que modela los procesos e interacciones en el negocio - Aplicar la ingeniería de requerimientos en el contexto del proceso a partir de un análisis de los requerimientos tecnológicos y organizacionales - Emplear metodologías para el análisis y diseño de procesos en las organizaciones siguiendo los marcos regulatorios y mejores prácticas en la industria - Definir la arquitectura de tecnologías de información acorde a la organización atendiendo todos los requerimientos que presenta el negocio - Explorar alternativas que generan valor, mediante la ideación creativa que reta el pensamiento convencional rompiendo con los paradigmas de la operación actual de la organización"
+          },
+          {
+            "clave": "TI2021",
+            "nombre": "Innovación y emprendimiento digital",
+            "creditos": 2,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Estar Cursando AD2036 o Haber Cursado AD2036 ) y (Estar Cursando FZ2026 o Haber Cursado FZ2026 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26NN0002&lang=ES",
+            "nombreCompleto": "Innovación y emprendimiento digital",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26NN0002",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar las tecnologías digitales y las oportunidades que se presentan para la innovación y emprendimiento digital - Diseñar productos, experiencias y modelos de negocio basadas en tecnologías digitales de vanguardia - Identificar supuestos y plantear hipótesis en cuanto al valor aportado a los grupo de interés de una innovación o emprendimiento - Experimentar de forma iterativa con alternativas de emprendimiento digital - Emplear los conceptos de modelo de negocios, emprendimiento, mercadotecnia digital, mapas de experiencia y planeación estratégica de la innovación - Realizar acciones orientadas a promover el bienestar y la sostenibilidad al momento de plantear sus propuestas de valor en emprendimientos digitales"
+          },
+          {
+            "clave": "TI2022",
+            "nombre": "Gestión de proyectos de TI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Estar Cursando FZ2026 o Haber Cursado FZ2026",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0004&lang=ES",
+            "nombreCompleto": "Gestión de proyectos de TI",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0004",
+              "S26TI0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar la viabilidad de un proyecto a partir del análisis económico del mismo - Administrar proyectos de tecnologías de información mediante la colaboración de todas las partes involucradas - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada mediante la presentación de avances y conclusiones - Gestiona proyectos de diseño e implementación de arquitecturas empresariales"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "CH2001B",
+            "nombre": "Cambio en la organización y equipos ágiles",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Cursado AD2036 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AD0001&lang=ES",
+            "nombreCompleto": "Cambio en la organización y equipos ágiles",
+            "escuela": "Negocios",
+            "departamento": "Gestión y Liderazgo",
+            "competenciasEvaluan": [
+              "S26AD0001",
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Formular una estrategia de gestión sostenible del cambio en proyectos de transformación digital. - Analizar sistémicamente problemáticas de cambio en proyectos de transformación digital para diferentes dominios. - Realizar propuestas estratégicas de acción para los futuros proyectados utilizando metodologías de gestión del cambio. - Establecer la dinámica de los equipos involucrados en un proyecto de cambio a partir del enfoque ágil."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "TC2012B",
+            "nombre": "Exploración de datos y análisis predictivo",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TC2011B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0012&lang=ES",
+            "nombreCompleto": "Exploración de datos y análisis predictivo",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0012"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Emplear herramientas de exploración y preprocesamiento de datos para detectar patrones significativos que sean valiosos en el proceso de análisis de datos - Explicar patrones de datos del área en la que se trabaja mediante el uso de técnicas de análisis predictivo y modelos estadísticos que faciliten la interpretación y comprensión de la información para la toma de decisiones estratégicas - Analizar los datos con técnicas estadísticas a partir de metodologías avanzadas de exploración y determinación de patrones - Evaluar las fuentes de información disponibles para potenciar la toma de decisiones estratégicas en múltiples contextos de negocios"
+          },
+          {
+            "clave": "TC2047",
+            "nombre": "Fundamentos de redes",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC2045 o (Haber Aprobado TC2013B o Estar Cursando TC2013B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0001&lang=ES",
+            "nombreCompleto": "Fundamentos de redes",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad, utilizando metodologías de diseño centrado en el usuario y evaluando su impacto ambiental - Priorizar los requerimientos funcionales y no funcionales realizando análisis de impacto para evaluar la importancia de cada requerimiento"
+          },
+          {
+            "clave": "TC2051",
+            "nombre": "Fundamentos de ingeniería de software",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC1039",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0003&lang=ES",
+            "nombreCompleto": "Fundamentos de ingeniería de software",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0003"
+            ],
+            "requisitosDetalle": "Equivalencia: TI1015",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar los requerimientos de una solución mediante el uso de técnicas, estrategias y herramientas de la ingeniería de software que permitan priorizar y validar los requerimientos - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada mediante la presentación de hallazgos y avances de los requerimientos - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar desde el enfoque de la ingeniería de software"
+          },
+          {
+            "clave": "TC2054",
+            "nombre": "Gobernanza de datos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0011&lang=ES",
+            "nombreCompleto": "Gobernanza de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0011"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Detectar patrones relevantes en los datos desde un enfoque de calidad de la información y gobernanza de datos, asegurando la precisión, consistencia y confiabilidad de los mismos - Definir la visión y gobernanza en el manejo de los datos mediante la implementación de políticas claras, la asignación de roles y responsabilidades específicas, el establecimiento de procesos efectivos de gestión, asegurando así la integridad, la seguridad y el uso ético de la información - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos mediante la implementación de procedimientos claros y la supervisión constante, asegurando la conformidad con las normativas vigentes en el tratamiento de los datos"
+          },
+          {
+            "clave": "TI2023",
+            "nombre": "Tecnologías empresariales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TI2009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0010&lang=ES",
+            "nombreCompleto": "Tecnologías empresariales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0010"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar sistemas de información empresariales en la organización a través del estudio de sus características, funciones y beneficios para la organización - Identificar oportunidades de valor relevantes para la empresa a partir de un análisis del impacto que tiene el uso de sistemas empresariales"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "TC3011B",
+            "nombre": "Narrativa de datos para decisiones estratégicas",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado MA1059 y Haber Cursado TC2012B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26TI0001&lang=ES",
+            "nombreCompleto": "Narrativa de datos para decisiones estratégicas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26TI0001",
+              "C26CO0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Producir visualizaciones y la narrativa de datos mediante el uso de herramientas avanzadas de graficación y técnicas de análisis de datos - Analizar la problemática presentada, desde distintas perspectivas ambientales, culturales, sociales, políticas, económicas y tecnológicas empleando narrativas como un enfoque integral en la interpretación y análisis de datos - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado, empleando técnicas innovadoras de narrativa de datos y modelado estratégico - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar mediante técnicas avanzadas de comunicación de datos y visualización efectiva - Desarrollar modelos estadísticos de interpretación de datos para estructurar relatos convincentes que comuniquen hallazgos clave y recomendaciones basadas en análisis estadísticos avanzados"
+          },
+          {
+            "clave": "TC3092",
+            "nombre": "Plataformas y ecosistemas en la nube",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TC2051 y Haber Aprobado TC2047 y Haber Cursado TI2023 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0013&lang=ES",
+            "nombreCompleto": "Plataformas y ecosistemas en la nube",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0013"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Definir la arquitectura de tecnologías de información utilizando tecnologías en la nube, a través del aprovechamiento óptimo de los servicios disponibles - Producir visualizaciones y la narrativa de datos mediante el uso de servicios en la nube para el análisis de datos - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través de una propuesta de uso de servicios en la nube"
+          },
+          {
+            "clave": "TC3093",
+            "nombre": "Inteligencia artificial y negocios",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Estar Cursando TI3007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0014&lang=ES",
+            "nombreCompleto": "Inteligencia artificial y negocios",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0014"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar las tecnologías digitales y sus oportunidades de innovación en el negocio a través del uso de aplicaciones de inteligencia artificial que optimicen procesos, mejoren la toma de decisiones y generen valor competitivo - Detectar las necesidades de transformación digital en la organización a partir de un análisis del estado actual de la misma - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado utilizando inteligencia artificial para la automatización de procesos empresariales"
+          },
+          {
+            "clave": "TI3007B",
+            "nombre": "Gestión estratégica y gobierno de TI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TI2009B o Haber Cursado FZ2026 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26TI0005&lang=ES"
+          },
+          {
+            "clave": "TI3042",
+            "nombre": "Gestión de riesgos y ciberseguridad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC2047"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES"
+          },
+          {
+            "clave": "TC3012B",
+            "nombre": "Proyecto de transformación digital",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TC3092",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26TC0001&lang=ES"
+          }
+        ]
+      }
+    ]
+  }
+}
