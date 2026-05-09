@@ -5,7 +5,5 @@ packages:
 # `sharp` powers Next.js image optimization; `unrs-resolver` is the
 # Rust-based module resolver used by eslint-config-next.
 allowBuilds:
-  '@google/genai': true
-  protobufjs: true
   sharp: true
   unrs-resolver: true
