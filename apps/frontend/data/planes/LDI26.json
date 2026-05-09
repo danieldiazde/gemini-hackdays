@@ -1,0 +1,643 @@
+{
+  "carreraClave": "LDI26",
+  "nombre": "Licenciatura en Diseño",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Diseño, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas y estadística. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para expresar ideas de manera clara y efectiv",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1001B",
+            "nombre": "Historia del arte, diseño y ciudad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Historia del arte, diseño y ciudad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "requisitosDetalle": "Equivalencia: AR2035",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender el contexto histórico mediante un análisis de las distintas visiones en los entornos creativos. - Promover la participación incluyente y la diversidad de pensamiento considerando aspectos del entorno creativo."
+          },
+          {
+            "clave": "A1007",
+            "nombre": "Teoría del arte, diseño y ciudad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26A0001&lang=ES",
+            "nombreCompleto": "Teoría del arte, diseño y ciudad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "competenciasEvaluan": [
+              "S26A0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender las artes y el diseño mediante el análisis de la forma y sus significados. - Plantear conclusiones fundamentadas en argumentos validados considerando las teorías de las artes, diseño, arquitectura y ciudad."
+          },
+          {
+            "clave": "AR1010B",
+            "nombre": "Fundamentos de diseño",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Fundamentos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Expresar los fundamentos del diseño desde un enfoque sistémico para dar solución a problemas disciplinares. - Explorar alternativas que generan valor, mediante la ideación creativa que reta el pensamiento convencional, desde los fundamentos del diseño."
+          },
+          {
+            "clave": "AR1029",
+            "nombre": "Dibujo y expresión gráfica",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Dibujo y expresión gráfica",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Expresar los fundamentos del diseño aplicando distintas técnicas de dibujo. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado considerando una perspectiva creativa."
+          },
+          {
+            "clave": "DL1024",
+            "nombre": "Métodos creativos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Métodos creativos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "requisitosDetalle": "Equivalencia: DL1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y aplicar los métodos creativos del proceso de diseño a través de la solución de problemas reales. - Explorar alternativas que generan valor, mediante la ideación que reta el pensamiento convencional haciendo uso de métodos creativos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "A1002B",
+            "nombre": "Programación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Programación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar el lenguaje de programación computacional desde el enfoque creativo que facilite desarrollar procesos de diseño. - Identificar los supuestos a través del planteamiento de hipótesis, mediante una visión sistémica que resulte en objetivos de diseño."
+          },
+          {
+            "clave": "A1003B",
+            "nombre": "Experimentación digital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AR0009&lang=ES",
+            "nombreCompleto": "Experimentación digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26AR0009"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar herramientas tecnológicas para el proceso creativo como apoyo para dar soluciones de diseño y prototipado. - Experimentar de forma iterativa con las alternativas de solución emprendedoras como parte del proceso de diseño."
+          },
+          {
+            "clave": "AR1030",
+            "nombre": "Investigación para industrias creativas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AR0008&lang=ES",
+            "nombreCompleto": "Investigación para industrias creativas",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "competenciasEvaluan": [
+              "S26AR0008"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar el pensamiento sistémico a partir de un análisis dentro del contexto creativo. - Aplicar metodologías de investigación para la argumentación de propuestas críticas, proyectos o productos basadas en contextos creativos. - Aplicar las herramientas tecnológicas en la investigación para facilitar la comprensión de los problemas en contextos creativos. - Utilizar metodologías en la evaluación de argumentos y evidencias en el ámbito de las industrias creativas."
+          },
+          {
+            "clave": "AR1031",
+            "nombre": "Análisis y visualización de datos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0001&lang=ES",
+            "nombreCompleto": "Análisis y visualización de datos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "competenciasEvaluan": [
+              "S26DI0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar principios de estadística mediante una visión enfocada en el diseño. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, comunicándolo con bases de diseño de la información."
+          },
+          {
+            "clave": "DL1025",
+            "nombre": "Diseño con matemáticas y física",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Diseño con matemáticas y física",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver problemas simples de diseño aplicando principios de matemáticas y física. - Valorar la credibilidad de las afirmaciones y argumentos en la solución de problemas simples de diseño, basados en los principios de matemáticas y física."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "DL1001B",
+            "nombre": "Estudio de diseño I",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Estudio de diseño I",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar productos, servicios y experiencias significativas a través de proyectos de diseño. - Identificar oportunidades de emprendimiento y desarrollar un brief de diseño a través del análisis de información obtenida por medio de investigación. - Generar ideas, desarrollar prototipos y realizar pruebas y validaciones por medio del uso de técnicas y herramientas de diseño. - Desarrollar un modelo de negocios y experimentar de forma iterativa a través del diseño de productos innovadores."
+          },
+          {
+            "clave": "DL1002B",
+            "nombre": "Geometría para el diseño",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Geometría para el diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y aplicar los principios de proporción para crear diseños equilibrados y armoniosos. - Desarrollar habilidades en el dibujo técnico, dominando el uso de herramientas y técnicas para representar objetos y espacios con precisión y claridad. - Explorar y aplicar técnicas de representación tridimensional, mejorando su capacidad para visualizar y comunicar conceptos de diseño en 3D. - Entender conceptos fundamentales de la geometría y su aplicación en el diseño, utilizando estos principios para crear y analizar proyectos de manera efectiva. - Interpretar la información a partir de parámetros o procedimientos de geometría aplicada."
+          },
+          {
+            "clave": "DL1026",
+            "nombre": "Materiales y procesos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Materiales y procesos I",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Usar materiales y procesos de fabricación para el desarrollo de prototipos mediante prácticas y ejercicios en los laboratorios de cerámica, textiles y maderas. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través de la selección responsable de materiales y procesos de manufactura cerámicos, textiles y madereros."
+          },
+          {
+            "clave": "DL1027",
+            "nombre": "Dibujo y representación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Dibujo y representación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "requisitosDetalle": "Equivalencia: DL2042",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar habilidades en el dibujo a mano alzada para realizar bocetos claros, expresivos y comunicativos. - Utilizar el dibujo como una forma de pensamiento y una herramienta poderosa de conceptualización, dominando diversas técnicas de representación análoga en 2D y 3D. - Integrar herramientas de inteligencia artificial en el proceso creativo, ampliando sus capacidades de representación visual. - Representar de manera elocuente tanto la figura humana y el espacio. - Utilizar estrategias verbales y no verbales, fortaleciendo su capacidad para presentar y defender sus ideas de diseño de manera clara y persuasiva."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "DL2007B",
+            "nombre": "Teorías y métodos de diseño",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0003&lang=ES",
+            "nombreCompleto": "Teorías y métodos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0003",
+              "S26DI0004",
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Realiza una investigación para generar una solución de problemas a casos prácticos teniendo como base un trabajo de campo en el contexto del entorno real. - Realizar propuestas estratégicas de acción para los futuros proyectados a través de la investigación de las características identitarias del proyecto de diseño. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado a través del análisis y descomposición de problemas complejos. - Definir las características que plantean los rasgos identitarios por medio de investigación etnográfica."
+          },
+          {
+            "clave": "DL2008B",
+            "nombre": "Estudio de diseño II",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0006&lang=ES",
+            "nombreCompleto": "Estudio de diseño II",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0006",
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Promover la participación incluyente y diseñar con visión regenerativa promoviendo el bienestar y la sostenibilidad a través de co-diseño y la biomímesis. - Generar soluciones integrales de diseño a través de la selección de colores, materiales y acabados. - Utilizar la teoría de sistemas complejos por medio del diseño de productos y sus entornos. - Desarrollar una retórica profesionalizante de elaboración de discursos elevados por diversos medios de comunicación de diseño."
+          },
+          {
+            "clave": "DL2060",
+            "nombre": "Modelación y visualización digital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0002&lang=ES",
+            "nombreCompleto": "Modelación y visualización digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0002"
+            ],
+            "requisitosDetalle": "Equivalencia: DL2001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar a través de representaciones del 2D al 3D, uso de software, planos, y representaciones visuales para comunicar ideas y proyectos de diseño. - Representar propuestas de diseño mediante técnicas análogas o digitales mediante el uso de representaciones 2D y 3D, a través de software, inteligencia artificial e impresión 3D."
+          },
+          {
+            "clave": "DL2061",
+            "nombre": "Materiales y procesos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Materiales y procesos II",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Usar materiales y procesos de fabricación para el desarrollo de prototipos mediante prácticas y ejercicios en los laboratorios de metales, polímeros y avanzados. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través de la selección responsables de materiales y procesos de manufactura metálicos, poliméricos y avanzados."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "DL2009B",
+            "nombre": "Diseño y tecnología",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Cursado DL1001B y Haber Cursado DL1026 y Haber Cursado DL2061",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0007&lang=ES",
+            "nombreCompleto": "Diseño y tecnología",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0007",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar tecnologías emergentes y nuevos materiales en el diseño de productos a través del diseño y desarrollo de productos de base tecnológica. - Desarrollar estrategias de solución que consideren las necesidades y expectativas de los usuarios y stakeholders por medio de la humanización de la tecnología. - Plantear conclusiones fundamentadas en argumentos validados por medio de la integración de valores humanistas en el desarrollo de productos tecnológicos. - Utilizar metodologías en la evaluación de argumentos y evidencias para generar propuestas de valor en la argumentación tecnológica."
+          },
+          {
+            "clave": "DL2010B",
+            "nombre": "Estudio de diseño III",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0009&lang=ES",
+            "nombreCompleto": "Estudio de diseño III",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0009",
+              "S26EM0003",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar técnicas y herramientas avanzadas para el diseño y desarrollo de proyectos creativos. - Diseñar y desarrollar productos de base tecnológica por medio de prototipos funcionales. - Generar discursos de diseño a través de estrategias verbales y no verbales. - Presentar sus proyectos creativos a través de técnicas y herramientas de diseño visual."
+          },
+          {
+            "clave": "DL2062",
+            "nombre": "Historia y crítica del diseño",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CO0002&lang=ES",
+            "nombreCompleto": "Historia y crítica del diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprende el contexto histórico, así como las artes y el diseño por medio de sesiones de reflexiones, discusiones y análisis críticos acerca de los paradigmas, conceptos y nociones teóricas existentes en el diseño. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada integrando los contenidos referentes al diseño para generar publicaciones realizadas como ejercicios en clase."
+          },
+          {
+            "clave": "DL2063",
+            "nombre": "Gestión estratégica del diseño",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EM0012&lang=ES",
+            "nombreCompleto": "Gestión estratégica del diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26EM0012"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar finanzas aplicadas para creativos y reconoce modelos de negocios y estrategias en el diseño a través del aprendizaje de las etapas, estrategias y metodologías adecuadas para la correcta administración y gestión de un proyecto de diseño. - Aplicar principios de negociación y acuerdos de colaboración identificando los supuestos a través del planteamiento de hipótesis y reconoce modelos de negocios y estrategias en el diseño. - Identificar las oportunidades de proyectos creativos través del planteamiento de hipótesis utilizando finanzas aplicadas para creativos."
+          },
+          {
+            "clave": "DL2064",
+            "nombre": "Diseño para la vida",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0005&lang=ES",
+            "nombreCompleto": "Diseño para la vida",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0005"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identifica oportunidades de innovación estratégica con responsabilidad sostenible a través de la integración de los principios del diseño sostenible y social. - Diseña planes de acción con una visión planetaria mediante la aplicación de herramientas y técnicas para promover la sostenibilidad, la responsabilidad y la colaboración. - Desarrollar estrategias de impacto social o ambiental en proyectos de diseño integrándolos desde una perspectiva sistémica, de diversidad y resiliencia. - Incorporar los valores democráticos en acciones de interés social integrándolos dentro de los nuevos paradigmas del diseño."
+          },
+          {
+            "clave": "DL2065",
+            "nombre": "Diseño especulativo",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26DI0008&lang=ES",
+            "nombreCompleto": "Diseño especulativo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "S26DI0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reflexionar sobre el uso de nuevas tecnologías y su impacto en la sociedad y el planeta a través de la comprensión de los conceptos medulares del diseño crítico y diseño especulativo. - Desarrollar estudios de prospectiva de visualización de escenarios futuros empleando diversos métodos y estrategias para examinar tensiones y desafíos inherentes en este campo. - Determinar la selección y uso de tecnologías en el diseño de sistemas, productos-servicios y experiencia aplicando técnicas de diseño de futuros para re-imaginar y desarrollar escenarios, utilizando estos enfoques como herramientas de pensamiento crítico-creativo e innovación. - Realizar propuestas estratégicas de acción para los futuros proyectados utilizando herramientas especulativas como experimentos de pensamiento, la influencia de la ciencia ficción y los movimientos radicales de diseño."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3117",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3118",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3119",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3120",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3121",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3122",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "DL3023B",
+            "nombre": "Estudio de diseño IV",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26DI0001&lang=ES",
+            "nombreCompleto": "Estudio de diseño IV",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "competenciasEvaluan": [
+              "C26DI0001",
+              "C26DI0002",
+              "C26DI0003",
+              "C26DI0004",
+              "C26DI0005",
+              "C26CO0001",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar posturas decoloniales que contribuyan a la diversidad, equidad e inclusión a través de una visión ética y centrada en el planeta. - Fomentar la cultura del diseño a través de reflexiones críticas en la disciplina. - Gestionar proyectos de diseño desde una perspectiva de diseño holístico (Holistic Design)."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

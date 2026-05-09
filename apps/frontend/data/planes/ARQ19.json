@@ -1,0 +1,707 @@
+{
+  "carreraClave": "ARQ19",
+  "nombre": "Arquitectura",
+  "descripcionES": "Para acreditar las materias Tópico, es elección del alumno las unidades de formación que desea cursar , contando con la asesoría de su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "AR1025",
+            "nombre": "Creatividad y diseño",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Creatividad y diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 10
+          },
+          {
+            "clave": "AR1026",
+            "nombre": "Metodologías de investigación para proyectos de diseño",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "horasAuto": 2,
+            "nombreCompleto": "Metodologías de investigación para proyectos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 6,
+            "aDetalle": 2,
+            "udcDetalle": 6
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AR1027",
+            "nombre": "Métodos de diseño",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "horasAuto": 2,
+            "nombreCompleto": "Métodos de diseño",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 6,
+            "aDetalle": 2,
+            "udcDetalle": 6
+          },
+          {
+            "clave": "AR1028",
+            "nombre": "Técnicas de representación espacial y de imagen",
+            "creditos": 9,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Técnicas de representación espacial y de imagen",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 9
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "AR2002B",
+            "nombre": "Diseño y construcción de un hábitat efímero",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0203A&lang=ES",
+            "nombreCompleto": "Diseño y construcción de un hábitat efímero",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SAR0203A",
+              "SAR0205A",
+              "SAR0402A",
+              "SAR0605A",
+              "SAR0802A",
+              "SAR0602A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0203A",
+              "SAR0205A",
+              "SAR0402A",
+              "SAR0602A",
+              "SAR0605A",
+              "SAR0802A",
+              "SEG0401A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio que tiene como propósito desarrollar un proyecto arquitectónico a pequeña escala, integrando las habilidades y conocimientos básicos en torno al diseño arquitectónico sostenible, tecnologías de construcción, estructura y gestión. Requiere conocimientos previos básicos de metodologías de diseño, investigación y etnografía, y de representación arquitectónica. Como resultado del aprendizaje, se espera que el alumno desarrolle un proyecto arquitectónico de pequeña escala a partir de una idea rectora o concepto y que resuelva aspectos etnográficos, contextuales, formales, funcionales, estructurales, espaciales y de instalaciones aplicando criterios básicos de sostenibilidad, tecnologías de edificación, materiales y gestión.",
+            "objetivo": "Al finalizar el curso, el alumno: - Propone alternativas de solución a problemas arquitectónicos con base en un pensamiento sistémico, crítico y una visión a futuro. - Establece las premisas de diseño e ideas rectoras que integran sensibilidad estética, funcionalidad, calidad de vida de los usuarios y respeto al medio ambiente. - Integra las necesidades de grupos sociales en la solución de proyectos arquitectónicos y urbanos, adecuándose a la realidad contextual, la participación ciudadana y sus características etnográficas. - Utiliza los sistemas constructivos identificando los requerimientos técnicos del proyecto y el contexto donde se aplica. - Aplica criterios estructurales en la solución de proyectos arquitectónicos con base en métodos de análisis y cálculo para estructuras simples. - Gestiona integralmente todas las etapas de un proyecto de arquitectura: planeación, organización, dirección y control, con base en los requerimientos de cada proyecto. - Respeta la dignidad, derechos, contribuciones y circunstancias, personales y de los demás, procurando presentar soluciones constructivas y solidarias ante situaciones ajenas."
+          },
+          {
+            "clave": "AR2035",
+            "nombre": "La conceptualización del espacio, su teoría y su historia",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0401A&lang=ES",
+            "nombreCompleto": "La conceptualización del espacio, su teoría y su historia",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0401A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: A1001B",
+            "descripcion": "Es un curso de nivel intermedio, que tiene la intención de que el estudiante aplique una metodología de análisis de la obra arquitectónica y conozca de manera general la historia de la arquitectura en Occidente, desde Grecia hasta el advenimiento del Movimiento Moderno. Se incluirán conceptos generales de la teoría de la arquitectura desarrollada en los períodos analizados. Requiere conocimientos generales de la historia universal. Como resultado del aprendizaje el alumno analiza una obra arquitectónica en términos de forma, espacio, función, estructura y orden a partir de una investigación sistemática en una monografía y en un ensayo académico.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Establece las premisas de diseño e ideas rectoras que integran sensibilidad estética, funcionalidad, calidad de vida de los usuarios y respeto al medio ambiente. - Diagnostica problemáticas referentes a la arquitectura atendiendo al contexto y las necesidades del usuario."
+          },
+          {
+            "clave": "AR2036",
+            "nombre": "Representación de la arquitectura y su construcción",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0201A&lang=ES",
+            "nombreCompleto": "Representación de la arquitectura y su construcción",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0201A",
+              "SEG0603A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1011B",
+            "descripcion": "Es un curso de nivel intermedio, que tiene la intención de que el estudiante aprenda las bases del lenguaje gráfico arquitectónico y de sistemas constructivos mediante la aplicación de técnicas de representación en dos y tres dimensiones, y la modelación de maquetas. Se analizarán los esquemas de funcionamiento de diseños arquitectónicos simples, sus materiales y sistemas constructivos. No requiere conocimientos previos de representación gráfica ni sistemas constructivos. Como resultado del aprendizaje el alumno desarrolla planos arquitectónicos, planos del sistema constructivo básico, las volumetrías y la maqueta de un proyecto dado que le permiten comprender la forma de comunicación del proyecto arquitectónico, su tectónica y la relación funcional de los espacios, mediante el análisis una vivienda mínima.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Aplica los sistemas de representación, las técnicas de elaboración de maquetas y prototipos así como la representación de la lógica constructiva espacial en la solución de un proyecto específico, con base en los estándares de la disciplina. - Representa de manera inventiva conceptos y proyectos arquitectónicos con base en los estándares de la disciplina. - Caracteriza y describe de manera integral mediante sistemas de representación bidimensional y tridimensional, las características físicas de los materiales, los sistemas constructivos, las proporciones, la escala y la corporeidad del espacio arquitectónico."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "AR2004B",
+            "nombre": "Arquitectura y contextos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0201A&lang=ES",
+            "nombreCompleto": "Arquitectura y contextos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0201A",
+              "SAR0205A",
+              "SAR0206A",
+              "SEG0503B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de arquitectura que tiene la intención que el alumno entienda la problemática urbana de una comunidad a través de metodologías de diseño participativo para detectar áreas de oportunidad como parte del proceso de investigación previo a la conceptualización del proyecto arquitectónico. Requiere conocimientos básicos de representación arquitectónica. Como resultado del aprendizaje el alumno elabora un documento que incluye el diagnóstico urbano y recomendaciones para la propuesta de equipamiento comunitario necesario en la zona de estudio.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Propone alternativas de solución a problemas arquitectónicos con base en un pensamiento sistémico, crítico y una visión a futuro. - Aplica las metodologías de investigación desde una perspectiva arquitectónica socio-ambiental. - Detecta problemáticas y necesidades a partir de una visión crítica y sistémica de la información. - Elabora programas arquitectónicos valorando críticamente los requerimientos del usuario, el lugar, el espacio y equipamiento y la normativa. - Proyecta espacios arquitectónicos que integran los componentes ambientales, sociales, económicos, culturales, técnicos y cognitivos. - Integra las necesidades de grupos vulnerables en la solución de proyectos arquitectónicos y urbanos, adecuándose a la realidad contextual, la participación ciudadana y sus características etnográficas."
+          },
+          {
+            "clave": "AR2007B",
+            "nombre": "Equipamiento comunitario",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado AR2004B o Estar Cursando AR2004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0204A&lang=ES",
+            "nombreCompleto": "Equipamiento comunitario",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SAR0204A",
+              "SAR0601A",
+              "SAR0603A",
+              "SAR0604A",
+              "SAR0801A",
+              "SAR0805A",
+              "SEG0403A",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0204A",
+              "SAR0601A",
+              "SAR0603A",
+              "SAR0604A",
+              "SAR0801A",
+              "SAR0805A",
+              "SEG0403A",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Integra las necesidades de grupos sociales en la solución de proyectos arquitectónicos, rurales o urbanos, adecuándose a la realidad contextual, la participación ciudadana y sus características etnográficas. - Proyecta espacios arquitectónicos que integran los componentes ambientales, sociales, económicos, culturales, técnicos y cognitivos. - Encausa proyectos arquitectónicos con un enfoque sistémico, prospectivo y participativo. - Identifica los materiales y procedimientos de construcción bajo criterios de ciclo de vida, principios de sostenibilidad y marco regulatorio de cada región. - Utiliza los sistemas constructivos identificando los requerimientos técnicos del proyecto y el contexto donde se aplica. - Elabora la propuesta del proyecto ejecutivo con base en el marco normativo vigente. - Promueve acciones de emprendimiento que se derivan de las competencias propias de la arquitectura. - Desarrolla los procesos de puesta en marcha de un despacho de arquitectura, una empresa constructora y desarrolladora inmobiliaria atendiendo una visión emprendedora."
+          },
+          {
+            "clave": "AR2039",
+            "nombre": "Investigación y proyecto arquitectónico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado AR2035 o Haber Aprobado AR2035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0202A&lang=ES",
+            "nombreCompleto": "Investigación y proyecto arquitectónico",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0202A",
+              "SAR0401A",
+              "SEG0501B"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Elabora programas arquitectónicos valorando críticamente los requerimientos del usuario, el lugar, el espacio y equipamiento y la normativa. Plasma a través de un programa arquitectónico las necesidades del usuario y las características cuantitativas y cualitativas que deben contemplar los espacios. - Integra las necesidades de grupos vulnerables en la solución de proyectos arquitectónicos y urbanos, adecuándose a la realidad contextual, la participación ciudadana y sus características etnográficas. - Elabora una lectura profunda del lugar y la interpreta para entender la realidad contextual en la que se emplazará un proyecto arquitectónico o urbano. - Define, a través del diseño participativo y del contacto con el lugar, las necesidades particulares de los usuarios. - Encausa proyectos arquitectónicos con un enfoque sistémico, prospectivo y participativo. - Valora los recursos disponibles con base en la lectura del lugar, identificando potenciales y sinergias que detonen el proyecto."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "AR2008B",
+            "nombre": "Vivienda colectiva",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado AR2007B o Haber Aprobado AR2007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0603B&lang=ES",
+            "nombreCompleto": "Vivienda colectiva",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SAR0603B",
+              "SAR0604B",
+              "SAR0606B",
+              "SAR0803A",
+              "SAR0804A",
+              "SAR0205B",
+              "SAR0801B",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0205B",
+              "SAR0603B",
+              "SAR0604B",
+              "SAR0606B",
+              "SAR0801B",
+              "SAR0803A",
+              "SAR0804A",
+              "SEG0301A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno será capaz de: - Elaborar programas arquitectónicos valorando críticamente los requerimientos del usuario, el lugar, el espacio y equipamiento y la normativa - Establecer las premisas de diseño e ideas rectoras que integran sensibilidad estética, función - Proyectar espacios arquitectónicos que integran los componentes ambientales, sociales, - Integrar las necesidades de grupos vulnerables en la solución de proyectos arquitectónicos y urbanos, adecuándose a la realidad contextual, la participación ciudadana y sus características etnográficas. - Representar de manera inventiva conceptos y proyectos arquitectónicos con base en los estándares de la disciplina. - Definir los materiales y procedimientos de construcción bajo criterios de ciclo de vida, principios de sostenibilidad y marco regulatorio de cada región. - Utilizar los sistemas constructivos identificando los requerimientos técnicos del proyecto y el contexto donde se aplica. - Desarrollar el proyecto ejecutivo con base en el marco normativo vigente. - Diseñar las instalaciones, satisfaciendo las necesidades del proyecto arquitectónico y bajo los criterios de sostenibilidad. - Aplicar criterios estructurales en la solución de proyectos arquitectónicos con base en métodos de análisis y cálculo para estructuras simples. - Presupuestar una obra civil con base en las leyes y regulaciones emanadas de las autoridades correspondientes y del sector de la construcción. - Promover acciones derivadas de las competencias propias de la arquitectura. - Dirigir integralmente todas las etapas de la administración de la construcción: planeación, organización, dirección y control, con base en los requerimientos de cada proyecto. - Integrar la mejor alternativa de inversión e implementación de un proyecto inmobiliario con base en un empleo adecuado de recursos humanos, materiales y tecnológicos."
+          },
+          {
+            "clave": "AR2009B",
+            "nombre": "Vivienda unifamiliar",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado AR2039 o Haber Aprobado AR2039 ) y (Haber Cursado AR2036 o Haber Aprobado AR2036 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0202B&lang=ES",
+            "nombreCompleto": "Vivienda unifamiliar",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0202B",
+              "SAR0203B",
+              "SAR0204B",
+              "SAR0606A",
+              "SAR0201B",
+              "SEG0604B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno será capaz de: - Integrar las necesidades de grupos sociales en la solución de proyectos arquitectónicos y urbanos, adecuándose a la realidad contextual, la participación ciudadana y sus características etnográficas. - Establecer las premisas de diseño e ideas rectoras que integran sensibilidad estética, funcionalidad, calidad de vida de los usuarios y respeto al medio ambiente. - Proyectar espacios arquitectónicos que integran los componentes ambientales, sociales, económicos, culturales, técnicos y cognitivos. - Elaborar programas arquitectónicos valorando críticamente los requerimientos del usuario, el lugar, el espacio y equipamiento y la normativa. - Representar de manera inventiva conceptos y proyectos arquitectónicos con base en los estándares de la disciplina. - Promover acciones de emprendimiento que se derivan de las competencias propias de la arquitectura. - Integrar la mejor alternativa de inversión e implementación de un proyecto inmobiliario con base en un empleo adecuado de recursos humanos, materiales y tecnológicos."
+          },
+          {
+            "clave": "AR2040",
+            "nombre": "Constructibilidad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Haber Cursado AR2036 o Haber Aprobado AR2036 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0601B&lang=ES",
+            "nombreCompleto": "Constructibilidad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0601B",
+              "SAR0605B",
+              "SAR0602B",
+              "SEG0502B"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1032",
+            "objetivo": "Al terminar la unidad de formación el alumno será capaz de: - Definir los materiales y procedimientos de construcción bajo criterios de ciclo de vida, principios de sostenibilidad y marco regulatorio de cada región. - Utilizar los sistemas constructivos identificando los requerimientos técnicos del proyecto y el contexto donde se aplica. - Diseñar las instalaciones, satisfaciendo las necesidades del proyecto arquitectónico y bajo los criterios de sostenibilidad. - Aplicar criterios estructurales en la solución de proyectos arquitectónicos con base en métodos de análisis y cálculo para estructuras simples."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "AR3007B",
+            "nombre": "Emprendimiento en el ámbito de la arquitectura",
+            "creditos": 6,
+            "tipo": "life",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "(Haber Cursado AR3011B o Estar Cursando AR3011B ) o (Haber Cursado AR3017B o Estar Cursando AR3017B ) y (Haber Cursado AR3032 o Estar Cursando AR3032 ) y (Haber Cursado AR3033 o Estar Cursando AR3033 ) y (Haber Cursado AR3034 o Estar Cursando AR3034 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0206C&lang=ES",
+            "nombreCompleto": "Emprendimiento en el ámbito de la arquitectura",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SAR0206C",
+              "SAR0801C",
+              "SAR0804C",
+              "SAR0805C",
+              "SEG0404B"
+            ],
+            "competenciasEvaluan": [
+              "SAR0206C",
+              "SAR0801C",
+              "SAR0804C",
+              "SAR0805C",
+              "SEG0404B"
+            ],
+            "requisitosDetalle": "Equivalencia: AR3021B",
+            "descripcion": "Es un curso de nivel avanzado en el área de la arquitectura y la ciudad que proporciona a los estudiantes un entendimiento de modelos de emprendimiento, innovación y promoción a partir de un análisis sostenible del territorio y del hábitat que les permita desarrollar una propuesta de valor ante un mercado competitivo y ante los actores que intervienen en el proceso. Requiere conocimientos previos de investigación, proyecto arquitectónico y construcción. Como resultado del aprendizaje el alumno desarrolla una propuesta de emprendimiento y pitch de venta de un proyecto arquitectónico y/o urbano que considera los riesgos de desastres y cambio climático, y que responde a un mercado específico.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Encausa proyectos arquitectónicos con un enfoque sistémico, prospectivo y participativo, integrando los factores sociales, ambientales, económicos, culturales e históricos significativos. - Promueve acciones de emprendimiento de impacto positivo en el hábitat de una comunidad vulnerable con base en las oportunidades de negocio detectadas y evaluadas."
+          },
+          {
+            "clave": "AR3008B",
+            "nombre": "Gestión arquitectónica",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado AR3007B o Estar Cursando AR3007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0205C&lang=ES",
+            "nombreCompleto": "Gestión arquitectónica",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SAR0205C",
+              "SAR0802C",
+              "SAR0803C",
+              "SEG0303A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0205C",
+              "SAR0802C",
+              "SAR0803C",
+              "SEG0303A"
+            ],
+            "descripcion": "Es un curso de nivel avanzado que proporciona a los estudiantes las herramientas y conocimientos para que dirijan, identifiquen, y ejecuten efectivamente proyectos arquitectónicos, considerando principios legales, éticos, de liderazgo, innovación y desarrollo sustentable, con una visión integradora y desde los tres enfoques: Diseño, Gestión y Dirección. Requiere conocimientos previos de investigación, metodología de diseño de proyecto arquitectónico y gestión. Como resultado del aprendizaje el alumno desarrolla una estrategia de gestión integrada de un proyecto de arquitectura, desde un modelo sustentable, considerando la información necesaria para el diseño y realización, que permita evaluar metas de calidad del ambiente construido y de reducción del impacto ambiental, económico y social del proyecto de arquitectura.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Administra las etapas de la construcción: planeación, organización, dirección y control, a nivel de dirección integral de un proyecto constructivo. - Gestiona la tramitología mediante un análisis a profundidad de los requerimientos de cada proyecto arquitectónico y constructivo con base a un conocimiento avanzado de los reglamentos y normativas vigentes y aplicables a cada proyecto - Integra un análisis a profundidad de las alternativas de inversión e implementación del cliente o inversionista de sector negocios inmobiliarios. - Desarrolla a nivel avanzado los procesos de puesta en marcha de un despacho de arquitectura, una empresa constructora o una desarrolladora inmobiliaria atendiendo una visión emprendedora."
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

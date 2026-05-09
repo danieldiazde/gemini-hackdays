@@ -1,0 +1,176 @@
+{
+  "carreraClave": "ICT26",
+  "nombre": "Computación e Inteligencia Artificial / Exploración",
+  "descripcionES": "",
+  "competencias": [],
+  "perfilIngreso": "",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1038",
+            "nombre": "Fundamentos de programación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Fundamentos de programación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1029",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar componentes de la solución a través del diseño e implementación de algoritmos computacionales, utilizando un lenguaje de alto nivel, a partir del planteamiento de un problema claramente definido - Utilizar herramientas computacionales y de tecnologías de información en la solución de problemas a través de la técnica de divide y vencerás, así como el uso efectivo de un ambiente de desarrollo integrado - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través del planteamiento y evaluación de varias alternativas de solución para seleccionar la más adecuada"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1"
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054"
+          },
+          {
+            "clave": "MA1005B",
+            "nombre": "Álgebra matricial y métodos numéricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1054 )"
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054"
+          },
+          {
+            "clave": "MA1057",
+            "nombre": "Matemáticas discretas",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1
+          },
+          {
+            "clave": "TC1039",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC1038"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9
+          }
+        ]
+      }
+    ]
+  }
+}

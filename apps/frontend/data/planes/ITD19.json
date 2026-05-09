@@ -1,0 +1,1204 @@
+{
+  "carreraClave": "ITD19",
+  "nombre": "Ingeniería en Transformación Digital de Negocios",
+  "descripcionES": "La opción seleccionada por el alumno debe ser autorizada por su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "F1001B",
+            "nombre": "Modelación de la ingeniería y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0402A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería y ciencias",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SING0402A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1003B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "F1004B",
+            "nombre": "Modelación computacional del movimiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional del movimiento",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0101A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1002B ; F1006B ; F1008B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas a través de la modelación computacional del movimiento. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación computacional del movimiento. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales a través de la modelación del movimiento. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo mediante la modelación computacional del movimiento. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida a través de la modelación computacional del movimiento."
+          },
+          {
+            "clave": "F1005B",
+            "nombre": "Modelación computacional aplicando leyes de conservación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1004B o Estar Cursando F1004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102A&lang=ES",
+            "nombreCompleto": "Modelación computacional aplicando leyes de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0102A",
+              "SICT0303A",
+              "SEG0602A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SICT0102A",
+              "SEG0602A",
+              "SICT0303A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1003B ; F1007B ; F1009B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "MA1028",
+            "nombre": "Modelación matemática fundamental",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101A&lang=ES",
+            "nombreCompleto": "Modelación matemática fundamental",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0101A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "Q1020",
+            "nombre": "Análisis de la estructura y propiedades de la materia",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEG0502A&lang=ES",
+            "nombreCompleto": "Análisis de la estructura y propiedades de la materia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "TC1029",
+            "nombre": "Pensamiento computacional y programación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEG0702A&lang=ES",
+            "nombreCompleto": "Pensamiento computacional y programación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1038 ; TC1028 y TC1033",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas computacionales y tecnologías de información."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "BT1013",
+            "nombre": "Análisis de biología computacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o (Haber Cursado TC1028 y Haber Cursado TC1033 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0201A&lang=ES",
+            "nombreCompleto": "Análisis de biología computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Bioingeniería",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0201A",
+              "SICT0402A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Aplica los principios de sustentabilidad en la solución de problemas computacionales y de tecnologías de información que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "F1008",
+            "nombre": "Experimentación física y pensamiento estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1003B o Haber Cursado F1005B o Haber Cursado F1007B o Haber Cursado F1009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0102A&lang=ES",
+            "nombreCompleto": "Experimentación física y pensamiento estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0102A",
+              "SING0203A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0102A",
+              "SING0203A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          },
+          {
+            "clave": "F1013B",
+            "nombre": "Modelación computacional de sistemas eléctricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1005B o Estar Cursando F1005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional de sistemas eléctricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0301A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SICT0301A",
+              "SICT0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1011B ; F1016B ; F1019B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "F1014B",
+            "nombre": "Modelación computacional de sistemas electromagnéticos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1013B o Estar Cursando F1013B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional de sistemas electromagnéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0102A",
+              "SEG0503A",
+              "SICT0303A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1012B ; F1017B ; F1020B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas a través de la modelación computacional de sistemas electromagnéticos. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación computacional de sistemas electromagnéticos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales mediante la modelación computacional de sistemas electromagnéticos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo a través de la modelación computacional de sistemas electromagnéticos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida mediante la modelación computacional de sistemas electromagnéticos."
+          },
+          {
+            "clave": "MA1029",
+            "nombre": "Modelación matemática intermedia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Modelación matemática intermedia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0301A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0603A",
+              "SING0101B",
+              "SING0301A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "MA1031",
+            "nombre": "Análisis estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0203B&lang=ES",
+            "nombreCompleto": "Análisis estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0203B",
+              "SING0202B",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0202B",
+              "SING0203B",
+              "SEG0501A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Desarrolla escenarios de acción en la toma de decisiones con base en el análisis de patrones de un conjunto de datos."
+          },
+          {
+            "clave": "TC1003B",
+            "nombre": "Modelación de la ingeniería con matemática computacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0202A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería con matemática computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0202A",
+              "SICT0102A",
+              "SICT0101B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "TC1030",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1033 o Estar Cursando TC1033",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0301A&lang=ES",
+            "nombreCompleto": "Programación orientada a objetos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0301A",
+              "SICT0303A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "MA1033",
+            "nombre": "Análisis de ecuaciones diferenciales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102B&lang=ES",
+            "nombreCompleto": "Análisis de ecuaciones diferenciales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0102B",
+              "SICT0101B",
+              "SEG0601A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0601A",
+              "SICT0101B",
+              "SICT0102B"
+            ],
+            "requisitosDetalle": "Equivalencia: MA2025",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "TC1004B",
+            "nombre": "Implementación de internet de las cosas",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado TC1030 y Haber Cursado TC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0201B&lang=ES",
+            "nombreCompleto": "Implementación de internet de las cosas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SICT0201B",
+              "SICT0401B",
+              "SICT0402B",
+              "STC0207A",
+              "STE0104A",
+              "STI0301A",
+              "SICT0303B",
+              "SEG0201A",
+              "SEG0202A",
+              "SEG0101A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SICT0201B",
+              "SICT0401B",
+              "SICT0402B",
+              "STC0207A",
+              "STE0104A",
+              "STI0301A",
+              "SICT0303B",
+              "SEG0101A",
+              "SEG0202A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los principios de sustentabilidad en la solución de problemas computacionales y de tecnologías de información que garanticen el bienestar de las generaciones futuras. - Desarrolla todos los componentes diseñados de un sistema computacional, con base en estándares internacionales. - Diseña componentes de software, a partir de requerimientos, con base en estándares internacionales. - Administra proyectos computacionales mediante el uso eficiente de los recursos. - Gestiona proyectos de diseño tecnológico mediante el uso eficiente de los recursos. - Modela sistemas embebidos con capacidad de interacción que dan solución a una problemática determinada. - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno. - Detecta requerimientos de largo plazo de la organización para asegurar la interoperabilidad, escalabilidad y usabilidad de las soluciones de tecnologías de información. - Diagnostica la efectividad de los procesos existentes en un área particular de la organización permitiendo identificar mejoras a los mismos. - Gestiona el diseño y la ejecución de proyectos de tecnologías de información usando de forma óptima los recursos."
+          },
+          {
+            "clave": "TC1031",
+            "nombre": "Programación de estructuras de datos y algoritmos fundamentales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1030 y Haber Cursado TC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302B&lang=ES",
+            "nombreCompleto": "Programación de estructuras de datos y algoritmos fundamentales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302B",
+              "SICT0303B",
+              "SICT0301B",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SICT0302B",
+              "SICT0303B",
+              "SICT0301B",
+              "SEG0701A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC2042",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "TC1032",
+            "nombre": "Modelación de sistemas mínimos y arquitecturas computacionales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102B&lang=ES",
+            "nombreCompleto": "Modelación de sistemas mínimos y arquitecturas computacionales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0102B",
+              "SICT0202B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante principios, experimentos y evidencias obtenidos mediante metodologías de investigación y de cómputo. - Interpreta interacciones entre patrones relevantes un problema, utilizando principios de ciencias, herramientas matemáticas y de tecnologías de información."
+          },
+          {
+            "clave": "TI1015",
+            "nombre": "Análisis de requerimientos de software",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o (Haber Cursado TC1028 y Haber Cursado TC1033 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0401A&lang=ES",
+            "nombreCompleto": "Análisis de requerimientos de software",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0202B",
+              "SICT0203B",
+              "SICT0401A",
+              "STC0201A",
+              "STC0202A",
+              "STI0101A",
+              "STI0105A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SICT0401A",
+              "STC0201A",
+              "STC0202A",
+              "STI0105A",
+              "SICT0202B",
+              "SICT0203B",
+              "STI0101A",
+              "SEG0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC2051",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Interpreta interacciones entre patrones relevantes un problema, utilizando principios de ciencias, herramientas matemáticas y de tecnologías de información. - Desarrolla escenarios de acción en la toma de decisiones con base en el análisis de patrones de un conjunto de datos. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas computacionales y tecnologías de información. - Detecta requerimientos de largo plazo de la organización para asegurar la interoperabilidad, escalabilidad y usabilidad de las soluciones de tecnologías de información. - Adapta metodologías de desarrollo de software de acuerdo a las necesidades de un equipo de trabajo bajo estándares internacionales. - Define requerimientos con base en estándares internacionales describiendo las necesidades que demanda el sistema."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "AD2029",
+            "nombre": "Modelación, estructura y operación de los negocios",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0302A&lang=ES",
+            "nombreCompleto": "Modelación, estructura y operación de los negocios",
+            "escuela": "Negocios",
+            "departamento": "Gestión y Liderazgo",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STI0302A",
+              "SEG0201B"
+            ],
+            "descripcion": "Curso de nivel intermedio en la disciplina de Administración que incluye las características principales de los modelos y operación de los negocios que permiten crear soluciones tecnológicas acorde a las necesidades de la empresa. No requiere conocimientos previos. Como resultado del aprendizaje el alumno el alumno propone estrategias de digitalización para diferentes modelos, estructuras y organización en los negocios.",
+            "objetivo": "Al terminar la unidad de formación el alumno: Identifica las características y oportunidades de digitalización para diferentes modelos, estructuras y organización en los negocios."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "TI2002B",
+            "nombre": "Evaluación de arquitecturas empresariales",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado AD2029 o Estar Cursando AD2029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0102B&lang=ES",
+            "nombreCompleto": "Evaluación de arquitecturas empresariales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STI0102B",
+              "STI0103A",
+              "SICT0101C",
+              "SEG0501B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en Tecnologías de Información que permite a los alumnos de ITD conocer los estándares internacionales para el diseño de arquitecturas empresariales de soluciones tecnológicas y procesos para los negocios. Requiere conocimientos previos de modelos y procesos del negocios, roles y funciones del negocio. Como resultado del aprendizaje el alumno diseña el modelo de arquitectura empresarial acorde a la estrategia organizacional, con los artefactos (matrices, diagramas, representaciones visuales), desde el plano de negocio hasta la arquitectura técnica de bajo nivel. Elaboran un compendio del proceso de diseño de la arquitectura en cada dominio (negocio, datos, información, infraestructura).",
+            "objetivo": "Al terminar la unidad de formación el alumno diseña el modelo de tecnologías de información y de arquitectura empresarial acorde a la estrategia organizacional."
+          },
+          {
+            "clave": "TI2003B",
+            "nombre": "Evaluación de tecnología para los negocios",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado AD2029 o Estar Cursando AD2029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0104B&lang=ES",
+            "nombreCompleto": "Evaluación de tecnología para los negocios",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STI0104B",
+              "SEG0303A",
+              "SICT0301C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio que introduce al alumno en la investigación, evaluación y selección de las herramientas tecnológicas adecuadas para soportar el diseño e implementación de procesos organizacionales. Se requieren conocimientos previos de administración y computación básica. Como resultado del aprendizaje, el alumno será capaz de aplicar técnicas de reingeniería de procesos y seleccionar la tecnología más adecuada para la implementación de la solución.",
+            "objetivo": "Al terminar la unidad de formación el alumno investiga, evalúa y selecciona las herramientas tecnológicas que soporten el diseño e implementación de procesos apoyados con TIC de una variedad de fuentes/proveedores."
+          },
+          {
+            "clave": "TI2004B",
+            "nombre": "Exploración e interpretación de datos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TI2018 o Estar Cursando TI2018",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0201B&lang=ES",
+            "nombreCompleto": "Exploración e interpretación de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STI0201B",
+              "STI0202A",
+              "SICT0201C",
+              "SEG0503B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0503B",
+              "SICT0201C",
+              "STI0201B",
+              "STI0202A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de sistemas de información, cuya intención es desarrollar en el alumno la habilidad para aplicar metodologías para el diseño de bases de datos analíticas y técnicas para la recolección, almacenamiento y recuperación de la información usando un manejador de bases de datos. Requiere conocimientos previos en bases de datos y sistemas de información. Como resultado de aprendizaje el alumno aplica metodologías de diseño de modelos dimensionales y construye un Data Warehouse para análisis de información y toma de decisiones en una situación real.",
+            "objetivo": "Al terminar la unidad de formación el alumno: Utiliza el conocimiento de un área en particular (científico, industrial o comercial) para desarrollar modelos y la visualización de los mismos."
+          },
+          {
+            "clave": "TI2018",
+            "nombre": "Diseño de arquitecturas, uso y administración de datos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0201A&lang=ES",
+            "nombreCompleto": "Diseño de arquitecturas, uso y administración de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STI0201A",
+              "SICT0102C",
+              "SEG0701B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0701B",
+              "SICT0102C",
+              "STI0201A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio de computación, que proporciona a los estudiantes las herramientas necesarias para diseñar, construir y elaborar consultas de SQL en modelos de bases de datos relacionales. Requiere de conocimientos previos de programación. Como resultado del aprendizaje el alumno construirá una base de datos relacional que satisface los requerimientos de información de una organización. El alumno además realizará la documentación del diseño conceptual, lógico y físico de una base de datos y elaborará consultas avanzadas en SQL.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla la implementación de estrategias; políticas y planes para el control y gestión de datos. - Utiliza el conocimiento de un área en particular (científico; industrial o comercial) para desarrollar modelos y la visualización de los mismos."
+          },
+          {
+            "clave": "TI2019",
+            "nombre": "Evaluación y administración de proyectos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1004B y Haber Cursado TI1015",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0101B&lang=ES",
+            "nombreCompleto": "Evaluación y administración de proyectos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STI0101B",
+              "STI0301B",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0302A",
+              "STI0101B",
+              "STI0301B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en Tecnologías de Información que permite al alumno desarrollar habilidades para dirigir proyectos tecnológicos, liderar equipos de trabajo e integrar plataformas tecnológicas diferentes. Requiere conocimientos previos de tecnologías de información y redes. Como resultado del aprendizaje el alumno aplica en el desarrollo de un proyecto metodología de administración de proyectos como WBS, Ruta Crítica, Plan de riesgos.",
+            "objetivo": "Al terminar la unidad de formación el alumno gestiona la planeación y ejecución de proyectos con base en estándares internacionales."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "AD2008B",
+            "nombre": "Administración del cambio",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado AD2029 o Estar Cursando AD2029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0302B&lang=ES",
+            "nombreCompleto": "Administración del cambio",
+            "escuela": "Negocios",
+            "departamento": "Gestión y Liderazgo",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STI0302B",
+              "SEG0303B",
+              "SEG0602B",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0303B",
+              "STI0302B",
+              "SEG0602B",
+              "SEG0301A"
+            ],
+            "descripcion": "Curso de nivel intermedio en la disciplina de Administración con enfoque en el cambio organizacional a partir de proyectos de transformación digital. Requiere conocimientos previos de identidad y entorno organizacional; modelos, procesos y roles del negocio; y entendimiento de las características de los diferentes niveles del comportamiento organizacional. Como resultado del aprendizaje el alumno propone estrategias de gestión del cambio fundamentada en las características del negocio, los aspectos humanos y los requerimientos de transformación digital.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Realiza el análisis del contexto, características internas, actores clave, motivaciones y barreras para un proceso de cambio en una organización. - Define indicadores de éxito en términos del valor aportado, seguimiento y sostenibilidad a lo largo de un proceso de cambio."
+          },
+          {
+            "clave": "AD2030",
+            "nombre": "Análisis del comportamiento y desempeño organizacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado AD2029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0302A&lang=ES",
+            "nombreCompleto": "Análisis del comportamiento y desempeño organizacional",
+            "escuela": "Negocios",
+            "departamento": "Gestión y Liderazgo",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STI0302A",
+              "SEG0601B"
+            ],
+            "descripcion": "Curso de nivel intermedio en la disciplina de Administración que incluye aspectos individuales, grupales y organizacionales del comportamiento organizacional, que afectan y son afectados por los procesos de cambio en las transformaciones digitales. Requiere conocimientos previos de identidad y entorno organizacional, modelos y procesos del negocios, roles y funciones del negocio. Como resultado del aprendizaje el alumno elabora recomendaciones y propuestas de cambio, a partir del análisis de las dimensiones individual, grupal y organizacional del comportamiento humano, en una situación específica de una empresa u organización.",
+            "objetivo": "Al terminar la unidad de formación el alumno reconoce los aspectos de comportamiento individual, grupal y organizacional que impactan la experiencia, desempeño y satisfacción de las personas en el trabajo y de modo particular en los proyectos de cambio."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "FZ2025",
+            "nombre": "Análisis de las actividades económicas",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0303A&lang=ES",
+            "nombreCompleto": "Análisis de las actividades económicas",
+            "escuela": "Negocios",
+            "departamento": "Contabilidad y Finanzas",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STI0303A",
+              "SEG0403A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0403A",
+              "STI0303A"
+            ],
+            "descripcion": "Curso de nivel intermedio en finanzas donde el alumno reconoce la importancia de la transformación digital en los sistemas de información financiera para la toma de decisiones y se sensibiliza por la normatividad y los principios éticos de los modelos de negocio para conducirse con respeto y honestidad buscando el bien común. Los temas a revisar son Procesos de negocios y el ciclo contable, Estados financieros básicos e introducción al análisis financiero, Sistemas de control y Contabilidad electrónica. Requiere conocimientos previos de modelos, estructura y operación de los negocios. Como resultado del aprendizaje el alumno simula un sistema financiero y contable básico incorporando tecnologías de vanguardia (Mystery Shopper).",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Comprender los conceptos básicos de la contabilidad financiera y los fundamentos del análisis e interpretación de estados financieros para apoyar la toma de decisiones. - Comprender los conceptos básicos de control interno sobre reportes financieros y control administrativo para un sistema empresarial integral. - Conocer los requerimientos regulatorios de la contabilidad electrónica para fines de cumplimiento."
+          },
+          {
+            "clave": "TI2005B",
+            "nombre": "Diseño de procesos y arquitecturas empresariales",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TI2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0102C&lang=ES",
+            "nombreCompleto": "Diseño de procesos y arquitecturas empresariales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STI0102C",
+              "STI0103C",
+              "STI0105B",
+              "SEG0501C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0501C",
+              "STI0102C",
+              "STI0103C",
+              "STI0105B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio enfocado al diseño del modelo de tecnologías de información y de arquitectura empresarial que esté acorde a la estrategia organizacional, así como al diseño, la mejora e implementación de los procesos del negocio. Se requieren conocimientos previos de administración, computación básica y modelación de procesos. Como resultado del aprendizaje, el alumno analizará la situación actual de los procesos, diseñar una propuesta de mejora del proceso, desarrollar el plan de implementación, evaluar el desempeño esperado del proceso modificado y asegurar que está alineado a la estrategia del negocio.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Diseña el modelo de tecnologías de información y de arquitectura empresarial acorde a la estrategia organizacional. - Diagnostica la efectividad de los procesos existentes en un área particular de la organización permitiendo identificar mejoras a los mismos. - Aplica una metodología sistemática para diseñar e implementar cambios en el proceso o la tecnología para obtener beneficios medibles para la organización."
+          },
+          {
+            "clave": "TI2006B",
+            "nombre": "Soporte analítico para la toma de decisiones",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TI2004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0202B&lang=ES",
+            "nombreCompleto": "Soporte analítico para la toma de decisiones",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STI0202B",
+              "STI0203A",
+              "SICT0202C",
+              "SEG0502B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio enfocado a la generación de modelos analíticos para apoyar a la toma de decisiones de una organización. Requiere conocimientos previos de administración de datos, programación y de las áreas funcionales de una empresa. Como resultado el alumno genera modelos dimensionales de datos orientados a las necesidades analíticas de una organización, realizando el análisis para generar conocimiento y proponer acciones que apoye la competitividad de la organización.",
+            "objetivo": "Al terminar la unidad de formación el alumno utiliza análisis de datos y técnicas estadísticas para descubrir nuevas relaciones y proveer soluciones a problemas en los procesos organizacionales o respaldar la toma de decisiones ."
+          },
+          {
+            "clave": "TI2020",
+            "nombre": "Implementación de tecnología en los procesos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TI2003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0103B&lang=ES",
+            "nombreCompleto": "Implementación de tecnología en los procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STI0103B",
+              "STI0104C",
+              "SEG0302B",
+              "SICT0302C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0302B",
+              "SICT0302C",
+              "STI0103B",
+              "STI0104C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio que prepara al alumno en la aplicación de una metodología sistemática para evaluar cambios en el proceso o la tecnología y así obtener beneficios para la organización. Se requieren conocimientos previos de administración y modelación de procesos. Como resultado del aprendizaje, el alumno diagnosticará la efectividad de los procesos existentes e identificar mejoras a los mismos.",
+            "objetivo": "Al terminar la unidad de formación el alumno aplica una metodología sistemática para evaluar cambios en el proceso o la tecnología para obtener beneficios medibles para la organización."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "TI3001B",
+            "nombre": "Administración estratégica y gobierno de tecnologías de información",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "(Haber Cursado TI2005B o Estar Cursando TI2005B ) y (Haber Cursado FZ2025 o Estar Cursando FZ2025 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0105C&lang=ES",
+            "nombreCompleto": "Administración estratégica y gobierno de tecnologías de información",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "STI0105C",
+              "STI0106B",
+              "SICT0401C",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SICT0401C",
+              "STI0105C",
+              "STI0106B",
+              "SEG0402A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno planea la estrategia de tecnologías de información para la empresa, teniendo en cuenta las políticas de la organización."
+          },
+          {
+            "clave": "TI3002B",
+            "nombre": "Innovación y diseño de iniciativas de transformación digital",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "(Haber Cursado AD2030 o Estar Cursando AD2030 ) y Haber Cursado TI2019",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0402C&lang=ES",
+            "nombreCompleto": "Innovación y diseño de iniciativas de transformación digital",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SICT0402C",
+              "STI0303A",
+              "SEG0201C",
+              "SEG0602C",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201C",
+              "SEG0602C",
+              "SICT0402C",
+              "STI0303A",
+              "SEG0404A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Construye una propuesta de innovación digital partiendo del análisis de las características y capacidades organizacionales y el mapeo de las tendencias tecnológicas, sociales y del mercado. - Realiza un análisis de factibilidad de una propuesta de innovación digital desde el punto de vista del mercado, capacidades organizacionales y modelo financiero."
+          },
+          {
+            "clave": "TI3003B",
+            "nombre": "Aplicación de analítica y gobierno de datos",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado TI2006B o Estar Cursando TI2006B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0201C&lang=ES",
+            "nombreCompleto": "Aplicación de analítica y gobierno de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "STI0201C",
+              "STI0202C",
+              "STI0203C",
+              "SEG0502C",
+              "SEG0604A",
+              "SICT0203C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502C",
+              "SICT0203C",
+              "STI0201C",
+              "STI0202C",
+              "STI0203C",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla la implementación de estrategias; políticas y planes para el control y gestión de datos. - Utiliza el conocimiento de un área en particular (científico; industrial o comercial) para desarrollar modelos y la visualización de los mismos. - Utiliza análisis de datos y técnicas estadísticas para descubrir nuevas relaciones y proveer soluciones a problemas en los procesos organizacionales o respaldar la toma de decisiones."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          },
+          {
+            "clave": "TI3004B",
+            "nombre": "Transformación digital de la organización",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado AD2008B y Haber Cursado TI3001B y Haber Cursado TI3002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STI0101C&lang=ES",
+            "nombreCompleto": "Transformación digital de la organización",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "STI0101C",
+              "STI0106C",
+              "STI0301C",
+              "STI0302C",
+              "STI0303C",
+              "SEG0601C",
+              "SICT0303C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0601C",
+              "SICT0303C",
+              "STI0101C",
+              "STI0106C",
+              "STI0301C",
+              "STI0302C",
+              "STI0303C"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Gestiona el diseño y la ejecución de proyectos de tecnologías de información usando de forma óptima los recursos. - Diseña, partiendo de requerimientos de incorporación de tecnologías de información, las estrategias de cambio organizacional que aceleren su adopción y logren la sostenibilidad de largo plazo. - Genera estrategias de incorporación de tecnologías digitales para la creación, captura y entrega de valor en los negocios."
+          }
+        ]
+      }
+    ]
+  }
+}

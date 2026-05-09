@@ -1,0 +1,1140 @@
+{
+  "carreraClave": "LRI19",
+  "nombre": "Licenciatura en Relaciones Internacionales",
+  "descripcionES": "Para acreditar las materias Tópico, es elección del alumno las unidades de formación que desea cursar , contando con la asesoría de su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1001B",
+            "nombre": "Transformación del México contemporáneo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0203A&lang=ES",
+            "nombreCompleto": "Transformación del México contemporáneo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Identifica los elementos y principios del Derecho, relacionándolos con Economía, Ciencia Política y Relaciones Internacionales. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "MA1022",
+            "nombre": "Pensamiento matemático I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0105B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1060",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el comportamiento de una variable a través de su descripción lógica, del análisis de funciones y calculando su valor aplicando diferentes metodologías."
+          },
+          {
+            "clave": "P1010",
+            "nombre": "Filosofía política para los dilemas contemporáneos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0501B&lang=ES",
+            "nombreCompleto": "Filosofía política para los dilemas contemporáneos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Evalúa casos de decisiones con impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de casos de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "P1011",
+            "nombre": "Introducción a las ciencias sociales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0401B&lang=ES",
+            "nombreCompleto": "Introducción a las ciencias sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0401B",
+              "SCIS0402B",
+              "SCIS0403A",
+              "SCIS0502B",
+              "SEG0602A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Compara soluciones político-sociales, aplicando teorías de elección social. - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz."
+          },
+          {
+            "clave": "RI1001B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0301B&lang=ES",
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0501A",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0404A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: RI1003B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las perspectivas teóricas de la política internacional, considerando niveles y unidades de análisis de la realidad contemporánea. - Analiza los desafíos de la agenda global contemporánea, considerando los intereses de los Estados nación. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre los dilemas que generen consenso e inclusión."
+          },
+          {
+            "clave": "TC1001B",
+            "nombre": "Principios de programación para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0403B&lang=ES",
+            "nombreCompleto": "Principios de programación para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1001B",
+            "nombre": "Introducción al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0201B&lang=ES",
+            "nombreCompleto": "Introducción al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0201B",
+              "SCIS0202B",
+              "SCIS0203B",
+              "SCIS0204A"
+            ],
+            "requisitosDetalle": "Equivalencia: D1003B",
+            "objetivo": "En la unidad de formación el alumno: - Identifica los elementos y principios que garantizan el Estado de Derecho y cultura de la legalidad en una sociedad democrática, tomando en cuenta su rol en el mantenimiento de los mismos. - Analiza problemas jurídicos, identificando las normas jurídicas aplicables. - Identifica los elementos y principios del Derecho, relacionándolos con la Economía, la Ciencia Política y las Relaciones Internacionales. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, considerando la participación de los actores relevantes."
+          },
+          {
+            "clave": "EC1002B",
+            "nombre": "Emprendimiento y tecnología para la transformación de México",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0204C&lang=ES",
+            "nombreCompleto": "Emprendimiento y tecnología para la transformación de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, sumando la participación de diferentes actores pertinentes en un modelo de intervención sostenible. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          },
+          {
+            "clave": "EC1013",
+            "nombre": "Macroeconomía",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103A&lang=ES",
+            "nombreCompleto": "Macroeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0103A",
+              "SCIS0104A",
+              "SEG0502A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EC1014",
+            "nombre": "Microeconomía",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101A&lang=ES",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "MA1023",
+            "nombre": "Métodos cuantitativos I",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702B&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0702B"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "MA1024",
+            "nombre": "Pensamiento matemático II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1022",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0106B",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Describe las variables económicas que afectan el desempeño de una economía, a partir del estudio matemático."
+          },
+          {
+            "clave": "TC1002B",
+            "nombre": "Herramientas tecnológicas para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado TC1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0601C&lang=ES",
+            "nombreCompleto": "Herramientas tecnológicas para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EC1003B",
+            "nombre": "Macroeconomía y desarrollo económico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado EC1013",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103B&lang=ES",
+            "nombreCompleto": "Macroeconomía y desarrollo económico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0103B",
+              "SCIS0104B",
+              "SEG0502B"
+            ],
+            "requisitosDetalle": "Equivalencia: EC2009B",
+            "objetivo": "En la unidad de formación el estudiante: - Determina los efectos que genera en la sociedad el desarrollo y crecimiento económico de un país, con base en variables macroeconómicas reales y nominales."
+          },
+          {
+            "clave": "EC1015",
+            "nombre": "Economía conductual",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado EC1014",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101C&lang=ES",
+            "nombreCompleto": "Economía conductual",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0101C",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101C",
+              "SEG0302A"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las decisiones de los agentes económicos con base en sus preferencias, en los costos de oportunidad y la información que poseen, a través de técnicas experimentales de la economía conductual. - Analiza el comportamiento de los agentes económicos, en un contexto de racionalidad limitada."
+          },
+          {
+            "clave": "EC1016",
+            "nombre": "Economía para la toma de decisiones",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101B&lang=ES",
+            "nombreCompleto": "Economía para la toma de decisiones",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101B",
+              "SCIS0106C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las decisiones estratégicas de los agentes económicos, con base en la información que poseen y determina las estrategias óptimas de acción."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "MA1025",
+            "nombre": "Métodos cuantitativos II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1023",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702C&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0702C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Aplica las técnicas de análisis estadísticos descriptivos e inferenciales, necesarias para obtener información de interés sobre un conjunto datos. - Analiza parámetros y variables, a partir de la estadística."
+          },
+          {
+            "clave": "MA1026",
+            "nombre": "Pensamiento matemático III",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1024",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106C&lang=ES",
+            "nombreCompleto": "Pensamiento matemático III",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0106C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Estima los comportamientos de distintas variables, a partir de un modelo económico a resolver, mediante herramientas matemáticas."
+          },
+          {
+            "clave": "P1001B",
+            "nombre": "Participación política y sociología de la identidad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0303C&lang=ES",
+            "nombreCompleto": "Participación política y sociología de la identidad",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0303C",
+              "SCIS0401C",
+              "SCIS0501C",
+              "SCIS0502C",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0303C",
+              "SCIS0401C",
+              "SCIS0501C",
+              "SCIS0502C",
+              "SEG0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: P2005B ; P2025B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Evalúa casos de decisiones de impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "RI2001B",
+            "nombre": "Análisis histórico del sistema internacional",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0101A&lang=ES",
+            "nombreCompleto": "Análisis histórico del sistema internacional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SRI0101A",
+              "SRI0102A",
+              "SEG0501B"
+            ],
+            "descripcion": "Curso de nivel intermedio en Relaciones Internacionales en el cual se analiza el desarrollo histórico del sistema internacional a fin de entender las tendencias y características del funcionamiento de este sistema en diferentes etapas de la historia moderna del mundo. Como resultado los y las estudiantes analizarán conflictos de carácter internacional identificando sus causas, consecuencias, actores implicados y sus posicionamientos.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza conflictos de carácter internacional que se han manifestado en el pasado, identificando sus causas y consecuencias, así como a los actores implicados, sus intereses y posiciones. - Esclarece la naturaleza compleja de problemas sociales de impacto regional o global, que se han desarrollado en el pasado. - Reconstruye el devenir histórico de los actores del sistema internacional, analizando el caso de su país natal."
+          },
+          {
+            "clave": "RI2002B",
+            "nombre": "Escenarios regionales en el mundo contemporáneo",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado RI1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0502C&lang=ES",
+            "nombreCompleto": "Escenarios regionales en el mundo contemporáneo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SRI0502C",
+              "SRI0501C",
+              "SRI0503C"
+            ],
+            "competenciasEvaluan": [
+              "SRI0501C",
+              "SRI0502C",
+              "SRI0503C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Relaciones Internacionales donde el alumno analiza conflictos de carácter internacional como los surgidos durante el siglo XIX, la Primera y Segunda Guerra Mundial, la Guerra Fría, alrededor del mundo, considerando causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas.Requiere conocimientos de: Requiere conocimientos previos de historia mundial y de metodologías de investigación. Como resultado del aprendizaje el alumno comprende las principales variables que han determinado la configuración del sistema internacional, reconstruye el devenir histórico de los actores del sistema internacional.",
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa discursos y prácticas discriminatorias, aplicando herramientas de análisis de discurso desde la perspectiva de la multiculturalidad. - Formula una estrategia de comunicación multicultural, aplicando las metodologías apropiadas para su implementación en la esfera pública. - Analiza el entorno digital como una nueva cultura con conciencia de las redes de intercambio y colaboración, de las nuevas materialidades, sensibilidades y esquemas cognitivos que las componen, y de su impacto en la construcción de una vida política y cultural en la sociedad en red."
+          },
+          {
+            "clave": "RI2003B",
+            "nombre": "Prospectiva sobre escenarios político-económicos internacionales",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado MA1025",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0201B&lang=ES",
+            "nombreCompleto": "Prospectiva sobre escenarios político-económicos internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SRI0201B",
+              "SRI0202B",
+              "SRI0203B",
+              "SEG0501C"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno analice los conflictos de carácter internacional como los surgidos durante el siglo XIX, la Primera y Segunda Guerra Mundial, la Guerra Fría, alrededor del mundo, considerando causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. Requiere de conocimientos previos de historia mundial y de metodologías de investigación. Como resultado de aprendizaje el alumno realiza un proyecto en donde demuestra su aprendizaje sobre las principales variables que han determinado la configuración del sistema internacional, reconstruye el devenir histórico de los actores del sistema internacional.",
+            "objetivo": "En la unidad de formación el estudiante: - Esboza retos emergentes con impacto en el sistema internacional, considerando el contexto histórico y contemporáneo, así como las megatendencias. - Realiza análisis prospectivo de retos emergentes con impacto en el sistema internacional, aplicando herramientas cualitativas o cuantitativas. - Diseña escenarios prospectivos de retos emergentes con impacto en el sistema internacional, organizando la información de manera que facilite la toma de decisiones políticas internacionales."
+          },
+          {
+            "clave": "RI2039",
+            "nombre": "Teorías clásicas de relaciones internacionales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado RI1001B y Haber Aprobado P1010",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0101B&lang=ES",
+            "nombreCompleto": "Teorías clásicas de relaciones internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SRI0101B",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SRI0101B",
+              "SEG0604A"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno diseñe escenarios prospectivos de retos emergentes con impacto en el sistema internacional, organizando la información de manera que facilite la toma de decisiones políticas internacionales y utilizando algunas de las herramientas de la prospectiva. Requiere conocimientos previos de métodos de investigación cualitativos y cuantitativos, análisis histórico del sistema internacional. Como resultado de aprendizaje el alumno aplica las herramientas de la prospectiva estratégica para realizar diseño de escenarios.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las principales corrientes teóricas que han influido en la comprensión del sistema internacional, realizando una lectura crítica sobre los supuestos paradigmáticos en que éstas se sustentan. - Esboza retos emergentes con impacto en el sistema internacional, considerando el contexto histórico y contemporáneo, así como las megatendencias."
+          },
+          {
+            "clave": "RI2040",
+            "nombre": "Teorías contemporáneas de relaciones internacionales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando RI2039 o Haber Cursado RI2039",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0401B&lang=ES",
+            "nombreCompleto": "Teorías contemporáneas de relaciones internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SRI0401B",
+              "SEG0604B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Relaciones Internacionales donde el alumno conduce procesos de negociación internacional, buscando acuerdos ganar - ganar. Comprende los conflictos de carácter internacional, sus lcausas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. Requiere conocimientos de: Evolución del sistema internacional, Teorías de Relaciones Internacionales. Como resultado del aprendizaje el alumno realiza simulaciones de negociación internacional. Investiga las causas del conflicto a negociar, así como los actores implicados y sus intereses. Resuelve casos para desarrollar la capacidad de diseño de estrategias de negociación y de implementación de los acuerdos internacionales.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las principales corrientes teóricas contemporáneas, reconstruyendo sus aportes a los debates sobre los retos emergentes y los bienes públicos globales y regionales. - Aplica los conceptos teóricos al análisis de conflictos de carácter internacional, evaluando el devenir histórico de los actores del sistema internacional."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "RI2004B",
+            "nombre": "Conflicto y negociación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Aprobado RI2001B o Estar Cursando RI2001B ) y Haber Aprobado RI2039",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0102B&lang=ES",
+            "nombreCompleto": "Conflicto y negociación",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SRI0102B",
+              "SRI0103B",
+              "SRI0104B",
+              "SRI0105B",
+              "SEG0303C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0303C",
+              "SRI0102B",
+              "SRI0103B",
+              "SRI0104B",
+              "SRI0105B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Relaciones Internacionales donde el alumno formula una estrategia de comunicación multicultural, aplicando las metodologías apropiadas para su implementación en la esfera pública.Requiere conocimientos de: Análisis histórico del sistema internacional, metodologías de investigación. Como resultado del aprendizaje el alumno formula una estrategia de comunicación multicultural, basada en el análisis de los actores implicados y sus intereses. Evalúa discursos y prácticas discriminatorios.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza conflictos de carácter internacional, considerando sus causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. - Elige modelos de gestión de conflictos de carácter internacional, considerando su viabilidad y pertinencia para cada caso concreto. - Diseña procesos de negociación internacional, privilegiando el estilo de negociación ganar – ganar. - Conduce procesos de negociación internacional, buscando acuerdos ganar – ganar. - Diseña los procesos de implementación y seguimiento a los acuerdos logrados en un proceso de negociación, considerando los recursos necesarios para su éxito."
+          },
+          {
+            "clave": "RI2005B",
+            "nombre": "Cooperación y gobernanza global",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Aprobado RI2001B o Estar Cursando RI2001B ) y Haber Aprobado RI2039",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0301B&lang=ES",
+            "nombreCompleto": "Cooperación y gobernanza global",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SRI0301B",
+              "SRI0302B",
+              "SRI0303B",
+              "SEG0404B"
+            ],
+            "competenciasEvaluan": [
+              "SRI0301B",
+              "SRI0302B",
+              "SRI0303B",
+              "SEG0404B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno fromule estrategias de comunicación multicultural, aplicando las metodologías apropiadas para su implementación en la esfera pública. Requiere de conocimientos previos de análisis histórico del sistema internacional y metodologías de investigación. Como resultado de aprendizaje el alumno realiza un proyecto en donde formula una estrategia de comunicación multicultural, basada en el análisis de los actores implicados y sus intereses y evalúa discursos y prácticas discriminatorios.",
+            "objetivo": "En la unidad de formación el estudiante: - Diagnóstica los retos de la globalización, considerando sus implicaciones para la cooperación internacional y/o la gobernanza mundial. - Elige las estrategias de cooperación internacional y de la gobernanza mundial, considerando las características de retos de globalización específicos. - Propone mecanismos para la implementación de las estrategias de cooperación internacional y gobernanza mundial, buscando un reparto de poder más justo.Interactúa con miembros de otras culturas y está interesado e informado sobre el panorama social, político, económico y cultural tanto a nivel nacional como internacional, lo que le permite reconocerse como miembro de una sociedad local pero también como ciudadano del mundo."
+          },
+          {
+            "clave": "RI2006B",
+            "nombre": "Gestión de bienes públicos globales en la sociedad de riesgo",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado RI2001B o Estar Cursando RI2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0402B&lang=ES",
+            "nombreCompleto": "Gestión de bienes públicos globales en la sociedad de riesgo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SRI0402B",
+              "SRI0401C",
+              "SEG0503B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0503B",
+              "SRI0401C",
+              "SRI0402B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Relaciones Internacionales donde el alumno diseña escenarios prospectivos de retos emergentes con impacto en el sistema internacional, organizando la información de manera que facilite la toma de decisiones políticas internacionales y utilizando algunas de las herramientas de la prospectiva. Requiere conocimientos de: Métodos de investigación cualitativos y cuantitativos, análisis histórico del sistema internacional. Como resultado del aprendizaje el alumno aplica las herramientas de la prospectiva estratégica para realizar diseño de escenarios.",
+            "objetivo": "En la unidad de formación el estudiante: - Esclarece la naturaleza compleja de problemas sociales de impacto internacional, aplicando la metodología de análisis de riesgos, así como las perspectivas teóricos de bienes públicos globales y regionales. - Elabora propuestas de gestión de riesgos relacionados con problemas sociales complejos de impacto internacional, formulando estrategias de prevención, respuesta y mitigación, así como evaluando sus efectos en los problemas de sostenibilidad y relacionándolos con modelos innovadores de desarrollo. - Diseña procesos de negociación internacional en torno a la gestión de riesgo, privilegiando el estilo de negociación ganar – ganar. - Diseña procesos de implementación y seguimiento a los acuerdos en torno a la gestión de riesgo, considerando los mecanismos de cooperación internacional y gobernanza mundial que buscan un reparto de poder más justo. - Elabora escenarios prospectivos de riesgos analizados, organizando la información de manera que facilite la toma de decisiones políticas internacionales. - Implementa estrategias de comunicación multicultural en torno a sus propuestas de gestión de riesgo, empleando nuevas tecnologías de la información y comunicación para su despliegue en la esfera pública."
+          },
+          {
+            "clave": "RI2041",
+            "nombre": "Aspectos jurídicos de las relaciones internacionales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado D1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0601B&lang=ES",
+            "nombreCompleto": "Aspectos jurídicos de las relaciones internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SRI0601B",
+              "SEG0403B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0403B",
+              "SRI0601B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno adquiera habilidades para conducir procesos de negociación internacional, buscando acuerdos ganar - ganar. Comprenda los conflictos de carácter internacional, sus causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. Requiere de conocimientos previos de la evolución del sistema internacional y de teorías de relaciones internacionales. Como producto de aprendizaje el alumno realiza simulaciones de negociación internacional y diseña estrategias de negociación y de implementación de acuerdos internacionales para la solución de casos.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza conceptos y principios del régimen jurídico internacional, considerando su observancia y aplicabilidad en la toma de posiciones en el escenario mundial y en el diseño de la política exterior. - Aplica el marco conceptual del Derecho Internacional al análisis de conflictos de carácter internacional, considerando causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. - Evalúa el desempeño de los actores del sistema internacional a lo largo de su devenir histórico, aplicando los principios del Derecho Internacional."
+          },
+          {
+            "clave": "RI2042",
+            "nombre": "Organismos internacionales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado RI2001B o Estar Cursando RI2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0602A&lang=ES",
+            "nombreCompleto": "Organismos internacionales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SRI0602A",
+              "SEG0602B"
+            ],
+            "descripcion": "Curso de nivel intermedio en el área de relaciones internacionales que tiene la intención de que el alumno conduca procesos de negociación internacional, buscando acuerdos ganar - ganar. Comprenda los conflictos de carácter internacional, sus lcausas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. Requiere conocimientos de evolución del sistema internacional, teorías de relaciones internacionales. Como resultado de aprendizaje el alumno realiza simulaciones de negociación internacional, bnvestiga las causas del conflicto a negociar, así como los actores implicados y sus intereses y resuelve casos para desarrollar la capacidad de diseño de estrategias de negociación y de implementación de los acuerdos internacionales.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza el papel de los organismos internacionales como actores de la cooperación internacional y de gobernanza mundial, considerando las características de retos de globalización específicos. - Evalúa las posiciones de los organismos internacionales sobre diversos temas de la agenda mundial o regional contemporánea, desde el enfoque de bienes públicos globales y regionales."
+          },
+          {
+            "clave": "RI2043",
+            "nombre": "Riesgos y amenazas en la agenda global contemporánea",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado RI2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0602B&lang=ES",
+            "nombreCompleto": "Riesgos y amenazas en la agenda global contemporánea",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SRI0602B",
+              "SEG0502B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Relaciones Internacionales donde el alumno formula estrategias de cooperación internacional y de gobernanza mundial, considerando las características de retos de globalización específicos. Comprende cuáles son los actores o agentes de la cooperación internacional para el desarrollo así como sus diversos instrumentos y modalidades. Emplea metodologías para la elaboración de proyectos de cooperación. Requiere conocimientos de: Evolución del sistema internacional, Teorías de Relaciones Internacionales. Como resultado del aprendizaje el alumno evalúa las causas, consecuencias y los intereses de los actores implicados en la cooperación internacional y gobernanza mundial. Diseña estrategias de cooperación internacional y gobernanza mundial, buscando un reparto de poder más justo.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza problemas sociales complejos de la agenda global, aplicando la perspectiva teórica de bienes públicos globales y regionales. - Evalúa los tópicos de la agenda global, identificando los riesgos a corto, mediano y largo plazo."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          },
+          {
+            "clave": "RI3002B",
+            "nombre": "Análisis y estrategias de política exterior",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SRI0101C&lang=ES",
+            "nombreCompleto": "Análisis y estrategias de política exterior",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SRI0101C",
+              "SRI0202C",
+              "SRI0203C",
+              "SRI0301C",
+              "SRI0601C",
+              "SRI0602C",
+              "SRI0603C",
+              "SEG0602C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0602C",
+              "SRI0101C",
+              "SRI0202C",
+              "SRI0203C",
+              "SRI0301C",
+              "SRI0601C",
+              "SRI0602C",
+              "SRI0603C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante:"
+          }
+        ]
+      }
+    ]
+  }
+}

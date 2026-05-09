@@ -1,0 +1,670 @@
+{
+  "carreraClave": "LTP26",
+  "nombre": "Licenciatura en Gobierno y Transformación Pública",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Analyzes political realities based on theoretical and analytical models.",
+    "Analyzes social phenomena from a scientific perspective.",
+    "Implements research methods in the study of public issues, using analytical tools.",
+    "Develops public innovations according to the analytical tools for social problems.",
+    "Establishes forecasts and causal relationships using quantitative and qualitative data analysis methods.",
+    "Exchanges oral and written messages that enable professional and social interaction.",
+    "Develops conscious opportunities that generate economic, social, and environmental value.",
+    "Demonstrates ethical behavior based on principles of dignity, integrity, responsibility, and the common good.",
+    "Constructs personal and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Establishes personal judgments or positions on various situations, grounded in a rigorous evaluation of information.",
+    "Basic knowledge of social sciences, mathematics, statistics, and technological tools.",
+    "Logical reasoning skills, reading comprehension, and oral and written communication abilities.",
+    "Attitudes and willingness to work in teams and develop projects; openness to feedback and continuous learning.",
+    "Understanding the major challenges faced by governments and other social and political actors.",
+    "Analyzing current events and posing disruptive questions.",
+    "Experimenting with different methodologies to design innovative solutions to complex problems."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Gobierno y Transformación Pública, se requiere que las y los estudiantes cuenten con una serie de condiciones mínimas, tales como: Conocimientos básicos sobre ciencias sociales, matemáticas, estadística y herramientas tecnológicas. Habilidades de razonamiento lógico, comprensión lectora y comunicación oral y escrita. Actitudes y disposición para el trabajo en equipo y la elaboración de proyectos; apertura a la retroalimentación y al aprendizaje continuo. Este programa está diseñado para perfiles estudiantiles que le",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1005B",
+            "nombre": "Panorama macroeconómico de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Panorama macroeconómico de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir y entender las causas de problemas macroeconómicos a través de la aplicación de conceptos y teorías, y la utilización de estadísticas económicas de México. - Evaluar el impacto de las medidas de política fiscal, política monetaria y política cambiaria mediante la aplicación de modelos macroeconómicos a la economía mexicana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto con base en la teoría económica."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1060",
+            "nombre": "Pensamiento matemático",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Pensamiento matemático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Explicar el comportamiento de las variables de un modelo económico mediante la aplicación de herramientas matemáticas. - Plantear conclusiones fundamentadas en argumentos validados mediante el uso de modelos matemáticos."
+          },
+          {
+            "clave": "P1017",
+            "nombre": "Filosofía política",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Filosofía política",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano, utilizando las nociones analizadas en clase, aplicadas a situaciones contemporáneas, vigentes y cercanas a su realidad. - Vincular los problemas sociales con conceptos y teorías, a partir de documentar, discutir y examinar situaciones actuales, a la luz de la perspectiva filosófica y las diferentes corrientes recorridas a lo largo del curso."
+          },
+          {
+            "clave": "RI1003B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "requisitosDetalle": "Equivalencia: RI1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reconocer los problemas sociales globales especificando sus principales causas y consecuencias - Vincular los problemas sociales internacionales con conceptos y teorías básicos de las relaciones internacionales a través de la revisión de casos - Promover la participación incluyente y la diversidad de pensamiento mediante el diálogo, la escucha activa y la generación de acuerdos - Elaborar escritos como memorándums y ensayos cortos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados - Ser consciente de la responsabilidad cívica que implica ser un ciudadano del mundo considerando los diversos desafíos globales"
+          },
+          {
+            "clave": "SO1001",
+            "nombre": "Lógica y pensamiento científico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Lógica y pensamiento científico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Generar hipótesis para la explicación de fenómenos sociales mediante la revisión de literatura existente y la integración de diferentes enfoques teóricos - Valorar la credibilidad de las afirmaciones y argumentos utilizando métodos de evaluación crítica, verificación de fuentes y análisis lógico de la consistencia y coherencia de la información presentada - Identificar variables independientes, dependientes e intervinientes a través del análisis y lecturas de artículos científicos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1032",
+            "nombre": "Introducción a la ciencia jurídica y al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Introducción a la ciencia jurídica y al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y comprender conceptos jurídicos fundamentales de manera analítica y crítica. - Distinguir entre ciencia jurídica y derecho a partir de sus implicaciones y alcances propios. - Vincular los problemas sociales con conceptos y teorías jurídicas a partir del análisis metódico. - Valorar la credibilidad de afirmaciones y argumentos en el contexto jurídico a través de las bases teórico jurídicas."
+          },
+          {
+            "clave": "EC1022",
+            "nombre": "Microeconomía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado MA1060",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Vincular los problemas sociales con conceptos y teorías económicas con base a los principios del análisis microeconómico. - Plantear conclusiones fundamentadas en argumentos validados con base en los principios del análisis microeconómico."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "SO1001B",
+            "nombre": "Analítica de datos sociales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado MA1060",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SO0001&lang=ES",
+            "nombreCompleto": "Analítica de datos sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26SO0001",
+              "S26SO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los supuestos teóricos de problemas sociales a través del planteamiento de hipótesis - Identificar variables independientes, dependientes e intervinientes a partir de la vinculación de los modelos teóricos y el análisis empírico de la información disponible - Generar hipótesis para la explicación de fenómenos sociales a partir del análisis de datos - Experimentar de forma iterativa con las alternativas de solución emprendedoras"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "D1034",
+            "nombre": "Derecho constitucional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1032",
+            "nombreCompleto": "Derecho constitucional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "requisitosDetalle": "Equivalencia: D2002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano a través de una cultura de legalidad y constitucionalidad. - Emplear las normas jurídicas aplicables a través del estudio de casos concretos. - Fomentar la cultura de la legalidad, a través del conocimiento de la constitución y las teorías relevantes."
+          },
+          {
+            "clave": "EC2044",
+            "nombre": "Incentivos en el consumo y la producción",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC1022",
+            "nombreCompleto": "Incentivos en el consumo y la producción",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar interacciones entre mercados o individuos a través del análisis del equilibrio parcial. - Analizar las decisiones de agentes individuales por medio del marco que brinda la teoría de la producción y el consumo. - Identificar las estructuras de mercado y organizacionales a través del análisis de los mercados. - Analizar sistemáticamente las problemáticas desde diversos dominios, escalas y disciplinas a partir del análisis de la interacción de los agentes."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "P2005B",
+            "nombre": "Sociología del comportamiento político",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26SO0001&lang=ES",
+            "nombreCompleto": "Sociología del comportamiento político",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "C26SO0001"
+            ],
+            "requisitosDetalle": "Equivalencia: P1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, movilizando ejemplos precisos y revisándolos desde los conceptos y nociones discutidas en clase. - Determinar los actores que integran el campo político, definiendo sus perfiles, posiciones, recursos, interacciones y evolución a lo largo del tiempo. - Discernir los factores sociales, políticos y económicos que condicionan la interacción entre actores del campo político, a través del análisis de casos en los que se expliquen cómo tales factores dieron forma a los diferentes comportamientos políticos y sus explicaciones a lo largo del tiempo. - Examinar las condiciones de transformación del campo político, observando casos específicos en los que se analicen la evolución de los actores, posiciones, pesos, interacciones, recursos y comportamientos de carácter político, en diversos regímenes y momentos históricos."
+          },
+          {
+            "clave": "P2006B",
+            "nombre": "Métodos computacionales para el análisis político",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado SO1001B )",
+            "nombreCompleto": "Métodos computacionales para el análisis político",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar análisis político mediante la aplicación métodos de investigación e instrumentos computacionales. - Corroborar los planteamientos de sus hipótesis a partir de la evidencia empírica y los modelos computacionales adecuados. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada a través de visualizaciones y narrativas basadas en datos. - Comprender estrategias verbales de comunicación desde una perspectiva crítica y basada en evidencia. - Comprender los fundamentos teóricos de los métodos analíticos y sus alcances en el análisis político mediante la experimentación y validación con información empírica."
+          },
+          {
+            "clave": "RI2007B",
+            "nombre": "Economía internacional y desarrollo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Aprobado EC1022 y Haber Aprobado EC1005B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Economía internacional y desarrollo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Establecer la naturaleza y las dinámicas de los procesos mundiales económicos y financieros mediante la aplicación de conceptos y teorías - Generar análisis de escenarios económicos que orienten la toma de decisiones a través de proyectos - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a partir de análisis de los retos y oportunidades de la economía internacional"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EC2046",
+            "nombre": "Métodos econométricos I: pronósticos en economía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "(Haber Aprobado EC2045 o Haber Aprobado P2006B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0003&lang=ES",
+            "nombreCompleto": "Métodos econométricos I: pronósticos en economía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Estimar modelos econométricos utilizando técnicas paramétricas. - Comprender los fundamentos estadísticos del modelo de regresión lineal desde un enfoque teórico. - Pronosticar mediante el modelo de regresión lineal y utilizando herramientas de series de tiempo. - Utilizar herramientas avanzadas de pronóstico desde un enfoque práctico. - Experimentar de forma iterativa con las alternativas de solución emprendedoras desde un enfoque econométrico."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "P2007B",
+            "nombre": "Opinión pública",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado P2005B",
+            "nombreCompleto": "Opinión pública",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar los actores que integran el campo político, a través del diseño de instrumentos en los que se pueda operacionalizar la percepción que se tiene sobre ellos. - Identificar los elementos económicos, jurídicos, políticos y sociales que condicionan las tendencias de opinión pública. - Dialogar, negociar, persuadir e inspirar a través del uso de estrategias verbales y no verbales de comunicación. - Valorar la credibilidad de las afirmaciones y argumentos, discutiendo los hallazgos a partir de criterios de validez interna y externa. - Interpretar la información a partir de parámetros o procedimientos propios del contexto, basándose en un cuerpo teórico pertinente, así como en la caracterización del contexto de quienes emiten una opinión."
+          },
+          {
+            "clave": "P2008B",
+            "nombre": "Política pública",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Política pública",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comparar acciones públicas alrededor de problemas contemporáneos, a partir de la identificación y el análisis de los diversos elementos que influyen en la formulación, diseño, implementación y evaluación de políticas públicas. - Construir escenarios de prospectiva política, a través de metodologías para el análisis de futuro, utilizando marcos conceptuales y herramientas analíticas para comprender y abordar desafíos políticos, económicos y sociales. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la estructuración lógica y coherente del contenido, la elección de un lenguaje preciso y apropiado, la consideración del contexto, el compromiso con la honestidad y la integridad en la comunicación. - Promover la participación incluyente y la diversidad de pensamiento, utilizando habilidades de liderazgo y trabajo en equipo para colaborar con distintos actores en la búsqueda de soluciones a problemas públicos. - Incorporar los valores de la democracia en acciones de interés ciudadano, a través de la promoción de la transparencia, la rendición de cuentas, el respeto por los derechos humanos, la participación activa de la ciudadanía en los procesos decisionales y la defensa de la igualdad y justicia social en las iniciativas cívicas."
+          },
+          {
+            "clave": "P2027",
+            "nombre": "Sistema político mexicano",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0002&lang=ES",
+            "nombreCompleto": "Sistema político mexicano",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los actores que integran el campo político en México, cómo funcionan y se articulan, desde una perspectiva socio-histórica del sistema político mexicano. - Discernir los factores sociales, políticos y económicos que han condicionado la interacción entre actores del campo político en México, a través de la evolución del sistema político mexicano desde la postrevolución hasta nuestros días. - Examinar las condiciones de transformación del campo político en México desde la postrevolución hasta nuestros días, a partir de análisis comparativos a lo largo de distintos periodos que corresponden a cada eje temático. - Promover la participación incluyente y la diversidad de pensamiento a través del análisis del sistema político mexicano."
+          },
+          {
+            "clave": "P2028",
+            "nombre": "Instituciones políticas comparadas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Instituciones políticas comparadas",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conceptualizar las instituciones políticas desde varios enfoques teóricos del institucionalismo. - Comparar el rol de las instituciones públicas en el proceso de toma de decisiones públicas o acciones alrededor de problemas contemporáneos desde varios enfoques teóricos del institucionalismo. - Examinar las condiciones de transformación de la coyuntura y estructuras del campo político en función de las instituciones políticas comparadas. - Valorar la credibilidad de los afirmaciones sobre los efectos de las instituciones políticas comparadas utilizando evidencia empírica. - Analizar los retos de instituciones políticas comparadas utilizando como parámetros los valores democráticos de interés ciudadano y los mecanismos de cooperación para la participación ciudadana."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EC2013B",
+            "nombre": "Economía conductual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado EC2044",
+            "nombreCompleto": "Economía conductual",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar formas de incidencia pública mediante el análisis de aplicaciones exitosas de la economía conductual. - Identificar los elementos económicos, jurídicos, políticos y sociales que condicionan la toma de decisiones mediante el análisis de teorías de economía conductual. - Experimentar alternativas de solución a través del diseño de nudges. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado mediante el análisis de casos de éxito y fracaso de la aplicación de la economía conductual."
+          },
+          {
+            "clave": "EC3049",
+            "nombre": "Métodos econométricos aplicados",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC2046",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EC0004&lang=ES",
+            "nombreCompleto": "Métodos econométricos aplicados",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "competenciasEvaluan": [
+              "S26EC0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Estimar modelos econométricos aplicados al estudio de políticas e innovaciones públicas utilizando varios tipos de bases de datos. - Vincular variables económicas y políticas a través de modelos econométricos. - Evaluar los supuestos de regresión lineal que validan la relación de causalidad entre variables económicas y políticas a través de pruebas estadísticas. - Identificar violaciones de los supuestos de los modelos econométricos lineales utilizando herramientas estadísticas. - Experimentar de forma iterativa con las alternativas para solucionar las violaciones de los supuestos de regresión lineal."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "P2009B",
+            "nombre": "Gobierno y finanzas públicas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Gobierno y finanzas públicas",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Examinar las condiciones de transformación del campo político desde un enfoque de finanzas como base de las políticas públicas. - Evaluar el impacto del gasto y deuda pública, aplicando los métodos de investigación e instrumentos para la rendición de cuentas. - Plantear múltiples escenarios de ingresos y egresos públicos a través de una perspectiva de deuda pública sostenible."
+          },
+          {
+            "clave": "P2029",
+            "nombre": "Métodos cualitativos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0006&lang=ES",
+            "nombreCompleto": "Métodos cualitativos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0006",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar e implementar proyectos de investigación desde un abordaje de métodos cualitativos. - Evaluar argumentos y evidencias a través de métodos cualitativos, reconociendo los alcances y límites de cada herramienta metodológica. - Plantear conclusiones y valorar la credibilidad de las afirmaciones a través del análisis de información cualitativa. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada a través de la restitución de información cualitativa."
+          },
+          {
+            "clave": "P3004B",
+            "nombre": "Ciencia de datos para el bien público",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado SO1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EC0002&lang=ES",
+            "nombreCompleto": "Ciencia de datos para el bien público",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "C26EC0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comparar acciones públicas mediante la aplicación métodos de investigación e instrumentos computacionales. - Comprender los fundamentos teóricos de los métodos analíticos y sus alcances en el análisis político mediante la experimentación y validación con información empírica. - Analizar sistemáticamente los problemas públicos a partir de planteamiento de hipótesis y el uso de evidencia empírica y modelos computacionales. - Experimentar de forma iterativa con alternativas de visualización de datos mediante algoritmos de aprendizaje supervisado y no supervisado."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "P3005B",
+            "nombre": "Implementación y evaluación de política pública",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado P2008B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0008&lang=ES",
+            "nombreCompleto": "Implementación y evaluación de política pública",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0008",
+              "S26P0009"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar el modelo de implementación de la política e innovación pública, mediante la aplicación de indicadores de desempeño y métricas de éxito, la realización de análisis comparativos con modelos previos o alternativos, la recolección de datos cualitativos y cuantitativos, y la retroalimentación de las personas involucradas. - Evaluar los resultados derivados de la política e innovación pública, mediante la medición del impacto real en la comunidad y en los objetivos establecidos, la comparación con las expectativas iniciales, la identificación de áreas de mejora, y la comunicación transparente de los hallazgos. - Analizar la factibilidad de la implementación de la política e innovación pública, mediante la evaluación de los recursos disponibles, la identificación de personas clave y posibles barreras, el análisis de costos y beneficios, y la consideración de los impactos sociales, económicos y ambientales. - Establecer el proceso de implementación de la política e innovación pública, a partir de la definición de objetivos claros y alcanzables, la planificación detallada de las etapas y actividades, la asignación de responsabilidades y la creación de mecanismos de seguimiento y control. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través de la implementación de políticas públicas."
+          },
+          {
+            "clave": "P3006B",
+            "nombre": "Innovación tecnológica y emprendimiento público",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0007&lang=ES",
+            "nombreCompleto": "Innovación tecnológica y emprendimiento público",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0007",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los elementos de las innovaciones públicas que derivan en éxitos y fracasos a través del análisis conceptual e histórico de emprendimientos públicos. - Proponer el diseño de innovaciones públicas utilizando los instrumentos de intervención gubernamental. - Experimentar de forma iterativa con las alternativas de solución emprendedoras a través del análisis de ecosistemas de innovación pública. - Realizar acciones orientadas a promover el bienestar y el desarrollo sostenible a través de propuestas de innovación pública que generen valor económico y social. - Realizar propuestas estratégicas de acción para los futuros proyectados mediante el uso de metodologías de análisis de riesgo y la medición de impacto en sistemas lineales y complejos."
+          },
+          {
+            "clave": "P3007B",
+            "nombre": "Análisis de riesgo político",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26P0001&lang=ES",
+            "nombreCompleto": "Análisis de riesgo político",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "C26P0001",
+              "C26CO0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los elementos económicos, jurídicos, políticos y sociales que condicionan los riesgos políticos a través de taxonomías jerarquizadas y otras herramientas de recolección de datos. - Estimar la magnitud de los eventos inciertos que impactan a actores políticos en distintos niveles a través de enfoques determinísticos y probabilísticos de evaluación de riesgo. - Plantear múltiples escenarios futuros mediante la aplicación de metodologías de análisis prospectivo y herramientas de medición de riesgos. - Valorar la efectividad de políticas públicas y proyectos de innovación pública mediante estrategias de gestión de riesgo político. - Comunicar los resultados del análisis de riesgos a las personas tomadoras de decisiones a través de documentación escrita o información oral."
+          },
+          {
+            "clave": "P3018",
+            "nombre": "Experimentos e inferencia causal",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado EC2046",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0005&lang=ES",
+            "nombreCompleto": "Experimentos e inferencia causal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0005",
+              "S26EH0006"
+            ],
+            "requisitosDetalle": "Equivalencia: TC3065",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender los fundamentos teóricos de los métodos de inferencia causal a través de experimentos. - Plantear conclusiones fundamentadas en argumentos validados mediante los métodos de experimentación e inferencia causal. - Utilizar metodologías en la evaluación de argumentos y evidencias con base en los métodos de experimentación e inferencia causal."
+          },
+          {
+            "clave": "P3019",
+            "nombre": "Elección pública",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0004&lang=ES",
+            "nombreCompleto": "Elección pública",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0004"
+            ],
+            "requisitosDetalle": "Equivalencia: P2013",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los modelos más comunes de elección social a través de sus supuestos (individualismo, preferencias y maximización de utilidad) y componentes principales. - Comprender fenómenos sociales y decisiones públicas como las elecciones, la acción colectiva, la negociación entre actores políticos y el desempeño y la evolución de instituciones políticas aplicando los modelos de elección social. - Identificar los elementos políticos, sociales, jurídicos y económicos que condicionan las decisiones públicas utilizando los modelos de elección racional. - Considerar los valores de la democracia en acciones de interés ciudadano a través de los modelos de elección pública."
+          },
+          {
+            "clave": "P3020",
+            "nombre": "Economía política del desarrollo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26P0003&lang=ES",
+            "nombreCompleto": "Economía política del desarrollo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26P0003",
+              "S26EH0004"
+            ],
+            "requisitosDetalle": "Equivalencia: P2020",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Caracterizar el concepto del desarrollo utilizando distintas perspectivas (ambientales, culturales, sociales, políticas, económicas y tecnológicas). - Evaluar el rol del estado a través de diversos escenarios futuros de desarrollo sostenible para México. - Explicar el desarrollo económico y político desde diferentes marcos teóricos. - Plantear conclusiones sobre las causas y efectos de los procesos de desarrollo a través del análisis de evidencia empírica y argumentos validados."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3122",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3123",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3124",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3125",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3126",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3127",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          },
+          {
+            "clave": "P3008B",
+            "nombre": "Diseño e implementación de innovaciones públicas",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26P0002&lang=ES",
+            "nombreCompleto": "Diseño e implementación de innovaciones públicas",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "C26P0002",
+              "C26SO0002",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar la factibilidad de la implementación de innovaciones públicas mediante la elaboración de un plan estratégico y el análisis de diseño, fuentes de financiamiento y riesgos. - Evaluar el modelo de implementación de la innovación pública utilizando herramientas de design-thinking y systems-thinking. - Diseñar propuestas de innovación pública aplicando diversos métodos de investigación. - Identificar alternativas de innovaciones públicas que generan valor social e individual mediante la ideación creativa y la evaluación de impacto que reta el pensamiento convencional."
+          }
+        ]
+      }
+    ]
+  }
+}

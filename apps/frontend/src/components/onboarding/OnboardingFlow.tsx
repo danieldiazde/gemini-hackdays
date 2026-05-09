@@ -75,6 +75,8 @@ type State = {
   carreraClave: string;
   modelo: Modelo | "";
   semestre: number | null;
+  /** YYYY-MM-DD del día que inició el semestre actual del alumno. */
+  semestreInicio: string;
   materias: Record<string, SelectedMateria>;
   canvasIcalUrl: string;
   submitting: boolean;
@@ -88,6 +90,14 @@ type Action =
   | { type: "NEXT" }
   | { type: "BACK" };
 
+function defaultSemesterStart(): string {
+  // Tec semesters typically start the second Monday of February or August.
+  // Default to Feb 9 of the current year so the field is pre-filled with a
+  // reasonable guess; the student can override.
+  const now = new Date();
+  return `${now.getFullYear()}-02-09`;
+}
+
 const INITIAL: State = {
   step: 1,
   nombre: "",
@@ -95,6 +105,7 @@ const INITIAL: State = {
   carreraClave: "",
   modelo: "",
   semestre: null,
+  semestreInicio: defaultSemesterStart(),
   materias: {},
   canvasIcalUrl: "",
   submitting: false,
@@ -150,7 +161,12 @@ function isStepValid(step: number, state: State): boolean {
     );
   }
   if (step === 2) {
-    return Boolean(state.carreraClave) && Boolean(state.modelo) && state.semestre != null;
+    return (
+      Boolean(state.carreraClave) &&
+      Boolean(state.modelo) &&
+      state.semestre != null &&
+      /^\d{4}-\d{2}-\d{2}$/.test(state.semestreInicio)
+    );
   }
   if (step === 3) {
     return (
@@ -265,6 +281,7 @@ export function OnboardingFlow() {
       carreraClave: state.carreraClave,
       modelo: state.modelo as Modelo,
       semestre: state.semestre,
+      semestreInicio: state.semestreInicio,
       materias: Object.values(state.materias).map(({ clave, nombre, creditos, prioridad }) => ({
         clave,
         nombre,
@@ -621,6 +638,21 @@ function StepCareer({
             ))}
           </SelectContent>
         </Select>
+      </div>
+
+      <div className="space-y-2">
+        <Label htmlFor="semestreInicio">¿Cuándo inició este semestre?</Label>
+        <Input
+          id="semestreInicio"
+          type="date"
+          value={state.semestreInicio}
+          onChange={(e) =>
+            dispatch({ type: "SET", field: "semestreInicio", value: e.target.value })
+          }
+        />
+        <p className="text-xs text-muted-foreground">
+          Lo usamos para saber en qué bloque Tec21 estás (las materias dependen del periodo).
+        </p>
       </div>
     </div>
   );

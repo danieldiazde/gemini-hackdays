@@ -1,0 +1,770 @@
+{
+  "carreraClave": "LED26",
+  "nombre": "Licenciatura en Derecho",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Conocimientos básicos sobre ciencias sociales, ciencias humanísticas y ciencias exactas, lengua española, historia y filosofía, así como fundamentos del pensamiento matemático y dominio de la lengua inglesa.",
+    "Habilidades para el pensamiento crítico, la observación y el análisis, así como para comunicarse de manera oral y escrita. De igual forma, para el uso de medios y herramientas digitales.",
+    "Actitudes que muestren responsabilidad social y una genuina vocación por aprender, para formar una nueva generación de juristas que ejerzan la profesión con bases científicas, visión multidisciplinaria y herramientas tecnológicas, así como con enfoques de derechos humanos interseccionales para lograr que el derecho sea una herramienta de progreso y avance de la sociedad.",
+    "Solves real-world challenges by applying evaluation theories and methodologies based on objective principles with various forms of validity.",
+    "Analyzes social phenomena from a scientific perspective.",
+    "Produces scientific-legal knowledge and legal instruments based on criteria adapted to technological, economic, political, and social changes.",
+    "Manages national and international conflicts with empathy, social responsibility, and adherence to the applicable legal order.",
+    "Exchanges oral and written messages enabling professional and social development.",
+    "Develops conscious opportunities that generate economic, social, and environmental value.",
+    "Exhibits ethical behavior, grounded in the principles of dignity, integrity, responsibility, and the common good.",
+    "Constructs individual and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Establishes personal judgments or stances in various situations based on rigorous evaluation of information.",
+    "Basic knowledge of social sciences, humanistic sciences, and exact sciences, Spanish language, history, and philosophy, as well as foundations of mathematical thinking and proficiency in the English language.",
+    "Critical thinking, observation, and analytical skills, as well as the ability to communicate orally and in writing.",
+    "Skills for using digital media and tools.",
+    "Attitudes demonstrating social responsibility and a genuine vocation for learning, to form a new generation of jurists who practice the profession with scientific foundations, a multidisciplinary vision, and technological tools, as well as with intersectional human rights approaches to make law a tool for societal progress and advancement."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Derecho, se requiere que cada estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos básicos sobre ciencias sociales, ciencias humanísticas y ciencias exactas, lengua española, historia y filosofía, así como fundamentos del pensamiento matemático y dominio de la lengua inglesa. Habilidades para el pensamiento crítico, la observación y el análisis, así como para comunicarse de manera oral y escrita. De igual forma, para el uso de medios y herramientas digitales. Actitudes que muestren res",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1005B",
+            "nombre": "Panorama macroeconómico de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Panorama macroeconómico de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir y entender las causas de problemas macroeconómicos a través de la aplicación de conceptos y teorías, y la utilización de estadísticas económicas de México. - Evaluar el impacto de las medidas de política fiscal, política monetaria y política cambiaria mediante la aplicación de modelos macroeconómicos a la economía mexicana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto con base en la teoría económica."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1060",
+            "nombre": "Pensamiento matemático",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Pensamiento matemático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Explicar el comportamiento de las variables de un modelo económico mediante la aplicación de herramientas matemáticas. - Plantear conclusiones fundamentadas en argumentos validados mediante el uso de modelos matemáticos."
+          },
+          {
+            "clave": "P1017",
+            "nombre": "Filosofía política",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Filosofía política",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano, utilizando las nociones analizadas en clase, aplicadas a situaciones contemporáneas, vigentes y cercanas a su realidad. - Vincular los problemas sociales con conceptos y teorías, a partir de documentar, discutir y examinar situaciones actuales, a la luz de la perspectiva filosófica y las diferentes corrientes recorridas a lo largo del curso."
+          },
+          {
+            "clave": "RI1003B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "requisitosDetalle": "Equivalencia: RI1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reconocer los problemas sociales globales especificando sus principales causas y consecuencias - Vincular los problemas sociales internacionales con conceptos y teorías básicos de las relaciones internacionales a través de la revisión de casos - Promover la participación incluyente y la diversidad de pensamiento mediante el diálogo, la escucha activa y la generación de acuerdos - Elaborar escritos como memorándums y ensayos cortos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados - Ser consciente de la responsabilidad cívica que implica ser un ciudadano del mundo considerando los diversos desafíos globales"
+          },
+          {
+            "clave": "SO1001",
+            "nombre": "Lógica y pensamiento científico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Lógica y pensamiento científico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Generar hipótesis para la explicación de fenómenos sociales mediante la revisión de literatura existente y la integración de diferentes enfoques teóricos - Valorar la credibilidad de las afirmaciones y argumentos utilizando métodos de evaluación crítica, verificación de fuentes y análisis lógico de la consistencia y coherencia de la información presentada - Identificar variables independientes, dependientes e intervinientes a través del análisis y lecturas de artículos científicos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1032",
+            "nombre": "Introducción a la ciencia jurídica y al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Introducción a la ciencia jurídica y al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y comprender conceptos jurídicos fundamentales de manera analítica y crítica. - Distinguir entre ciencia jurídica y derecho a partir de sus implicaciones y alcances propios. - Vincular los problemas sociales con conceptos y teorías jurídicas a partir del análisis metódico. - Valorar la credibilidad de afirmaciones y argumentos en el contexto jurídico a través de las bases teórico jurídicas."
+          },
+          {
+            "clave": "EC1022",
+            "nombre": "Microeconomía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado MA1060",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Vincular los problemas sociales con conceptos y teorías económicas con base a los principios del análisis microeconómico. - Plantear conclusiones fundamentadas en argumentos validados con base en los principios del análisis microeconómico."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "SO1001B",
+            "nombre": "Analítica de datos sociales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado MA1060",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SO0001&lang=ES",
+            "nombreCompleto": "Analítica de datos sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26SO0001",
+              "S26SO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los supuestos teóricos de problemas sociales a través del planteamiento de hipótesis - Identificar variables independientes, dependientes e intervinientes a partir de la vinculación de los modelos teóricos y el análisis empírico de la información disponible - Generar hipótesis para la explicación de fenómenos sociales a partir del análisis de datos - Experimentar de forma iterativa con las alternativas de solución emprendedoras"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "D1002B",
+            "nombre": "Personas y derechos reales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "requisitos": "Estar Cursando D1034",
+            "nombreCompleto": "Personas y derechos reales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Derivado de fenómenos de relevancia jurídica, interpretar normas, hechos y actos jurídicos considerando los fundamentos de la relación jurídica, con base en la teoría general de las obligaciones. - Desarrollar análisis de riesgos éticos y legales, a partir de los fundamentos de la responsabilidad civil de las personas, con base en la teoría del daño y su reparación. - Explorar alternativas que generan valor, utilizando su creatividad en el análisis y exploración de problemas."
+          },
+          {
+            "clave": "D1033",
+            "nombre": "Teoría del derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1032",
+            "nombreCompleto": "Teoría del derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y determinar la finalidad del derecho a partir de la filosofía jurídica. - Conocer las diversas teorías del derecho así como sus postulados a través de las corrientes jurídicas. - Conocer la conformación del sistema jurídico de acuerdo a la normatividad existente. - Comprender los diferentes sistemas de lenguaje del derecho y las diversas estrategias verbales de comunicación para fortalecer los argumentos jurídicos en casos concretos a través de los fundamentos lógico argumentativos. - Comprender la justicia a partir de las principales teorías y posturas de sus principales exponentes."
+          },
+          {
+            "clave": "D1034",
+            "nombre": "Derecho constitucional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1032",
+            "nombreCompleto": "Derecho constitucional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "requisitosDetalle": "Equivalencia: D2002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano a través de una cultura de legalidad y constitucionalidad. - Emplear las normas jurídicas aplicables a través del estudio de casos concretos. - Fomentar la cultura de la legalidad, a través del conocimiento de la constitución y las teorías relevantes."
+          },
+          {
+            "clave": "D1035",
+            "nombre": "Teoría general del proceso",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1032",
+            "nombreCompleto": "Teoría general del proceso",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar conflictos con base en aproximaciones teóricas con la finalidad de experimentar de forma iterativa con las alternativas de solución emprendedoras jurídicas. - Aplicar conceptos fundamentales, principios e instituciones que rigen al proceso jurisdiccional, reconociendo la instancia idónea para la solución de conflictos, y distinguiendo etapas y fases en las que se desarrolla el proceso. - Plantear soluciones a conflictos basado en conclusiones fundamentadas en argumentos validados, siempre después de examinar las posibilidades de diferentes procesos con el fin de elegir el medio de impugnación idóneo para su procedencia y resolución favorable."
+          },
+          {
+            "clave": "D1036",
+            "nombre": "Sistemas jurídicos contemporáneos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Sistemas jurídicos contemporáneos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y comprender las sociedades organizadas alrededor de principios jurídicos y su influencia en los sistemas jurídicos a partir del estudio histórico de sus características. - Conocer y comprender la influencia histórica del derecho romano y el derecho europeo en los sistemas jurídicos actuales a través del análisis de los conflictos con base en aproximaciones teóricas. - Conocer y comprender los sistemas jurídicos modernos a partir de las corrientes que los sustentan, así como las características del sistema jurídico actual mexicano a partir de las corrientes teóricas y de sus bases constitucionales. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través de los conocimientos teóricos sobre los sistemas jurídicos. - Usar los instrumentos jurídicos y las herramientas tecnológicas de manera responsable y ética en el ejercicio de la profesión jurídica."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "D2009B",
+            "nombre": "Obligaciones y contratos",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "requisitos": "Haber Aprobado D1002B",
+            "nombreCompleto": "Obligaciones y contratos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comunicar asertivamente los derechos y obligaciones, conforme a la regulación aplicable y proponiendo estrategias jurídicas a partir del acto jurídico idóneo y de acuerdo a los hechos, circunstancias y sujetos involucrados en las obligaciones, considerando sus consecuencias jurídicas. - Realizar propuestas estratégicas de acción para los futuros proyectados a través de los distintos contratos civiles."
+          },
+          {
+            "clave": "D2049",
+            "nombre": "Metodología de la investigación jurídica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1033",
+            "nombreCompleto": "Metodología de la investigación jurídica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los problemas jurídicos a estudiar en la sociedad a partir del planteamiento de hipótesis con base en los conocimientos teóricos y metodológicos fundamentales - Plantear hipótesis, construir un marco teórico y seleccionar adecuadamente el método de investigación de forma congruente a partir del problema a estudiar - Conocer las metodologías de la investigación social aplicadas al ámbito jurídico a través de las bases teórico-metodológicas - Emplear herramientas tecnológicas, así como conocimientos de otras disciplinas para la investigación científico-jurídica a través de la visión multidisciplinaria - Demostrar rigor científico e integridad académica en el uso de la información a partir de la comprensión ética de la ciencia jurídica"
+          },
+          {
+            "clave": "D2050",
+            "nombre": "Derecho penal",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1034",
+            "nombreCompleto": "Derecho penal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar los estándares y la legislación internacional, enfoques diferenciados y perspectivas de inclusión a través del análisis y la resolución de casos en materia penal. - Incorporar el razonamiento científico en sus argumentos jurídicos a través del conocimiento y estudio de la teoría del delito. - Analizar de forma sistémica las problemáticas desde diversos dominios, escalas y disciplinas a través de los conceptos analizados del derecho penal."
+          },
+          {
+            "clave": "D2051",
+            "nombre": "Derechos humanos y sus sistemas de protección",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1034",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0001&lang=ES",
+            "nombreCompleto": "Derechos humanos y sus sistemas de protección",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Revisar los principios de interpretación reconociendo los sistemas nacionales e internacionales para su protección. - Identificar los mecanismos de defensa de los derechos humanos para su efectividad y aplicación en casos prácticos considerando la diversidad. - Conciliar el uso de las normas en casos concretos aplicando el principio por persona. - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado, identificando los derechos humanos y las obligaciones generales a cargo de las autoridades. - Utilizar criterios de sostenibilidad en la revisión de los derechos a un medio ambiente sano."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "D2010B",
+            "nombre": "Sociedades mercantiles y derecho corporativo",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0004&lang=ES",
+            "nombreCompleto": "Sociedades mercantiles y derecho corporativo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0004",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Elaborar los instrumentos jurídicos que regulen las obligaciones de los socios y socias, la forma de organización de la sociedad, así como la forma de dirimir conflictos internos, tomando en cuenta el marco normativo nacional, los principios éticos y los pilares de sostenibilidad. - Constituir una sociedad mercantil tomando en cuenta la teoría de los contratos y las características de cada uno de los tipos de persona jurídica contemplados en la legislación mexicana. - Asesorar empresas extranjeras para que inicien operaciones comerciales en México con base en el marco normativo nacional e internacional. - Guiar a las y los emprendedores sobre el cumplimiento de las obligaciones legales en materia de derecho societario con base en los principios éticos, la cultura de la legalidad y la responsabilidad social empresarial. - Guiar a una emprendedora o un emprendedor sobre la sociedad mercantil idónea para su proyecto de negocio, los acuerdos entre los socios y socias para regular la vida de la empresa y el funcionamiento de los órganos de gobierno de la misma, a través de una estrategia legal integral que tomen en cuenta las distintas áreas del derecho corporativo vinculado al caso en concreto."
+          },
+          {
+            "clave": "D2052",
+            "nombre": "Derecho familiar y sucesorio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D2009B",
+            "nombreCompleto": "Derecho familiar y sucesorio",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Crear soluciones jurídicas innovadoras, utilizando métodos para resolver problemas con base en el legal design y metodologías y técnicas del design thinking. - Analizar sistemáticamente las problemáticas desde diversos dominios, escalas y disciplinas, a partir de conceptos y métodos de análisis sistémico y del estado actual."
+          },
+          {
+            "clave": "D2053",
+            "nombre": "Derecho internacional público",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1034",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0002&lang=ES",
+            "nombreCompleto": "Derecho internacional público",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0002",
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar los estándares y la legislación internacional, tomando en consideración enfoques diferenciados y perspectivas de inclusión. - Identificar e interpretar las normas de derecho internacional en la búsqueda de comprensión de conflictos internacionales y trasnacionales. - Plantear múltiples escenarios de conflicto y acuerdo, analizando y anticipando las posibilidades de cambio en contextos internacionales para lograr promover ambientes justos y éticos."
+          },
+          {
+            "clave": "D2054",
+            "nombre": "Medios alternativos de solución de conflictos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0003&lang=ES",
+            "nombreCompleto": "Medios alternativos de solución de conflictos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Fomentar la cultura de la paz por medio del uso de la mediación, negociación y/o conciliación de conflictos. - Emplear estrategias verbales y no verbales de forma estratégica con la finalidad de promover soluciones para una mejor sociedad. - Reflexionar y profundizar en la característica de la función de la persona jurista y abogada con sentido autocritico en la resolución de conflictos y la promoción de una sociedad justa, ética e innovadora."
+          },
+          {
+            "clave": "D3055",
+            "nombre": "Enfoques diferenciados del derecho",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D2051",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0007&lang=ES",
+            "nombreCompleto": "Enfoques diferenciados del derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0007"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar el método de análisis diferenciado a partir de la identificación e interiorización de los sistemas de opresión. - Analizar fenómenos sociales en el contexto jurídico a través de la perspectiva de género, el enfoque interseccional y los enfoques diferenciados. - Aplicar los estándares y la legislación internacional, así como los enfoques diferenciados y las perspectivas de inclusión en las diferentes actividades jurídicas a través de los conocimientos teóricos. - Practicar la profesión legal en ambientes laborales internacionales, multigeneracionales y multiculturales. - Interpretar la información a partir de parámetros o procedimientos propios del contexto."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "D2011B",
+            "nombre": "Derecho administrativo, fiscal y tributario",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "requisitos": "Haber Aprobado D1034",
+            "nombreCompleto": "Derecho administrativo, fiscal y tributario",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Construir estrategias jurídicas y escenarios de solución a controversias, a través de las teorías generales de la estrategia jurídica y las teorías específicas de la construcción de estrategias jurídicas en las áreas del derecho administrativo, fiscal y tributario, así como del ejercicio de los procedimientos especiales. - Plantear conclusiones fundamentadas en argumentos validados en el ámbito del derecho administrativo fiscal y tributario, desde la evaluación de validez y solidez en la argumentación, así como en la formulación de conclusiones."
+          },
+          {
+            "clave": "D2012B",
+            "nombre": "Derecho procesal penal",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado D1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0008&lang=ES",
+            "nombreCompleto": "Derecho procesal penal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Producir soluciones jurídicas a retos sociales, políticos y económicos a partir de teorías y metodologías de investigación científica con bases éticas a través del conocimiento de las teorías procesales penales. - Dominar los diferentes actos y etapas procesales a partir de la comprensión del derecho procesal penal. - Valorar la credibilidad de las afirmaciones y argumentos a través del estudio del razonamiento probatorio y su relevancia en el proceso penal."
+          },
+          {
+            "clave": "D2055",
+            "nombre": "Contratos mercantiles",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D2009B",
+            "nombreCompleto": "Contratos mercantiles",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Elaborar los instrumentos jurídicos de carácter mercantil que garantizan los derechos y obligaciones de la empresa en las diferentes operaciones económicas que esta deba realizar tomando en cuenta la legislación vigente y los principios de deontología jurídica. - Asesorar a las personas sobre el alcance de las obligaciones contractuales y extracontractuales derivadas de la suscripción de un instrumento jurídico tomando en cuenta los principios éticos y la responsabilidad profesional. - Analizar los principales contratos mercantiles, a través de la identificación de características, elementos, principales derechos y obligaciones, así como sus efectos jurídicos y sus formas de terminación para cada caso en particular. - Garantizar el cumplimiento de las obligaciones derivadas de la suscripción de un contrato por medio de la utilización de tecnología disruptiva. - Redactar las cláusulas de un contrato tomando en cuenta el propósito y el contexto de cada operación comercial."
+          },
+          {
+            "clave": "D2056",
+            "nombre": "Propiedad intelectual",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0006&lang=ES",
+            "nombreCompleto": "Propiedad intelectual",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0006"
+            ],
+            "requisitosDetalle": "Equivalencia: D3045",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar los procedimientos de registro, conservación, renovación, transmisión y defensa de los distintos tipos de derechos intelectuales a través de los principios legales emanados del marco normativo nacional e internacional. - Elaborar los instrumentos jurídicos que garanticen los derechos de propiedad intelectual de sus titulares a través del empleo de herramientas de due diligens, de tecnología y de metodologías de otras disciplinas. - Proponer estrategias de prevención y solución de problemas legales relacionados con el derecho intelectual, tomando en cuenta procedimientos jurisdiccionales y no jurisdiccionales. - Diseñar estrategias legales para fomentar el cumplimiento de las obligaciones de las personas físicas y jurídicas en materia de derecho intelectual tomando en cuenta los principios éticos, de la cultura de la legalidad y de los derechos humanos."
+          },
+          {
+            "clave": "D3056",
+            "nombre": "Derecho procesal civil y familiar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1035",
+            "nombreCompleto": "Derecho procesal civil y familiar",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar la técnica jurídica así como métodos de interpretación, con fundamento del debido proceso civil y familiar. - Utilizar metodologías en la evaluación de argumentos y evidencias para fundamentar las consecuencias jurídicas derivadas del derecho de las familias. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, a partir de metodologías de la interpretación jurídica."
+          },
+          {
+            "clave": "D3057",
+            "nombre": "Derecho laboral",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Derecho laboral",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar la técnica jurídica de derecho laboral, así como métodos de interpretación de manera correcta con el objetivo de realizar acciones orientadas a promover el bienestar y la sostenibilidad con un sentido de responsabilidad. - Analizar conflictos de carácter colectivo laboral, considerando sus causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas, lo que le permite conducir procesos de negociación colectiva, privilegiando el estilo de negociación ganar – ganar, y realizar convenios colectivos de trabajo. - Explicar a los interesados los escenarios posibles para la reparación de derechos humanos vulnerados, así como las diversas formas de contratación así como finiquito de una relación laboral, como son la suspensión, terminación y rescisión de dicha relación, identificando las consecuencias económicas que se derivan para las partes."
+          },
+          {
+            "clave": "D3058",
+            "nombre": "Derecho de la seguridad social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Estar Cursando D3057",
+            "nombreCompleto": "Derecho de la seguridad social",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar la técnica jurídica, así como métodos de interpretación en materia de seguridad social de manera responsable con la finalidad de lograr justicia social. - Argumentar utilizando la teoría y bases de derecho laboral y social con base en los principios éticos de reconocimiento de la dignidad humana y los derechos humanos."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "D3009B",
+            "nombre": "Derecho procesal constitucional",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "requisitos": "Haber Aprobado D1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26D0002&lang=ES",
+            "nombreCompleto": "Derecho procesal constitucional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "C26D0002",
+              "C26SO0001",
+              "C26CO0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar al derecho procesal constitucional como disciplina autónoma, así como el conjunto normativo diferenciado dentro del ordenamiento, las magistraturas, los procesos, procedimientos, sus normas y su doctrina especializada. - Interpretar normas, hechos y actos jurídicos a partir del estudio de la disciplina procesal constitucional como un conjunto diferenciado en el ordenamiento jurídico. - Analizar al proceso constitucional como elemento indispensable para el ejercicio de los derechos a través del estudio de casos. - Conciliar el uso de las normas a casos concretos a través del análisis de procesos y procedimientos constitucionales. - Interpretar normas, hechos y actos jurídicos a través del conocimiento de los procesos constitucionales. - Incorporar los valores de la democracia en acciones de interés ciudadano, a través de la comprensión de la defensa de la constitución."
+          },
+          {
+            "clave": "D3010B",
+            "nombre": "Derecho internacional privado",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0001&lang=ES",
+            "nombreCompleto": "Derecho internacional privado",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "C26EH0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar la competencia jurídica internacional y el derecho aplicable en un caso concreto con base en una ponderación normativa. - Plantear soluciones sostenibles a conflictos con elementos de extranjería a través de la generación de propuesta de acciones. - Aplicar las normas de armonización del derecho internacional privado a un caso en concreto tomando en cuenta los fundamentos del derecho internacional. - Participar en la ejecución de sentencias extranjeras con base en los fundamentos y las fuentes del derecho internacional privado. - Solicitar la cooperación procesal internacional dentro de un procedimiento judicial con base en los tratados internacionales en la materia."
+          },
+          {
+            "clave": "D3059",
+            "nombre": "Derecho procesal administrativo y fiscal",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0004&lang=ES",
+            "nombreCompleto": "Derecho procesal administrativo y fiscal",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conducirse conforme a la regulación aplicable desde los fundamentos del derecho procesal administrativo y fiscal. - Dominar los diferentes actos y etapas procesales, mediante el ejercicio de las acciones y oposición de las excepciones procesales, así como el ejercicio de los derechos y obligaciones de las etapas dentro del proceso administrativo y fiscal. - Respetar la cultura de la legalidad y dar cumplimiento a los acuerdos establecidos desde el ejercicio ético de la profesión y la importancia de la cultura de la legalidad en el ámbito procesal administrativo y fiscal."
+          },
+          {
+            "clave": "D3060",
+            "nombre": "Derecho comercial internacional y arbitraje",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CO0002&lang=ES",
+            "nombreCompleto": "Derecho comercial internacional y arbitraje",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Asesorar empresas para realizar importaciones y exportaciones a diferentes países tomando en cuenta las medidas arancelarias y no arancelarias. - Identificar el mecanismo nacional o internacional idóneo para la solución de conflictos en concreto relacionado con el derecho comercial internacional con base en los tratados internacionales suscritos por México. - Crear un acuerdo para regular una operación comercial internacional entre particulares, considerando todos los elementos legales vinculados como el transporte, la forma de pago y los medios alternos para solucionar conflictos, entre otros. - Determinar el derecho aplicable para resolver un conflicto en materia de comercio transfronterizo con base en los principios de derecho internacional privado. - Interpretar convenios e instrumentos de armonización de las normas de comercio internacional tomando en cuenta las fuentes del derecho internacional público. - Asesorar sobre los temas legales de una operación comercial internacional tomando en cuenta los derechos humanos, el derecho ambiental y la construcción social."
+          },
+          {
+            "clave": "D3061",
+            "nombre": "Derecho procesal mercantil",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26D0005&lang=ES",
+            "nombreCompleto": "Derecho procesal mercantil",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "S26D0005",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Construir la estrategia jurídica para tramitar un juicio desde su inicio hasta su conclusión, por medio de la formulación de demandas y la aplicación de los distintos criterios de competencia de las autoridades locales y federales. - Distinguir las diversas vías mercantiles para el ejercicio de la acción tomando en cuenta las instituciones y las reglas procesales aplicables. - Formular y desahogar pruebas, así como entender su valor probatorio tomando en cuenta los principios legales aplicables. - Ejercitar los juicios especiales en materia mercantil con base en el derecho procesal mexicano. - Dialogar con su cliente o negociar escenarios de solución del conflicto con su contraparte por medio de la utilización estrategias verbales y no verbales de comunicación."
+          },
+          {
+            "clave": "D3062",
+            "nombre": "Innovación tecnológica en el derecho",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Innovación tecnológica en el derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Emplear herramientas tecnológicas desde la aplicación de metodologías y técnicas del legal tech así como desde la regulación del desarrollo tecnológico. - Utilizar de forma responsable tecnologías y medios digitales para la comunicación escrita humana y no humana, mediante la aplicación de herramientas digitales para la escritura, así como de redes sociales y medios digitales."
+          },
+          {
+            "clave": "D3063",
+            "nombre": "Derecho procesal laboral",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado D1035",
+            "nombreCompleto": "Derecho procesal laboral",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "requisitosDetalle": "Equivalencia: D3040",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Dominar la aplicación de los diferentes actos y etapas procesales en materia laboral con un sentido crítico y ético. - Diseñar y conducir procesos de negociación colectiva, privilegiando el estilo de negociación ganar–ganar y, en su caso, proponer medios alternativos de solución de controversias. - Elegir modelos de gestión de conflictos de carácter colectivo laboral, considerando su viabilidad y pertinencia para cada caso concreto con responsabilidad. - Analizar conflictos de carácter colectivo laboral, considerando sus causas y consecuencias, así como a los actores implicados, sus intereses, posiciones y decisiones estratégicas. - Utilizar metodologías en la evaluación de argumentos y evidencias con sentido de escucha y proactividad para ofrecer soluciones innovadoras para la colectividad."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3110",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3111",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3112",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3113",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3114",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3115",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "nombre": "Noveno Semestre",
+        "materias": [
+          {
+            "clave": "D3011B",
+            "nombre": "Argumentación e interpretación jurídica",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "requisitos": "Haber Aprobado D1033",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26D0001&lang=ES",
+            "nombreCompleto": "Argumentación e interpretación jurídica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "C26D0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar la legislación internacional, enfoques diferenciados y perspectivas de inclusión a través de la aplicación del razonamiento jurídico. - Incorporar el razonamiento científico en sus argumentos jurídicos a través del estudio de teorías relevantes en argumentación jurídica. - Interpretar normas, hechos y actos jurídicos en la solución de casos a través del análisis del razonamiento jurídico en las decisiones judiciales. - Utilizar metodologías en la evaluación de argumentos y evidencias a través del estudio de casos complejos que se presentan en la disciplina. - Conciliar el uso de las normas en casos concretos a través del uso de la argumentación."
+          },
+          {
+            "clave": "D3012B",
+            "nombre": "Destrezas y herramientas en el ejercicio jurídico",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26D0003&lang=ES",
+            "nombreCompleto": "Destrezas y herramientas en el ejercicio jurídico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "competenciasEvaluan": [
+              "C26D0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Crear soluciones jurídicas innovadoras, factibles y viables a través de la utilización de herramientas tecnológicas y de otras disciplinas. - Brindar servicios legales innovadores mediante el uso de herramientas tecnológicas y de otras disciplinas. - Mejorar la impartición de justicia por medio de la adopción de herramientas tecnológicas en los órganos jurisdiccionales. - Gestionar una firma legal con un ambiente laboral internacional, multigeneracional y multicultural tomando en cuentas tecnologías disruptivas y metodologías de otras disciplinas. - Utilizar herramientas digitales y redes sociales en el ejercicio de su profesión de forma responsable, ética y en apego a los derechos humanos."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

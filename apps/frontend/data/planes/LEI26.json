@@ -1,0 +1,667 @@
+{
+  "carreraClave": "LEI26",
+  "nombre": "Licenciatura en Innovación y Transformación Educativa",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas y estadística.",
+    "Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia.",
+    "Habilidades para el pensamiento crítico, la observación y el razonamiento.",
+    "Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para expresar ideas de manera clara y efectiva tanto en forma verbal, como escrita y a través de imágenes.",
+    "Aptitudes, para el trabajo en equipo y una comunicación asertiva, para la solución de problemas y el uso de algunas aplicaciones informáticas. Así como, para el razonamiento lógico, la creatividad, el liderazgo y una perseverancia y dedicación constantes.",
+    "Es deseable que los aspirantes posean habilidades de comunicación, escucha y planeación, que de la mano con sus intereses y conocimientos les permitan organizar un plan didáctico.Y que muestren preocupación por los retos y necesidades sociales del entorno.",
+    "Designing, implementing, and managing educational experiences based on neuroeducation.",
+    "Developing educational research projects using both analog and digital methods and data science.",
+    "Designing, implementing, and managing teaching and training projects in various professional fields and for different audiences.",
+    "Designing, implementing, and managing educational solutions with cutting-edge technology and artificial intelligence tools ethically.",
+    "Developing and managing social innovation projects in different contexts and educational environments.",
+    "Designing and producing educational resources integrating media languages, cutting-edge technology, and generative artificial intelligence tools ethically.",
+    "Designing interfaces for managing and/or disseminating digital educational content.",
+    "Instructional and curriculum design for different contexts and educational environments.",
+    "Educational research.",
+    "Educational administration.",
+    "Instructional and curriculum design for training systems.",
+    "Social innovation projects in educational environments.",
+    "Data science and strategic data management.",
+    "Interface design."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Innovación y Transformación Educativa, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas y estadística. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para e",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "AV1003B",
+            "nombre": "Producción de contenidos I: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Producción de contenidos I: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "requisitosDetalle": "Equivalencia: AV1002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar proyectos de producción de contenidos digitales narrativos, mediante la definición clara de objetivos, la conceptualización creativa del proyecto para audiencias específicas y la gestión eficiente de recursos para garantizar su viabilidad, generando alternativas de valor. - Utilizar tecnologías visuales, sonoras y audiovisuales mediante la producción de sentido y contenidos narrativos, redactando textos y utilizando lenguajes y códigos lingüísticos y no-lingüísticos. - Explorar alternativas que generan valor mediante la ideación creativa que reta el pensamiento convencional, a través de planear la redacción de textos tomando en cuenta el propósito de comunicación y el contexto. - Utilizar lenguajes y códigos lingüísticos y no-lingüísticos en la producción de contenidos, mediante la planeación y diseño de contenidos digital."
+          },
+          {
+            "clave": "CO1003B",
+            "nombre": "Cultura digital e inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Cultura digital e inteligencia artificial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar patrones y tendencias tecnológicas y de contenidos de la cultura digital como la esfera en la que se desarrolla la producción creativa expresando ejemplos concretos que den cuenta de ello. - Distinguir herramientas de inteligencia artificial y tecnologías generativas emergentes que pueden apoyar la producción creativa en la música, la literatura, la comunicación y la educación, cumpliendo con los estándares de dichas disciplinas. - Realizar propuestas estratégicas de acción a través de la producción de contenidos con herramientas generativas aplicadas a la producción creativa musical, literaria, comunicativa, educativa o informativa."
+          },
+          {
+            "clave": "CO1004B",
+            "nombre": "Exploración de prácticas, tendencias y audiencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Exploración de prácticas, tendencias y audiencias",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar fenómenos y problemáticas humanas mediante la aplicación de instrumentos y herramientas de investigación cualitativos, a través de la observación participante, la entrevista a profundidad, los grupos de enfoque, el análisis de materiales de archivo, artefactos culturales, los enfoques audiovisuales y nuevos enfoques virtuales. - Utilizar técnicas e instrumentos cualitativos de recopilación y análisis de datos para explicar los objetivos, posibilidades y limitaciones de los métodos de investigación cualitativa y las formas en que los antropólogos socioculturales los emplean en el trabajo de campo etnográfico. - Promover la participación incluyente y la diversidad de pensamiento a través de la generación de estrategias verbales de comunicación en donde se demuestre una comprensión crítica de las consideraciones éticas relacionadas con la investigación con personas, la importancia de reconocer y reflexionar sobre las relaciones de poder dentro de los contextos de investigación y de transmitir mensajes de manera clara, elocuente, responsable y contextualizada. - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cualitativos de recopilación de datos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1022",
+            "nombre": "Del homo sapiens al humano postdigital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Del homo sapiens al humano postdigital",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH2006",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Distinguir las bases teóricas y los conceptos de la filosofía y la antropología cultural, a partir del análisis de textos fundamentales, para desarrollar una comprensión crítica de la evolución de la modernidad y la noción de lo humano desde el Renacimiento y hasta nuestros días, considerando las teorías relacionadas con raza, etnicidad, género y sexualidad. - Plantear múltiples escenarios y metodologías de análisis de riesgo para anticipar las posibilidades de cambio en el contexto analizado a partir de la comprensión del concepto de posthumanismo y sus diversas interpretaciones contemporáneas, incluyendo discusiones sobre el fin de la historia, riesgos globales, transhumanismo, inteligencia artificial, desarrollo sostenible y los dilemas éticos contemporáneos."
+          },
+          {
+            "clave": "EH1023",
+            "nombre": "Programación para humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Programación para humanidades digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y aplicar los principios del pensamiento computacional, incluyendo la descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos para resolver problemas mediante la comprensión de las bases del pensamiento computacional y enfoques algorítmicos. - Usar el pensamiento computacional en la programación y diseño de soluciones a problemas concretos ya que conocerá los lenguajes de programación y convertir soluciones lógicas en códigos ejecutables. - Identificar oportunidades de valor relevantes para el contexto de aplicación , evaluando críticamente y utilizando herramientas y técnicas computacionales en el contexto de proyectos de humanidades y medios creativos."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AV2005B",
+            "nombre": "Producción de contenidos II: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AT0001&lang=ES",
+            "nombreCompleto": "Producción de contenidos II: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26AT0001",
+              "S26EM0002"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Producir contenidos digitales a través de lenguajes, tecnologías y metodologías para el desarrollo de proyectos audiovisuales, narrativos o educativos, integrando lenguajes y códigos lingüísticos y no-lingüísticos. - Administrar proyectos digitales de producción de contenidos, audiovisuales, narrativos o educativos, mediante la definición de objetivos, la conceptualización creativa del proyecto para audiencias específicas, así como la gestión eficiente de recursos para garantizar su viabilidad. - Experimentar de forma iterativa en las diferentes fases del desarrollo del proyecto con alternativas para encontrar las mejores soluciones para la producción del prototipo."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1024",
+            "nombre": "Estudios críticos de la cultura",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0007&lang=ES",
+            "nombreCompleto": "Estudios críticos de la cultura",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26EH0007"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Promover la participación incluyente y la diversidad de pensamiento, a partir del análisis de las prácticas culturales y problemáticas humanas, mediante conceptos teórico-filosóficos que dan forma a las nociones de cultura e identidad en un mundo interconectado, así como a sus expresiones desde el multiculturalismo, la hibridación, el interculturalismo, la apropiación cultural, la globalización, y la resistencia cultural. - Distinguir conceptos de la teoría crítica y el análisis cultural, a partir de su representación identitaria y contextual presente en el arte y la cultura moderna y contemporánea, tanto a nivel global como en el contexto específico de México, analizando sus transformaciones y continuidades en los siglos XX y XXI."
+          },
+          {
+            "clave": "EH1025",
+            "nombre": "Lenguajes digitales, tecnologías y semiótica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Lenguajes digitales, tecnologías y semiótica",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH1009",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender los mecanismos de producción de sentido, de significación y de comunicación de lenguajes y códigos lingüísticos y no-lingüísticos para una compresión integral de la semiótica y sus posibles aplicaciones en diversos ámbitos, incluyendo el lenguaje, la cultura, el análisis de medios, de textos culturales y la comunicación digital. - Elaborar escritos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados aplicando el análisis semiótico en diversos textos culturales como medios visuales, cine, publicidad y música para comprender la producción de significados."
+          },
+          {
+            "clave": "H1003B",
+            "nombre": "Inteligencia y estrategia de datos culturales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0001&lang=ES",
+            "nombreCompleto": "Inteligencia y estrategia de datos culturales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cuantitativos de recopilación de datos. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, identificando los supuestos a través del planteamiento de hipótesis y del uso de R como herramienta de estadística descriptiva e inferencial. - Aplicar herramientas de estadística descriptiva e inferencial a partir del análisis de textos culturales y de la preparación de los datos para el análisis estadístico."
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "ED1001",
+            "nombre": "Fundamentos de la educación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Fundamentos de la educación",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "requisitosDetalle": "Equivalencia: ED2001",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar elementos y características de procesos formativos aplicando los fundamentos de la pedagogía, las teorías de aprendizaje, la psicología educativa y evolutiva, y los factores que afectan al aprendizaje en procesos formativos. - Evaluar procesos formativos a partir de fundamentos teóricos, tecnológicos y metodológicos. - Fundamentar soluciones a necesidades o problemáticas educativas a partir de fundamentos teóricos, tecnológicos y metodológicos. - Valorar la credibilidad de las afirmaciones y argumentos con fundamentos en las ciencias de la educación."
+          },
+          {
+            "clave": "ED1002",
+            "nombre": "Métodos de investigación educativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Métodos de investigación educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "requisitosDetalle": "Equivalencia: ED2002",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar métodos y herramientas de investigación educativa empleando enfoques, técnicas e instrumentos adecuados. - Identificar los supuestos a través del planteamiento de hipótesis en investigaciones educativas. - Plantear conclusiones fundamentadas en argumentos validados a través de investigaciones educativas."
+          },
+          {
+            "clave": "ED1002B",
+            "nombre": "Pedagogías emergentes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Pedagogías emergentes",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "requisitosDetalle": "Equivalencia: ED2002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Fundamentar necesidades y problemáticas educativas a partir de estrategias pedagógicas innovadoras. - Diseñar experiencias de aprendizaje centradas en el estudiante considerando tendencias en innovación educativa. - Analizar sistémicamente las necesidades educativas desde diversos dominios, escalas y disciplinas relativas al aprendizaje y la enseñanza."
+          },
+          {
+            "clave": "ED1003B",
+            "nombre": "Tecnología educativa y realidades extendidas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Tecnología educativa y realidades extendidas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Explorar tecnologías educativas como elemento clave a través de la atención de problemáticas y necesidades de aprendizaje o enseñanza. - Plantear múltiples escenarios anticipando las posibilidades de cambio con base en el contexto de las tecnologías educativas y emergentes."
+          },
+          {
+            "clave": "ED1004B",
+            "nombre": "Neurociencias aplicadas a la educación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Neurociencias aplicadas a la educación",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "requisitosDetalle": "Equivalencia: ED2001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar ambientes o entornos de aprendizaje innovadores teniendo en consideración los hallazgos en neuroeducación. - Realizar propuestas estratégicas de acción para los futuros proyectados a partir de fundamentos basados en neuroeducación. - Proponer soluciones idóneas a necesidades de aprendizaje considerando hallazgos de neurociencias aplicadas a la educación."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "ED1005B",
+            "nombre": "Políticas y prácticas educativas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26ED0001&lang=ES",
+            "nombreCompleto": "Políticas y prácticas educativas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26ED0001",
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar las necesidades educativas utilizando métodos de análisis en el marco de las políticas y prácticas educativas existentes. - Incorporar los valores de la democracia en acciones concretas de interés ciudadano, aplicando estos valores en el análisis crítico de políticas educativas. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través del marco de las prácticas educativas y proyectos estratégicos."
+          },
+          {
+            "clave": "ED1006B",
+            "nombre": "Diseño instruccional y curricular",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26ED0004&lang=ES",
+            "nombreCompleto": "Diseño instruccional y curricular",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26ED0004",
+              "S26ED0005"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Integrar elementos del diseño curricular, innovación pedagógica y tecnología educativa mediante la aplicación de principios de diseño para crear ambientes o entornos de aprendizaje efectivos. - Diagnosticar necesidades y problemáticas educativas de los usuarios utilizando métodos de análisis y evaluación en relación con el diseño instruccional. - Diseñar experiencias de aprendizaje significativas mediante la adaptación de métodos y contenidos a las características y contexto específico de los estudiantes. - Integrar estrategias didácticas y métodos tecnopedagógicos utilizando enfoques basados en evidencia para el diseño de experiencias de aprendizaje enriquecedoras. - Plantear múltiples escenarios utilizando técnicas de prospectiva para anticipar las posibilidades de cambio en el contexto analizado, aplicándolo al diseño instruccional y curricular."
+          },
+          {
+            "clave": "ED1007B",
+            "nombre": "Gestión de la innovación en la educación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0004&lang=ES",
+            "nombreCompleto": "Gestión de la innovación en la educación",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar tendencias educativas utilizando herramientas de investigación y análisis para evaluar su potencial de impacto positivo. - Anticipar las posibilidades de cambio mediante un análisis sistémico que aborde diversos dominios, escalas y disciplinas en contextos de gestión educativa. - Plantear múltiples escenarios utilizando técnicas de prospectiva para anticipar las posibilidades de cambio en el contexto educativo analizado."
+          },
+          {
+            "clave": "ED2005",
+            "nombre": "Educación global y comparada",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26ED0003&lang=ES",
+            "nombreCompleto": "Educación global y comparada",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26ED0003",
+              "S26CO0002"
+            ],
+            "requisitosDetalle": "Equivalencia: ED2004",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar los resultados de investigaciones educativas utilizando métodos comparativos para evaluar modelos y sistemas educativos a nivel mundial, identificando los factores socioculturales que influyen en ellos. - Promover la participación inclusiva y la diversidad de pensamiento mediante la comparación y discusión de las similitudes y diferencias entre los factores culturales, históricos, económicos y políticos que influyen en las perspectivas educativas globales. - Emplear estrategias verbales y no verbales efectivas para dialogar, negociar, persuadir e inspirar en contextos internacionales, adoptando una perspectiva global en todas las interacciones."
+          },
+          {
+            "clave": "ED2006",
+            "nombre": "Evaluación educativa y del aprendizaje",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26ED0002&lang=ES",
+            "nombreCompleto": "Evaluación educativa y del aprendizaje",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26ED0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar elementos y características de procesos formativos desde una evaluación crítica soportada por fundamentos teóricos y en función del plan de evaluación y diseño de instrumentos de evaluación. - Evaluar procesos formativos con base en criterios de evaluación educativa y del aprendizaje. - Proponer aspectos de mejora e innovación educativa a través de la elaboración de instrumentos de evaluación. - Explorar alternativas que generan valor, mediante la ideación creativa que reta el pensamiento convencional, en el contexto de la evaluación educativa."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "AV2007B",
+            "nombre": "Diseño de experiencias interactivas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CB0001&lang=ES",
+            "nombreCompleto": "Diseño de experiencias interactivas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26CB0001",
+              "S26IA0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar experiencias interactivas mediante la aplicación de principios y conceptos de diseño interactivo, diseño de interfaces y experiencia de usuario. - Experimentar la elaboración de prototipos usando herramientas para su generación y evaluación iterativa. - Producir contenidos con herramientas de tecnologías generativas emergentes y un sitio web multimedia por medio de la codificación de los elementos necesarios para su construcción."
+          },
+          {
+            "clave": "ED2007",
+            "nombre": "Teoría crítica educativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26ED0006&lang=ES",
+            "nombreCompleto": "Teoría crítica educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26ED0006",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar las estructuras, sistemas y prácticas educativas desde una perspectiva crítica con miras a identificar tendencias educativas sociales con alto potencial de impacto positivo. - Proponer soluciones integrales para la transformación educativa, con base en perspectivas críticas en la educación. - Utilizar metodologías en la evaluación de argumentos y evidencias con base en los fundamentos de la teoría crítica educativa."
+          },
+          {
+            "clave": "ED2008B",
+            "nombre": "Educación para la transformación social",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26ED0001&lang=ES",
+            "nombreCompleto": "Educación para la transformación social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "C26ED0001",
+              "C26ED0002",
+              "C26ED0003",
+              "C26EH0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Argumentar sus puntos de vista con base en los principios éticos de reconocimiento de la dignidad y los derechos humanos en educación para la diversidad. - Diagnosticar necesidades y problemáticas educativas considerando perspectivas de comunidades de aprendizaje. - Proponer soluciones idóneas desde el marco del diseño universal para el aprendizaje, a partir de los hallazgos de la investigación. - Fundamentar necesidades y problemáticas educativas desde el contexto de la educación inclusiva. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad a través de los marcos de la dignidad y los derechos humanos en educación para la diversidad."
+          },
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH2042",
+            "nombre": "Métodos digitales y ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0002&lang=ES",
+            "nombreCompleto": "Métodos digitales y ciencia de datos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26IA0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender las aproximaciones al análisis de textos culturales aplicando técnicas cuantitativas de análisis y visualización de datos, storytelling para la presentación de resultados de estudios de textos y prácticas culturales en archivos digitales, redes sociales y/o plataformas de distribución y consumo de contenidos. - Aplicar herramientas de estadística descriptiva e inferencial al análisis de textos y prácticas culturales a través de la comprensión y aplicación de los conceptos matemáticos, estadísticos y computacionales subyacentes a los algoritmos asociados con la ciencia de datos y los métodos digitales. - Identificar supuestos a través del planteamiento de hipótesis mediante la validación de soluciones emprendedoras."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3117",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3118",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3119",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3120",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3121",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3122",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "ED3002B",
+            "nombre": "Proyecto integrador I: gestión educativa",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26ED0007&lang=ES",
+            "nombreCompleto": "Proyecto integrador I: gestión educativa",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "S26ED0007",
+              "S26ED0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad, utilizando metodologías de gestión del cambio para facilitar la integración de la innovación en sistemas educativos. - Diseñar estrategias de adopción y evaluación de soluciones educativas, mediante el uso de herramientas y recursos innovadores. - Integrar tecnologías educativas mediante la implementación de pruebas piloto de innovaciones tecnológicas para abordar problemáticas educativas y de aprendizaje. - Desplegar soluciones educativas de vanguardia basándose en resultados de investigación educativa y aplicando estrategias avanzadas de investigación para mejorar los procesos de enseñanza y aprendizaje. - Evaluar resultados de la integración de tecnologías educativas a través de metodologías y marcos teóricos en la educación."
+          },
+          {
+            "clave": "ED3003B",
+            "nombre": "Proyecto integrador II: emprendimiento educativo",
+            "creditos": 6,
+            "tipo": "life",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26ED0004&lang=ES",
+            "nombreCompleto": "Proyecto integrador II: emprendimiento educativo",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Educación",
+            "competenciasEvaluan": [
+              "C26ED0004",
+              "C26ED0005",
+              "C26CO0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer soluciones de emprendimiento educativo integrales y de vanguardia mediante la aplicación de principios de innovación y sostenibilidad, asegurando su viabilidad a largo plazo, y comunicarlas eficazmente a un público diverso para facilitar su comprensión y adopción. - Evaluar resultados de la integración de tecnologías educativas utilizando un enfoque crítico y fundamentado para responder a los desafíos actuales de la educación, mejorando los procesos y resultados de aprendizaje en diversos contextos organizacionales y sociales. - Experimentar de forma iterativa con las alternativas de solución emprendedoras con base en fundamentos de educación y análisis de necesidades educativas. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada para presentar un proyecto educativo sostenible."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

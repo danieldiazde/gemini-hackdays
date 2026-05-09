@@ -99,52 +99,60 @@ User -> Google OAuth -> Supabase Auth
 Persona A owns schema changes. Discuss contract changes before editing shared tables.
 
 ```sql
-create table profiles (
-  id uuid primary key references auth.users on delete cascade,
-  matricula text unique,
+-- STATUS: already created in Supabase except `insights` (run that separately)
+
+create table if not exists profiles (
+  id uuid primary key references auth.users(id) on delete cascade,
+  matricula text,
   nombre text,
   carrera_clave text,
-  modelo text,
-  semestre int,
-  preferencias jsonb default '{}'::jsonb,
+  modelo text check (modelo in ('tec21','tec26')),
+  semestre integer check (semestre between 1 and 10),
+  semestre_inicio date,
   canvas_ical_url text,
-  created_at timestamptz default now()
+  created_at timestamptz default now(),
+  updated_at timestamptz default now()
 );
 
-create table planes_estudio (
+-- If profiles already exists, add the new column:
+--   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS semestre_inicio date;
+
+create table if not exists planes_estudio (
   carrera_clave text primary key,
   nombre text,
   data jsonb
 );
 
-create table materias_inscritas (
+create table if not exists materias_inscritas (
   id uuid primary key default gen_random_uuid(),
-  user_id uuid references profiles(id) on delete cascade,
-  clave text,
+  user_id uuid references auth.users(id) on delete cascade,
+  clave text not null,
   nombre text,
-  creditos int,
-  prioridad int default 3,
+  creditos integer,
+  prioridad integer,
+  horas_clase integer,
+  horas_auto integer,
   created_at timestamptz default now()
 );
 
-create table eventos (
+-- NOTE: column names are fecha_inicio/fecha_fin (not inicio/fin) and source (not fuente)
+create table if not exists eventos (
   id uuid primary key default gen_random_uuid(),
-  user_id uuid references profiles(id) on delete cascade,
-  fuente text not null,
+  user_id uuid references auth.users(id) on delete cascade,
   external_id text,
-  titulo text not null,
+  source text,
+  titulo text,
   descripcion text,
-  inicio timestamptz not null,
-  fin timestamptz not null,
-  metadata jsonb default '{}'::jsonb,
-  created_at timestamptz default now()
+  fecha_inicio timestamptz,
+  fecha_fin timestamptz,
+  created_at timestamptz default now(),
+  unique (user_id, external_id)
 );
 
-create index eventos_user_inicio_idx on eventos(user_id, inicio);
-
-create table insights (
+-- MISSING — run this in Supabase SQL Editor:
+create table if not exists insights (
   id uuid primary key default gen_random_uuid(),
-  user_id uuid references profiles(id) on delete cascade,
+  user_id uuid references auth.users(id) on delete cascade,
   semana_iso text not null,
   contenido jsonb not null,
   generated_at timestamptz default now(),
@@ -155,10 +163,15 @@ alter table profiles enable row level security;
 alter table materias_inscritas enable row level security;
 alter table eventos enable row level security;
 alter table insights enable row level security;
+alter table planes_estudio enable row level security;
 
-create policy "users see own profile" on profiles for all using (auth.uid() = id);
-create policy "users see own materias" on materias_inscritas for all using (auth.uid() = user_id);
-create policy "users see own eventos" on eventos for all using (auth.uid() = user_id);
+create policy "users read own profile" on profiles for select using (auth.uid() = id);
+create policy "users insert own profile" on profiles for insert with check (auth.uid() = id);
+create policy "users update own profile" on profiles for update using (auth.uid() = id);
+create policy "users read own materias" on materias_inscritas for select using (auth.uid() = user_id);
+create policy "users write own materias" on materias_inscritas for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+create policy "users read own eventos" on eventos for select using (auth.uid() = user_id);
+create policy "users write own eventos" on eventos for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 create policy "users see own insights" on insights for all using (auth.uid() = user_id);
 create policy "anyone reads planes" on planes_estudio for select using (true);
 ```
