@@ -8,7 +8,6 @@ import { Button } from "@/components/ui/button";
 import { getSupabaseBrowser } from "@/lib/supabase/client";
 
 const GOOGLE_SCOPES = [
-  "https://www.googleapis.com/auth/calendar",
   "https://www.googleapis.com/auth/calendar.events",
 ].join(" ");
 
