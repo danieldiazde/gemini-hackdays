@@ -6,6 +6,8 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { getWeekRange } from "@/lib/dates";
 import { EVENTOS_FIXTURE } from "@/lib/fixtures/eventos";
 import { INSIGHT_FIXTURE } from "@/lib/fixtures/insights";
+import { syncGoogleCalendarToDb } from "@/lib/google/calendar";
+import { syncCanvasIcalToDb } from "@/lib/ical/parser";
 import { getSupabaseServer } from "@/lib/supabase/server";
 import type { Evento } from "@/lib/types/eventos";
 import type { Insight } from "@/lib/types/insights";
@@ -39,6 +41,42 @@ async function loadCurrentInsight(): Promise<Insight | null | "missing" | "error
     return data as Insight;
   } catch {
     return "error";
+  }
+}
+
+/**
+ * Pulls fresh events from the user's Google Calendar and Canvas iCal feed
+ * before the dashboard reads from the `eventos` table. Errors are swallowed
+ * — a stale cache is better than a broken dashboard. We run both syncs in
+ * parallel since they hit different external APIs.
+ */
+async function autoSyncExternalCalendars() {
+  if (!hasSupabaseConfig()) return;
+  try {
+    const supabase = await getSupabaseServer({ allowCookieWriteFailure: true });
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+    if (!user) return;
+
+    const { data: perfil } = await supabase
+      .from("profiles")
+      .select("canvas_ical_url")
+      .eq("id", user.id)
+      .maybeSingle();
+
+    await Promise.allSettled([
+      syncGoogleCalendarToDb(supabase, user.id).catch((err) => {
+        console.warn("[dashboard] google sync failed:", err);
+      }),
+      perfil?.canvas_ical_url
+        ? syncCanvasIcalToDb(supabase, user.id, perfil.canvas_ical_url).catch((err) => {
+            console.warn("[dashboard] canvas sync failed:", err);
+          })
+        : Promise.resolve(),
+    ]);
+  } catch (err) {
+    console.warn("[dashboard] autoSync skipped:", err);
   }
 }
 
@@ -85,6 +123,12 @@ export default async function DashboardPage({
   const params = await searchParams;
   const demo = params.demo === "1";
   const showEmpty = params.empty === "1";
+
+  // Auto-sync external calendars (Google + Canvas) before reading eventos so
+  // the user sees fresh data without clicking anything. Skipped in demo mode.
+  if (!demo) {
+    await autoSyncExternalCalendars();
+  }
 
   const realInsight = demo ? "missing" : await loadCurrentInsight();
   const insight: Insight | null | "error" =

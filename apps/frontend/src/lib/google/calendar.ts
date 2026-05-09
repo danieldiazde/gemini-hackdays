@@ -1,3 +1,5 @@
+import type { SupabaseClient } from '@supabase/supabase-js'
+
 import { getSupabaseServer } from '@/lib/supabase/server'
 
 export type GCalEvent = {
@@ -134,4 +136,62 @@ export async function createEvents(
   }
 
   return { ids, errors }
+}
+
+// --- syncGoogleCalendarToDb ---
+
+/**
+ * Pulls the next 14 days of Google Calendar events and upserts them into
+ * the `eventos` table. Reusable from API routes and from server components.
+ * Throws on failure so the caller can decide how to surface it.
+ */
+export async function syncGoogleCalendarToDb(
+  supabase: SupabaseClient,
+  userId: string,
+): Promise<number> {
+  const token = await getProviderToken(userId)
+
+  const fromDate = new Date()
+  const toDate = new Date()
+  toDate.setDate(toDate.getDate() + 14)
+
+  const events = await listEvents(token, fromDate, toDate)
+
+  type EventoRow = {
+    user_id: string
+    source: 'google'
+    external_id: string
+    titulo: string
+    fecha_inicio: string
+    fecha_fin: string
+  }
+
+  const rows: EventoRow[] = []
+  for (const event of events) {
+    if (!event.summary) continue
+    const inicio =
+      event.start.dateTime ??
+      (event.start.date ? `${event.start.date}T00:00:00Z` : null)
+    const fin =
+      event.end.dateTime ??
+      (event.end.date ? `${event.end.date}T23:59:59Z` : null)
+    if (!inicio || !fin) continue
+    rows.push({
+      user_id: userId,
+      source: 'google',
+      external_id: event.id,
+      titulo: event.summary,
+      fecha_inicio: inicio,
+      fecha_fin: fin,
+    })
+  }
+
+  if (rows.length === 0) return 0
+
+  const { error } = await supabase
+    .from('eventos')
+    .upsert(rows, { onConflict: 'user_id,external_id' })
+  if (error) throw new Error(`upsert eventos: ${error.message}`)
+
+  return rows.length
 }
