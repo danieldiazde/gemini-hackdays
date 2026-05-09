@@ -91,9 +91,15 @@ export async function POST(request: Request) {
       const detail = first
         ? ` Google respondió ${first.status}: ${first.message}`
         : ''
-      const hint = first?.status === 401 || first?.status === 403
-        ? ' Cierra sesión y vuelve a entrar para autorizar Google Calendar.'
-        : ''
+      let hint = ''
+      if (first) {
+        const msg = first.message.toLowerCase()
+        if (msg.includes('has not been used') || msg.includes('disabled')) {
+          hint = ' Habilita la Google Calendar API en Google Cloud Console y reintenta.'
+        } else if (first.status === 401 || msg.includes('insufficient')) {
+          hint = ' Cierra sesión y vuelve a entrar para autorizar Google Calendar.'
+        }
+      }
       return NextResponse.json(
         {
           success: false,

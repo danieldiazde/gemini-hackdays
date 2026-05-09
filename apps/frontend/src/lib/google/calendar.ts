@@ -119,7 +119,7 @@ export async function createEvents(
         errors.push({
           titulo: event.titulo,
           status: response.status,
-          message: message.slice(0, 200),
+          message: message.slice(0, 500),
         })
         continue
       }
