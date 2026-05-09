@@ -12,7 +12,7 @@ Build toward a Tec de Monterrey academic coach that:
 - Uses Gemini API for structured weekly study insights.
 - Lets the student approve suggested study blocks before writing to Google Calendar.
 
-`PROJECT.md` is the product source of truth. `README.md` explains the current migration state.
+`README.md` is the product source of truth.
 
 ## Architecture direction
 
@@ -40,13 +40,12 @@ The old `apps/backend` FastAPI service has been removed. Do not reintroduce a Py
 When product direction, architecture, API contracts, or branch policy changes:
 
 - Update `README.md`.
-- Update `PROJECT.md` if the product plan or contracts changed.
 - Update this `AGENTS.md` so future agents inherit the latest decision.
 - Update architecture docs when stack or system design changes.
 
 ## Implementation confirmations
 
-Before large code changes, confirm details that are not already specified in `PROJECT.md`, especially:
+Before large code changes, confirm details that are not already specified in `README.md`, especially:
 
 - Whether Next.js should remain under `apps/frontend` or move to the repo root.
 - Which Supabase and Google Cloud projects are used for the demo.

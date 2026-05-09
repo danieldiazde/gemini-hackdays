@@ -1,6 +1,6 @@
 # System design
 
-> Status: this file reflects the selected TecCoach direction from `PROJECT.md`.
+> Status: this file reflects the selected TecCoach direction from the repo README.
 
 ## Pieces
 
@@ -33,7 +33,7 @@
 
 - Called only from server-side code in Next.js API routes.
 - Generates structured weekly academic insights, not generic chat responses.
-- The response shape should match the contracts in `PROJECT.md`.
+- The response shape should match the contracts in the repo README.
 - Gemini context should be scoped to the user's profile, enrolled classes, deadlines, calendar availability, and Tec21 rules.
 
 ### Google Calendar
@@ -66,7 +66,7 @@ If we ever want browser-side Gemini calls (e.g., for low-latency streaming), the
 
 ## API route contracts
 
-The active product contracts are in [`../../PROJECT.md`](../../PROJECT.md):
+The active product contracts are in [`../../README.md`](../../README.md):
 
 - `POST /api/canvas/sync`
 - `POST /api/calendar/sync`

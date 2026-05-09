@@ -4,7 +4,7 @@ Working notebook for TecCoach Gemini prompts. Copy stable prompt text into the N
 
 ## Contract
 
-Gemini should return JSON matching the `contenido` shape in `PROJECT.md`:
+Gemini should return JSON matching the `contenido` shape in `README.md`:
 
 ```ts
 {

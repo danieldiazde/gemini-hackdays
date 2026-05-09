@@ -1,6 +1,6 @@
 # API contract
 
-The source of truth is `PROJECT.md`. This file mirrors the active TecCoach API surface for architecture reference.
+The source of truth is the repo README. This file mirrors the active TecCoach API surface for architecture reference.
 
 All endpoints are implemented as Next.js API routes. There is no separate FastAPI service.
 
