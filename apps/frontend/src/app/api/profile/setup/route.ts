@@ -15,6 +15,7 @@ export async function POST(request: NextRequest) {
       carreraClave: string;
       modelo: string;
       semestre: number;
+      semestreInicio?: string;
       materias: Array<{ clave: string; nombre: string; creditos: number; prioridad?: number }>;
       canvasIcalUrl?: string;
     };
@@ -28,6 +29,7 @@ export async function POST(request: NextRequest) {
         carrera_clave: body.carreraClave,
         modelo: body.modelo,
         semestre: body.semestre,
+        semestre_inicio: body.semestreInicio ?? null,
         canvas_ical_url: body.canvasIcalUrl ?? null,
         updated_at: new Date().toISOString(),
       },
