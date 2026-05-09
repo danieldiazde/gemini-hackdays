@@ -1,0 +1,1167 @@
+{
+  "carreraClave": "IMT19",
+  "nombre": "Ingeniería en Mecatrónica",
+  "descripcionES": "La opción seleccionada por el alumno debe ser autorizada por su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "F1001B",
+            "nombre": "Modelación de la ingeniería y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0402A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería y ciencias",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SING0402A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1003B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "F1006B",
+            "nombre": "Modelación del movimiento en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0302A&lang=ES",
+            "nombreCompleto": "Modelación del movimiento en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0302A",
+              "SIIT0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SIIT0101A",
+              "SIIT0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1004B ; F1002B ; F1008B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "F1007B",
+            "nombre": "Aplicación de las leyes de conservación en sistemas ingenieriles",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Estar Cursando F1006B o Haber Cursado F1006B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0102A&lang=ES",
+            "nombreCompleto": "Aplicación de las leyes de conservación en sistemas ingenieriles",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0102A",
+              "SIIT0303A",
+              "SEG0602A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1003B ; F1005B ; F1009B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación en ingeniería con leyes de conservación. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación en ingeniería con leyes de conservación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles mediante la modelación en ingeniería con leyes de conservación. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación a través de la modelación en ingeniería con leyes de conservación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida usando la modelación en ingeniería con leyes de conservación."
+          },
+          {
+            "clave": "MA1028",
+            "nombre": "Modelación matemática fundamental",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101A&lang=ES",
+            "nombreCompleto": "Modelación matemática fundamental",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0101A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "Q1019",
+            "nombre": "Análisis de la estructura, propiedades y transformación de la materia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 6,
+            "horasAuto": 2,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0301A&lang=ES",
+            "nombreCompleto": "Análisis de la estructura, propiedades y transformación de la materia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 6,
+            "aDetalle": 2,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SIIT0301A",
+              "SIIT0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SIIT0101A",
+              "SIIT0301A"
+            ],
+            "requisitosDetalle": "Equivalencia: Q1028 y Q1029",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "TC1028",
+            "nombre": "Pensamiento computacional para ingeniería",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0401A&lang=ES",
+            "nombreCompleto": "Pensamiento computacional para ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0401A",
+              "SING0301A",
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0702A",
+              "SING0301A",
+              "SING0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1037",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base en metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "F1008",
+            "nombre": "Experimentación física y pensamiento estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1003B o Haber Cursado F1005B o Haber Cursado F1007B o Haber Cursado F1009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0102A&lang=ES",
+            "nombreCompleto": "Experimentación física y pensamiento estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0102A",
+              "SING0203A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0102A",
+              "SING0203A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          },
+          {
+            "clave": "F1015B",
+            "nombre": "Aplicación de la termodinámica en sistemas ingenieriles",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0301A&lang=ES",
+            "nombreCompleto": "Aplicación de la termodinámica en sistemas ingenieriles",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0301A",
+              "SIIT0101B",
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1028B ; F1010B ; F1018B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación termodinámica para la ingeniería. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación termodinámica para la ingeniería. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles mediante la modelación termodinámica para la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación a través de la modelación termodinámica para la ingeniería. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida usando la modelación termodinámica para la ingeniería."
+          },
+          {
+            "clave": "F1016B",
+            "nombre": "Análisis de sistemas eléctricos en sistemas ingenieriles",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1007B o Estar Cursando F1007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0302A&lang=ES",
+            "nombreCompleto": "Análisis de sistemas eléctricos en sistemas ingenieriles",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0302A",
+              "SIIT0301A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SIIT0301A",
+              "SIIT0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1011B ; F1013B ; F1019B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "F1017B",
+            "nombre": "Análisis de sistemas electromagnéticos en sistemas ingenieriles",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1016B o Estar Cursando F1016B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0302A&lang=ES",
+            "nombreCompleto": "Análisis de sistemas electromagnéticos en sistemas ingenieriles",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0302A",
+              "SIIT0102A",
+              "SIIT0303A",
+              "SEG0503A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1020B ; F1014B ; F1012B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación de sistemas electromagnéticos en ingeniería. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación de sistemas electromagnéticos en ingeniería. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles mediante la modelación de sistemas electromagnéticos en ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación a través de la modelación de sistemas electromagnéticos en ingeniería. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida usando la modelación de sistemas electromagnéticos en ingeniería."
+          },
+          {
+            "clave": "MA1029",
+            "nombre": "Modelación matemática intermedia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Modelación matemática intermedia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0301A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0603A",
+              "SING0101B",
+              "SING0301A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "MA1030",
+            "nombre": "Modelación matricial",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0201A&lang=ES",
+            "nombreCompleto": "Modelación matricial",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0201A",
+              "SING0202A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Analiza la realidad con base en hechos, a través de un razonamiento lógico inductivo-deductivo que permite resolver problemas e interrogantes con criterios de validez y objetividad."
+          },
+          {
+            "clave": "MA1031",
+            "nombre": "Análisis estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0203B&lang=ES",
+            "nombreCompleto": "Análisis estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0203B",
+              "SING0202B",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0202B",
+              "SING0203B",
+              "SEG0501A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Desarrolla escenarios de acción en la toma de decisiones con base en el análisis de patrones de un conjunto de datos."
+          },
+          {
+            "clave": "Q1021",
+            "nombre": "Experimentación química y pensamiento estadístico fundamental",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado Q1019 o Haber Cursado Q1028 y Haber Cursado Q1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Experimentación química y pensamiento estadístico fundamental",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0201A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0101B",
+              "SING0201A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "IN1001B",
+            "nombre": "Diseño y análisis de experimentos para la innovación ingenieril",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado MA1031",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0402A&lang=ES",
+            "nombreCompleto": "Diseño y análisis de experimentos para la innovación ingenieril",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ingeniería Industrial",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0402A",
+              "SIIT0201C",
+              "SEG0201A",
+              "SEG0404A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SIIT0201C",
+              "SIIT0402A",
+              "SEG0404A",
+              "SEG0401A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: -Comprende procesos naturales en términos de conceptos, teorías y principios de la ingeniería. - Explica el comportamiento de procesos naturales por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Diseña experimentos y emplea métodos estadísticos para la innovación en la ingeniería de productos y procesos."
+          },
+          {
+            "clave": "IN1002B",
+            "nombre": "Desarrollo de proyectos de análisis de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado MA1031",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0402B&lang=ES",
+            "nombreCompleto": "Desarrollo de proyectos de análisis de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ingeniería Industrial",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIIT0402B",
+              "SIIT0203C",
+              "SIIT0202C",
+              "SIIT0401B",
+              "SEG0102A",
+              "SEG0101A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0101A",
+              "SEG0102A",
+              "SIIT0401B",
+              "SIIT0402B",
+              "SIIT0203C",
+              "SIIT0202C"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Desarrolla escenarios de acción en la toma de decisiones con base en el análisis de patrones de un conjunto de datos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de sistemas y dispositivos ingenieriles."
+          },
+          {
+            "clave": "M1011",
+            "nombre": "Análisis de equilibrio estático",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1006B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0301B&lang=ES",
+            "nombreCompleto": "Análisis de equilibrio estático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecánica y Materiales Avanzados",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SIIT0301B",
+              "SIIT0101B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación a mediante el análisis de equilibrio estático. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través del análisis de equilibrio estático. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles a través del análisis de equilibrio estático."
+          },
+          {
+            "clave": "MA1034",
+            "nombre": "Modelación de procesos mediante algebra lineal",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1030 o Haber Cursado CV1012",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0202B&lang=ES",
+            "nombreCompleto": "Modelación de procesos mediante algebra lineal",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SIIT0202B",
+              "SIIT0201B"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1036",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales a través de la modelación de procesos mediante algebra lineal. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información a través de la modelación de procesos mediante algebra lineal."
+          },
+          {
+            "clave": "MA1035",
+            "nombre": "Modelación en ingeniería mediante sistemas dinámicos",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0302B&lang=ES",
+            "nombreCompleto": "Modelación en ingeniería mediante sistemas dinámicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SIIT0302B",
+              "SIIT0303B"
+            ],
+            "requisitosDetalle": "Equivalencia: MA2018",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "TE1020",
+            "nombre": "Análisis de circuitos eléctricos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1016B o Haber Cursado F1011B o Haber Cursado F1013B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0301B&lang=ES",
+            "nombreCompleto": "Análisis de circuitos eléctricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SIIT0301B",
+              "SIIT0101B"
+            ],
+            "requisitosDetalle": "Equivalencia: E1005 ; TE1019",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante el análisis de circuitos eléctricos. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través del análisis de circuitos eléctricos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles a través del análisis de circuitos eléctricos."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "M2001B",
+            "nombre": "Análisis de materiales y manufactura",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado M1011 o Estar Cursando M1011 ) y Haber Cursado Q1021",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0102A&lang=ES",
+            "nombreCompleto": "Análisis de materiales y manufactura",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecánica y Materiales Avanzados",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SMR0102A",
+              "SMR0103A",
+              "SEG0303A",
+              "SEG0101A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0303A",
+              "SMR0102A",
+              "SMR0103A",
+              "SEG0101A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecánica enfocado al desarrollo de habilidades de dibujo computarizado, identificación y selección de materiales y al aprendizaje de los procesos de manufactura. Requiere de conocimientos de estática, química y mecánica de materiales. Como resultado del aprendizaje el alumno aplica el dibujo computarizado para el diseño de nuevos productos, identifica y selecciona materiales que cumplan con ciertas cargas y deformaciones permitidas, así como selecciona y define parámetros de operación de los procesos de manufactura necesarios para la fabricación de los componentes del producto diseñado.",
+            "objetivo": "Al terminar la unidad de formación el alumno utilizará adecuadamente los materiales en aplicaciones específicas. Conocerá los distintos procesos de fabricación."
+          },
+          {
+            "clave": "M2005",
+            "nombre": "Análisis de mecanismos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Estar Cursando M1011 o Haber Cursado M1011 ) y Haber Cursado MA1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0401A&lang=ES",
+            "nombreCompleto": "Análisis de mecanismos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecánica y Materiales Avanzados",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SMR0401A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecánica donde el alumno adquiere conocimientos y desarrolla habilidades en el diseño y análisis de mecanismos. Requiere conocimientos previos de estática, dinámica y ecuaciones diferenciales. Como resultado del aprendizaje el alumno analiza mecanismos existentes y realiza síntesis dimensional de mecanismos para aplicaciones específicas, mediante el apoyo de herramientas informáticas especializadas.",
+            "objetivo": "Al terminar la unidad de formación el alumno será capaz de: 1. Conocer diferentes mecanismos utilizados en máquinas, instrumentos y actuadores. 2. Analizar y simular mecanismos. 3. Diseñar un mecanismo a partir de requerimientos específicos."
+          },
+          {
+            "clave": "MR2003B",
+            "nombre": "Integración mecatrónica",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado M1011 y Haber Cursado TE1020",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0101B&lang=ES",
+            "nombreCompleto": "Integración mecatrónica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SMR0101B",
+              "SMR0104A",
+              "SIIT0301C",
+              "SEG0601A",
+              "SEG0601A",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0302A",
+              "SEG0601A",
+              "SEG0601A",
+              "SIIT0301C",
+              "SMR0101B",
+              "SMR0104A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica que permite al alumno analizar la interacción de las áreas de mecánica de materiales, circuitos eléctricos de corriente alterna, y los circuitos lógicos de control que se integran en sistema mecatrónico. Requiere conocimientos previos de la teoría de circuitos eléctricos de corriente directa e instrumentos de medición. También debe contar con conocimientos de sistemas vectoriales y análisis de equilibrio estático. Los principales temas del curso son: conceptos básicos de la eléctrica, mecánica y los sistemas lógicos de control que intervienen en un sistema mecatrónico. Evaluación de la sinergia existente entre las diferentes áreas y el efecto producido en las demás cuando una de ellas modifica alguno de sus parámetros. Manejo y aplicación del recurso computacional propio de las áreas eléctrica, mecánica y sistemas de control. Como resultado del aprendizaje el alumno soluciona problemas utilizando los principios de los sistemas mecatrónicos.",
+            "objetivo": "Al terminar la unidad de formación el alumno analiza la interacción entre los componentes de un sistema mecatrónico tomando en cuenta la sinergia entre ellos."
+          },
+          {
+            "clave": "MR2004B",
+            "nombre": "Implementación de sistemas mecatrónicos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado MR2003B o Estar Cursando MR2003B ) y (Haber Cursado MR2022 o Estar Cursando MR2022 ) y (Haber Cursado M2005 o Estar Cursando M2005 ) y (Haber Cursado TE1020 o Estar Cursando TE1020 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0302A&lang=ES",
+            "nombreCompleto": "Implementación de sistemas mecatrónicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SMR0302A",
+              "SMR0303A",
+              "SMR0304A",
+              "SIIT0102C",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SIIT0102C",
+              "SMR0302A",
+              "SMR0303A",
+              "SMR0304A",
+              "SEG0301A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica que permite al alumno integrar herramientas y conocimientos de ingeniería mecánica, electrónica y de programación de microcontroladores en el desarrollo de un sistema mecatrónico. Requiere de conocimientos de materiales y mecanismos; circuitos eléctricos y lenguajes de programación. Como resultado del aprendizaje el alumno integra conocimientos y habilidades de distintas áreas, que le permite desarrollar e implementar un sistema mecatrónico.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Diseña estrategias para automatizar procesos, sistemas y maquinaria utilizando herramientas de ingeniería. - Valida propuestas de automatización garantizando calidad, seguridad y productividad. - Implementa propuestas de automatización utilizando tecnologías de vanguardia."
+          },
+          {
+            "clave": "MR2022",
+            "nombre": "Análisis de elementos de la mecatrónica",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando TE1020 o Haber Cursado TE1020",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0101A&lang=ES",
+            "nombreCompleto": "Análisis de elementos de la mecatrónica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SMR0101A",
+              "SMR0301A",
+              "SIIT0102B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica donde el alumno desarrolla las habilidades para establecer los requerimientos mínimos de los elementos que componen un sistema mecatrónico, hacer una selección adecuada de dichos componentes y elaborar un modelo o una simulación en donde se valide la integración de los mismos. Requiere conocimientos previos de circuitos eléctricos y electrónicos, conceptos básicos de física, así como de derivadas e integrales. Como resultado el alumno elabora un reporte con el análisis de requerimientos de una aplicación, el diagrama de bloques mostrando la interacción de los componentes y realiza la modelación/simulación utilizando un software institucional.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Establece los requerimientos funcionales, económicos y de seguridad del problema a resolver de ingeniería mecatrónica. - Modela el proceso a mejorar validando su comportamiento."
+          },
+          {
+            "clave": "MR2023",
+            "nombre": "Modelación y automatización",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1035",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0102A&lang=ES",
+            "nombreCompleto": "Modelación y automatización",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SMR0102A",
+              "SMR0301A",
+              "SIIT0101C",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SIIT0101C",
+              "SMR0102A",
+              "SMR0301A",
+              "SEG0701A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica con enfoque en modelación matemática que permita al estudiante representar el comportamiento dinámico de un sistema o proceso y la aplicación de los mismos dentro de la automatización y control automático. Requiere conocimientos previos de: ecuaciones diferenciales, análisis de circuitos eléctricos y sistemas mecánicos, así como el uso de un paquete computacional para simulación. Como resultado del aprendizaje, el estudiante genera modelos matemáticos de sistemas por medio de ecuaciones diferenciales y transformada de Laplace para obtener función de transferencia y modelo en el espacio de estados, analizando la respuesta transitoria y de estado estacionario de los modelos obtenidos y visualizar su interacción con otros elementos que conforman el sistema automático.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Modela el proceso a mejorar validando su comportamiento a través del análisis de sistemas dinámicos. - Aplica apropiadamente tecnologías mecánicas, electrónicas, de software y de control automático tomando en cuenta especificaciones."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "MR2005B",
+            "nombre": "Solución de problemas de procesos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0403A&lang=ES",
+            "nombreCompleto": "Solución de problemas de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SMR0403A",
+              "SIIT0303C",
+              "SIIT0402C",
+              "SIIT0302C",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SIIT0302C",
+              "SIIT0303C",
+              "SIIT0402C",
+              "SMR0403A",
+              "SEG0402A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica enfocado en el análisis y aplicación de sistemas de termofluidos e instrumentación en procesos industriales. Requiere conocimientos previos de termodinámica, materiales semiconductores, circuitos de diodos, transistores bipolares y transistores de efecto de campo. Como resultado el alumno aplica conocimientos de circuitos de electrónica analógica y amplificadores operacionales para instrumentar procesos de termofluidos.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Modela procesos industriales y propone soluciones de acuerdo a requerimientos funcionales."
+          },
+          {
+            "clave": "MR2006B",
+            "nombre": "Automatización industrial",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado MR2003B o Estar Cursando MR2003B ) y (Haber Cursado MR2004B o Estar Cursando MR2004B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0401B&lang=ES",
+            "nombreCompleto": "Automatización industrial",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SMR0401B",
+              "SMR0402A",
+              "SMR0302B",
+              "SEG0404A",
+              "SMR0102B"
+            ],
+            "competenciasEvaluan": [
+              "SMR0102B",
+              "SMR0302B",
+              "SMR0401B",
+              "SMR0402A",
+              "SEG0404A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica donde el alumno aplica y desarrolla tecnologías y herramientas electrónicas, de software y de control automático para la implementación de estrategias de automatización. Requiere conocimientos previos de programación, instrumentación electrónica y desarrollo de prototipos mecatrónicos. Como resultado el alumno integra dispositivos tales como sensores y actuadores, con elementos de control como controladores lógicos programables y microcontroladores, con el fin de automatizar procesos, sistemas y maquinaria con necesidades industriales específicas.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica apropiadamente tecnologías mecánicas, electrónicas, de software y de control automático tomando en cuenta especificaciones. - Diseña estrategias para automatizar procesos, sistemas y maquinaria utilizando herramientas de ingeniería. - Elabora investigación del estado de la técnica basándose en fuentes confiables para generar una propuesta de un sistema mecatrónico."
+          },
+          {
+            "clave": "MR2024",
+            "nombre": "Diseño mecatrónico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MR2022 y (Haber Cursado MR2004B o Estar Cursando MR2004B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0104B&lang=ES",
+            "nombreCompleto": "Diseño mecatrónico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SMR0104B",
+              "SMR0201A",
+              "SMR0202A",
+              "SIIT0401C",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SIIT0401C",
+              "SMR0104B",
+              "SMR0201A",
+              "SMR0202A",
+              "SEG0401A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica enfocado en el estudio de las metodologías y herramientas que se utilizan para el diseño y desarrollo de productos y procesos mecatrónicos. Requiere conocimientos previos de elementos de la mecatrónica e integración de sistemas mecatrónicos. Como resultado el alumno será capaz de seleccionar y aplicar metodologías de diseño mecatrónico en el diseño de productos y procesos, con base en requerimientos de funcionalidad, calidad y desempeño.",
+            "objetivo": "Al terminar la unidad de formación el alumno será capaz de seleccionar y aplicar metodologías de diseño mecatrónico en el diseño de productos y procesos a partir de la identificación de una necesidad."
+          },
+          {
+            "clave": "MR2025",
+            "nombre": "Diseño de sistemas de control",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MR2023",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0301B&lang=ES",
+            "nombreCompleto": "Diseño de sistemas de control",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SMR0301B",
+              "SMR0303B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica donde el alumno adquiere conocimientos y desarrolla habilidades en el diseño de sistemas de control automático con base en requerimientos de desempeño deseados. Requiere conocimientos previos de modelación y automatización de sistemas y procesos. Como resultado de aprendizaje el alumno resuelve problemas de control que requieren modelación de procesos con base en la fundamentación de control continuo y discreto, y demuestra sus competencias a través de un proyecto, documentado en un reporte escrito y efectuando una presentación oral.",
+            "objetivo": "Al terminar la unidad de formación el alumno modela el proceso a mejorar validando su comportamiento."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "MR2007B",
+            "nombre": "Automatización de sistemas de manufactura",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado MR2006B o Estar Cursando MR2006B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0103B&lang=ES",
+            "nombreCompleto": "Automatización de sistemas de manufactura",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SMR0103B",
+              "SMR0104C",
+              "SMR0201B",
+              "SMR0101C",
+              "SMR0202B",
+              "SMR0302C",
+              "SMR0304B"
+            ],
+            "competenciasEvaluan": [
+              "SMR0101C",
+              "SMR0103B",
+              "SMR0104C",
+              "SMR0201B",
+              "SMR0202B",
+              "SMR0302C",
+              "SMR0304B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica en donde el alumno desarrolla las habilidades para integrar e implementar una solución de automatización de un proceso industrial mediante el uso de herramientas tecnológicas de vanguardia, validando su viabilidad y funcionamiento. Requiere conocimientos previos de diseño mecatrónico, modelación de sistemas, teoría de control, robótica y automatización industrial. Como resultado el estudiante desarrolla un sistema industrial automatizado utilizando herramientas tecnológicas de diseño, simulación y dispositivos programables cumpliendo requerimientos de desempeño y calidad.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica apropiadamente tecnologías mecánicas, electrónicas, de software y de control automático tomando en cuenta especificaciones. - Selecciona metodológicamente los componentes de acuerdo a especificaciones técnicas. - Diseña estrategias para automatizar procesos, sistemas y maquinaria utilizando herramientas de ingeniería. - Analiza la interacción entre los componentes de un sistema mecatrónico tomando en cuenta la sinergia entre ellos."
+          },
+          {
+            "clave": "MR3001B",
+            "nombre": "Diseño y desarrollo de robots",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado MR2025 o Estar Cursando MR2025",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0102C&lang=ES",
+            "nombreCompleto": "Diseño y desarrollo de robots",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SMR0102C",
+              "SMR0301C",
+              "SMR0402B",
+              "SMR0403B",
+              "SMR0401C",
+              "SEG0403A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0403A",
+              "SMR0102C",
+              "SMR0301C",
+              "SMR0401C",
+              "SMR0402B",
+              "SMR0403B"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en ingeniería mecatrónica que permite al alumno identificar y resolver problemas de modelación y control de brazos robóticos, robots móviles y el desarrollo de sistemas de visión computacional. Requiere conocimientos previos de: Diseño mecatrónico, análisis de mecanismos, electrónica, teoría de control, álgebra lineal, análisis dinámico y programación. Como resultado del aprendizaje el alumno realiza el análisis cinemático y dinámico de robots manipuladores y móviles, así como la programación y control de trayectorias de robots, usando sistemas de visión y cumpliendo con las normas vigentes.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica apropiadamente tecnologías y metologías mecánicas, electrónicas, de software y de control automático tomando en cuenta especificaciones. - Modela el proceso a mejorar validando su comportamiento. - Genera propuestas innovadoras de un sistema mecatrónico de acuerdo a normas. - Evalúa la factibilidad técnica y económica del desarrollo tecnológico basado en restricciones."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "MR3002B",
+            "nombre": "Diseño e implementación de sistemas mecatrónicos",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado MR2007B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SMR0103C&lang=ES",
+            "nombreCompleto": "Diseño e implementación de sistemas mecatrónicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SMR0103C",
+              "SMR0201C",
+              "SMR0202C",
+              "SMR0303C",
+              "SMR0402C",
+              "SMR0403C",
+              "SMR0304C",
+              "SMR0401C",
+              "SIIT0302C",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SIIT0302C",
+              "SMR0103C",
+              "SMR0201C",
+              "SMR0202C",
+              "SMR0303C",
+              "SMR0304C",
+              "SMR0401C",
+              "SMR0402C",
+              "SMR0403C",
+              "SEG0202A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno el alumno es capaz de: - Proponer soluciones tecnológicas factibles y de vanguardia para resolver problemas industriales, sociales y ambientales. - Aplicar metodologías y herramientas tecnológicas para el diseño de sistemas mecatrónicos. - Validar propuestas de automatización garantizando calidad, seguridad y productividad. - Implementar propuestas de automatización utilizando tecnologías de vanguardia. - Elaborar investigación del estado de la técnica basándose en fuentes confiables para generar una propuesta de un sistema mecatrónico. - Generar propuestas innovadoras de un sistema mecatrónico de acuerdo a normas. - Evaluar la factibilidad técnica y económica del desarrollo tecnológico basado en restricciones."
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

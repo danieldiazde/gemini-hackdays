@@ -1,0 +1,189 @@
+{
+  "carreraClave": "CIS26",
+  "nombre": "Derecho, Economía y Relaciones Internacionales / Exploración",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [],
+  "perfilIngreso": "",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1005B",
+            "nombre": "Panorama macroeconómico de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Panorama macroeconómico de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir y entender las causas de problemas macroeconómicos a través de la aplicación de conceptos y teorías, y la utilización de estadísticas económicas de México. - Evaluar el impacto de las medidas de política fiscal, política monetaria y política cambiaria mediante la aplicación de modelos macroeconómicos a la economía mexicana. - Interpretar la información a partir de parámetros o procedimientos propios del contexto con base en la teoría económica."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1060",
+            "nombre": "Pensamiento matemático",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Pensamiento matemático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: MA1022",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Explicar el comportamiento de las variables de un modelo económico mediante la aplicación de herramientas matemáticas. - Plantear conclusiones fundamentadas en argumentos validados mediante el uso de modelos matemáticos."
+          },
+          {
+            "clave": "P1017",
+            "nombre": "Filosofía política",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Filosofía política",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Incorporar los valores de la democracia en acciones de interés ciudadano, utilizando las nociones analizadas en clase, aplicadas a situaciones contemporáneas, vigentes y cercanas a su realidad. - Vincular los problemas sociales con conceptos y teorías, a partir de documentar, discutir y examinar situaciones actuales, a la luz de la perspectiva filosófica y las diferentes corrientes recorridas a lo largo del curso."
+          },
+          {
+            "clave": "RI1003B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "requisitosDetalle": "Equivalencia: RI1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reconocer los problemas sociales globales especificando sus principales causas y consecuencias - Vincular los problemas sociales internacionales con conceptos y teorías básicos de las relaciones internacionales a través de la revisión de casos - Promover la participación incluyente y la diversidad de pensamiento mediante el diálogo, la escucha activa y la generación de acuerdos - Elaborar escritos como memorándums y ensayos cortos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados - Ser consciente de la responsabilidad cívica que implica ser un ciudadano del mundo considerando los diversos desafíos globales"
+          },
+          {
+            "clave": "SO1001",
+            "nombre": "Lógica y pensamiento científico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Lógica y pensamiento científico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Generar hipótesis para la explicación de fenómenos sociales mediante la revisión de literatura existente y la integración de diferentes enfoques teóricos - Valorar la credibilidad de las afirmaciones y argumentos utilizando métodos de evaluación crítica, verificación de fuentes y análisis lógico de la consistencia y coherencia de la información presentada - Identificar variables independientes, dependientes e intervinientes a través del análisis y lecturas de artículos científicos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1032",
+            "nombre": "Introducción a la ciencia jurídica y al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Introducción a la ciencia jurídica y al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer y comprender conceptos jurídicos fundamentales de manera analítica y crítica. - Distinguir entre ciencia jurídica y derecho a partir de sus implicaciones y alcances propios. - Vincular los problemas sociales con conceptos y teorías jurídicas a partir del análisis metódico. - Valorar la credibilidad de afirmaciones y argumentos en el contexto jurídico a través de las bases teórico jurídicas."
+          },
+          {
+            "clave": "EC1022",
+            "nombre": "Microeconomía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Aprobado MA1060",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Vincular los problemas sociales con conceptos y teorías económicas con base a los principios del análisis microeconómico. - Plantear conclusiones fundamentadas en argumentos validados con base en los principios del análisis microeconómico."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "SO1001B",
+            "nombre": "Analítica de datos sociales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Aprobado MA1060",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SO0001&lang=ES",
+            "nombreCompleto": "Analítica de datos sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "competenciasEvaluan": [
+              "S26SO0001",
+              "S26SO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar los supuestos teóricos de problemas sociales a través del planteamiento de hipótesis - Identificar variables independientes, dependientes e intervinientes a partir de la vinculación de los modelos teóricos y el análisis empírico de la información disponible - Generar hipótesis para la explicación de fenómenos sociales a partir del análisis de datos - Experimentar de forma iterativa con las alternativas de solución emprendedoras"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      }
+    ]
+  }
+}

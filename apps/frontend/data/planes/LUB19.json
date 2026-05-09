@@ -1,0 +1,1010 @@
+{
+  "carreraClave": "LUB19",
+  "nombre": "Licenciatura en Urbanismo",
+  "descripcionES": "Para acreditar las materias Tópico, el alumno puede elegir una de las siguientes opciones:",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "AR1002B",
+            "nombre": "Exploración en el hábitat: de la escala del elemento al territorio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0301A&lang=ES",
+            "nombreCompleto": "Exploración en el hábitat: de la escala del elemento al territorio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAMC0301A",
+              "SAMC0302A",
+              "SAMC0303A",
+              "SEG0201A",
+              "SEG0604A",
+              "SEG0101A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0301A",
+              "SAMC0302A",
+              "SAMC0303A",
+              "SEG0201A",
+              "SEG0101A",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Soluciona problemas de diferentes niveles de complejidad de sistemas ambientales y de infraestructura, aplicando diversas metodologías en condiciones controladas y de incertidumbre. - Identifica los principales elementos del entorno, analizando y valorando su organización, sus características e interacciones para interpretar los fenómenos, en diferentes escalas o ámbitos espaciales complejos. - Entiende las consecuencias de las interacciones del hombre con el entorno natural y el ambiente construido Interpreta la información recopilada del hábitat identificando sus problemas, actores e interacciones con un enfoque sistémico. - Interpreta la información recopilada del hábitat identificando sus problemas, actores e interacciones con un enfoque sistémico."
+          },
+          {
+            "clave": "AR1003B",
+            "nombre": "Modelación de la física en el ambiente construido",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0102A&lang=ES",
+            "nombreCompleto": "Modelación de la física en el ambiente construido",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SAMC0102A",
+              "SAMC0301A",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0102A",
+              "SAMC0301A",
+              "SEG0502A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1007B y AR1008B",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Aplica conceptos básicos del cálculo integral en problemas físicos en 3D como cálculo de áreas y volúmenes de cuerpos geométricos regulares. - Evalúa la respuesta de una estructura ante solicitaciones de cargas accidentales o gravitacionales. - Aplica criterios estructurales en la solución de proyectos arquitectónicos con base en métodos de análisis y cálculo para estructuras simples."
+          },
+          {
+            "clave": "CV1007",
+            "nombre": "Razonamiento basado en matemáticas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0101A&lang=ES",
+            "nombreCompleto": "Razonamiento basado en matemáticas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAMC0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0101A",
+              "SEG0502A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1047",
+            "objetivo": "Al terminar la unidad de formación, el alumno: Aplica el cálculo diferencial e integral para la resolución de problemas relacionados con el hábitat."
+          },
+          {
+            "clave": "CV1008",
+            "nombre": "Resolución de problemas con lógica computacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0201A&lang=ES",
+            "nombreCompleto": "Resolución de problemas con lógica computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SAMC0201A",
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0201A",
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1036",
+            "objetivo": "Al terminar la unidad de formación, el alumno: Utiliza software computacional para la solución numérica de problemas y análisis de datos que facilitan la toma de decisiones relacionados con el hábitat."
+          },
+          {
+            "clave": "CV1009",
+            "nombre": "Análisis químico del ambiente y de los materiales de construcción",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0102A&lang=ES",
+            "nombreCompleto": "Análisis químico del ambiente y de los materiales de construcción",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SAMC0102A",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: Aplica principios de física y química para la resolución de problemas relacionados con materiales, procesos constructivos y ambientales."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AR1004B",
+            "nombre": "Modelación y representación gráfica de un edificio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado AR1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0202A&lang=ES",
+            "nombreCompleto": "Modelación y representación gráfica de un edificio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAMC0202A",
+              "SAMC0203A",
+              "SAR0201A",
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR2054 ; CV1001B",
+            "objetivo": "Al terminar la unidad de formación, el alumno utiliza de manera reflexiva y crítica las tecnologías de representación gráfica del ambiente construido que facilite la comunicación y comprensión de los proyectos de construcción."
+          },
+          {
+            "clave": "AR1005B",
+            "nombre": "Modelación y representación gráfica de tu campus con topografía",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado AR1004B o Estar Cursando AR1004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0202A&lang=ES",
+            "nombreCompleto": "Modelación y representación gráfica de tu campus con topografía",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAMC0202A",
+              "SAMC0203A",
+              "SAR0101A",
+              "SCV0101A",
+              "SEG0603A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0202A",
+              "SAMC0203A",
+              "SAR0101A",
+              "SCV0101A",
+              "SEG0603A"
+            ],
+            "requisitosDetalle": "Equivalencia: CV1002B",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Obtiene información y conocimientos que mejoran las condiciones de estudio y estancia de las personas que conviven en el campus, utilizando las tecnologías de información y las comunicaciones. - Obtiene información de distintas fuentes con el fin de organizar, definir y fundamentar científicamente los proyectos de modelación y representación gráfica de la topografía del campus. - Representa de manera inventiva conceptos y proyectos arquitectónicos para el campus, con base en los estándares de la disciplina. - Modela gráficamente un espacio común de servicio, aplicando las ciencias básicas y herramientas de topografía, considerando el abastecimiento de servicios básicos."
+          },
+          {
+            "clave": "AR1006B",
+            "nombre": "Modelación y representación gráfica de tu entorno con geomática",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0202A&lang=ES",
+            "nombreCompleto": "Modelación y representación gráfica de tu entorno con geomática",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAMC0202A",
+              "SAMC0203A",
+              "SAR0101A",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0202A",
+              "SAMC0203A",
+              "SAR0101A",
+              "SEG0404A"
+            ],
+            "requisitosDetalle": "Equivalencia: CV1003B",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Obtiene información y conocimientos que mejoran las condiciones de vida de las personas, utilizando las tecnologías de información y las comunicaciones. - Obtiene información de distintas fuentes con el fin de organizar, definir y fundamentar científicamente los proyectos del ambiente construido de su entorno. - Representa de manera inventiva conceptos y proyectos arquitectónicos de su entorno, con base en los estándares de la disciplina. - Modela el territorio a través de sistemas de información geográfica como herramienta de análisis espacial multidisciplinario, para la definición de problemas en el desarrollo de obras de infraestructura."
+          },
+          {
+            "clave": "CV1010",
+            "nombre": "Fundamentos de geología aplicada al ambiente construido",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado AR1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0301A&lang=ES",
+            "nombreCompleto": "Fundamentos de geología aplicada al ambiente construido",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SAMC0301A",
+              "SAMC0302A",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: Comprende las consecuencias e implicaciones de las interacciones del ser humano entre el medio físico construido y el medio físico natural en términos de las características geológicas del suelo."
+          },
+          {
+            "clave": "CV1011",
+            "nombre": "Evaluación del impacto ambiental de proyectos territoriales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado AR1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0401A&lang=ES",
+            "nombreCompleto": "Evaluación del impacto ambiental de proyectos territoriales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SAMC0401A",
+              "SAMC0402A",
+              "SAMC0403A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0401A",
+              "SAMC0402A",
+              "SAMC0403A",
+              "SEG0502A",
+              "SEG0503A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Integra una aproximación de economía ecológica para la solución de problemas relacionados con el entorno. - Evalúa el impacto ambiental de proyectos territoriales aplicando las metodologías y regulaciones ambientales vigentes a nivel municipal, estatal y nacional según aplique al contexto. - Caracteriza los servicios ambientales en la escala territorial del proyecto."
+          },
+          {
+            "clave": "CV1012",
+            "nombre": "Aplicación de métodos numéricos al ambiente construido",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado CV1007 y Haber Cursado CV1008",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0101B&lang=ES",
+            "nombreCompleto": "Aplicación de métodos numéricos al ambiente construido",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SAMC0101B",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0101B",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno establece el modelo matemático de un fenómeno físico relacionado a ambiente construido usando conceptos de cálculo diferencial e integral."
+          },
+          {
+            "clave": "CV1013",
+            "nombre": "Análisis de fenómenos naturales y sociales con probabilidad y estadística",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado CV1007",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAMC0103A&lang=ES",
+            "nombreCompleto": "Análisis de fenómenos naturales y sociales con probabilidad y estadística",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SAMC0103A",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SAMC0103A",
+              "SEG0502A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1048",
+            "objetivo": "Al terminar la unidad de formación, el alumno utiliza principios de estadística y probabilidad para la resolución de problemas relacionados con el hábitat."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "AR2001B",
+            "nombre": "Diagnóstico territorial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado AR1006B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0101B&lang=ES",
+            "nombreCompleto": "Diagnóstico territorial",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0101B",
+              "SAR0302A",
+              "SEG0603A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno obtenga un primer panorama de la labor del urbanista como analista e integrador de información. Requiere manejo básico de Sistemas de Información Geográfica. Como resultado de aprendizaje el alumno realiza un diagnóstico territorial de mediana complejidad.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Elabora diagnósticos territoriales con base en el análisis de las condiciones del entorno. - Define la visión de futuro con base en el diagnóstico de funcionamiento del territorio."
+          },
+          {
+            "clave": "AR2003B",
+            "nombre": "Ecobarrio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "(Haber Cursado CV1011 ) y (Haber Cursado AR1004B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0301A&lang=ES",
+            "nombreCompleto": "Ecobarrio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0301A",
+              "SAR0505A",
+              "SAR0501A",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0301A",
+              "SAR0501A",
+              "SAR0505A",
+              "SEG0402A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno aborde sistémicamente la sostenibilidad urbana para obtener un primer panorama de la labor del urbanista como planificador y diseñador. No requiere conocimientos previos. Como resultado del aprendizaje el alumno genera propuestas conceptuales de transformación de un barrio utilizando principios de sostenibilidad y diseño regenerativo, a través de planes maestros conceptuales, diagramas y reportes.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Diseña proyectos urbanísticos y de espacio público atendiendo los requerimientos necesarios para la creación de un ecobarrio. - Desarrolla proyectos territoriales de inversión disminuyendo costos económicos, sociales y ambientales. - Proyecta infraestructura que permite minimizar el impacto sociales, económico y ambiental del territorio. - Planifica el proyecto de acuerdo a los alcances y requerimientos."
+          },
+          {
+            "clave": "AR2037",
+            "nombre": "Derecho Urbano",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0701A&lang=ES",
+            "nombreCompleto": "Derecho Urbano",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SAR0701A",
+              "SEG0403A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0701A",
+              "SEG0403A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno conozca y genere instrumentos de gestión del desarrollo territorial con base en el marco normativo y principios de sostenibilidad. No requiere conocimientos previos. Como resultado del aprendizaje el alumno genera un documento comparativo y con visión crítica de la legislación y el andamiaje jurídico aplicado a las ciudades mexicanas.",
+            "objetivo": "Al terminar la unidad de formación, el alumno tiene las bases para entender el marco legal inherente al desarrollo de las ciudades en México."
+          },
+          {
+            "clave": "BT2027",
+            "nombre": "Ecología urbana",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado CV1011",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0301A&lang=ES",
+            "nombreCompleto": "Ecología urbana",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0301A",
+              "SAR0302A",
+              "SEG0404A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno identifique estrategias de regeneración del hábitat que eleven la calidad de vida. No requiere conocimientos previos. Como resultado del aprendizaje el alumno genera un documento con propuestas territoriales de regeneración y mitigación a los riesgos de salud e impactos antropogénicos y puntos de acción estratégica.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Aplica estándares, normas y principios de sustentabilidad en la solución de problemas relacionados con el entorno natural y construido, con una visión sistémica. - Aporta soluciones de regeneración tomando en cuenta la ecología. - Propone puntos de acción estratégica hacia la regeneración territorial fundamentados en el análisis sistémico. - Elabora propuestas territoriales que aporten una resiliencia para el entorno, ante los desafíos medioambientales. - Propone estrategias que mitiguen los riesgos de salud e impactos antropogénicos."
+          },
+          {
+            "clave": "CV2041",
+            "nombre": "Infraestructura urbana",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0505A&lang=ES",
+            "nombreCompleto": "Infraestructura urbana",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SAR0505A",
+              "SAR0703A",
+              "SEG0501A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno proyecte infraestructura adecuada a la escala territorial e identifique algunos de los principios de sostenibilidad según el objetivo y la función que deba cumplir dicha infraestructura. Requiere manejo básico de Sistemas de Información Geográfica. Como resultado del aprendizaje el alumno desarrolla un diagnóstico de la infraestructura existente en la zona y un anteproyecto con los requerimientos de infraestructura y equipamiento para la escala territorial del proyecto.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Aplica los principios del desarrollo sostenible, en el diseño de proyectos urbanísticos y de espacio público. - Desarrolla proyectos territoriales de inversión con base en criterios de costo-beneficios económico, sociales y ambientales; utilizando metodologías de administración de proyectos."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "AR2005B",
+            "nombre": "Ciudades competitivas: Innovación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0502B&lang=ES",
+            "nombreCompleto": "Ciudades competitivas: Innovación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0502B",
+              "SAR0503A",
+              "SAR0504A",
+              "SAR0102B",
+              "SEG0201B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno diseñe proyectos urbanos y de espacio público con base en un diagnóstico, considerando de manera crítica conceptos de sostenibilidad. Requiere conocimientos previos de diagnóstico territorial y manejo de SIG. Como resultado del aprendizaje el alumno genera un documento con una propuesta de diseño urbano con base en el diagnóstico de la zona y considerando los principios del desarrollo sostenible, proyección de infraestructura y habilitación de proyectos territoriales mediante estrategias de socialización y apropiación.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Analiza las capacidades de innovación dentro de un territorio determinado. - Define visión de futuro con base en la incorporación de tecnologías de vanguardia y promoviendo transformaciones socioeconómicas en beneficio de la población. - Selecciona alternativas de solución con base en una visión innovadora de futuro. - Diseña planes maestros de desarrollo sostenible considerando la innovación social y económica. - Diseña proyectos urbanísticos y de espacio público incorporando tecnologías de la información y métodos innovadores de diseño. - Proyecta infraestructura sostenible de acuerdo a principios de innovación y desarrollo. - Habilita proyectos territoriales mediante estrategias de innovación y desarrollo."
+          },
+          {
+            "clave": "AR2006B",
+            "nombre": "Ciudades competitivas: Movilidad",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado CV1013",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0103B&lang=ES",
+            "nombreCompleto": "Ciudades competitivas: Movilidad",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0103B",
+              "SAR0501B",
+              "SAR0505B",
+              "SAR0702A",
+              "SEG0501A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno desarrolle alternativas de solución, en un entorno barrial, distrital o regional de mediana complejidad, considerando sistémicamente todos los factores ambientales, sociales y económicos que influyen en la visión territorial de futuro. Requiere conocimientos previos de diagnóstico territorial y manejo de SIG. Como resultado del aprendizaje el alumno desarrolla una propuesta de transporte y movilidad urbana basada en un diagnóstico urbano y considerando los principios del desarrollo sostenible y el proyecto de infraestructura.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Elabora diagnósticos de movilidad urbana con base en el análisis de las condiciones del territorio. - Define la visión de futuro con base en el diagnóstico de movilidad urbana del territorio. - Selecciona alternativas de solución movilidad urbana con base en la visión de futuro. - Diseña planes maestros de movilidad sostenible considerando las diferentes escalas territoriales. - Diseña proyectos urbanísticos de transporte y movilidad urbana con base en los principios del desarrollo sostenible. - Proyecta infraestructura de transporte y movilidad urbana acuerdo a las necesidades sociales, económicas y ambientales del territorio. - Habilita proyectos de transporte y movilidad urbana mediante estrategias de socialización y apropiación."
+          },
+          {
+            "clave": "AR2010B",
+            "nombre": "Ciudades competitivas: Calidad de vida",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0303A&lang=ES",
+            "nombreCompleto": "Ciudades competitivas: Calidad de vida",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0303A",
+              "SAR0502A",
+              "SAR0304A",
+              "SAR0101C",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0101C",
+              "SAR0303A",
+              "SAR0304A",
+              "SAR0502A",
+              "SEG0401A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno elabore diagnósticos territoriales analizando las condiciones del entorno bajo un enfoque sistémico en un entorno barrial, distrital o regional de alta complejidad y haciendo uso de técnicas de prospectiva. Requiere conocimientos previos de diagnóstico territorial y manejo de SIG. Como resultado del aprendizaje el alumno desarrolla una propuesta de diagnóstico territorial donde se identifiquen elementos del territorio que inciden en la calidad de vida de sus habitantes, considere una visión de futuro que promueva el bienestar y proponga alternativas de solución a los problemas territoriales relacionados con la calidad de vida.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Elabora diagnósticos territoriales con base en la identificación de los elementos del territorio que inciden en la calidad de vida de sus habitantes. - Define visión de futuro con base a objetivos que promueven el bienestar y desarrollo de los habitantes de un territorio. - Selecciona alternativas de solución a problemas territoriales relacionados con la calidad de vida. - Diseña planes maestros de desarrollo sostenible considerando los diferentes aspectos que inciden sobre la calidad de vida en diversas escalas territoriales. - Diseña proyectos urbanísticos y de espacio público que facilitan el desarrollo social y el bienestar de los habitantes de un territorio. - Proyecta infraestructura urbana de acuerdo a las necesidades socioeconómicas del territorio. - Habilita proyectos territoriales de desarrollo social considerando la participación y apropiación de la sociedad."
+          },
+          {
+            "clave": "AR2038",
+            "nombre": "Ciudades del futuro",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0102A&lang=ES",
+            "nombreCompleto": "Ciudades del futuro",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0102A",
+              "SAR0103A",
+              "SEG0201A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0102A",
+              "SAR0103A",
+              "SEG0201A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno defina una visión de futuro basada en el diagnóstico de funcionamiento del territorio a partir de la identificación de sus problemas actuales y relevantes. Requiere nociones de prospectiva. Como resultado del aprendizaje el alumno genera un documento con análisis sistémico y critico donde se identifican las diferentes etapas de evolución de las ciudades para definir la visión de futuro en base al diagnóstico del territorio, del contexto social y económico y las grandes tendencias internacionales.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Identificará las diferentes etapas de evolución de las ciudades para definir la visión de futuro en base al diagnóstico del territorio, del contexto social y económico y las grandes tendencias internacionales. - Desarrolla un pensamiento crítico y propone alternativas de solución con base a la visión a futuro."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "AR3001B",
+            "nombre": "Metrópolis sostenible: Mitigación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0301C&lang=ES",
+            "nombreCompleto": "Metrópolis sostenible: Mitigación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0301C",
+              "SAR0501C",
+              "SAR0505C",
+              "SAR0304B",
+              "SEG0404B"
+            ],
+            "competenciasEvaluan": [
+              "SAR0301C",
+              "SAR0304B",
+              "SAR0501C",
+              "SAR0505C",
+              "SEG0404B"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en el área de urbanismo que tiene la intención que el alumno diseñe planes maestros urbanos de desarrollo sostenible considerando las diferentes escalas territoriales y la mitigación de riesgos. Requiere conocimientos previos de CAD nivel básico, representación gráfica de planos y diagramas. Como resultado del aprendizaje el alumno diseñe planes maestros urbanos de desarrollo sostenible considerando las diferentes escalas territoriales y la mitigación de riesgos.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Selecciona alternativas de solución con base en la visión de futuro capaces de mitigar los impactos generados. - Integra la ecología en las soluciones de regeneración y en la toma de decisiones territoriales, mitigando los impactos causados en su entorno. - Propone puntos de acción estratégica hacia la regeneración territorial fundamentados en el análisis sistémico que tengan un enfoque hacia la mitigación de su entorno. - Propone estrategias de regeneración que mitiguen los riesgos a la salud e impactos antropogénicos. - Diseña planes maestros de desarrollo sostenible considerando las diferentes escalas territoriales y la mitigación de riesgos. - Diseña proyectos urbanísticos y de espacio público con base en los principios del desarrollo sostenible y enfocados en la mitigación de riesgos en su entorno. - Desarrolla proyectos ejecutivos urbanísticos conforme a los criterios técnicos y normativos aplicables para la mitigación de riesgos. - Desarrolla proyectos territoriales de inversión con base en criterios de costo-beneficios económico, sociales y ambientales donde se considere la mitigación de riesgos. - Proyecta infraestructura de acuerdo a las necesidades sociales, económicas y ambientales del territorio para mitigar los riesgos de su entorno."
+          },
+          {
+            "clave": "AR3002B",
+            "nombre": "Metrópolis sostenible: Resiliencia",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0302C&lang=ES",
+            "nombreCompleto": "Metrópolis sostenible: Resiliencia",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0302C",
+              "SAR0502C",
+              "SAR0503B",
+              "SAR0303C",
+              "SEG0702B"
+            ],
+            "competenciasEvaluan": [
+              "SAR0302C",
+              "SAR0303C",
+              "SAR0502C",
+              "SAR0503B",
+              "SEG0702B"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en el área de urbanismo que tiene la intención que el alumno realice propuestas territoriales resilientes a través de planes maestros, proyectos de infraestructura, de espacio público y otros proyectos urbanos. Requiere conocimientos previos de CAD nivel básico, representación gráfica de planos y diagramas. Como resultado del aprendizaje el alumno elabora un plan maestro urbano, y se diseñan proyectos urbanos, de infraestructura y de espacio público, considerando los criterios técnicos y normativos aplicables.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Selecciona alternativas resilientes de solución con base en la visión de futuro. - Integra la ecología en las soluciones de regeneración y en la toma de decisiones territoriales para promover la resiliencia de las ciudades. - Propone puntos de acción estratégica y resiliente, hacia la regeneración territorial fundamentados en el análisis sistémico. - Elabora propuestas territoriales que incrementen la resiliencia del entorno ante los desafíos medioambientales. - Diseña planes maestros de desarrollo sostenible resiliente, considerando las diferentes escalas territoriales. - Diseña proyectos urbanísticos y de espacio público con base en los principios del desarrollo sostenible y que fomenten la resiliencia. - Desarrolla proyectos ejecutivos urbanísticos resilientes, conforme a los criterios técnicos y normativos aplicables. - Desarrolla proyectos territoriales resilientes de inversión con base en criterios de costo-beneficios económico, sociales y ambientales. - Proyecta infraestructura resiliente de acuerdo a las necesidades sociales, económicas y ambientales del territorio."
+          },
+          {
+            "clave": "AR3004B",
+            "nombre": "Metrópolis sostenible: Adaptación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0301B&lang=ES",
+            "nombreCompleto": "Metrópolis sostenible: Adaptación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAR0301B",
+              "SAR0302B",
+              "SAR0303B",
+              "SEG0502A"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en el área de urbanismo que tiene la intención que el alumno analice territorios en términos de riesgos y vulnerabilidad por causas naturales o antropogénicas. Requiere conocimientos básicos de CAD y representación gráfica de planos y diagramas. Como resultado del aprendizaje el alumno integra el análisis de sitio y conceptualiza propuestas urbanas que incrementen la resiliencia del territorio.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Selecciona alternativas de solución que se adapten a las diversas circunstancias que enfrentan los agentes involucrados en un entorno real con base en la visión de futuro. - Integra estrategias de adaptación de la ecología en las soluciones de regeneración y en la toma de decisiones territoriales. - Propone puntos de acción estratégica hacia la regeneración territorial fundamentados en el análisis sistémico que faciliten la adaptación. - Diseña planes maestros de desarrollo sostenible que se adapten a su contexto, considerando las diferentes escalas territoriales. - Diseña proyectos urbanísticos y de espacio público que se adapten a su contexto, con base en los principios del desarrollo sostenible. - Desarrolla proyectos ejecutivos urbanísticos que se adapten a su contexto, conforme a los criterios técnicos y normativos aplicables. - Desarrolla proyectos territoriales de inversión con base en criterios de costo-beneficios económico, sociales y ambientales que se adapten a las condiciones de su entorno. - Proyecta infraestructura de acuerdo a las necesidades sociales, económicas y ambientales del territorio adaptable para cada entorno."
+          },
+          {
+            "clave": "EC2033",
+            "nombre": "Economía urbana",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0102B&lang=ES",
+            "nombreCompleto": "Economía urbana",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAR0102B",
+              "SAR0504B",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SAR0102B",
+              "SAR0504B",
+              "SEG0202A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en el área de urbanismo que tiene la intención que el alumno prospecte escenarios territoriales funcionales, a partir del análisis sistémico de los retos futuros del territorio. Se aborda la gestión de proyectos del hábitat, utilizando herramientas de análisis territorial y políticas públicas con equipos transdisciplinarios. No requiere conocimientos previos. Como resultado del aprendizaje el alumno elabora escenarios tendenciales y de prospectiva urbana.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Prospecta escenarios territoriales funcionales, a partir del análisis sistémico de los retos futuros del territorio. - Gestiona proyectos del hábitat, utilizando herramientas de análisis territorial y políticas públicas con equipos transdisciplinarios. - Proyecta infraestructura de acuerdo a las necesidades sociales, económicas y ambientales del territorio."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "AR3003B",
+            "nombre": "Gestión y administración de proyectos territoriales de inversión",
+            "creditos": 18,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0503C&lang=ES",
+            "nombreCompleto": "Gestión y administración de proyectos territoriales de inversión",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 18,
+            "competenciasDesarrollan": [
+              "SAR0503C",
+              "SAR0701B",
+              "SAR0703B",
+              "SAR0504C",
+              "SEG0501C"
+            ],
+            "competenciasEvaluan": [
+              "SAR0503C",
+              "SAR0504C",
+              "SAR0701B",
+              "SAR0703B",
+              "SEG0501C"
+            ],
+            "descripcion": "Es un curso de nivel avanzado en el área de urbanismo que tiene la intención de desarrollar y ejecutar proyectos territoriales de inversión, conforme a los criterios técnicos y normativos aplicables, así como generar instrumentos innovadores para la gestión del desarrollo territorial con base en el marco normativo y principios de sostenibilidad. Requiere conocimientos previos de diagnóstico territorial. Como resultado del aprendizaje el estudiante es capaz de evaluar, diseñar y aplicar los instrumentos urbanos adecuados a cada proyecto, así como de gestionar la ejecución del proyecto territorial.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Desarrolla proyectos ejecutivos urbanísticos conforme a los criterios técnicos y normativos aplicables. - Desarrolla proyectos territoriales de inversión con base en criterios de costo-beneficios económico, sociales y ambientales. - Genera instrumentos innovadores para la gestión del desarrollo territorial con base en el marco normativo y principios de sostenibilidad. - Habilita proyectos territoriales mediante estrategias de socialización y apropiación. - Ejecuta los proyectos territoriales utilizando metodologías de administración de proyectos."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "AR3005B",
+            "nombre": "Ciudades emergentes",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0303C&lang=ES",
+            "nombreCompleto": "Ciudades emergentes",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SAR0303C",
+              "SAR0504C",
+              "SAR0703C",
+              "SEG0403C"
+            ],
+            "competenciasEvaluan": [
+              "SAR0303C",
+              "SAR0504C",
+              "SAR0703C",
+              "SEG0403C"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Integra la ecología en las soluciones de regeneración y en la toma de decisiones territoriales. - Diseña planes territoriales de desarrollo sostenible considerando las diferentes escalas territoriales. - Diseña proyectos urbanísticos y de espacio público para ciudades emergentes, con base en los principios del desarrollo sostenible."
+          },
+          {
+            "clave": "AR3006B",
+            "nombre": "Complejidad y debate",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAR0101C&lang=ES",
+            "nombreCompleto": "Complejidad y debate",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SAR0101C",
+              "SAR0102C",
+              "SAR0103C",
+              "SAR0702C",
+              "SEG0303C"
+            ],
+            "competenciasEvaluan": [
+              "SAR0101C",
+              "SAR0102C",
+              "SAR0103C",
+              "SAR0702C",
+              "SEG0303C"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Analiza las condiciones del entorno y genera un diagnóstico del territorio. - Elabora un diagnóstico del funcionamiento del territorio para definir una visión de futuro. - Selecciona alternativas de solución con base en la visión de futuro. - Diseña proyectos urbanísticos y de espacio público con base en los principios del desarrollo sostenible."
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

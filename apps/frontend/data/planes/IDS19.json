@@ -1,0 +1,1244 @@
+{
+  "carreraClave": "IDS19",
+  "nombre": "Ingeniería en Desarrollo Sustentable",
+  "descripcionES": "La opción seleccionada por el alumno debe ser autorizada por su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "F1001B",
+            "nombre": "Modelación de la ingeniería y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0402A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería y ciencias",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SING0402A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1003B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "F1002B",
+            "nombre": "Modelación del movimiento en bioingeniería y procesos químicos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0101A&lang=ES",
+            "nombreCompleto": "Modelación del movimiento en bioingeniería y procesos químicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIBQ0101A",
+              "SIBQ0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1004B ; F1006B ; F1008B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas químicos y biológicos por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación del movimiento en bioingeniería y procesos químicos. - Demuestra el funcionamiento de sistemas químicos y biológicos mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación del movimiento en bioingeniería y procesos químicos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas químicos y biológicos a través de la modelación del movimiento en bioingeniería y procesos químicos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación mediante la modelación del movimiento en bioingeniería y procesos químicos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida a través de la modelación del movimiento en bioingeniería y procesos químicos."
+          },
+          {
+            "clave": "F1003B",
+            "nombre": "Aplicación de las leyes de conservación en ingeniería de procesos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Estar Cursando F1002B o Haber Cursado F1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0303A&lang=ES",
+            "nombreCompleto": "Aplicación de las leyes de conservación en ingeniería de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIBQ0303A",
+              "SIBQ0102A",
+              "SEG0602A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1005B ; F1007B ; F1009B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas químicos y biológicos por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el funcionamiento de sistemas químicos y biológicos mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas químicos y biológicos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "MA1028",
+            "nombre": "Modelación matemática fundamental",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101A&lang=ES",
+            "nombreCompleto": "Modelación matemática fundamental",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0101A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "Q1019",
+            "nombre": "Análisis de la estructura, propiedades y transformación de la materia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 6,
+            "horasAuto": 2,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0301A&lang=ES",
+            "nombreCompleto": "Análisis de la estructura, propiedades y transformación de la materia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 6,
+            "aDetalle": 2,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SIIT0301A",
+              "SIIT0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SIIT0101A",
+              "SIIT0301A"
+            ],
+            "requisitosDetalle": "Equivalencia: Q1028 y Q1029",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "TC1028",
+            "nombre": "Pensamiento computacional para ingeniería",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0401A&lang=ES",
+            "nombreCompleto": "Pensamiento computacional para ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0401A",
+              "SING0301A",
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0702A",
+              "SING0301A",
+              "SING0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1037",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base en metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "F1008",
+            "nombre": "Experimentación física y pensamiento estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1003B o Haber Cursado F1005B o Haber Cursado F1007B o Haber Cursado F1009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0102A&lang=ES",
+            "nombreCompleto": "Experimentación física y pensamiento estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0102A",
+              "SING0203A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0102A",
+              "SING0203A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          },
+          {
+            "clave": "F1010B",
+            "nombre": "Aplicación de la termodinámica en ingeniería de procesos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0301A&lang=ES",
+            "nombreCompleto": "Aplicación de la termodinámica en ingeniería de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIBQ0301A",
+              "SIBQ0101B",
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1028B ; F1015B ; F1018B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas químicos y biológicos por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación termodinámica en bioingeniería y procesos químicos. - Demuestra el funcionamiento de sistemas químicos y biológicos mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación termodinámica en bioingeniería y procesos químicos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas químicos y biológicos a través de la modelación termodinámica en bioingeniería y procesos químicos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación a través de la modelación termodinámica en bioingeniería y procesos químicos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida mediante la modelación termodinámica en bioingeniería y procesos químicos."
+          },
+          {
+            "clave": "F1011B",
+            "nombre": "Análisis de sistemas eléctricos en ingeniería de procesos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1003B o Estar Cursando F1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0302A&lang=ES",
+            "nombreCompleto": "Análisis de sistemas eléctricos en ingeniería de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIBQ0302A",
+              "SIBQ0301A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SIBQ0301A",
+              "SIBQ0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1016B ; F1013B ; F1019B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas químicos y biológicos por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación de sistemas eléctricos en bioingeniería y procesos químicos. - Demuestra el funcionamiento de sistemas químicos y biológicos mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación de sistemas eléctricos en bioingeniería y procesos químicos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas químicos y biológicos a través de la modelación de sistemas eléctricos en bioingeniería y procesos químicos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación mediante la modelación de sistemas eléctricos en bioingeniería y procesos químicos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida a través de la modelación de sistemas eléctricos en bioingeniería y procesos químicos."
+          },
+          {
+            "clave": "F1012B",
+            "nombre": "Análisis de sistemas electromagnéticos en ingeniería de procesos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1011B o Estar Cursando F1011B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0303A&lang=ES",
+            "nombreCompleto": "Análisis de sistemas electromagnéticos en ingeniería de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIBQ0303A",
+              "SIBQ0302A",
+              "SIBQ0102A",
+              "SEG0503A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1014B ; F1017B ; F1020B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas químicos y biológicos por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante la modelación de sistemas electromagnéticos en bioingeniería y procesos químicos. - Demuestra el funcionamiento de sistemas químicos y biológicos mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación de sistemas electromagnéticos en bioingeniería y procesos químicos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas químicos y biológicos mediante la modelación de sistemas electromagnéticos en bioingeniería y procesos químicos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación a través de la modelación de sistemas electromagnéticos en bioingeniería y procesos químicos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida con el uso de la modelación de sistemas electromagnéticos en bioingeniería y procesos químicos."
+          },
+          {
+            "clave": "MA1029",
+            "nombre": "Modelación matemática intermedia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Modelación matemática intermedia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0301A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0603A",
+              "SING0101B",
+              "SING0301A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "Q1021",
+            "nombre": "Experimentación química y pensamiento estadístico fundamental",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado Q1019 o Haber Cursado Q1028 y Haber Cursado Q1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Experimentación química y pensamiento estadístico fundamental",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0201A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0101B",
+              "SING0201A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "Q1022",
+            "nombre": "Análisis de la transformación de la materia en procesos químicos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado Q1019",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0302A&lang=ES",
+            "nombreCompleto": "Análisis de la transformación de la materia en procesos químicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SIBQ0302A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas químicos y biológicos por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas químicos y biológicos."
+          },
+          {
+            "clave": "Q1023",
+            "nombre": "Experimentación química y pensamiento estadístico intermedio",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando Q1021 o Haber Cursado Q1021",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0203B&lang=ES",
+            "nombreCompleto": "Experimentación química y pensamiento estadístico intermedio",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SIBQ0203B",
+              "SIBQ0402A",
+              "SIBQ0201B",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SIBQ0201B",
+              "SIBQ0203B",
+              "SIBQ0402A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "DS1008",
+            "nombre": "Evaluación del capital natural y principios de sustentabilidad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0104A&lang=ES",
+            "nombreCompleto": "Evaluación del capital natural y principios de sustentabilidad",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDS0104A",
+              "SDS0301A",
+              "SDS0302A",
+              "SDS0303A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0104A",
+              "SDS0301A",
+              "SDS0302A",
+              "SDS0303A",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Evalúa la viabilidad técnica, económica, social y medioambiental del uso de recursos energéticos de acuerdo a los principios de sustentabilidad. - Evalúa la condición actual de los recursos naturales considerando su aprovechamiento sustentable. - Desarrolla alternativas de aprovechamiento de recursos naturales en un entorno particular. - Desarrolla modelos de negocios innovadores de adaptación y mitigación del cambio climático."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "IQ1001B",
+            "nombre": "Aplicación de la conservación de la materia en ingeniería de procesos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIQ0201A&lang=ES",
+            "nombreCompleto": "Aplicación de la conservación de la materia en ingeniería de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIQ0201A",
+              "SIBQ0302A",
+              "SIBQ0301A",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla un proceso de transformación de materias primas en productos de valor con base en una secuencia de procesos unitarios. - Aplica los principios de conservación de materia al análisis y mejora del uso de materiales en un proceso químico o biotecnológico."
+          },
+          {
+            "clave": "IQ1002B",
+            "nombre": "Aplicación de la conservación de la energía en ingeniería de procesos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Estar Cursando IQ1001B o Haber Cursado IQ1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIQ0201B&lang=ES",
+            "nombreCompleto": "Aplicación de la conservación de la energía en ingeniería de procesos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SIQ0201B",
+              "SIQ0202A",
+              "SIBQ0302B",
+              "SIBQ0301B",
+              "SEG0702A",
+              "SEG0201A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SEG0702A",
+              "SIBQ0301B",
+              "SIBQ0302B",
+              "SIQ0201B",
+              "SIQ0202A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica los principios de conservación de materia y energía al análisis y mejora del uso de materiales y energía en un proceso químico o biotecnológico. - Analiza un proceso químico o biotecnológico completo considerando los componentes del sistema y sus interacciones. - Aplica técnicas experimentales en la obtención de información de propiedades, parámetros y condiciones de operación relevantes en un proceso determinado"
+          },
+          {
+            "clave": "MA1035",
+            "nombre": "Modelación en ingeniería mediante sistemas dinámicos",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0302B&lang=ES",
+            "nombreCompleto": "Modelación en ingeniería mediante sistemas dinámicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SIIT0302B",
+              "SIIT0303B"
+            ],
+            "requisitosDetalle": "Equivalencia: MA2018",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "Q1026",
+            "nombre": "Análisis estructural de moléculas orgánicas y sus propiedades",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado Q1022",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIBQ0202A&lang=ES",
+            "nombreCompleto": "Análisis estructural de moléculas orgánicas y sus propiedades",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SIBQ0202A",
+              "SIBQ0101B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Comprende y explica la relación estructura-reactividad de moléculas orgánicas en diferentes condiciones y procesos, por medio de argumentaciones fundamentadas en los factores que intervienen en el comportamiento físico y químico de los compuestos orgánicos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con la estructura de compuestos orgánicos y su transformación. - Reconoce la importancia de los compuestos orgánicos en el desarrollo de nuevos materiales y en el entendimiento de procesos biológicos teniendo como base su impacto en el medio ambiente y crecimiento económico."
+          },
+          {
+            "clave": "TE1020",
+            "nombre": "Análisis de circuitos eléctricos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1016B o Haber Cursado F1011B o Haber Cursado F1013B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SIIT0301B&lang=ES",
+            "nombreCompleto": "Análisis de circuitos eléctricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SIIT0301B",
+              "SIIT0101B"
+            ],
+            "requisitosDetalle": "Equivalencia: E1005 ; TE1019",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación mediante el análisis de circuitos eléctricos. - Demuestra el funcionamiento de sistemas y dispositivos ingenieriles mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través del análisis de circuitos eléctricos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispositivos ingenieriles a través del análisis de circuitos eléctricos."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "DS2002B",
+            "nombre": "Implementación de programas de manejo de recursos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado DS1008",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0301B&lang=ES",
+            "nombreCompleto": "Implementación de programas de manejo de recursos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDS0301B",
+              "SDS0301C",
+              "SDS0302B",
+              "SDS0302C",
+              "SDS0303B",
+              "SIBQ0401B",
+              "SIBQ0402B",
+              "SEG0102A",
+              "SEG0101A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0301B",
+              "SDS0301C",
+              "SDS0302B",
+              "SDS0302C",
+              "SDS0303B",
+              "SIBQ0401B",
+              "SIBQ0402B",
+              "SEG0101A",
+              "SEG0102A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se presentan y discuten los impactos que tiene un manejo incorrecto de los recursos sobre el cambio climático y los ecosistemas. Requiere conocimientos previos de matemáticas básicas. Como resultado el alumno propone estrategias para el manejo sostenible de los recursos naturales, así como estrategias de mitigación y adaptación de los sistemas como apoyo a la sustentabilidad.",
+            "objetivo": "- Evalúa la condición actual de los recursos naturales considerando su aprovechamiento sustentable. - Desarrolla alternativas de aprovechamiento de recursos naturales en un entorno particular. - Desarrolla modelos de negocios innovadores de adaptación y mitigación del cambio climático."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "IQ2001B",
+            "nombre": "Integración de procesos energéticos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TE1020",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0101B&lang=ES",
+            "nombreCompleto": "Integración de procesos energéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDS0101B",
+              "SIBQ0301B",
+              "SIBQ0201B",
+              "SIBQ0202B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se conceptualiza y realiza el análisis de circuitos eléctricos en corriente alterna (AC), aplicada en Sistemas Eléctricos de Potencia, incluyendo la administración, el monitoreo y evaluación de la calidad de la energía. Construcción de aprendizajes conceptuales básicos en el área de la electrónica de potencia, sus principales componentes y su aplicación dentro de los Sistemas Eléctricos de Potencia. Requiere conocimientos previos de matemáticas básicas, y conceptos básicos de análisis de circuitos eléctricos. Como resultado el alumno identifica las etapas de un proceso energético, determina las variables críticas para su monitoreo, analiza los datos, y realiza propuestas de mejora energética con una justificación basada en un análisis económico y de impacto ambiental.",
+            "objetivo": "Al terminar la unidad de formación el alumno selecciona las operaciones unitarias y componentes que integran un proceso energético considerando las necesidades y restricciones del entorno."
+          },
+          {
+            "clave": "IQ2002B",
+            "nombre": "Dimensionamiento de procesos energéticos",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado IQ2009 o Estar Cursando IQ2009 ) y (Haber Cursado IQ2010 o Estar Cursando IQ2010 ) y (Haber Cursado IQ2011 o Estar Cursando IQ2011 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0101C&lang=ES",
+            "nombreCompleto": "Dimensionamiento de procesos energéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDS0101C",
+              "SDS0103A",
+              "SDS0104B",
+              "SIBQ0201C",
+              "SIBQ0301C",
+              "SIBQ0202B"
+            ],
+            "competenciasEvaluan": [
+              "SDS0101C",
+              "SDS0103A",
+              "SDS0104B",
+              "SIBQ0301C",
+              "SIBQ0202B",
+              "SIBQ0201C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se dimensionan sistemas térmicos para la generación de energía de manera integral, considerando elementos técnicos, económicos, ambientales y sociales. Requiere conocimientos previos de balances de energía, termodinámica y mecánica de fluidos. Como resultado el alumno selecciona los equipos que integran un sistema térmico y los puede dimensionar de forma básica. Además, es capaz de establecer las variables que le permitan medir el desempeño del sistema y evaluar de forma básica económica, ambiental y socialmente sus propuestas.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Selecciona las operaciones unitarias y componentes que integran un proceso energético considerando las necesidades y restricciones del entorno. - Dimensiona los equipos y sistemas que integran el proceso energético con base en una demanda particular. - Estructura el sistema de evaluación del desempeño del proceso energético propuesto. - Evalúa la viabilidad técnica, económica, social y medioambiental del uso de recursos energéticos de acuerdo con los principios de sustentabilidad."
+          },
+          {
+            "clave": "IQ2009",
+            "nombre": "Análisis termodinámico de procesos energéticos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado IQ1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0101A&lang=ES",
+            "nombreCompleto": "Análisis termodinámico de procesos energéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDS0101A",
+              "SIBQ0102B",
+              "SIBQ0202B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se utiliza el análisis matemático, el pensamiento algorítmico y conocimientos de termodinámica (Primera y Segunda Ley) para solucionar problemas que involucran la transformación de energía en sustancias puras. Requiere conocimientos previos de cálculo multivariable diferencial e integral, química general y física. Como resultado del aprendizaje el alumno construye modelos matemáticos que expliquen las transformaciones de la energía en procesos industriales y máquinas térmicas.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Selecciona las operaciones unitarias y componentes que integran un proceso energético considerando las necesidades y restricciones del entorno. - Dimensiona los equipos y sistemas que integran el proceso energético con base en una demanda particular."
+          },
+          {
+            "clave": "IQ2010",
+            "nombre": "Diseño de procesos para el transporte de fluidos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado IQ1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0102A&lang=ES",
+            "nombreCompleto": "Diseño de procesos para el transporte de fluidos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDS0102A",
+              "SIBQ0102B",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0102A",
+              "SEG0302A",
+              "SIBQ0102B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se utilizar el análisis y pensamiento matemático para solucionar problemas relacionados con el transporte, almacenamiento y procesamiento de fluidos y sólidos en medios fluídicos en la industria y en situaciones relacionadas con el Desarrollo Sustentable. Requiere conocimientos previos de matemáticas básicas, métodos numéricos, física. Como resultado el alumno analiza situaciones, modela y resuelve problemas que involucren el transporte de fluidos compresibles e incompresibles.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina el consumo de energía mecánica, flujo de potencia, producción de potencia, requerimientos de condiciones de presión, características de superficie y dimensiones de conductos para el transporte de materiales en estado líquido, gas o utilizando fluidos como agente de transporte de materiales. - Dimensiona, especifica y diseña de equipo de procesamiento de materiales donde se ven implicados fluidos o mezclas que contienen fluido como medio continuo."
+          },
+          {
+            "clave": "IQ2011",
+            "nombre": "Diseño de procesos de transferencia de calor",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado IQ1002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0101B&lang=ES",
+            "nombreCompleto": "Diseño de procesos de transferencia de calor",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDS0101B",
+              "SDS0102B",
+              "SIBQ0101C",
+              "SIBQ0102B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se desarrolla el conocimiento base para comprender y manejar las operaciones de proceso relacionadas a los mecanismos de transferencia de calor y diseño de equipo de transferencia de calor. Requiere conocimientos previos de física, conservación de la materia y energía y ecuaciones diferenciales. Como resultado el alumno plantea y resuelve problemas usando número adimensionales y correlaciones empíricas para calcular coeficientes de transferencia de calor y propone dimensiones de un equipo o sistema de transferencia de calor para un proceso específico.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina consumo de energía térmica, flujos de calor, requerimientos de condiciones de temperatura, superficie, y dimensiones de equipo o sistemas para el transporte de calor donde se involucren materiales en estado sólido, líquido o gas, tanto en sistemas que operan de manera continua, semi-continua o por lotes. - Dimensiona, especifica y diseña equipo de intercambio de calor donde se ven implicados fluidos, mezclas de materiales o sólidos."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "IQ2003B",
+            "nombre": "Evaluación de procesos energéticos",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado IQ2002B o Estar Cursando IQ2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0102B&lang=ES",
+            "nombreCompleto": "Evaluación de procesos energéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SDS0102B",
+              "SDS0103B",
+              "SDS0104C",
+              "SIBQ0203B",
+              "SIBQ0302B",
+              "SIBQ0303B",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0102B",
+              "SDS0103B",
+              "SDS0104C",
+              "SIBQ0203B",
+              "SIBQ0302B",
+              "SIBQ0303B",
+              "SEG0404A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se evalua el impacto económico, ambiental y social de un sistema de generación de energía para una organización o socio comercial modelando dichos sistemas en contextos de mercados nacionales e internacionales. Requiere conocimientos previos de evaluación económica de proyectos energéticos, circuitos eléctricos de corriente alterna y termodinámica. Como resultado el alumno evalúa económica, técnica, ambiental y socialmente proyectos para generar energía y optimizarlos a través de software especializado. Además, realizar una planificación y administración de las etapas del proyecto.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Dimensiona los equipos y sistemas que integran el proceso energético con base en una demanda particular. - Estructura el sistema de evaluación del desempeño del proceso energético propuesto. - Evalúa la viabilidad técnica, económica, social y medioambiental del uso de recursos energéticos de acuerdo a los principios de sustentabilidad."
+          },
+          {
+            "clave": "IQ2004B",
+            "nombre": "Evaluación del desempeño energético de procesos industriales",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado IQ2002B o Estar Cursando IQ2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0102C&lang=ES",
+            "nombreCompleto": "Evaluación del desempeño energético de procesos industriales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SDS0102C",
+              "SDS0105A",
+              "SIBQ0102C",
+              "SEG0502B",
+              "SEG0503B"
+            ],
+            "competenciasEvaluan": [
+              "SDS0102C",
+              "SDS0105A",
+              "SEG0503B",
+              "SIBQ0102C",
+              "SEG0502B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se analizan ciclos termodinámicos que operan con fuentes de energía convencional, así como las condiciones de operación y principales equipos involucrados en el proceso considerando la normatividad para la evaluación y estimación de la eficiencia energética de estos procesos, procedimientos de operación y requerimientos de mantenimiento. Requiere conocimientos previos de balances de materia y energía, termodinámica, dimensionamiento de procesos energéticos, modelación y mecánica de fluidos. Como resultado el alumno evalúa el desempeño de una planta de generación de energía eléctrica a partir de gas natural, especificar los requerimientos de equipos y sistemas de seguridad para la generación eléctrica y definir procedimientos de operación de la misma.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Selecciona las operaciones unitarias y componentes que integran un proceso energético considerando las necesidades y restricciones del entorno. - Estructura el sistema de evaluación del desempeño del proceso energético propuesto. - Diseña estrategias de competitividad de las organizaciones con base en los lineamientos de política energética."
+          },
+          {
+            "clave": "IQ2012",
+            "nombre": "Aplicación de los principios de eficiencia energética",
+            "creditos": 2,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado IQ2001B y Haber Cursado IQ2009 y Haber Cursado IQ2011",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0203A&lang=ES",
+            "nombreCompleto": "Aplicación de los principios de eficiencia energética",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SDS0203A",
+              "SEG0301A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0203A",
+              "SEG0301A",
+              "SEG0401A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se analizan conceptualmente los temas relacionados con auditorías energéticas y programas de administración de la energía, sistemas eléctricos, procesos de generación de calor, Sistemas HVAC, uso eficiente de energía en edificios y almacenamiento de energía. Requiere conocimientos previos de circuitos eléctricos. Como resultado el alumno evalúa el desempeño energético o de eficiencia energética de sistemas eléctricos.",
+            "objetivo": "Al terminar la unidad de formación el alumno: -Aplica herramientas del análisis ingenieril haciendo eficiente el uso del recurso energético en procesos existentes."
+          },
+          {
+            "clave": "IQ2013",
+            "nombre": "Análisis de procesos y economía circular",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado DS1008 o Estar Cursando DS1008",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0201A&lang=ES",
+            "nombreCompleto": "Análisis de procesos y economía circular",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SDS0201A",
+              "SDS0202A",
+              "SIBQ0202C",
+              "SEG0201A"
+            ],
+            "requisitosDetalle": "Equivalencia: IQ1006",
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se desarrollan estrategias de economía circular, utilizando conceptos básicos de ingeniería. Requiere conocimientos previos de balance de materia y energía, recomendablemente metodologías de innovación. Como resultado el alumno diseña estrategias disruptivas basadas en los principios de economía circular que permitan minimizar impactos ambientales y sociales en procesos y productos de acuerdo con las leyes físicas y químicas aplicables.",
+            "objetivo": "Al terminar la unidad de formación el alumno identifica áreas de mejora en los productos y procesos productivos aplicando los principios de economía circular en su cadena de valor a través del análisis de alternativas de aprovechamiento y valorización de insumos energéticos, materia prima, productos y residuos y el uso de métodos de cuantificación de impactos medioambientales y de impactos sociales."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "DS2002",
+            "nombre": "Innovación de modelos de sustentabilidad corporativa",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado DS1008 o Estar Cursando DS1008",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0401A&lang=ES",
+            "nombreCompleto": "Innovación de modelos de sustentabilidad corporativa",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SDS0401A",
+              "SDS0401B",
+              "SDS0402A",
+              "SDS0402B",
+              "SDS0403A",
+              "SDS0403B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se aplican los conocimientos adquiridos de responsabilidad social corporativa y se profundiza en la relación entre el entorno corporativo con las ciencias ambientales y sociales, a través del análisis de herramientas de gestión y grupos de interés. Requiere conocimientos previos de gestión ambiental y economía. Como resultado el alumno aprende a gestionar herramientas de responsabilidad social corporativas y a implementar modelos de sustentabilidad en el entorno empresarial.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla modelos de sustentabilidad corporativa con base en estándares internacionales. - Gestiona los recursos tangibles e intangibles de sustentabilidad y resiliencia de las instituciones."
+          },
+          {
+            "clave": "IQ2005B",
+            "nombre": "Dimensionamiento avanzado y monitoreo de procesos energéticos",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado IQ2003B o Estar Cursando IQ2003B ) y (Haber Cursado IQ2004B o Estar Cursando IQ2004B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0103C&lang=ES",
+            "nombreCompleto": "Dimensionamiento avanzado y monitoreo de procesos energéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "SDS0103C",
+              "SDS0105B",
+              "SIBQ0302C",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0103C",
+              "SDS0105B",
+              "SIBQ0302C",
+              "SEG0701A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se identifican las áreas de una empresa donde se pueda reducir el consumo energético para cuantificar los beneficios económicos y el impacto ambiental de esta posible área de oportunidad. Requiere conocimientos previos de de circuitos eléctricos, física, cálculo diferencial e integral. Como resultado el alumno estima el consumo energético en un zona o área de operación que a su vez pueda abastecerse usando energías limpias mediante esquemas de abastecimiento aislado o interconectado.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Selecciona las operaciones unitarias y componentes que integran un proceso energético considerando las necesidades y restricciones del entorno. - Estructura el sistema de evaluación del desempeño del proceso energético propuesto. - Diseña estrategias de competitividad de las organizaciones con base en los lineamientos de política energética."
+          },
+          {
+            "clave": "IQ2006B",
+            "nombre": "Innovación de los procesos en su cadena de valor",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "(Haber Cursado IQ2002B o Estar Cursando IQ2002B ) y (Haber Cursado IQ2013 o Estar Cursando IQ2013 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0201C&lang=ES",
+            "nombreCompleto": "Innovación de los procesos en su cadena de valor",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SDS0201C",
+              "SDS0202C",
+              "SDS0203C",
+              "SIBQ0203C",
+              "SEG0403A",
+              "SEG0402A",
+              "SEG0501A",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0201C",
+              "SDS0202C",
+              "SDS0203C",
+              "SEG0403A",
+              "SIBQ0203C",
+              "SEG0501A",
+              "SEG0202A",
+              "SEG0402A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se utilizan herramientas de la ingeniería con el fin de analizar tecnologías eficientes para el aprovechamiento de residuos como fuente de energía y de recuperación de energía aplicando los principios de economía circular y sustentabilidad. Requiere conocimientos previos de balances de materia y energía, termodinámica, transferencia de calor, mecánica de fluidos y química básica. Como resultado el alumno desarrolla una propuesta de un proceso que involucre el aprovechamiento de residuos orgánicos como fuente de energía y de recuperación de energía aplicando los principios de economía circular y sustentabilidad.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Identifica áreas de mejora en los productos y procesos productivos aplicando los principios de economía circular en su cadena de valor. - Diseña alternativas de aprovechamiento y valorización de insumos energéticos, materia prima, productos y residuos favoreciendo la formación de ciclos. - Aplica herramientas del análisis ingenieril haciendo eficiente el uso del recurso energético en procesos existentes."
+          },
+          {
+            "clave": "IQ2014",
+            "nombre": "Mejora de procesos productivos aplicando principios de economía circular",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado IQ2013 o Estar Cursando IQ2013",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0201B&lang=ES",
+            "nombreCompleto": "Mejora de procesos productivos aplicando principios de economía circular",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SDS0201B",
+              "SDS0202B",
+              "SDS0203B",
+              "SEG0201A"
+            ],
+            "requisitosDetalle": "Equivalencia: IQ2022",
+            "descripcion": "Es un curso de nivel intermedio en ingeniería química donde se estudian las características fisico-químicas de los materiales para que mediante el análisis de ciclo de vida pueda realizar propuestas en las etapas mayor impacto ambiental y de disposición al final de esta, integrando estrategias de economía circular. Requiere conocimientos previos de Balance de materia y balance de energía. Como resultado el alumno aplica conocimientos para el análisis de ciclo de vida de un producto mediante la metodología declarada por el 14044, definiendo un objetivo, alcance y unidad funcional, definiendo el sistema, realizando un análisis de inventarios, generando una evaluación de impacto, su interpretación y recomendaciones.",
+            "objetivo": "Al terminar la unidad de formación el alumno identifica áreas de mejora en los productos y procesos productivos aplicando los principios de economía circular en su cadena de valor a través del estudio de los ciclos térmicos y biológicos, la caracterización y procesamiento materiales e insumos y los principios de análisis de ciclo de vida."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "DS3001B",
+            "nombre": "Diseño de estrategias de sustentabilidad corporativa",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado DS2002 o Estar Cursando DS2002",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0303C&lang=ES",
+            "nombreCompleto": "Diseño de estrategias de sustentabilidad corporativa",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SDS0303C",
+              "SDS0401C",
+              "SDS0402C",
+              "SIBQ0401C",
+              "SEG0303A",
+              "SEG0602A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0303C",
+              "SDS0401C",
+              "SDS0402C",
+              "SEG0303A",
+              "SIBQ0401C",
+              "SEG0602A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla modelos de sustentabilidad corporativa con base en estándares internacionales. - Gestiona los recursos tangibles e intangibles de sustentabilidad y resiliencia de las instituciones. - Implementa estrategias considerando los grupos de interés y creando ventajas competitivas en la organización."
+          },
+          {
+            "clave": "IQ3001B",
+            "nombre": "Desarrollo de modelos de sustentabilidad energética",
+            "creditos": 6,
+            "tipo": "life",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado IQ2005B o Estar Cursando IQ2005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SDS0105C&lang=ES",
+            "nombreCompleto": "Desarrollo de modelos de sustentabilidad energética",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Tecnologías Sostenibles y Civil",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SDS0105C",
+              "SDS0403C",
+              "SIBQ0303C",
+              "SIBQ0402C",
+              "SEG0601A",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SDS0105C",
+              "SDS0403C",
+              "SEG0601A",
+              "SIBQ0303C",
+              "SIBQ0402C",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Diseña estrategias de competitividad de las organizaciones con base en los lineamientos de política energética. - Desarrolla modelos de sustentabilidad corporativa con base en estándares internacionales. - Implementa estrategias considerando los grupos de interés y creando ventajas competitivas en la organización."
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

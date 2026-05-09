@@ -1,0 +1,1194 @@
+{
+  "carreraClave": "LEC19",
+  "nombre": "Licenciatura en Economía",
+  "descripcionES": "Para acreditar las materias Tópico, es elección del alumno las unidades de formación que desea cursar , contando con la asesoría de su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EC1001B",
+            "nombre": "Transformación del México contemporáneo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0203A&lang=ES",
+            "nombreCompleto": "Transformación del México contemporáneo",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0203A",
+              "SCIS0602A",
+              "SCIS0701A",
+              "SEG0201A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Identifica los elementos y principios del Derecho, relacionándolos con Economía, Ciencia Política y Relaciones Internacionales. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "MA1022",
+            "nombre": "Pensamiento matemático I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0105B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0105B",
+              "SCIS0106A",
+              "SEG0502A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1060",
+            "objetivo": "En la unidad de formación el estudiante: - Describe el comportamiento de una variable a través de su descripción lógica, del análisis de funciones y calculando su valor aplicando diferentes metodologías."
+          },
+          {
+            "clave": "P1010",
+            "nombre": "Filosofía política para los dilemas contemporáneos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0501B&lang=ES",
+            "nombreCompleto": "Filosofía política para los dilemas contemporáneos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0501B",
+              "SCIS0503B",
+              "SCIS0601A",
+              "SEG0401A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Identifica problemas y dilemas contemporáneos del espacio público, considerando perspectivas teóricas sobre la inclusión y generación de consensos. - Evalúa casos de decisiones con impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de casos de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "P1011",
+            "nombre": "Introducción a las ciencias sociales",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0401B&lang=ES",
+            "nombreCompleto": "Introducción a las ciencias sociales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0401B",
+              "SCIS0402B",
+              "SCIS0403A",
+              "SCIS0502B",
+              "SEG0602A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Compara soluciones político-sociales, aplicando teorías de elección social. - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz."
+          },
+          {
+            "clave": "RI1001B",
+            "nombre": "Desafíos globales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0301B&lang=ES",
+            "nombreCompleto": "Desafíos globales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0501A",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0301B",
+              "SCIS0302B",
+              "SCIS0303B",
+              "SCIS0602B",
+              "SEG0404A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: RI1003B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las perspectivas teóricas de la política internacional, considerando niveles y unidades de análisis de la realidad contemporánea. - Analiza los desafíos de la agenda global contemporánea, considerando los intereses de los Estados nación. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre los dilemas que generen consenso e inclusión."
+          },
+          {
+            "clave": "TC1001B",
+            "nombre": "Principios de programación para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0403B&lang=ES",
+            "nombreCompleto": "Principios de programación para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0403B",
+              "SCIS0601B",
+              "SCIS0701B",
+              "SCIS0703A",
+              "SEG0701A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "D1001B",
+            "nombre": "Introducción al derecho",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0201B&lang=ES",
+            "nombreCompleto": "Introducción al derecho",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Derecho",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0201B",
+              "SCIS0202B",
+              "SCIS0203B",
+              "SCIS0204A"
+            ],
+            "requisitosDetalle": "Equivalencia: D1003B",
+            "objetivo": "En la unidad de formación el alumno: - Identifica los elementos y principios que garantizan el Estado de Derecho y cultura de la legalidad en una sociedad democrática, tomando en cuenta su rol en el mantenimiento de los mismos. - Analiza problemas jurídicos, identificando las normas jurídicas aplicables. - Identifica los elementos y principios del Derecho, relacionándolos con la Economía, la Ciencia Política y las Relaciones Internacionales. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, considerando la participación de los actores relevantes."
+          },
+          {
+            "clave": "EC1002B",
+            "nombre": "Emprendimiento y tecnología para la transformación de México",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0204C&lang=ES",
+            "nombreCompleto": "Emprendimiento y tecnología para la transformación de México",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0204C",
+              "SCIS0602C",
+              "SCIS0701C",
+              "SCIS0703C",
+              "SEG0201A",
+              "SEG0202A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza modelos y proyectos de emprendimiento público, considerando su potencial de transformación. - Propone soluciones que atienden a los principales obstáculos y retos del Estado de Derecho, sumando la participación de diferentes actores pertinentes en un modelo de intervención sostenible. - Contrasta las causas, desarrollo y consecuencias de los conflictos internacionales, considerando la interacción entre actores involucrados. - Expresa posturas convincentes sobre dilemas económicos, jurídicos y de política pública, que generen consenso e inclusión. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          },
+          {
+            "clave": "EC1013",
+            "nombre": "Macroeconomía",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103A&lang=ES",
+            "nombreCompleto": "Macroeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0103A",
+              "SCIS0104A",
+              "SEG0502A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EC1014",
+            "nombre": "Microeconomía",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101A&lang=ES",
+            "nombreCompleto": "Microeconomía",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101A",
+              "SCIS0102B",
+              "SEG0503A"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "MA1023",
+            "nombre": "Métodos cuantitativos I",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702B&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos I",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0702B"
+            ],
+            "objetivo": "En la unidad de formación el alumno:"
+          },
+          {
+            "clave": "MA1024",
+            "nombre": "Pensamiento matemático II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1022",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0106B",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Describe las variables económicas que afectan el desempeño de una economía, a partir del estudio matemático."
+          },
+          {
+            "clave": "TC1002B",
+            "nombre": "Herramientas tecnológicas para las ciencias sociales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado TC1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0601C&lang=ES",
+            "nombreCompleto": "Herramientas tecnológicas para las ciencias sociales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0601C",
+              "SCIS0703B",
+              "SEG0702A",
+              "SEG0501A"
+            ],
+            "objetivo": "En la unidad de formación el alumno: - Analiza dilemas económicos, jurídicos y de política pública, empleando información relevante y veraz. - Diseña una propuesta de proyecto de emprendimiento público, usando tecnologías disruptivas."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EC1003B",
+            "nombre": "Macroeconomía y desarrollo económico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Aprobado EC1013",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0103B&lang=ES",
+            "nombreCompleto": "Macroeconomía y desarrollo económico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0103B",
+              "SCIS0104B",
+              "SEG0502B"
+            ],
+            "requisitosDetalle": "Equivalencia: EC2009B",
+            "objetivo": "En la unidad de formación el estudiante: - Determina los efectos que genera en la sociedad el desarrollo y crecimiento económico de un país, con base en variables macroeconómicas reales y nominales."
+          },
+          {
+            "clave": "EC1015",
+            "nombre": "Economía conductual",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado EC1014",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101C&lang=ES",
+            "nombreCompleto": "Economía conductual",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0101C",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0101C",
+              "SEG0302A"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las decisiones de los agentes económicos con base en sus preferencias, en los costos de oportunidad y la información que poseen, a través de técnicas experimentales de la economía conductual. - Analiza el comportamiento de los agentes económicos, en un contexto de racionalidad limitada."
+          },
+          {
+            "clave": "EC1016",
+            "nombre": "Economía para la toma de decisiones",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0101B&lang=ES",
+            "nombreCompleto": "Economía para la toma de decisiones",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0101B",
+              "SCIS0106C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las decisiones estratégicas de los agentes económicos, con base en la información que poseen y determina las estrategias óptimas de acción."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "MA1025",
+            "nombre": "Métodos cuantitativos II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1023",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0702C&lang=ES",
+            "nombreCompleto": "Métodos cuantitativos II",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SCIS0702C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Aplica las técnicas de análisis estadísticos descriptivos e inferenciales, necesarias para obtener información de interés sobre un conjunto datos. - Analiza parámetros y variables, a partir de la estadística."
+          },
+          {
+            "clave": "MA1026",
+            "nombre": "Pensamiento matemático III",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1024",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0106C&lang=ES",
+            "nombreCompleto": "Pensamiento matemático III",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SCIS0106C"
+            ],
+            "objetivo": "En la unidad de formación el estudiante: - Estima los comportamientos de distintas variables, a partir de un modelo económico a resolver, mediante herramientas matemáticas."
+          },
+          {
+            "clave": "P1001B",
+            "nombre": "Participación política y sociología de la identidad",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SCIS0303C&lang=ES",
+            "nombreCompleto": "Participación política y sociología de la identidad",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Ciencia Política y Relaciones Internacionales",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SCIS0303C",
+              "SCIS0401C",
+              "SCIS0501C",
+              "SCIS0502C",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SCIS0303C",
+              "SCIS0401C",
+              "SCIS0501C",
+              "SCIS0502C",
+              "SEG0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: P2005B ; P2025B",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza fenómenos políticos, económicos y sociales, a partir de la teoría política. - Evalúa sistemas políticos, a partir de una perspectiva comparada. - Evalúa casos de decisiones de impacto público, a partir de teorías de filosofía política y de ética. - Aplica los fundamentos del método científico, a partir de impacto público. - Contrasta decisiones de impacto público, considerando los antecedentes, actores involucrados y consecuencias."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EC2001B",
+            "nombre": "Dinero y capitales",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0201C&lang=ES",
+            "nombreCompleto": "Dinero y capitales",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SEC0201C",
+              "SEC0204A",
+              "SEC0602A",
+              "SEC0603A",
+              "SEC0601B",
+              "SEG0701B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0201C",
+              "SEC0204A",
+              "SEC0601B",
+              "SEC0602A",
+              "SEC0603A",
+              "SEG0701B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno propone la política monetaria que responda a los diversos escenarios, en la economía de un país.Requiere conocimientos de: Macroeconomía básica. Como resultado del aprendizaje el alumno evalúa las propuestas de política monetaria, con base en herramientas de teoría económica. Aplica diferentes herramientas financieras para pronosticar los impactos en el mercado financiero con base en la dinámica económica.",
+            "objetivo": "En la unidad de formación el estudiante: - Propone una política monetaria con el fin de suavizar las fluctuaciones económicas y medir su impacto en las finanzas públicas y privadas. - Propone soluciones de ahorro e inversión, empleando los instrumentos financieros más adecuados que maximicen la utilidad y que minimicen los riesgos."
+          },
+          {
+            "clave": "EC2003B",
+            "nombre": "Incentivos del consumidor y productor",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC1016",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0302A&lang=ES",
+            "nombreCompleto": "Incentivos del consumidor y productor",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SEC0302A",
+              "SEC0401B",
+              "SEC0501B",
+              "SEC0502B",
+              "SEG0501B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno analiza el consumo óptimo de los agentes economicos, con base en sus preferencias y las restricciones presupuestales que enfrenta. Requiere conocimientos de: Microeconomía intermedia. Como resultado del aprendizaje el alumno formaliza las decisiones de empresas y consumidores, con base en sus objetivos y restricciones, para determinar sus demandas y ofertas.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza las decisiones de los agentes económicos, personas y empresas, considerando preferencias, restricciones presupuestales y posibles escenarios de riesgo o incertidumbre. - Emplea técnicas cuantitativas, que revelen la toma de decisiones de los agentes económicos. - Analiza los efectos de las decisiones de los agentes económicos, a partir de la existencia de fallas de mercado."
+          },
+          {
+            "clave": "EC2004B",
+            "nombre": "Origen y futuro del panorama macroeconómico",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0101B&lang=ES",
+            "nombreCompleto": "Origen y futuro del panorama macroeconómico",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SEC0101B",
+              "SEC0103B",
+              "SEC0201A",
+              "SEC0202A",
+              "SEC0301A",
+              "SEC0601A",
+              "SEG0503B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0101B",
+              "SEC0103B",
+              "SEC0201A",
+              "SEC0202A",
+              "SEC0301A",
+              "SEC0601A",
+              "SEG0503B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno analiza la dinámica macroeconómica de un país, aplicando modelos que favorezcan el entendimiento de las variables económicas. Requiere conocimientos de: Macroeconomía básica. Como resultado del aprendizaje el alumno aplica modelos macroeconómicos para calcular el impacto de la política fiscal y monetaria sobre la economía.",
+            "objetivo": "En la unidad de formación el estudiante: - Analiza la dinámica macroeconómica de un país, interpretando indicadores económicos y aplicando dichos indicadores en modelos que favorezcan el entendimiento de las fluctuaciones económicas. - Evalúa las políticas fiscales y monetarias en función de su efectividad y sustentabilidad, en el mediano y largo plazo, dentro de un contexto histórico."
+          },
+          {
+            "clave": "EC2029",
+            "nombre": "Fundamentos de econometría",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA2012 o Estar Cursando MA2012",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0102B&lang=ES",
+            "nombreCompleto": "Fundamentos de econometría",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEC0102B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno emplea métodos cuantitativos, que revelen la toma de decisiones de los agentes económicos. Requiere conocimientos de: Estadística básica. Como resultado del aprendizaje el alumno investiga el uso de métodos econométricos para probar modelos económicos básicos. Soluciona problemas y casos prácticos, tanto de manera individual como grupal, que refuercen el aprendizaje y fomenten la responsabilidad y disciplina de los estudiantes, así como su capacidad de análisis. Realiza investigación de manera individual y grupal orientada a la aplicación de métodos econométricos en modelos económicos, que contribuyan al aprendizaje de los contenidos y desarrollo de las competencias.",
+            "objetivo": "En la unidad de formación el estudiante: - Emplea técnicas econométricas que permitan pronosticar y probar hipótesis que revelen la toma de decisiones de los agentes económicos, utilizando paquetes computacionales de vanguardia."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "MA2012",
+            "nombre": "Fundamentos de estadística",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1025",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0102A&lang=ES",
+            "nombreCompleto": "Fundamentos de estadística",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEC0102A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Matemáticas donde el alumno emplea métodos cuantitativos, que revelen la toma de decisiones de los agentes económicos. Requiere conocimientos de: Estadística básica. Como resultado del aprendizaje el alumno aplica herramientas estadísticas bivariadas en la estimación, pronóstico y prueba de hipótesis.",
+            "objetivo": "En la unidad de formación el estudiante: - Emplea técnicas cuantitativas, que revelen la toma de decisiones de los agentes económicos."
+          },
+          {
+            "clave": "MA2013",
+            "nombre": "Pensamiento matemático IV",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1026",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0602B&lang=ES",
+            "nombreCompleto": "Pensamiento matemático IV",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEC0602B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0602B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Matemáticas donde el alumno estima los impactos en el mercado financiero de la dinámica económica, a través de las tecnologías de información, análisis estadístico y herramientas de programación. Requiere conocimientos de: Cálculo. Como resultado del aprendizaje el alumno aplica ecuaciones diferenciales y ecuaciones en diferencias.",
+            "objetivo": "En la unidad de formación el estudiante: - Estima los comportamientos de distintas variables, a partir de un modelo económico a resolver y mediante herramientas matemáticas como el álgebra lineal y las ecuaciones diferenciales."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EC2005B",
+            "nombre": "Competencia económica",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC2003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0402B&lang=ES",
+            "nombreCompleto": "Competencia económica",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SEC0402B",
+              "SEC0501C",
+              "SEC0503B",
+              "SEC0702A",
+              "SEG0602B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0402B",
+              "SEC0501C",
+              "SEC0503B",
+              "SEC0702A",
+              "SEG0602B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno evalúa las distintas formas de competencia en mercados imperfectos, considerando las consecuencias en la asignación de los recursos, las estrategias de las empresas y la regulación económica. Requiere conocimientos de: Microeconomía intermedia. Como resultado del aprendizaje el alumno revisa y análisa los temas relacionados con la competencia económica, el funcionamiento de los mercados y la regulación económica. Investiga algún mercado, haciendo énfasis en sus características, formas de competencia y estrategias de los participantes. Soluciona de ejercicios, problemas y casos, tanto de manera individual como colaborativa. Realiza trabajo de campo en el contexto del entorno real en el que enfrenta el reto relacionado con el funcionamiento de los mercados, las consecuencias y el mejor actuar del gobierno e instituciones, interactuando con compañeros de trabajo y con los actores clave para la resolución del reto. Genera un trabajo de investigación donde se propongan soluciones de política pública para el buen funcionamiento de los mercados, como evidencias en el desarrollo de las competencias asociadas al reto.",
+            "objetivo": "En la unidad de formación el estudiante: - Evalúa las distintas formas de competencia en mercados imperfectos y comercio internacional, considerando las consecuencias en la asignación de los recursos. - Evalúa instrumentos adecuados de regulación, a partir de la promoción de las ventajas de la competencia económica. - Propone soluciones de política pública, con base en una investigación sobre fenómenos de competencia y regulación económica, tomando en cuenta los incentivos de los agentes económicos participantes."
+          },
+          {
+            "clave": "EC2006B",
+            "nombre": "Decisiones estratégicas en mercados e instituciones",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC2003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0303A&lang=ES",
+            "nombreCompleto": "Decisiones estratégicas en mercados e instituciones",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SEC0303A",
+              "SEC0401C",
+              "SEC0502C",
+              "SEC0703A",
+              "SEC0302B",
+              "SEG0503C"
+            ],
+            "competenciasEvaluan": [
+              "SEC0302B",
+              "SEC0303A",
+              "SEC0401C",
+              "SEC0502C",
+              "SEC0703A",
+              "SEG0503C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno analiza los efectos de las decisiones de los agentes económicos, a partir de la existencia de imperfecciones de mercado, asimetrías de información, selección adversa y riesgo moral. Requiere conocimientos de: Microeconomía intermedia. Como resultado del aprendizaje el alumno analiza los temas relacionados con incentivos tanto individuales como colectivos y las instituciones que se forman a través de la interacción de los agentes económicos. Discute y resuelve casos generados por asimetrías de información, selección adversa y riesgo moral. Investiga sobre las nuevas teorías de la empresa, el mecanismo de incentivos hacia los agentes económicos y sus repercusiones en el análisis económico. Soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de análisis sobre los incentivos que se generan hacia los agentes económicos y sus consecuencias.",
+            "objetivo": "En la unidad de formación el estudiante: - Decide la mejor forma de agregar preferencias que generan decisiones colectivas eficientes en el uso de los recursos, con base en la teoría económica. - Evalúa las estrategias de diseño organizacional, con base en la información económica disponible. - Analiza el comportamiento de los agentes económicos, en un contexto de racionalidad limitada."
+          },
+          {
+            "clave": "EC2007B",
+            "nombre": "Dinámica del crecimiento nacional y regional",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Aprobado EC2004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0203A&lang=ES",
+            "nombreCompleto": "Dinámica del crecimiento nacional y regional",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SEC0203A",
+              "SEC0701B",
+              "SEC0103C",
+              "SEC0204C",
+              "SEC0202C",
+              "SEC0702B",
+              "SEG0404B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0103C",
+              "SEC0202C",
+              "SEC0203A",
+              "SEC0204C",
+              "SEC0701B",
+              "SEC0702B",
+              "SEG0404B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno propone soluciones de política pública para el desarrollo regional, con base en una investigación sobre fenómenos económicos, tomando en cuenta el crecimiento a corto y largo plazo y sus efectos en la democracia y responsabilidad social. Requiere conocimientos de: Macroeconomía intermedia. Como resultado del aprendizaje el alumno revisa los temas relacionados con las fluctuaciones y crecimiento económico, así como la construcción de variables regionales y sectoriales. Analiza problemáticas de desarrollo económico en un país o región. Soluciona ejercicios, problemas y casos, tanto de manera individual como colaborativa, para desarrollar la capacidad de comprender y crear indicadores para analizar el desarrollo regional y nacional. Trabaja en campo en el contexto del entorno real en el que enfrenta el reto relacionado con el análisis de convergencia de un sector, región o país, interactuando con compañeros de trabajo y con los actores clave para la resolución del reto. Genera información para el desarrollo de un ensayo de análisis de convergencia de un sector, región o país.",
+            "objetivo": "En la unidad de formación el estudiante: - Explica los determinantes de las fluctuaciones económicas de los países, considerando la productividad de los factores de producción. - Construye indicadores económicos, identificando la desigualdad regional, sectorial y del ingreso que describe el desarrollo de un país."
+          },
+          {
+            "clave": "EC2030",
+            "nombre": "Econometría I",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado EC2029 o Estar Cursando EC2029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0102C&lang=ES",
+            "nombreCompleto": "Econometría I",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEC0102C",
+              "SEG0702B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0102C",
+              "SEG0702B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno emplea métodos cuantitativos econométricos que revelen la toma de decisiones de los agentes económicos, detectando problemas que van contra los supuestos del modelo de regresión lineal simple. Requiere conocimientos de: Estadística básica, principios de econometría, mínimos cuadrados ordinarios. Como resultado del aprendizaje el alumno investiga sobre la aplicación y corrección en la estimación de modelos económicos. Soluciona problemas y casos prácticos, tanto de manera individual como grupal.",
+            "objetivo": "En la unidad de formación el estudiante: - Estima modelos que maximizan la utilidad y beneficios de los agentes económicos privados en diferentes contextos, con base en técnicas cuantitativas."
+          },
+          {
+            "clave": "EC2031",
+            "nombre": "Econometría II",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado EC2029 y Haber Aprobado MA2012",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0602B&lang=ES",
+            "nombreCompleto": "Econometría II",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEC0602B",
+              "SEG0702B"
+            ],
+            "competenciasEvaluan": [
+              "SEC0602B",
+              "SEG0702B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno estima los impactos en el mercado financiero de la dinámica económica, a través de las tecnologías de información, análisis de series de tiempo y herramientas de programación. Requiere conocimientos de: Econometría básica. Como resultado del aprendizaje el alumno aplicas las técnicas de series de tiempo sobre datos en el mercado financiero para describir la dinámica económica. Investiga sobre series de tiempo, en la aplicación de modelos económico- financieros. Soluciona problemas y casos prácticos, tanto de manera individual como grupal.",
+            "objetivo": "En la unidad de formación el estudiante: - Estima los impactos en el mercado financiero de la dinámica económica, con base en técnicas de series temporales."
+          },
+          {
+            "clave": "EC2032",
+            "nombre": "Multivariante",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Estar Cursando EC2029 o Haber Cursado EC2029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0203B&lang=ES",
+            "nombreCompleto": "Multivariante",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEC0203B",
+              "SEC0701A"
+            ],
+            "competenciasEvaluan": [
+              "SEC0203B",
+              "SEC0701A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en la disciplina de Economía donde el alumno construye indicadores económicos, identificando la desigualdad regional, sectorial y del ingreso, utilizando metodologías de análisis multivariado, el análisis de factores y de conglomerados. Requiere conocimientos de: Estadística y econometría básica. Como resultado del aprendizaje el alumno revisa los temas relacionados con la construcción de indicadores económicos, identificando la desigualdad regional, sectorial y del ingreso.",
+            "objetivo": "En la unidad de formación el estudiante: - Construye indicadores económicos, identificando la desigualdad regional, sectorial y del ingreso."
+          },
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "EC3002B",
+            "nombre": "Solución y evaluación de problemas económicos",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEC0303C&lang=ES",
+            "nombreCompleto": "Solución y evaluación de problemas económicos",
+            "escuela": "Ciencias Sociales y Gobierno",
+            "departamento": "Economía",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SEC0303C",
+              "SEC0402C",
+              "SEC0603B",
+              "SEC0703C",
+              "SEG0404C"
+            ],
+            "competenciasEvaluan": [
+              "SEC0303C",
+              "SEC0402C",
+              "SEC0603B",
+              "SEC0703C",
+              "SEG0404C"
+            ],
+            "requisitosDetalle": "Equivalencia: EC3007B",
+            "objetivo": "En la unidad de formación el estudiante:"
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}

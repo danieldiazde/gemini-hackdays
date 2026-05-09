@@ -1,0 +1,887 @@
+{
+  "carreraClave": "LAD19",
+  "nombre": "Licenciatura en Arte Digital",
+  "descripcionES": "Para acreditar las materias Tópico, el alumno puede elegir una de las siguientes opciones:",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1004",
+            "nombre": "Cultura visual y sonora",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0301A&lang=ES",
+            "nombreCompleto": "Cultura visual y sonora",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0301A",
+              "SESC0102A",
+              "SESC0401A",
+              "SEG0503A"
+            ],
+            "objetivo": "El estudiante producirá propuestas y prototipos creativos visuales y sonoros considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas del mundo occidental."
+          },
+          {
+            "clave": "AV1002B",
+            "nombre": "Técnicas y discursos fotográficos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Técnicas y discursos fotográficos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0205A"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1006B ; AV1003B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante produce fotografías para diversos usos bajo el conocimiento del escenario histórico de las narrativas fotográficas, las técnicas básicas de captura, iluminación y edición fotográficas, los fundamentos de composición visual y fotográfica, y resolverá un reto produciendo una narrativa fotográfica sobre identidad cultural."
+          },
+          {
+            "clave": "CO1001B",
+            "nombre": "Metodologías de investigación de factores humanos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0202A&lang=ES",
+            "nombreCompleto": "Metodologías de investigación de factores humanos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0202A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SESC0202A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1030",
+            "objetivo": "Al terminar la unidad de formación, el estudiante identifica necesidades, deseos, patrones de comportamiento y gustos de un público específico aplicando métodos de estudio de factores humanos. Al final, produce un reporte de investigación aplicando metodologías cualitativas y cuantitativas para estudiar una problemática relacionada con su área disciplinar y/o de interés."
+          },
+          {
+            "clave": "DL1022",
+            "nombre": "Metodologías del pensamiento creativo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0103A&lang=ES",
+            "nombreCompleto": "Metodologías del pensamiento creativo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A",
+              "SEG0201A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: DL1024",
+            "descripcion": "Es un curso de nivel básico en el área de diseño que tiene la intención de que el alumno conozca los fundamentos de la creatividad, las bases del proceso creativo y aplique sus herramientas en diferentes contextos, incluyendo el proceso de diseño para desarrollar propuestas de soluciones creativas a necesidades expresas de las personas. No requiere conocimientos previos. Como resultado del aprendizaje el alumno aplica herramientas del pensamiento creativo en el proceso de diseño.",
+            "objetivo": "El estudiante desarrollará y construirá propuestas creativas considerando las necesidades del usuario y aplicando principios de la creatividad, del pensamiento creativo y tecnologías pertinentes."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "EH1001B",
+            "nombre": "Inmersión y experimentación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Inmersión y experimentación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0401A",
+              "SESC0205A",
+              "SESC0203A",
+              "SEG0201A",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0101A",
+              "SESC0203A",
+              "SESC0205A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0403A",
+              "SEG0301A"
+            ],
+            "requisitosDetalle": "Equivalencia: A1007B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales y espaciales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Diseña propuestas utilizando metodologías basadas en procesos creativos. - Analiza contenidos y narrativas utilizando teorías y metodologías especializadas. - Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. -Incorpora el entorno físico y virtual como base en sus propuestas de representación."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AR1001B",
+            "nombre": "Representación formal del espacio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Representación formal del espacio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0401A",
+              "SESC0402A",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0403A",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Selecciona las tecnologías pertinentes a proyectos creativos."
+          },
+          {
+            "clave": "AV1001B",
+            "nombre": "Narrativa audiovisual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Narrativa audiovisual",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0204A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0205A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1005B ; AV2005B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante el estudiante conocerá el lenguaje audiovisual, sus características y su correcta utilización para transmitir mensajes en formatos audiovisuales. Será capaz de analizar un producto audiovisual, reconociendo los diferentes elementos de dicho lenguaje y de utilizarlo para realizar sus propias producciones a través del conocimiento teórico y técnico. - Maneja las estructuras narrativas y sus lenguajes en el análisis y la elaboración de diversos textos. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Producción de contenidos y narrativas CDA2.5. Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "EH1008",
+            "nombre": "Imaginarios culturales de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0102A&lang=ES",
+            "nombreCompleto": "Imaginarios culturales de México",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0603A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0401A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante producirá propuestas y prototipos creativos considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas de México."
+          },
+          {
+            "clave": "EH1009",
+            "nombre": "Semiótica y narratologías contemporáneas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0201A&lang=ES",
+            "nombreCompleto": "Semiótica y narratologías contemporáneas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0201A",
+              "SEG0603A",
+              "SESC0203A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0201A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: EH1025",
+            "objetivo": "Al terminar la unidad de formación, el estudiante analizará textos y prácticas culturales lingüísticas, gráficas, audiovisuales, sonoras y espaciales, a partir de teorías y metodologías para estudiar procesos de comunicación, significación y narrativas."
+          },
+          {
+            "clave": "H1001B",
+            "nombre": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0102A",
+              "SEG0501A"
+            ],
+            "descripcion": "Intención del curso en el contexto general del plan de estudios:",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa el impacto de una propuesta creativa desde un enfoque educativo. - Identifica necesidades de producción de contenidos y narrativas en contextos específicos. - Crea contenidos y narrativas en diferentes formatos, utilizando diversas tecnologías y gestionando los recursos de manera sostenible. - Analiza contenidos y narrativas utilizando aproximaciones teórico-metodológicas pertinentes para la representación mítica. - Evalúa contenidos y narrativas y su impacto, aplicando metodologías pertinentes. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Experimenta con tecnologías innovando en proyectos de arte."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "A2001B",
+            "nombre": "Pre-producción de cortometraje animado",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0101A&lang=ES",
+            "nombreCompleto": "Pre-producción de cortometraje animado",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAT0101A",
+              "SAT0102A",
+              "SAT0103A",
+              "SAT0201A",
+              "SEG0201A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio, que tiene la intención de que el estudiante conozca y aplique los conceptos y procesos para la preproducción de un cortometraje de animación. Se incluyen contenidos básicos de ilustración y desarrollo visual a partir de una historia corta. Requiere conocimientos básicos de dibujo y narrativa visual. Como resultado del aprendizaje el alumno creará su propia preproducción a partir de una serie de documentos que contienen: el guión, el desarrollo visual del universo narrativo y el animatic de la historia propuesta.",
+            "objetivo": "Al terminar la unidad de formación, el alumno desarrolla la narrativa y el concepto artístico en un proyecto de arte y tecnología, considerando los recursos disponibles."
+          },
+          {
+            "clave": "A2002B",
+            "nombre": "Producción de cortometraje animado",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "(Haber Cursado AV1001B o Haber Aprobado AV1001B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0301A&lang=ES",
+            "nombreCompleto": "Producción de cortometraje animado",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAT0301A",
+              "SAT0302A",
+              "SAT0303A",
+              "SEG0202A"
+            ],
+            "competenciasEvaluan": [
+              "SAT0301A",
+              "SAT0302A",
+              "SAT0303A",
+              "SEG0202A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio, que tiene la intención de que el estudiante conozca y aplique los conceptos y procesos para la producción de un cortometraje de animación. Se incluyen contenidos básicos de producción de animación, postproducción y planeación de difusión. Como resultado del aprendizaje el alumno creará su propia producción a partir de un animatic.",
+            "objetivo": "Al terminar la unidad de formación, el alumno desarrolla el pipeline de producción, aplicando una técnica de animación espécifica."
+          },
+          {
+            "clave": "A2012",
+            "nombre": "Dibujo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0202A&lang=ES",
+            "nombreCompleto": "Dibujo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SAT0202A",
+              "SEG0603B"
+            ],
+            "requisitosDetalle": "Equivalencia: A2018",
+            "descripcion": "Es un curso de nivel intermedio que tiene la finalidad de capacitar al alumno en la representación e ilustración de personajes y espacios de manera digital y análoga. Se incluirán conceptos de dibujo, estilos visuales, algunos principios de animación digital y software para animación 2D y VR. No se requieren conocimientos previos. Como resultado del aprendizaje los alumnos producirán tratamientos visuales, tanto de espacios como de figuras, para proyectos artísticos. .",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Desarrolla el pipeline a nivel preproducción, utilizando las técnicas de animación. - Reconoce los 12 principios de animación y aplica algunos en ejercicios de animación tradicional. - Explora y muestra los elementos visuales con base en los requerimientos estéticos del proyecto. - Comprende y aplica los elementos básicos del proceso técnico de ilustración y representación de las formas bidimensionales y tridimensionales. - Demuestra compromiso por el proceso gradual de representación artística, paciencia en el uso de los materiales y comprensión de las técnicas."
+          },
+          {
+            "clave": "A2013",
+            "nombre": "Historia de la animación",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0201A&lang=ES",
+            "nombreCompleto": "Historia de la animación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SAT0201A",
+              "SESC0102A",
+              "SEG0501A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno fundamenta sus propuestas basándonse en la teoría y registros históricos partiendo de la metodología del diseño en el desarrollo del concepto artístico para el proyecto."
+          },
+          {
+            "clave": "A2014",
+            "nombre": "Fundamentos de la animación",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0302A&lang=ES",
+            "nombreCompleto": "Fundamentos de la animación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SAT0302A",
+              "SAT0303A",
+              "SEG0501A"
+            ],
+            "requisitosDetalle": "Equivalencia: AT1006",
+            "objetivo": "Al terminar la unidad de formación, el alumno desarrolla el pipeline de la producción, utilizando las técnicas de animación."
+          },
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "A2003B",
+            "nombre": "Arte conceptual",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0101A&lang=ES",
+            "nombreCompleto": "Arte conceptual",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAT0101A",
+              "SAT0201B",
+              "SAT0202B",
+              "SEG0401B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio que tiene la intención de que el alumno realice propuestas de desarrollo visual para proyectos de arte digital. Requiere conocimientos previos de dibujo, fundamentos de la animación y producción de proyectos animados. Como resultado del aprendizaje el alumno realiza la carpeta de pre-producción, visualizaciones conceptuales y manuales técnicos de un proyecto animado y/o interactivo.",
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Propone un concepto artístico siguiendo metodologías de Investigación científica y de las Artes. - Justifica el ensayo de un proyecto fundamentado en la teoría y las necesidades del contexto del proyecto. - Representa el arte conceptual para animación y/o Interactivo siguiendo los requerimientos estéticos del proyecto."
+          },
+          {
+            "clave": "A2004B",
+            "nombre": "Fundamentos de interacción",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0102A&lang=ES",
+            "nombreCompleto": "Fundamentos de interacción",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAT0102A",
+              "SAT0301A",
+              "SAT0302B",
+              "SEG0201A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno aplica los fundamentos de la interacción en el diseño y desarrollo de video juegos 2D."
+          },
+          {
+            "clave": "A2005B",
+            "nombre": "Arte instalación",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado EH1001B o Haber Aprobado EH1001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0103B&lang=ES",
+            "nombreCompleto": "Arte instalación",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SAT0103B",
+              "SAT0303B",
+              "SAT0301B",
+              "SAT0101B",
+              "SAT0102B",
+              "SEG0303A"
+            ],
+            "competenciasEvaluan": [
+              "SAT0101B",
+              "SAT0102B",
+              "SAT0103B",
+              "SAT0301B",
+              "SAT0303B",
+              "SEG0303A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno: - Desarrolla un proyecto de arte y tecnología en formato de instalación con base a los requerimentos establecidos por el concepto y las técnicas de narrativa visual - Explora la instalación como una práctica espacial y su interacción con las artes digitales y de nuevos medios. - Examina la instalación como una forma híbrida que negocía en la frontera de prácticas de arte análogo y la experimentación con arte de nuevos medios. - Se aprovechan las posibilidades de la instalación como integradora de diferentes prácticas artísticas. - Investiga como necesidades coneptuales, espaciales, matéricas y tecnológicas definen el lenguaje y aplicación de una instalación de arte."
+          },
+          {
+            "clave": "A2015",
+            "nombre": "Exploración de la forma",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0202A&lang=ES",
+            "nombreCompleto": "Exploración de la forma",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SAT0202A",
+              "SEG0603B"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno representa tridimencionalmente y de forma tangible los elementos visuales con base en los requerimientos estéticos del proyecto."
+          },
+          {
+            "clave": "A2016",
+            "nombre": "Introducción al 3D",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SAT0103A&lang=ES",
+            "nombreCompleto": "Introducción al 3D",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SAT0103A",
+              "SAT0302A",
+              "SAT0202B",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SAT0103A",
+              "SAT0202B",
+              "SAT0302A",
+              "SEG0701A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el alumno representa tridimencionalmente de forma virtual los elementos visuales con base en los requerimientos estéticos del proyecto."
+          },
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3070",
+            "nombre": "Optativa de arte digital I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de arte digital I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3071",
+            "nombre": "Optativa de arte digital II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de arte digital II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3072",
+            "nombre": "Optativa de arte digital III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de arte digital III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "OP3073",
+            "nombre": "Optativa de arte digital IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "nombreCompleto": "Optativa de arte digital IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 12,
+            "aDetalle": 4
+          },
+          {
+            "clave": "OP3074",
+            "nombre": "Optativa de arte digital V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "nombreCompleto": "Optativa de arte digital V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 12,
+            "aDetalle": 4
+          },
+          {
+            "clave": "OP3075",
+            "nombre": "Optativa de arte digital VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "nombreCompleto": "Optativa de arte digital VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 12,
+            "aDetalle": 4
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "AT3001B",
+            "nombre": "Proyecto de arte digital",
+            "creditos": 18,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Proyecto de arte digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 18
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "AT3002B",
+            "nombre": "Proyecto integral de arte digital",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Proyecto integral de arte digital",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          }
+        ]
+      }
+    ]
+  }
+}
