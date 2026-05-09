@@ -2,7 +2,7 @@ import { Sparkles } from "lucide-react";
 
 export function CoachMessage({ mensaje }: { mensaje: string }) {
   return (
-    <div className="rounded-xl bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 p-5 ring-1 ring-foreground/5 shadow-sm">
+    <div className="rounded-xl bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 p-5 ring-1 ring-foreground/5 shadow-sm motion-safe:animate-in motion-safe:fade-in-0 motion-safe:slide-in-from-top-1 motion-safe:duration-500">
       <div className="flex items-start gap-3">
         <span className="mt-0.5 flex size-9 shrink-0 items-center justify-center rounded-lg bg-gemini-gradient text-white shadow-md">
           <Sparkles className="size-5" />

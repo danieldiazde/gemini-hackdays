@@ -61,8 +61,8 @@ export function DashboardView({
 
       <PrioritiesGrid prioridades={insight.contenido.prioridades} />
 
-      <div className="space-y-3">
-        <div className="flex items-baseline justify-between">
+      <div className="space-y-3 motion-safe:animate-in motion-safe:fade-in-0 motion-safe:duration-500 motion-safe:delay-300 motion-safe:fill-mode-both">
+        <div className="flex flex-wrap items-baseline justify-between gap-2">
           <h2 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
             Bloques sugeridos
           </h2>

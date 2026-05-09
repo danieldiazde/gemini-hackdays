@@ -80,6 +80,8 @@ export function WeeklyCalendar({
 }) {
   return (
     <div className="overflow-hidden rounded-xl bg-card shadow-sm ring-1 ring-foreground/10">
+      <div className="overflow-x-auto">
+        <div className="min-w-[760px]">
       {/* Day header row */}
       <div className="grid grid-cols-[64px_repeat(7,minmax(0,1fr))] border-b border-border bg-muted/40">
         <div />
@@ -194,6 +196,8 @@ export function WeeklyCalendar({
             </div>
           );
         })}
+      </div>
+        </div>
       </div>
     </div>
   );
