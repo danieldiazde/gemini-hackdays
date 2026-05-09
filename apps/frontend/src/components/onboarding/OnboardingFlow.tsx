@@ -6,8 +6,10 @@ import {
   ArrowLeft,
   ArrowRight,
   CheckCircle2,
+  ChevronDown,
   GraduationCap,
   Loader2,
+  Search,
   Sparkles,
 } from "lucide-react";
 import { toast } from "sonner";
@@ -22,6 +24,12 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Checkbox } from "@/components/ui/checkbox";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Progress } from "@/components/ui/progress";
@@ -51,7 +59,7 @@ import type {
 const MATRICULA_REGEX = /^A0\d{7}$/;
 const ICAL_URL_REGEX = /^https:\/\/\S+\.ics(?:[?#]\S*)?$/i;
 const TOTAL_STEPS = 3;
-const SEMESTRES = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const SEMESTRES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 type SelectedMateria = {
   clave: string;
@@ -443,6 +451,100 @@ function StepProfile({
   );
 }
 
+function CarreraPicker({
+  carreras,
+  value,
+  onChange,
+}: {
+  carreras: CarreraSummary[];
+  value: string;
+  onChange: (clave: string) => void;
+}) {
+  const [open, setOpen] = useState(false);
+  const [query, setQuery] = useState("");
+
+  const filtered = query.trim()
+    ? carreras.filter(
+        (c) =>
+          c.carreraClave.toLowerCase().includes(query.toLowerCase()) ||
+          c.nombre.toLowerCase().includes(query.toLowerCase()),
+      )
+    : carreras;
+
+  const selected = carreras.find((c) => c.carreraClave === value);
+
+  function handleSelect(clave: string) {
+    onChange(clave);
+    setOpen(false);
+    setQuery("");
+  }
+
+  return (
+    <>
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        className="flex w-full items-center justify-between rounded-md border border-input bg-background px-3 py-2 text-sm shadow-sm transition hover:bg-muted/40 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+      >
+        {selected ? (
+          <span className="flex items-center gap-2">
+            <GraduationCap className="size-3.5 text-muted-foreground" />
+            <span className="font-semibold">{selected.carreraClave}</span>
+            <span className="truncate text-xs text-muted-foreground">{selected.nombre}</span>
+          </span>
+        ) : (
+          <span className="text-muted-foreground">Elige tu carrera</span>
+        )}
+        <ChevronDown className="size-4 shrink-0 text-muted-foreground" />
+      </button>
+
+      <Dialog open={open} onOpenChange={(v) => { setOpen(v); if (!v) setQuery(""); }}>
+        <DialogContent
+          className="flex max-h-[80vh] flex-col gap-0 p-0 sm:max-w-lg"
+        >
+          <DialogHeader className="px-4 pt-4 pb-2">
+            <DialogTitle>Elige tu carrera</DialogTitle>
+          </DialogHeader>
+
+          <div className="relative px-4 pb-2">
+            <Search className="absolute left-7 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
+            <Input
+              autoFocus
+              placeholder="Buscar por siglas o nombre…"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              className="pl-9"
+            />
+          </div>
+
+          <div className="overflow-y-auto px-2 pb-3">
+            {filtered.length === 0 ? (
+              <p className="py-6 text-center text-sm text-muted-foreground">Sin resultados.</p>
+            ) : (
+              <ul>
+                {filtered.map((c) => (
+                  <li key={c.carreraClave}>
+                    <button
+                      type="button"
+                      onClick={() => handleSelect(c.carreraClave)}
+                      className={`flex w-full items-center gap-3 rounded-md px-3 py-2.5 text-left transition hover:bg-muted/60 ${
+                        value === c.carreraClave ? "bg-gemini-blue/5 text-gemini-blue" : ""
+                      }`}
+                    >
+                      <span className="w-14 shrink-0 text-sm font-bold">{c.carreraClave}</span>
+                      <span className="text-sm text-muted-foreground">{c.nombre}</span>
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        </DialogContent>
+      </Dialog>
+    </>
+  );
+}
+
 function StepCareer({
   state,
   dispatch,
@@ -456,34 +558,20 @@ function StepCareer({
     <div className="space-y-5">
       <div className="space-y-2">
         <Label>Carrera</Label>
-        <Select
-          value={state.carreraClave || undefined}
-          onValueChange={(value) => {
-            dispatch({ type: "SET", field: "carreraClave", value: String(value) });
+        <CarreraPicker
+          carreras={carreras}
+          value={state.carreraClave}
+          onChange={(clave) => {
+            dispatch({ type: "SET", field: "carreraClave", value: clave });
             dispatch({ type: "RESET_MATERIAS" });
           }}
-        >
-          <SelectTrigger className="w-full">
-            <SelectValue placeholder="Elige tu carrera" />
-          </SelectTrigger>
-          <SelectContent>
-            {carreras.map((c) => (
-              <SelectItem key={c.carreraClave} value={c.carreraClave}>
-                <span className="flex items-center gap-2">
-                  <GraduationCap className="size-3.5 text-muted-foreground" />
-                  {c.nombre}
-                  <span className="text-xs text-muted-foreground">({c.carreraClave})</span>
-                </span>
-              </SelectItem>
-            ))}
-          </SelectContent>
-        </Select>
+        />
       </div>
 
       <div className="space-y-2">
         <Label>Modelo educativo</Label>
         <RadioGroup
-          value={state.modelo || undefined}
+          value={state.modelo}
           onValueChange={(value) =>
             dispatch({ type: "SET", field: "modelo", value: String(value) as Modelo })
           }
@@ -491,8 +579,8 @@ function StepCareer({
         >
           {(
             [
-              { value: "tec21", label: "Tec21", hint: "Modelo actual con Semanas Tec." },
-              { value: "clasico", label: "Clásico", hint: "Plan anterior por bloques." },
+              { value: "tec21", label: "TEC21", hint: "Modelo actual con Semanas Tec." },
+              { value: "tec26", label: "TEC26", hint: "Nuevo modelo a partir de 2026." },
             ] as const
           ).map((opt) => (
             <Label
@@ -516,7 +604,7 @@ function StepCareer({
       <div className="space-y-2">
         <Label>Semestre</Label>
         <Select
-          value={state.semestre != null ? String(state.semestre) : undefined}
+          value={state.semestre != null ? String(state.semestre) : ""}
           onValueChange={(value) => {
             dispatch({ type: "SET", field: "semestre", value: Number(value) });
             dispatch({ type: "RESET_MATERIAS" });
@@ -525,7 +613,7 @@ function StepCareer({
           <SelectTrigger className="w-full">
             <SelectValue placeholder="Tu semestre actual" />
           </SelectTrigger>
-          <SelectContent>
+          <SelectContent className="bg-card border border-border shadow-lg">
             {SEMESTRES.map((n) => (
               <SelectItem key={n} value={String(n)}>
                 Semestre {n}
