@@ -39,11 +39,11 @@ export async function POST() {
 
     type EventoRow = {
       user_id: string
-      fuente: 'google'
+      source: 'google'
       external_id: string
       titulo: string
-      inicio: string
-      fin: string
+      fecha_inicio: string
+      fecha_fin: string
     }
 
     const rows: EventoRow[] = []
@@ -62,11 +62,11 @@ export async function POST() {
 
       rows.push({
         user_id: user.id,
-        fuente: 'google',
+        source: 'google',
         external_id: event.id,
         titulo: event.summary,
-        inicio,
-        fin,
+        fecha_inicio: inicio,
+        fecha_fin: fin,
       })
     }
 

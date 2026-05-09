@@ -95,11 +95,11 @@ export async function POST(request: Request) {
     // el índice i corresponde al evento validEvents[i] en el happy path.
     const insertRows = createdIds.map((gcalId, i) => ({
       user_id: user.id,
-      fuente: 'ai_suggested' as const,
+      source: 'ai_suggested' as const,
       external_id: gcalId,
       titulo: validEvents[i]?.titulo ?? '',
-      inicio: validEvents[i]?.inicio ?? '',
-      fin: validEvents[i]?.fin ?? '',
+      fecha_inicio: validEvents[i]?.inicio ?? '',
+      fecha_fin: validEvents[i]?.fin ?? '',
     }))
 
     const { error: insertError } = await supabase

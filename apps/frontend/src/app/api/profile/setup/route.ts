@@ -17,8 +17,8 @@ type PlanDataRaw = {
   }>
 }
 
-function isValidModelo(v: unknown): v is 'tec21' | 'clasico' {
-  return v === 'tec21' || v === 'clasico'
+function isValidModelo(v: unknown): v is 'tec21' | 'tec26' {
+  return v === 'tec21' || v === 'tec26'
 }
 
 function isValidMateria(m: unknown): m is MateriaInput {
@@ -80,7 +80,7 @@ export async function POST(request: Request) {
   }
   if (!isValidModelo(modelo)) {
     return NextResponse.json(
-      { success: false, error: 'modelo debe ser "tec21" o "clasico"' },
+      { success: false, error: 'modelo debe ser "tec21" o "tec26"' },
       { status: 400 },
     )
   }
@@ -206,11 +206,11 @@ export async function POST(request: Request) {
         if (entregas.length > 0) {
           const eventoRows = entregas.map((e) => ({
             user_id: user.id,
-            fuente: 'canvas' as const,
+            source: 'canvas' as const,
             external_id: e.external_id,
             titulo: e.titulo,
-            inicio: `${e.fecha_entrega}T00:00:00Z`,
-            fin: `${e.fecha_entrega}T23:59:59Z`,
+            fecha_inicio: `${e.fecha_entrega}T00:00:00Z`,
+            fecha_fin: `${e.fecha_entrega}T23:59:59Z`,
           }))
 
           const { error: canvasError } = await admin

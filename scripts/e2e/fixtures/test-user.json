@@ -1,0 +1,42 @@
+{
+  "id": "test-user-itc19-001",
+  "name": "Mateo Prueba",
+  "email": "a01783438@tec.mx",
+  "carrera": "ITC",
+  "generacion": "ITC19",
+  "semestre": 5,
+  "materias": [
+    {
+      "clave": "TC3006B",
+      "nombre": "Inteligencia Artificial Avanzada para la Ciencia de Datos I",
+      "profesor": "Dr. Arenas",
+      "creditos": 5,
+      "horario": [
+        { "dia": "Lunes", "inicio": "08:00", "fin": "10:00", "salon": "CSEC-3006" },
+        { "dia": "Miércoles", "inicio": "08:00", "fin": "10:00", "salon": "CSEC-3006" }
+      ]
+    },
+    {
+      "clave": "TC3005B",
+      "nombre": "Construcción de Software y Toma de Decisiones",
+      "profesor": "Dra. Ramírez",
+      "creditos": 5,
+      "horario": [
+        { "dia": "Martes", "inicio": "10:00", "fin": "12:00", "salon": "CSEC-2001" },
+        { "dia": "Jueves", "inicio": "10:00", "fin": "12:00", "salon": "CSEC-2001" }
+      ]
+    },
+    {
+      "clave": "TC2004B",
+      "nombre": "Modelación Computacional de Sistemas Fundamentales",
+      "profesor": "Dr. López",
+      "creditos": 4,
+      "horario": [
+        { "dia": "Lunes", "inicio": "12:00", "fin": "14:00", "salon": "CSEC-1010" },
+        { "dia": "Viernes", "inicio": "10:00", "fin": "12:00", "salon": "CSEC-1010" }
+      ]
+    }
+  ],
+  "canvasIcalUrl": "https://tec.instructure.com/feeds/calendars/user_TESTTOKEN.ics",
+  "googleRefreshToken": "test-refresh-token-placeholder"
+}

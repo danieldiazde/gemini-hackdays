@@ -44,11 +44,11 @@ export async function POST(request: Request) {
 
     const rows = entregas.map((e) => ({
       user_id: user.id,
-      fuente: 'canvas' as const,
+      source: 'canvas' as const,
       external_id: e.external_id,
       titulo: e.titulo,
-      inicio: `${e.fecha_entrega}T00:00:00Z`,
-      fin: `${e.fecha_entrega}T23:59:59Z`,
+      fecha_inicio: `${e.fecha_entrega}T00:00:00Z`,
+      fecha_fin: `${e.fecha_entrega}T23:59:59Z`,
     }))
 
     // Requiere constraint única en DB:

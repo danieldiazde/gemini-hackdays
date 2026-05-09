@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instructure Inc.//Canvas//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canvas — TecCoach Test User
+X-WR-TIMEZONE:America/Monterrey
+BEGIN:VEVENT
+UID:assignment-tc3006b-hw4-20260512@canvas.tec.mx
+DTSTART:20260512T235900Z
+DTEND:20260513T000000Z
+SUMMARY:Entrega: Tarea 4 — Redes Neuronales Convolucionales (TC3006B)
+DESCRIPTION:Sube tu notebook de PyTorch con la implementación de CNN para
+ clasificación de imágenes CIFAR-10. Incluye reporte de accuracy por época.
+URL:https://tec.instructure.com/courses/88001/assignments/412301
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-tc3005b-parcial2-20260514@canvas.tec.mx
+DTSTART:20260514T150000Z
+DTEND:20260514T170000Z
+SUMMARY:Examen: TC3005B Parcial 2 — Arquitectura de Software
+DESCRIPTION:Examen presencial en CSEC-2001. Temas: patrones de diseño\,
+ microservicios\, CI/CD y pruebas de integración. Traer identificación.
+URL:https://tec.instructure.com/courses/88002/assignments/412415
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:assignment-tc2004b-modelo-20260517@canvas.tec.mx
+DTSTART:20260517T235900Z
+DTEND:20260518T000000Z
+SUMMARY:Entrega: Proyecto Módulo 3 — Simulación de Sistemas (TC2004B)
+DESCRIPTION:Entrega del modelo de simulación en Python (SimPy). El archivo
+ debe incluir análisis de sensibilidad y reporte ejecutivo en PDF.
+URL:https://tec.instructure.com/courses/88003/assignments/412588
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-tc3006b-parcial3-20260520@canvas.tec.mx
+DTSTART:20260520T140000Z
+DTEND:20260520T160000Z
+SUMMARY:Examen: TC3006B Parcial 3 — IA Avanzada para Ciencia de Datos
+DESCRIPTION:Examen final de módulo en CSEC-3006. Abarca regresión logística\,
+ árboles de decisión\, Random Forest y XGBoost. Permitida una hoja de fórmulas.
+URL:https://tec.instructure.com/courses/88001/assignments/412790
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:event-info-session-20260522@canvas.tec.mx
+DTSTART:20260522T170000Z
+DTEND:20260522T180000Z
+SUMMARY:Sesión informativa: Semana i Verano 2026
+DESCRIPTION:Reunión de orientación para alumnos interesados en proyectos de
+ Semana i del período de verano. Sala Zoom enviada por correo institucional.
+URL:https://tec.instructure.com/courses/88000/calendar_events/77541
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
