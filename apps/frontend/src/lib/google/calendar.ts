@@ -67,11 +67,20 @@ export async function listEvents(
 
 // --- createEvents ---
 
+export type CreateEventsResult = {
+  ids: string[]
+  /** Per-event errors keyed by titulo. Empty if everything succeeded. */
+  errors: Array<{ titulo: string; status: number; message: string }>
+}
+
+const TIMEZONE = 'America/Monterrey'
+
 export async function createEvents(
   token: string,
   events: NewCalEvent[],
-): Promise<string[]> {
+): Promise<CreateEventsResult> {
   const ids: string[] = []
+  const errors: CreateEventsResult['errors'] = []
 
   for (const event of events) {
     try {
@@ -86,8 +95,10 @@ export async function createEvents(
           body: JSON.stringify({
             summary: event.titulo,
             description: `[TecCoach] ${event.descripcion ?? ''}`,
-            start: { dateTime: event.inicio },
-            end: { dateTime: event.fin },
+            // Always include timeZone so Google doesn't reject when the
+            // dateTime string is missing an offset.
+            start: { dateTime: event.inicio, timeZone: TIMEZONE },
+            end: { dateTime: event.fin, timeZone: TIMEZONE },
           }),
         },
       )
@@ -97,15 +108,30 @@ export async function createEvents(
         console.error(
           `[createEvents] falló "${event.titulo}" (${response.status}): ${text}`,
         )
+        // Try to surface a clean message from Google's JSON error envelope.
+        let message = text
+        try {
+          const json = JSON.parse(text) as { error?: { message?: string } }
+          if (json.error?.message) message = json.error.message
+        } catch {
+          // not JSON, keep raw text (truncated)
+        }
+        errors.push({
+          titulo: event.titulo,
+          status: response.status,
+          message: message.slice(0, 200),
+        })
         continue
       }
 
       const created = (await response.json()) as GCalCreatedEvent
       if (created.id) ids.push(created.id)
     } catch (err) {
+      const message = err instanceof Error ? err.message : String(err)
       console.error(`[createEvents] error inesperado en "${event.titulo}":`, err)
+      errors.push({ titulo: event.titulo, status: 0, message })
     }
   }
 
-  return ids
+  return { ids, errors }
 }

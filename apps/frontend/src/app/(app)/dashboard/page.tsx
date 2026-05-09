@@ -1,4 +1,4 @@
-import { parseISO } from "date-fns";
+import { getISOWeek, getYear, parseISO } from "date-fns";
 
 import { DashboardView } from "@/components/dashboard/DashboardView";
 import { EmptyInsightCard } from "@/components/dashboard/EmptyInsightCard";
@@ -116,12 +116,16 @@ export default async function DashboardPage({
 
   const usingFixture = realInsight === "missing";
 
-  // Anchor the calendar week to whatever data we're showing. With fixtures, use
-  // the seed reference date so the demo events line up. With real data, parse
-  // the insight's semana_iso (ISO week) or fall back to today.
-  const reference = usingFixture
-    ? FIXTURE_REFERENCE_DATE
-    : parseIsoWeekToDate(insight.semana_iso) ?? new Date();
+  // Anchor the calendar week to TODAY for real data. Fixtures use the seed
+  // reference so demo events line up. Stale cached insights (from a previous
+  // ISO week) get treated as "no insight yet" so the user is prompted to
+  // regenerate instead of seeing last week's blocks on this week's calendar.
+  const today = new Date();
+  const currentSemanaISO = `${getYear(today)}-W${String(getISOWeek(today)).padStart(2, "0")}`;
+  if (!usingFixture && insight.semana_iso !== currentSemanaISO) {
+    return <EmptyInsightCard />;
+  }
+  const reference = usingFixture ? FIXTURE_REFERENCE_DATE : today;
   const week = getWeekRange(reference);
 
   const realEventos = demo ? "missing" : await loadWeekEventos(week.start, week.end);
@@ -142,20 +146,3 @@ export default async function DashboardPage({
   );
 }
 
-/** Convert "2026-W20" to the Monday of that ISO week. */
-function parseIsoWeekToDate(semanaIso: string): Date | null {
-  const match = /^(\d{4})-W(\d{2})$/.exec(semanaIso);
-  if (!match) return null;
-  const year = Number(match[1]);
-  const week = Number(match[2]);
-  // ISO week 1 is the week with the year's first Thursday. Construct from
-  // simple date math: take Jan 4 of the year (always in week 1), back up to
-  // Monday, then add (week - 1) weeks.
-  const jan4 = new Date(Date.UTC(year, 0, 4));
-  const dayOfWeek = jan4.getUTCDay() || 7;
-  const week1Monday = new Date(jan4);
-  week1Monday.setUTCDate(jan4.getUTCDate() - dayOfWeek + 1);
-  const target = new Date(week1Monday);
-  target.setUTCDate(week1Monday.getUTCDate() + (week - 1) * 7);
-  return target;
-}
