@@ -1,0 +1,648 @@
+{
+  "carreraClave": "LHD26",
+  "nombre": "Licenciatura en Humanidades Digitales e Inteligencia Artificial",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica y matemáticas.",
+    "Comprensión básica de metodologías y técnicas de investigación, así como, nociones sobre cultura general, historia, política y economía.",
+    "Habilidades para el pensamiento crítico, el análisis, la observación y el razonamiento.",
+    "Elaboración de proyectos y uso de medios y herramientas digitales. Capacidades para expresar ideas de manera clara y efectiva tanto en forma verbal, como escrita.",
+    "Aptitudes, para el trabajo en equipo y una comunicación asertiva, para la solución de problemas y el uso de algunas aplicaciones informáticas. Así como, para el razonamiento lógico, el liderazgo y una perseverancia y dedicación constantes.",
+    "Preferentemente, estudiantes con curiosidad intelectual y gusto por la experimentación tecnológica, el pensamiento humanista y el trabajo interdisciplinario.",
+    "Analyze ecosystems and platforms of user-producers and consumers in various environments and platforms using analog and digital methods, data science, digital humanities, and cultural analytics.",
+    "Propose the application of computational and data visualization methods in the analysis of cultural objects, activities, and behaviors.",
+    "Generate relevant knowledge for strategic decision-making, market analysis, the creation and distribution of new content, product and service development, among other key aspects.",
+    "Develop and manage digital projects using cutting-edge technology under criteria of innovation, sustainability, and social impact, integrating media languages and generative artificial intelligence tools ethically.",
+    "Design interfaces for the management and/or dissemination of digital content.",
+    "Strategic information areas in public and private organizations.",
+    "Content distribution companies and organizations.",
+    "Entertainment companies.",
+    "Social media platforms.",
+    "Market research agencies.",
+    "Publishing world.",
+    "Technology companies.",
+    "Develops information systems for digital humanities based on data science fundamentals and tools.",
+    "Generates solutions with Artificial Intelligence technologies in humanistic fields, adhering to usage laws and regulations."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Plan de Estudios de Licenciatura en Humanidades Digitales e Inteligencia Artificial, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica y matemáticas. Comprensión básica de metodologías y técnicas de investigación, así como, nociones sobre cultura general, historia, política y economía. Habilidades para el pensamiento crítico, el análisis, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas dig",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "AV1003B",
+            "nombre": "Producción de contenidos I: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Producción de contenidos I: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "requisitosDetalle": "Equivalencia: AV1002B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar proyectos de producción de contenidos digitales narrativos, mediante la definición clara de objetivos, la conceptualización creativa del proyecto para audiencias específicas y la gestión eficiente de recursos para garantizar su viabilidad, generando alternativas de valor. - Utilizar tecnologías visuales, sonoras y audiovisuales mediante la producción de sentido y contenidos narrativos, redactando textos y utilizando lenguajes y códigos lingüísticos y no-lingüísticos. - Explorar alternativas que generan valor mediante la ideación creativa que reta el pensamiento convencional, a través de planear la redacción de textos tomando en cuenta el propósito de comunicación y el contexto. - Utilizar lenguajes y códigos lingüísticos y no-lingüísticos en la producción de contenidos, mediante la planeación y diseño de contenidos digital."
+          },
+          {
+            "clave": "CO1003B",
+            "nombre": "Cultura digital e inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Cultura digital e inteligencia artificial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Identificar patrones y tendencias tecnológicas y de contenidos de la cultura digital como la esfera en la que se desarrolla la producción creativa expresando ejemplos concretos que den cuenta de ello. - Distinguir herramientas de inteligencia artificial y tecnologías generativas emergentes que pueden apoyar la producción creativa en la música, la literatura, la comunicación y la educación, cumpliendo con los estándares de dichas disciplinas. - Realizar propuestas estratégicas de acción a través de la producción de contenidos con herramientas generativas aplicadas a la producción creativa musical, literaria, comunicativa, educativa o informativa."
+          },
+          {
+            "clave": "CO1004B",
+            "nombre": "Exploración de prácticas, tendencias y audiencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Exploración de prácticas, tendencias y audiencias",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar fenómenos y problemáticas humanas mediante la aplicación de instrumentos y herramientas de investigación cualitativos, a través de la observación participante, la entrevista a profundidad, los grupos de enfoque, el análisis de materiales de archivo, artefactos culturales, los enfoques audiovisuales y nuevos enfoques virtuales. - Utilizar técnicas e instrumentos cualitativos de recopilación y análisis de datos para explicar los objetivos, posibilidades y limitaciones de los métodos de investigación cualitativa y las formas en que los antropólogos socioculturales los emplean en el trabajo de campo etnográfico. - Promover la participación incluyente y la diversidad de pensamiento a través de la generación de estrategias verbales de comunicación en donde se demuestre una comprensión crítica de las consideraciones éticas relacionadas con la investigación con personas, la importancia de reconocer y reflexionar sobre las relaciones de poder dentro de los contextos de investigación y de transmitir mensajes de manera clara, elocuente, responsable y contextualizada. - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cualitativos de recopilación de datos."
+          },
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1022",
+            "nombre": "Del homo sapiens al humano postdigital",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Del homo sapiens al humano postdigital",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH2006",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Distinguir las bases teóricas y los conceptos de la filosofía y la antropología cultural, a partir del análisis de textos fundamentales, para desarrollar una comprensión crítica de la evolución de la modernidad y la noción de lo humano desde el Renacimiento y hasta nuestros días, considerando las teorías relacionadas con raza, etnicidad, género y sexualidad. - Plantear múltiples escenarios y metodologías de análisis de riesgo para anticipar las posibilidades de cambio en el contexto analizado a partir de la comprensión del concepto de posthumanismo y sus diversas interpretaciones contemporáneas, incluyendo discusiones sobre el fin de la historia, riesgos globales, transhumanismo, inteligencia artificial, desarrollo sostenible y los dilemas éticos contemporáneos."
+          },
+          {
+            "clave": "EH1023",
+            "nombre": "Programación para humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Programación para humanidades digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender y aplicar los principios del pensamiento computacional, incluyendo la descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos para resolver problemas mediante la comprensión de las bases del pensamiento computacional y enfoques algorítmicos. - Usar el pensamiento computacional en la programación y diseño de soluciones a problemas concretos ya que conocerá los lenguajes de programación y convertir soluciones lógicas en códigos ejecutables. - Identificar oportunidades de valor relevantes para el contexto de aplicación , evaluando críticamente y utilizando herramientas y técnicas computacionales en el contexto de proyectos de humanidades y medios creativos."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AV2005B",
+            "nombre": "Producción de contenidos II: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26AT0001&lang=ES",
+            "nombreCompleto": "Producción de contenidos II: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26AT0001",
+              "S26EM0002"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Producir contenidos digitales a través de lenguajes, tecnologías y metodologías para el desarrollo de proyectos audiovisuales, narrativos o educativos, integrando lenguajes y códigos lingüísticos y no-lingüísticos. - Administrar proyectos digitales de producción de contenidos, audiovisuales, narrativos o educativos, mediante la definición de objetivos, la conceptualización creativa del proyecto para audiencias específicas, así como la gestión eficiente de recursos para garantizar su viabilidad. - Experimentar de forma iterativa en las diferentes fases del desarrollo del proyecto con alternativas para encontrar las mejores soluciones para la producción del prototipo."
+          },
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1024",
+            "nombre": "Estudios críticos de la cultura",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0007&lang=ES",
+            "nombreCompleto": "Estudios críticos de la cultura",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26EH0007"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Promover la participación incluyente y la diversidad de pensamiento, a partir del análisis de las prácticas culturales y problemáticas humanas, mediante conceptos teórico-filosóficos que dan forma a las nociones de cultura e identidad en un mundo interconectado, así como a sus expresiones desde el multiculturalismo, la hibridación, el interculturalismo, la apropiación cultural, la globalización, y la resistencia cultural. - Distinguir conceptos de la teoría crítica y el análisis cultural, a partir de su representación identitaria y contextual presente en el arte y la cultura moderna y contemporánea, tanto a nivel global como en el contexto específico de México, analizando sus transformaciones y continuidades en los siglos XX y XXI."
+          },
+          {
+            "clave": "EH1025",
+            "nombre": "Lenguajes digitales, tecnologías y semiótica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Lenguajes digitales, tecnologías y semiótica",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "requisitosDetalle": "Equivalencia: EH1009",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender los mecanismos de producción de sentido, de significación y de comunicación de lenguajes y códigos lingüísticos y no-lingüísticos para una compresión integral de la semiótica y sus posibles aplicaciones en diversos ámbitos, incluyendo el lenguaje, la cultura, el análisis de medios, de textos culturales y la comunicación digital. - Elaborar escritos cuidando la coherencia, la corrección gramatical y respetando los requisitos y formatos solicitados aplicando el análisis semiótico en diversos textos culturales como medios visuales, cine, publicidad y música para comprender la producción de significados."
+          },
+          {
+            "clave": "H1003B",
+            "nombre": "Inteligencia y estrategia de datos culturales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0001&lang=ES",
+            "nombreCompleto": "Inteligencia y estrategia de datos culturales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar objetos de estudio de fenómenos y problemáticas humanas utilizando técnicas e instrumentos cuantitativos de recopilación de datos. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, identificando los supuestos a través del planteamiento de hipótesis y del uso de R como herramienta de estadística descriptiva e inferencial. - Aplicar herramientas de estadística descriptiva e inferencial a partir del análisis de textos culturales y de la preparación de los datos para el análisis estadístico."
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "AV2007B",
+            "nombre": "Diseño de experiencias interactivas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26CB0001&lang=ES",
+            "nombreCompleto": "Diseño de experiencias interactivas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26CB0001",
+              "S26IA0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar experiencias interactivas mediante la aplicación de principios y conceptos de diseño interactivo, diseño de interfaces y experiencia de usuario. - Experimentar la elaboración de prototipos usando herramientas para su generación y evaluación iterativa. - Producir contenidos con herramientas de tecnologías generativas emergentes y un sitio web multimedia por medio de la codificación de los elementos necesarios para su construcción."
+          },
+          {
+            "clave": "AV2008B",
+            "nombre": "Narrativas digitales",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Narrativas digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Administrar proyectos de producción de contenidos de diversos géneros y formatos de salida a través de la utilización de lenguajes y códigos lingüísticos y no-lingüísticos. - Comprender el binomio arte y tecnología, por medio de la exploración y creación de un proyecto de narrativa inmersiva, interactiva y experiencial que utilice diversas tecnologías emergentes e identifique posibles acciones orientadas a promover el bienestar y la sostenibilidad. - Incorporar los valores de la democracia en acciones de interés ciudadano empleando estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar que contribuyan a la creación de narrativas digitales participativas, inmersivas, interactivas y transmediáticas enfocadas en la generación de experiencias."
+          },
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH1026",
+            "nombre": "Fundamentos de las humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0004&lang=ES",
+            "nombreCompleto": "Fundamentos de las humanidades digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender la analítica cultural a través de identificar las teorías de la antropología y de la arqueología en la cultura digital. - Comprender la tecnopolítica aplicando las teorías de la antropología y arqueología en proyectos de humanidades digitales. - Preparar la curaduría digital a través de la revisión de diferentes casos que integran la analítica cultural y su aplicación en las disciplinas asociadas al campo, conociendo sus principales categorías, metodologías y herramientas de análisis. - Analizar sistémicamente las problemáticas desde diversos debates teóricos y legales así como de diferentes dominios, escalas y disciplinas a través de la argumentación de diversos puntos de vista con base en los principios éticos de reconocimiento de la dignidad humana y los derechos humanos."
+          },
+          {
+            "clave": "MA1061",
+            "nombre": "Pensamiento algorítmico y matemático",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Pensamiento algorítmico y matemático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Resolver problemas de programación e implementación de inteligencia artificial mediante la aplicación de técnicas matemáticas de álgebra lineal, cálculo, probabilidad y estadística. - Identificar los conceptos básicos de la inteligencia artificial y teoría de agentes inteligentes para realizar aplicaciones directas de tecnologías, evaluaciones críticas con consideraciones éticas y responsables usando conceptos matemáticos y computacionales necesarios. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través de asignaciones y proyectos prácticos de programación."
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "AV2009B",
+            "nombre": "Arte, computadoras y tecnologías de medios",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0006&lang=ES",
+            "nombreCompleto": "Arte, computadoras y tecnologías de medios",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "competenciasEvaluan": [
+              "S26H0006",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender el binomio arte y tecnología, a través del estudio de la evolución del arte digital y su aplicación práctica. - Diseñar productos, servicios y experiencias interactivas en las humanidades digitales, a través del aprendizaje de computación física y programación. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada en la presentación de su proyecto a desarrollar."
+          },
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "EH2001B",
+            "nombre": "Proyectos de humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0007&lang=ES",
+            "nombreCompleto": "Proyectos de humanidades digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0007",
+              "S26TI0015",
+              "S26TI0016"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Diseñar proyectos de humanidades digitales mediante el análisis de requerimientos y el establecimiento del perfil del usuario del proyecto para la generación de narrativas efectivas de datos. - Administrar el ciclo de vida de proyectos de humanidades digitales mediante el uso de metodologías de gestión y sustentabilidad de proyectos digitales. - Garantizar la disponibilidad de los datos para generar las bases requeridas mediante la exploración y establecimiento de los requerimientos funcionales del proyecto, la correcta evaluación y adquisición de las fuentes de información necesarias así como la elección de la visualización adecuada."
+          },
+          {
+            "clave": "EH2042",
+            "nombre": "Métodos digitales y ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0002&lang=ES",
+            "nombreCompleto": "Métodos digitales y ciencia de datos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26IA0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender las aproximaciones al análisis de textos culturales aplicando técnicas cuantitativas de análisis y visualización de datos, storytelling para la presentación de resultados de estudios de textos y prácticas culturales en archivos digitales, redes sociales y/o plataformas de distribución y consumo de contenidos. - Aplicar herramientas de estadística descriptiva e inferencial al análisis de textos y prácticas culturales a través de la comprensión y aplicación de los conceptos matemáticos, estadísticos y computacionales subyacentes a los algoritmos asociados con la ciencia de datos y los métodos digitales. - Identificar supuestos a través del planteamiento de hipótesis mediante la validación de soluciones emprendedoras."
+          },
+          {
+            "clave": "H2060",
+            "nombre": "Análisis crítico geoespacial: texto-imagen-sonido",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0005&lang=ES",
+            "nombreCompleto": "Análisis crítico geoespacial: texto-imagen-sonido",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0005",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Comprender la analítica cultural a través de la investigación y el análisis de la arqueología y antropología digital. - Mapear elementos culturales y geoespaciales a través del proceso de recolección, procesamiento y representación de datos con diferentes herramientas y plataformas. - Procesar la edición digital de texto, imágenes y sonidos que permitan reconstruir el patrimonio cultural mediante el análisis, reflexión y uso de diferentes herramientas y librerías. - Utilizar metodologías cuantitativas y cualitativas en la evaluación de argumentos y evidencias en el campo de las humanidades digitales. - Valorar el alcance, temporalidad y credibilidad de diferentes fuentes de datos que le permitan plantear conclusiones fundamentadas en argumentos validados."
+          },
+          {
+            "clave": "TC2018B",
+            "nombre": "Sistemas de información para humanidades digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "Haber Cursado CO1003B y Estar Cursando EH2001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26TI0008&lang=ES",
+            "nombreCompleto": "Sistemas de información para humanidades digitales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26TI0008"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Conocer lenguajes de programación y convertir soluciones lógicas en códigos ejecutables a través del desarrollo de sistemas de información para las humanidades digitales considerando la conexión de recursos de la arquitectura web, los fundamentos y herramientas de la ciencia de datos, el diseño de soluciones de forma creativa, el uso de herramientas colaborativas y propuestas de interfaces para la gestión de contenidos de medios digitales - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad a través del despliegue de los sistemas en el entorno adecuado siguiendo las mejores prácticas para manejo de datos y seguridad"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "H2009B",
+            "nombre": "Creación y curaduría de artefactos literarios",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26H0001&lang=ES",
+            "nombreCompleto": "Creación y curaduría de artefactos literarios",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "C26H0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar la interacción entre tecnologías emergentes, cultura, sociedad y artes, desde la perspectiva de las humanidades a través de métodos digitales e interpretaciones estéticas contemporáneas. - Comprender el binomio arte y tecnología mediante la creación de un artefacto literario, el uso de procesos de curaduría, de procesos de edición digital, así como la exploración de alternativas que generan valor mediante la ideación creativa que reta el pensamiento convencional."
+          },
+          {
+            "clave": "H3042",
+            "nombre": "Estudios críticos digitales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Haber Cursado EH1026",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26H0002&lang=ES",
+            "nombreCompleto": "Estudios críticos digitales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "S26H0002",
+              "S26H0003",
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reflexionar críticamente acerca del efecto de las tecnologías emergentes en el desarrollo sostenible, a partir de la revisión de filosofías contemporáneas que permitan discutir, evaluar y desarrollar otros indicadores de impacto en el contexto de las humanidades para considerar crítica y creativamente visiones de futuros posibles, probables, plausibles y preferibles. - Contextualizar investigaciones de humanidades digitales para comprender la tecnopolítica y reflexionar sobre el binomio arte y tecnología a partir del estudio crítico de la historia, la cultura, la política y las artes. - Comprender el impacto que tiene el desarrollo de las tecnologías emergentes en la vida democrática, en la justicia social y en el desarrollo sostenible, por medio de la discusión de casos. - Construir propuestas de proyectos tecnológicos que incorporan valores de la democracia en acciones de interés ciudadano a través de la argumentación y principios éticos de reconocimiento de la dignidad humana y los derechos humanos."
+          },
+          {
+            "clave": "MA2010B",
+            "nombre": "Aprendizaje automático para las humanidades",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "requisitos": "(Haber Cursado EH1023 y Haber Cursado MA1061 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26IA0004&lang=ES",
+            "nombreCompleto": "Aprendizaje automático para las humanidades",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26IA0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Reconocer los fundamentos del procesamiento del lenguaje natural y sus aplicaciones mediante la identificación de oportunidades de valor relevantes para el contexto de aplicación. - Evaluar modelos de aprendizaje automático y aprendizaje profundo a través de prácticas de Procesamiento de Lenguaje Natural (PLN) tradicionales como traducciones o análisis de sentimientos. - Generar soluciones con tecnologías de inteligencia artificial, en los ámbitos humanísticos, con apego a las leyes y regulaciones de uso en problemas actuales aplicando técnicas avanzadas como incrustación de palabras, redes neuronales recurrentes, modelos de transformadores y transferencia de aprendizaje."
+          },
+          {
+            "clave": "TC2055",
+            "nombre": "Fundamentos de inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "(Haber Cursado EH1023 y Haber Cursado MA1061 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0011&lang=ES",
+            "nombreCompleto": "Fundamentos de inteligencia artificial",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26IA0011",
+              "S26TC0012",
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Distinguir los conceptos y algoritmos fundamentales de la inteligencia artificial y teoría de agentes inteligentes a través de problemas clásicos en situaciones reales. - Construir aplicaciones de inteligencia artificial a partir de los fundamentos de modelos de procesamiento de lenguaje natural, algoritmos de visión computacional y aprendizaje automático. - Evaluar los modelos y métodos de aprendizaje automático a través de explorar sus fortalezas y limitantes. - Experimentar con desarrollos tecnológicos y tecnologías emergentes en las aplicaciones de la inteligencia artificial de acuerdo con la teoría de sistemas y propuestas estratégicas de acción para los futuros proyectados."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3117",
+            "nombre": "Tópicos I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3118",
+            "nombre": "Tópicos II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3119",
+            "nombre": "Tópicos III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3120",
+            "nombre": "Tópicos IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3121",
+            "nombre": "Tópicos V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "VA3122",
+            "nombre": "Tópicos VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Tópicos VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "H3002B",
+            "nombre": "Proyecto de humanidades e inteligencia artificial",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26H0002&lang=ES",
+            "nombreCompleto": "Proyecto de humanidades e inteligencia artificial",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "competenciasEvaluan": [
+              "C26H0002",
+              "C26CO0001",
+              "C26EH0001",
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar las teorías de la antropología y la arqueología en proyectos de humanidades digitales mediante la investigación, desarrollo y gestión de un proyecto de las Humanidades Digitales y el uso responsable de tecnologías y los medios digitales para la comunicación escrita humana y no humana. - Desplegar proyectos en el ámbito de las humanidades digitales aplicando diferentes métodos y recursos y aproximaciones respetando la cultura de la legalidad y cumpliendo acuerdos establecidos. - Diseñar soluciones deseables, factibles y viables, con base en las necesidades del usuario y en la sostenibilidad a través de la administración del ciclo de vida de un proyecto de las humanidades digitales. - Comunicar de forma escrita, verbal y visual un proyecto en las Humanidades Digitales utilizando de forma responsable tecnologías y medios digitales."
+          },
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

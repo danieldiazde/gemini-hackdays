@@ -1,0 +1,222 @@
+{
+  "carreraClave": "ING26",
+  "nombre": "Ingeniería / Exploración",
+  "descripcionES": "Un crédito académico implica 750 minutos de instrucción directa por un docente en horas-clase y, al menos, 1500 minutos de trabajo independiente. Las horas-clase ocurren en sesiones de 50 minutos cada una.",
+  "competencias": [],
+  "perfilIngreso": "",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "IB1007",
+            "nombre": "Biología y sustentabilidad",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Biología y sustentabilidad",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Bioingeniería",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer soluciones sustentables a problemas de ingeniería aplicando principios básicos de la biología. - Realizar acciones orientadas a promover el bienestar y la sostenibilidad aplicando herramientas y conceptos de la biología."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1037",
+            "nombre": "Pensamiento algorítmico",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Pensamiento algorítmico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1028",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar colaborativamente soluciones a problemas ingenieriles en modelos físicos y computacionales a través del diseño e implementación de algoritmos utilizando un lenguaje de programación - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado a través del planteamiento y evaluación de diferentes alternativas de solución a los problemas propuestos"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1028B",
+            "nombre": "Fundamentos de termodinámica",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado F1025B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0005&lang=ES",
+            "nombreCompleto": "Fundamentos de termodinámica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26MA0005"
+            ],
+            "requisitosDetalle": "Equivalencia: F1010B ; F1015B ; F1018B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos y principios científicos mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Aplicar principios básicos de ciencias para proponer soluciones sustentables a problemas de ingeniería mediante la solución de retos, escenarios y/o problemas relacionados que consideren el impacto ambiental, la eficiencia energética y el uso responsable de recursos. - Emplear estrategias verbales y no verbales para dialogar, negociar, persuadir e inspirar mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con transferencia de calor, cambios de estado de la materia y ciclos termodinámicos."
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054",
+            "nombreCompleto": "Estadística y manejo de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles con el análisis de datos y la detección de patrones a través de métodos gráficos, medidas estadísticas y modelos matemáticos. - Plantear hipótesis para hacer estimaciones de parámetros e identificar supuestos de modelos obtenidos a partir de los datos. - Plantear conclusiones fundamentadas en argumentos validados con técnicas estadísticas."
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Cálculo multivariable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, mediante la simulación de procesos ingenieriles de múltiples variables. - Describir el comportamiento de sistemas ingenieriles a través de la resolución de modelos matemáticos multivariables de aplicaciones prácticas."
+          },
+          {
+            "clave": "MA1056",
+            "nombre": "Álgebra lineal",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Álgebra lineal",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través de la Resolución de problemas que involucren matrices y sistemas de ecuaciones lineales para analizar impactos económicos, ambientales y sociales. - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos lineales considerando factores ambientales y sociales. - Implementar colaborativamente soluciones a problemas ingenieriles través del desarrollo de modelos matemáticos y su solución computacional utilizando hojas de cálculo y software básico."
+          },
+          {
+            "clave": "Q1030",
+            "nombre": "Fundamentos de química",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Fundamentos de química",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar principios básicos de ciencias para proponer soluciones sustentables a problemas de ingeniería, integrando conocimientos teóricos y prácticos de química para abordar desafíos medioambientales y tecnológicos - Integrar metodologías de evaluación de argumentos y evidencias, combinando el estudio de principios químicos fundamentales con experimentos de laboratorio"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      }
+    ]
+  }
+}

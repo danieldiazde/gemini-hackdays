@@ -1,0 +1,922 @@
+{
+  "carreraClave": "LLE19",
+  "nombre": "Licenciatura en Letras Hispánicas",
+  "descripcionES": "La opción seleccionada por el alumno debe ser autorizada por su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1003",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 60,
+            "horasAuto": 20,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 60,
+            "aDetalle": 20
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "A1004",
+            "nombre": "Cultura visual y sonora",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0301A&lang=ES",
+            "nombreCompleto": "Cultura visual y sonora",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0301A",
+              "SESC0102A",
+              "SESC0401A",
+              "SEG0503A"
+            ],
+            "objetivo": "El estudiante producirá propuestas y prototipos creativos visuales y sonoros considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas del mundo occidental."
+          },
+          {
+            "clave": "AV1002B",
+            "nombre": "Técnicas y discursos fotográficos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Técnicas y discursos fotográficos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0205A"
+            ],
+            "requisitosDetalle": "Equivalencia: CO1006B ; AV1003B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante produce fotografías para diversos usos bajo el conocimiento del escenario histórico de las narrativas fotográficas, las técnicas básicas de captura, iluminación y edición fotográficas, los fundamentos de composición visual y fotográfica, y resolverá un reto produciendo una narrativa fotográfica sobre identidad cultural."
+          },
+          {
+            "clave": "CO1001B",
+            "nombre": "Metodologías de investigación de factores humanos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0202A&lang=ES",
+            "nombreCompleto": "Metodologías de investigación de factores humanos",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0202A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SESC0202A"
+            ],
+            "requisitosDetalle": "Equivalencia: AR1030",
+            "objetivo": "Al terminar la unidad de formación, el estudiante identifica necesidades, deseos, patrones de comportamiento y gustos de un público específico aplicando métodos de estudio de factores humanos. Al final, produce un reporte de investigación aplicando metodologías cualitativas y cuantitativas para estudiar una problemática relacionada con su área disciplinar y/o de interés."
+          },
+          {
+            "clave": "DL1022",
+            "nombre": "Metodologías del pensamiento creativo",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0103A&lang=ES",
+            "nombreCompleto": "Metodologías del pensamiento creativo",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Diseño",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A",
+              "SEG0201A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0401A"
+            ],
+            "requisitosDetalle": "Equivalencia: DL1024",
+            "descripcion": "Es un curso de nivel básico en el área de diseño que tiene la intención de que el alumno conozca los fundamentos de la creatividad, las bases del proceso creativo y aplique sus herramientas en diferentes contextos, incluyendo el proceso de diseño para desarrollar propuestas de soluciones creativas a necesidades expresas de las personas. No requiere conocimientos previos. Como resultado del aprendizaje el alumno aplica herramientas del pensamiento creativo en el proceso de diseño.",
+            "objetivo": "El estudiante desarrollará y construirá propuestas creativas considerando las necesidades del usuario y aplicando principios de la creatividad, del pensamiento creativo y tecnologías pertinentes."
+          },
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "EH1001B",
+            "nombre": "Inmersión y experimentación creativa",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Inmersión y experimentación creativa",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arte",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0401A",
+              "SESC0205A",
+              "SESC0203A",
+              "SEG0201A",
+              "SEG0301A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SESC0101A",
+              "SESC0203A",
+              "SESC0205A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0403A",
+              "SEG0301A"
+            ],
+            "requisitosDetalle": "Equivalencia: A1007B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales y espaciales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Diseña propuestas utilizando metodologías basadas en procesos creativos. - Analiza contenidos y narrativas utilizando teorías y metodologías especializadas. - Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. -Incorpora el entorno físico y virtual como base en sus propuestas de representación."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "AR1001B",
+            "nombre": "Representación formal del espacio",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Representación formal del espacio",
+            "escuela": "Arquitectura, Arte y Diseño",
+            "departamento": "Arquitectura",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0403A",
+              "SESC0301A",
+              "SESC0401A",
+              "SESC0402A",
+              "SEG0604A"
+            ],
+            "competenciasEvaluan": [
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0302A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0403A",
+              "SEG0604A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Produce mensajes visuales aplicando los fundamentos del diseño y de la comunicación de manera efectiva. - Crea dibujos, maquetas y prototipos aplicando conceptos de diseño. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Selecciona las tecnologías pertinentes a proyectos creativos."
+          },
+          {
+            "clave": "AV1001B",
+            "nombre": "Narrativa audiovisual",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0403A&lang=ES",
+            "nombreCompleto": "Narrativa audiovisual",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Medios y Cultura Digital",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0403A",
+              "SESC0204A",
+              "SESC0401A",
+              "SESC0402A",
+              "SESC0205A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: AV1005B ; AV2005B",
+            "objetivo": "Al terminar la unidad de formación, el estudiante el estudiante conocerá el lenguaje audiovisual, sus características y su correcta utilización para transmitir mensajes en formatos audiovisuales. Será capaz de analizar un producto audiovisual, reconociendo los diferentes elementos de dicho lenguaje y de utilizarlo para realizar sus propias producciones a través del conocimiento teórico y técnico. - Maneja las estructuras narrativas y sus lenguajes en el análisis y la elaboración de diversos textos. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Utiliza los recursos de la lengua y la literatura en la creación de contenidos narrativos de diversa índole. - Producción de contenidos y narrativas CDA2.5. Crea contenidos y narrativas en diferentes formatos utilizando tecnologías pertinentes y gestionando los recursos de manera eficiente y sostenible."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "EH1008",
+            "nombre": "Imaginarios culturales de México",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0102A&lang=ES",
+            "nombreCompleto": "Imaginarios culturales de México",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0603A",
+              "SEG0401A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0102A",
+              "SESC0402A",
+              "SEG0401A"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante producirá propuestas y prototipos creativos considerando y distinguiendo la interrelación de las influencias socio-históricas de las principales manifestaciones artísticas de México."
+          },
+          {
+            "clave": "EH1009",
+            "nombre": "Semiótica y narratologías contemporáneas",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0201A&lang=ES",
+            "nombreCompleto": "Semiótica y narratologías contemporáneas",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0201A",
+              "SEG0603A",
+              "SESC0203A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0603A",
+              "SESC0201A",
+              "SESC0203A"
+            ],
+            "requisitosDetalle": "Equivalencia: EH1025",
+            "objetivo": "Al terminar la unidad de formación, el estudiante analizará textos y prácticas culturales lingüísticas, gráficas, audiovisuales, sonoras y espaciales, a partir de teorías y metodologías para estudiar procesos de comunicación, significación y narrativas."
+          },
+          {
+            "clave": "H1001B",
+            "nombre": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SESC0302A&lang=ES",
+            "nombreCompleto": "Estructuras simbólicas en la imagen, la literatura y la música",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SESC0302A",
+              "SESC0103A",
+              "SESC0301A",
+              "SESC0101A",
+              "SESC0102A",
+              "SEG0501A"
+            ],
+            "descripcion": "Intención del curso en el contexto general del plan de estudios:",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Evalúa el impacto de una propuesta creativa desde un enfoque educativo. - Identifica necesidades de producción de contenidos y narrativas en contextos específicos. - Crea contenidos y narrativas en diferentes formatos, utilizando diversas tecnologías y gestionando los recursos de manera sostenible. - Analiza contenidos y narrativas utilizando aproximaciones teórico-metodológicas pertinentes para la representación mítica. - Evalúa contenidos y narrativas y su impacto, aplicando metodologías pertinentes. - Aplica las estructuras del mundo físico y virtual en los procesos de representación. - Experimenta con tecnologías innovando en proyectos de arte."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "H2001B",
+            "nombre": "Análisis del discurso",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado CO1001B o Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0202A&lang=ES",
+            "nombreCompleto": "Análisis del discurso",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSH0202A",
+              "SSH0202B",
+              "SEG0402B"
+            ],
+            "competenciasEvaluan": [
+              "SSH0202A",
+              "SSH0202B",
+              "SEG0402B"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa los conceptos básicos del análisis del discurso, así como algunas de las propuestas teórico-metodológicas más conocidas. Este curso no requiere conocimiento o experiencia previa de análisis del discurso. Como resultado del aprendizaje, el estudiante será capaz de valorar los recursos del análisis discursivo e integrar la dimensión sociohistórica y contextual en el análisis de la producción, circulación y recepción de discursos variados, desde una perspectiva ética.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Maneja los recursos del español en sus distintos niveles descriptivos. - Valora los recursos del análisis discursivo en la producción de textos. - Analiza el contexto en la producción, circulación y recepción de las prácticas discursivas. - Integra la dimensión histórica en el análisis de la interacción discursiva. - Identifica el efecto de los recursos lingüísticos de la construcción del sentido en la interacción discursiva."
+          },
+          {
+            "clave": "H2002B",
+            "nombre": "Textos clásicos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "(Haber Cursado H1001B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0104A&lang=ES",
+            "nombreCompleto": "Textos clásicos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSH0104A",
+              "SSH0104B",
+              "SEG0603B"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: -Sitúa la filiación de un texto literario en el marco histórico, movimiento y género literario de los clásicos grecolatinos a partir de esquemas o cuadros sinópticos sobre los mismos. -Analiza textos literarios considerando su contexto y producción en el contexto clásico a partir de una reseña crítica con elementos formales y contenidos semánticos. -Valora textos literarios con conocimiento medio de las líneas críticas y metodologías de MLA y/o APA, a partir del análisis de algunas teorías literarias críticas (narratología, estilística, análisis poético, formalismo y estructuralismo). -Escribe textos siguiendo formatos y lineamientos para la valoración de contenidos y rasgos particulares de textos analizados. -Considera formas de lectura y comentarios que consideran problematizaciones probadas para textos literarios de una tradición cultural."
+          },
+          {
+            "clave": "H2050",
+            "nombre": "Análisis crítico de textos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado CO1001B o Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0101B&lang=ES",
+            "nombreCompleto": "Análisis crítico de textos",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSH0101B",
+              "SSH0102B",
+              "SSH0103B",
+              "SSH0101A",
+              "SSH0102A",
+              "SSH0103A",
+              "SEG0501B"
+            ],
+            "requisitosDetalle": "Equivalencia: EH1027",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Sitúa la filiación de un texto literario en su marco histórico, movimientos y géneros a través de discusiones en el aula para mostrar sus características en ejemplos. - Analiza textos literarios reconociendo sus elementos formales, estructurales y temáticos, a partir de un reporte escrito. - Valora textos literarios a partir de una metodología específica con un conocimiento básico de la teoría literaria para realizar su análisis. - Escribe textos siguiendo formatos y lineamientos para la valoración de contenidos y rasgos particulares de textos analizados. - Considera formas de lectura y comentarios que plantean problematizaciones probadas para textos literarios de una tradición cultural. - Considera formas de lectura y estilos de comentarios críticos que consideran problematizaciones originales y novedosas para textos literarios de diversas tradiciones culturales."
+          },
+          {
+            "clave": "H2051",
+            "nombre": "Estructuras y análisis del español",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0201A&lang=ES",
+            "nombreCompleto": "Estructuras y análisis del español",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSH0201A",
+              "SSH0201B",
+              "SEG0502B"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa las características de la lengua española en sus niveles fonético, fonológico, sintáctico, semántico y pragmático. Este curso no requiere conocimiento o experiencia previa. Como resultado del aprendizaje, el estudiante será capaz de describir textos específicos en lengua española en sus niveles fonético, fonológico, sintáctico, semántico y pragmático, así como de valorar y reconocer las características de la lengua española.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: -Maneja los recursos de la lengua española en sus niveles fonético, fonológico, sintáctico, semántico y pragmático. -Valora los recursos del análisis discursivo en el contexto de la práctica discursiva usando textos reales."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "H2003B",
+            "nombre": "Literatura de los Siglos de Oro",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0203B&lang=ES",
+            "nombreCompleto": "Literatura de los Siglos de Oro",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSH0203B",
+              "SSH0402A",
+              "SSH0204B",
+              "SEG0602B"
+            ],
+            "descripcion": "Esta unidad de formación de nivel intermedio de la etapa de enfoque se centra tanto en el estudio de las manifestaciones literarias españolas de los siglos XVI y XVII como en el reconocimiento de su valor y vigencia en el marco de las industrias culturales y creativas. Con base en la lectura y el análisis de las obras representativas de los períodos renacentista y barroco, se persigue que el estudiantado adquiera los conocimientos, las actitudes y el dominio de los procedimientos necesarios para la producción textual profesional orientada a la revaloración y la divulgación de la herencia literaria hispánica. Para comprenderla como insumo elemental del emprendimiento creativo, se aprovechan estas competencias en la planificación, gestión y realización de una puesta en escena articulada sobre la base de los valores literarios auriseculares. Esta unidad de formación requiere haber cursado H2004B Literatura española medieval. Como resultado del aprendizaje, el estudiantado será capaz de producir textos de carácter académico sustentados en el análisis y la investigación científica, además de adaptar obras literarias antiguas a formatos contemporáneos y llevarlas a una puesta en escena profesional.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Sitúa la filiación de los textos de los Siglos de oro en su marco histórico, movimientos y géneros, a partir de textos críticos. - Valora los textos de los Siglos de oro a través de teorías literarias críticas de diferentes escuelas académicas, en particular la filología y la hermenéutica. - Compone textos críticos sobre cualquiera de las obras que forman parte del corpus canónico de la literatura de los Siglos de oro en diversos formatos originales fundamentados en parámetros de calidad válidos a partir de los criterios de corrección, adecuación y crítica literaria. - Considera nuevas formas de lectura y comentarios críticos que consideran problematizaciones originales y novedosas para los textos de los Siglos de oro. - Plantea un proyecto de investigación a través de la creación de un documento que propone un tema original centrado en la literatura de los Siglos de oro, selecciona una teoría idónea para desarrollarlo y demuestra dominio del estado de la cuestión, a través del manejo de fuentes especializadas y pertinentes."
+          },
+          {
+            "clave": "H2004B",
+            "nombre": "Literatura española medieval",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0201C&lang=ES",
+            "nombreCompleto": "Literatura española medieval",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSH0201C",
+              "SSH0203A",
+              "SSH0204A",
+              "SEG0602A"
+            ],
+            "competenciasEvaluan": [
+              "SSH0201C",
+              "SSH0203A",
+              "SSH0204A",
+              "SEG0602A"
+            ],
+            "descripcion": "Este curso de nivel intermedio, de la etapa de enfoque, revisa la historia de la lengua española, la metodología de la crítica textual y el corpus de textos hispánicos medievales. Este curso no requiere conocimiento o experiencia previa. Como resultado del aprendizaje, el estudiante será capaz de realizar una transcripción filológica de rigor crítico textual.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: -Sitúa la filiación de los textos españoles medievales en su marco histórico, movimientos y géneros, a partir de textos críticos. -Valora los textos españoles medievales a través de teorías literarias críticas de diferentes escuelas académicas, en particular la filología y la hermenéutica. -Compone textos críticos sobre cualquiera de las obras que forman parte del corpus canónico de la literatura española medieval en diversos formatos originales fundamentados en parámetros de calidad válidos a partir de los criterios de corrección, adecuación y crítica literaria. -Maneja los recursos de la lengua española en todos sus distintos niveles descriptivos, en particular la historia de la lengua hispánica. -Valora los recursos del análisis discursivo, en su dimensión de crítica textual, en la producción de textos mediante un diagnóstico lingüístico en textos españoles medievales."
+          },
+          {
+            "clave": "H2005B",
+            "nombre": "Literatura novohispana",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0203C&lang=ES",
+            "nombreCompleto": "Literatura novohispana",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSH0203C",
+              "SSH0301A",
+              "SSH0302A",
+              "SSH0303A",
+              "SSH0402B",
+              "SEG0602C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0602C",
+              "SSH0203C",
+              "SSH0301A",
+              "SSH0302A",
+              "SSH0303A",
+              "SSH0402B"
+            ],
+            "descripcion": "Este curso de nivel intermedio, de la etapa de enfoque aborda la Literatura Novohispana. Como resultado del aprendizaje, el estudiante será capaz de realizar el planteamiento de un proyecto de investigación.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Sitúa la filiación de los textos novohispanos en su marco histórico, movimientos y géneros, a partir de textos críticos. - Valora los textos novohispanos a través de teorías literarias críticas de diferentes escuelas académicas, en particular la filología y la hermenéutica. - Compone textos críticos sobre cualquiera de las obras que forman parte del corpus canónico de la literatura novohispana en diversos formatos originales fundamentados en parámetros de calidad válidos a partir de los criterios de corrección, adecuación y crítica literaria. - Desarrolla proyectos editoriales y literarios sobre la literatura novohispana de manera profesional mediante el uso de metodologías distintas en cuanto a contenidos, formatos, materiales y considerando un público real al cual se dirige. - Divulga el patrimonio cultural de la literatura novohispana a través de la creación de un proyecto digital de acceso abierto utilizando herramientas de software libre a partir de una pregunta de investigación en el área de humanidades digitales y patrimonio cultural."
+          },
+          {
+            "clave": "H2052",
+            "nombre": "Teoría literaria",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado EH1009",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0102C&lang=ES",
+            "nombreCompleto": "Teoría literaria",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSH0102C",
+              "SSH0103C",
+              "SSH0104C",
+              "SEG0503B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0503B",
+              "SSH0102C",
+              "SSH0103C",
+              "SSH0104C"
+            ],
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Analiza textos literarios reconociendo sus elementos formales, estructurales y formales, a partir de un reporte escrito. - Maneja los recursos de la lengua española en sus niveles fonético, fonológico, sintáctico, semántico y pragmático. - Considera formas de lectura y comentarios que proponen problematizaciones probadas para textos literarios de una tradición cultural. - Escribe textos siguiendo formatos y lineamientos para la valoración de contenidos y rasgos particulares de textos analizados. - Analiza textos literarios como parte de un corpus pertinente, producto de la reflexión y problematización del sistema literario, para el tratamiento de un tema específico a partir de un artículo académico con elementos formales y contenidos semánticos como punto de partida para un análisis minucioso. - Valora textos literarios combinando metodologías para el análisis en la redacción de un ensayo analítico de acuerdo con MLA y/o APA a través de teoría literarias críticas de diferentes escuelas académicas."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "H2006B",
+            "nombre": "Narrativa Iberoamericana de los siglos XIX y XX",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado H2001B o Haber Cursado H2050",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0302B&lang=ES",
+            "nombreCompleto": "Narrativa Iberoamericana de los siglos XIX y XX",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSH0302B",
+              "SSH0301B",
+              "SEG0502C"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa el fenómeno histórico y crítico del boom latinoamericano, y el diálogo que este se entabla tanto con los movimientos literarios de América Latina del siglo XIX como las nuevas propuestas literarias del fin del siglo XX. Este curso requiere que el estudiante haya cursado H2001B o H2050. Como resultado del aprendizaje, el estudiante plantea y elabora textos de investigación de lengua y literatura hispánicas siguiendo una línea metodológica científica.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Sitúa la filiación de un texto narrativo en su marco histórico y movimientos de la época como Neoclásico, Romanticismo, Realismo, Modernismo, Vanguardias, etc. a partir de textos críticos. - Comprende la naturaleza descriptiva del canon literario, por lo que cuestiona sus criterios de valoración a partir de su conocimiento de dicho canon. - Analiza los textos narrativos como parte de un corpus pertinente, producto de la reflexión y problematización del sistema literario, para el tratamiento de un tema específico a partir de un artículo académico con elementos formales y contenidos semánticos como punto de partida para un análisis minucioso. - Incorpora metodologías para la investigación literaria y las articula con el análisis y la interpretación textual para ser sometidos a dictamen mediante procesos de revistas arbitradas. - Compone textos críticos en diversos formatos originales fundamentados en parámetros de calidad válidos a partir de los criterios de corrección, adecuación y crítica literaria. - Plantea un proyecto de investigación, a través de la creación de un documento que propone un tema original centrado en un texto narrativo, selecciona una teoría para desarrollarlo basándose en un aparato crítico básico. - Escribe un texto de investigación a dictaminar en una publicación sin arbitraje, después de haber seguido las etapas de la investigación científica."
+          },
+          {
+            "clave": "H2007B",
+            "nombre": "Poesía Iberoamericana de los siglos XIX y XX",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado H2001B o Haber Cursado H2050",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0303B&lang=ES",
+            "nombreCompleto": "Poesía Iberoamericana de los siglos XIX y XX",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSH0303B",
+              "SSH0101C",
+              "SEG0501C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0501C",
+              "SSH0101C",
+              "SSH0303B"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa los principales movimientos poéticos de Iberoamérica de los siglos XIX y XX: Neoclásico, Romanticismo, Realismo, Modernismo y Vanguardias, a partir de textos críticos. Este curso no requiere conocimiento o experiencia previa. Como resultado del aprendizaje, el estudiante será capaz de analizar y valorar la poesía como parte de un corpus pertinente, producto de la reflexión y problematización del sistema literario, para el tratamiento de un tema específico a partir de un artículo académico con elementos formales y contenidos semánticos como punto de partida para un análisis minucioso.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Sitúa la filiación de un texto poético en su marco histórico o grupos literarios y movimientos de la época como Neoclásico, Romanticismo, Realismo, Modernismo, Vanguardias, etc. a partir de textos críticos. - Comprende la naturaleza descriptiva del canon literario, por lo que cuestiona sus criterios de valoración a partir de su conocimiento de dicho canon. - Analiza la poesía como parte de un corpus pertinente, producto de la reflexión y problematización del sistema literario, para el tratamiento de un tema específico a partir de un artículo académico con elementos formales y contenidos semánticos como punto de partida para un análisis minucioso. - Incorpora metodologías para la investigación literaria y las articula con el análisis y la interpretación textual para ser sometidos a dictamen mediante procesos de revistas arbitradas. - Valora la poesía combinando metodologías para el análisis en la redacción de un ensayo analítico de acuerdo a MLA y/o APA a través de teoría literarias críticas. - Considera nuevas formas de lectura y comentarios críticos que consideran problematizaciones originales y novedosas para textos poéticos de diversas tradiciones culturales."
+          },
+          {
+            "clave": "H2008B",
+            "nombre": "Teatro y ensayo iberoamericanos de los siglos XIX y XX",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado H2001B o Haber Cursado H2050",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0303C&lang=ES",
+            "nombreCompleto": "Teatro y ensayo iberoamericanos de los siglos XIX y XX",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "SSH0303C",
+              "SSH0302C",
+              "SSH0301C",
+              "SEG0401B"
+            ],
+            "competenciasEvaluan": [
+              "SEG0401B",
+              "SSH0301C",
+              "SSH0302C",
+              "SSH0303C"
+            ],
+            "descripcion": "Este curso de nivel intermedio revisa el desarrollo de los géneros del teatro y el ensayo en Iberoamérica en respuesta a las problemáticas particulares de la región durante los siglos XIX y XX. Este curso requiere conocimientos previos de análisis del discurso y análisis críticos de textos. Como resultado del aprendizaje, el estudiante plantea, elabora y escribe textos de investigación de lengua y literatura hispánicas siguiendo una línea metodológica científica que toma en cuenta teorías sobre la dignidad humana, empatía, derechos humanos y los objetivos de desarrollo sostenible en la construcción del conocimiento.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Sitúa la filiación de la dramaturgia y el ensayo en su marco histórico y movimientos de la época como Neoclásico, Romanticismo, Realismo, Modernismo, Vanguardias, etc. a partir de textos críticos. - Analiza los ensayos y las obras de teatro como parte de un corpus pertinente, producto de la reflexión y problematización del sistema literario, para el tratamiento de un tema específico a partir de un artículo académico con elementos formales y contenidos semánticos como punto de partida para un análisis minucioso. - Compone textos críticos en diversos formatos originales fundamentados en parámetros de calidad válidos a partir de los criterios de corrección, adecuación y crítica literaria. - Considera nuevas formas de lectura y comentarios críticos que consideran problematizaciones originales y novedosas para textos de dramaturgia y/o ensayo de diversas tradiciones culturales. - Plantea un proyecto de investigación, a través de la creación de un documento que propone un tema original centrado en un texto de dramaturgia y/o ensayo, selecciona una teoría para desarrollarlo basándose en un aparato crítico básico. - Escribe un texto de investigación a dictaminar en una publicación sin arbitraje, después de haber seguido las etapas de la investigación científica."
+          },
+          {
+            "clave": "H2053",
+            "nombre": "Desarrollo de modelos y prototipos editoriales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado H2001B o Haber Cursado H2050 o Haber Cursado H2051",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0403A&lang=ES",
+            "nombreCompleto": "Desarrollo de modelos y prototipos editoriales",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SSH0403A",
+              "SSH0401B",
+              "SSH0401A",
+              "SSH0403B",
+              "SSH0204C",
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0702A",
+              "SSH0204C",
+              "SSH0401A",
+              "SSH0401B",
+              "SSH0403A",
+              "SSH0403B"
+            ],
+            "requisitosDetalle": "Equivalencia: EH2045",
+            "descripcion": "Este curso de nivel intermedio revisa los principales conceptos y herramientas para la corrección y la edición de textos. Este curso no requiere conocimiento o experiencia previa. Como resultado del aprendizaje, el estudiante será capaz de diseñar y desarrollar proyectos editoriales de manera profesional.",
+            "objetivo": "Al terminar la unidad de formación, el estudiante: - Elabora versiones finales de un texto, a partir de un trabajo ecdótico fino utilizando estándares de calidad de la industria editorial con corrección de estilo de experto e identificando los problemas de la traducción de una lengua extranjera. - Desarrolla prototipos editoriales y literarios de manera profesional usando algunas metodologías en cuanto a contenidos, formatos, materiales y considerando un posible público, tras la dictaminación de una revista o libro digital. - Diseña proyectos literarios y editoriales en el ámbito público y privado en plataformas físicas y digitales, a partir de una estrategia que cumpla las necesidades del mercado y el público, así como prototipos de procesos en la organización de proyectos editoriales. - Maneja los recursos de la lengua española en sus niveles fonético, fonológico, sintáctico, semántico y pragmático. - Organiza las fases de un proyecto literario, editorial y patrimonial en el ámbito público y privado conociendo el marco legal que las compone y planifica los recursos humanos y financieros para presentarlo ante un grupo de profesores para su retroalimentación. - Divulga un proyecto de patrimonio cultural a partir de una necesidad social y del establecimiento de una pregunta de investigación."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "VA3111",
+            "nombre": "Tópicos I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          },
+          {
+            "clave": "VA3112",
+            "nombre": "Tópicos II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          },
+          {
+            "clave": "VA3113",
+            "nombre": "Tópicos III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          },
+          {
+            "clave": "VA3114",
+            "nombre": "Tópicos IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          },
+          {
+            "clave": "VA3115",
+            "nombre": "Tópicos V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          },
+          {
+            "clave": "VA3116",
+            "nombre": "Tópicos VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "H3001B",
+            "nombre": "Proyecto integrador de letras",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado H2006B y Haber Cursado H2053",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SSH0202C&lang=ES"
+          },
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1083 @@
+{
+  "carreraClave": "IRS19",
+  "nombre": "Ingeniería en Robótica y Sistemas Digitales",
+  "descripcionES": "La opción seleccionada por el alumno debe ser autorizada por su director de programa.",
+  "competencias": [],
+  "perfilIngreso": "Perfil de Ingreso El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente. Antecedente académico de ingreso : bachillerato o equivalente. Professionals",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1002",
+            "nombre": "Unidades de formación del semestre de introducción",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 66,
+            "horasAuto": 22,
+            "nombreCompleto": "Unidades de formación del semestre de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 66,
+            "aDetalle": 22
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1001",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de rezonamiento matemático con el fin de aplicarlas en la resolución de problemas."
+          },
+          {
+            "clave": "F1001B",
+            "nombre": "Modelación de la ingeniería y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0402A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería y ciencias",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SING0402A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0402A"
+            ],
+            "requisitosDetalle": "Equivalencia: MA1003B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los principios de sustentabilidad en la solución de problemas de ciencia e ingeniería que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "F1004B",
+            "nombre": "Modelación computacional del movimiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional del movimiento",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0101A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1002B ; F1006B ; F1008B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas a través de la modelación computacional del movimiento. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación computacional del movimiento. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales a través de la modelación del movimiento. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo mediante la modelación computacional del movimiento. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida a través de la modelación computacional del movimiento."
+          },
+          {
+            "clave": "F1005B",
+            "nombre": "Modelación computacional aplicando leyes de conservación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1004B o Estar Cursando F1004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102A&lang=ES",
+            "nombreCompleto": "Modelación computacional aplicando leyes de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0102A",
+              "SICT0303A",
+              "SEG0602A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SICT0102A",
+              "SEG0602A",
+              "SICT0303A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1003B ; F1007B ; F1009B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "MA1028",
+            "nombre": "Modelación matemática fundamental",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101A&lang=ES",
+            "nombreCompleto": "Modelación matemática fundamental",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0101A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "Q1020",
+            "nombre": "Análisis de la estructura y propiedades de la materia",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEG0502A&lang=ES",
+            "nombreCompleto": "Análisis de la estructura y propiedades de la materia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "TC1029",
+            "nombre": "Pensamiento computacional y programación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SEG0702A&lang=ES",
+            "nombreCompleto": "Pensamiento computacional y programación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SEG0702A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0702A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1038 ; TC1028 y TC1033",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas computacionales y tecnologías de información."
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "BT1013",
+            "nombre": "Análisis de biología computacional",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o (Haber Cursado TC1028 y Haber Cursado TC1033 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0201A&lang=ES",
+            "nombreCompleto": "Análisis de biología computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Bioingeniería",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0201A",
+              "SICT0402A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Aplica los principios de sustentabilidad en la solución de problemas computacionales y de tecnologías de información que garanticen el bienestar de las generaciones futuras."
+          },
+          {
+            "clave": "EG1002",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: -Obtiene una visión de los principales dilemas éticos en el mundo contemporáneo así como herramientas de análisis para abordalos de manera crítica y argumentada. . Conocer, analiza y disfruta diversas manifestaciones artísticas para comprender el mundo y su realidad social y personal."
+          },
+          {
+            "clave": "F1008",
+            "nombre": "Experimentación física y pensamiento estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1003B o Haber Cursado F1005B o Haber Cursado F1007B o Haber Cursado F1009B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0102A&lang=ES",
+            "nombreCompleto": "Experimentación física y pensamiento estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0102A",
+              "SING0203A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0102A",
+              "SING0203A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Demuestra el comportamiento de sistemas en la ingeniería y ciencias mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los estándares y normas en el ejercicio de su profesión manteniéndolos como referencia a seguir en la solución de problemas de ingeniería y ciencias."
+          },
+          {
+            "clave": "F1013B",
+            "nombre": "Modelación computacional de sistemas eléctricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1005B o Estar Cursando F1005B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional de sistemas eléctricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0301A",
+              "SEG0503A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0503A",
+              "SICT0301A",
+              "SICT0302A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1011B ; F1016B ; F1019B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "F1014B",
+            "nombre": "Modelación computacional de sistemas electromagnéticos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado F1013B o Estar Cursando F1013B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302A&lang=ES",
+            "nombreCompleto": "Modelación computacional de sistemas electromagnéticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302A",
+              "SICT0102A",
+              "SEG0503A",
+              "SICT0303A"
+            ],
+            "requisitosDetalle": "Equivalencia: F1012B ; F1017B ; F1020B",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas a través de la modelación computacional de sistemas electromagnéticos. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo a través de la modelación computacional de sistemas electromagnéticos. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales mediante la modelación computacional de sistemas electromagnéticos. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo a través de la modelación computacional de sistemas electromagnéticos. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida mediante la modelación computacional de sistemas electromagnéticos."
+          },
+          {
+            "clave": "MA1029",
+            "nombre": "Modelación matemática intermedia",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Aprobado MA1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0101B&lang=ES",
+            "nombreCompleto": "Modelación matemática intermedia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "SING0101B",
+              "SING0301A",
+              "SEG0603A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SEG0603A",
+              "SING0101B",
+              "SING0301A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el comportamiento de sistemas en la ingeniería y ciencias por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales, matemáticas y computación. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con las ciencias de la ingeniería."
+          },
+          {
+            "clave": "MA1031",
+            "nombre": "Análisis estadístico",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SING0203B&lang=ES",
+            "nombreCompleto": "Análisis estadístico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SING0203B",
+              "SING0202B",
+              "SEG0501A",
+              "SEG0502A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0502A",
+              "SING0202B",
+              "SING0203B",
+              "SEG0501A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Desarrolla escenarios de acción en la toma de decisiones con base en el análisis de patrones de un conjunto de datos."
+          },
+          {
+            "clave": "TC1003B",
+            "nombre": "Modelación de la ingeniería con matemática computacional",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0202A&lang=ES",
+            "nombreCompleto": "Modelación de la ingeniería con matemática computacional",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0202A",
+              "SICT0102A",
+              "SICT0101B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "TC1030",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1033 o Estar Cursando TC1033",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0301A&lang=ES",
+            "nombreCompleto": "Programación orientada a objetos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0301A",
+              "SICT0303A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo."
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1003",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Aplica la capacidad analítica y el sentido crítico para entender, como ciudadanos de México y el mundo, las diferencias culturales que afecta el comportamiento humano, y así poder propiciar cambios para el binestra de la sociedad."
+          },
+          {
+            "clave": "MA1033",
+            "nombre": "Análisis de ecuaciones diferenciales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1029",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102B&lang=ES",
+            "nombreCompleto": "Análisis de ecuaciones diferenciales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0102B",
+              "SICT0101B",
+              "SEG0601A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0601A",
+              "SICT0101B",
+              "SICT0102B"
+            ],
+            "requisitosDetalle": "Equivalencia: MA2025",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Explica el funcionamiento de los procesos computacionales y de las tecnologías de información por medio de argumentaciones estructuradas y coherentes fundamentadas en conceptos, teorías y principios de las ciencias naturales y las matemáticas. - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas y teóricas obtenidas de diversas metodologías de investigación y de cómputo."
+          },
+          {
+            "clave": "TC1004B",
+            "nombre": "Implementación de internet de las cosas",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "requisitos": "Haber Cursado TC1030 y Haber Cursado TC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0201B&lang=ES",
+            "nombreCompleto": "Implementación de internet de las cosas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 9,
+            "aDetalle": 3,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "SICT0201B",
+              "SICT0401B",
+              "SICT0402B",
+              "STC0207A",
+              "STE0104A",
+              "STI0301A",
+              "SICT0303B",
+              "SEG0201A",
+              "SEG0202A",
+              "SEG0101A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0201A",
+              "SICT0201B",
+              "SICT0401B",
+              "SICT0402B",
+              "STC0207A",
+              "STE0104A",
+              "STI0301A",
+              "SICT0303B",
+              "SEG0101A",
+              "SEG0202A"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina patrones relevantes en un conjunto de información, utilizando principios de las ciencias naturales, de las matemáticas y fundamentos computacionales. - Interpreta interacciones entre variables relevantes en un problema, utilizando principios de ciencias naturales, herramientas matemáticas y de tecnologías de información. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida. - Aplica los principios de sustentabilidad en la solución de problemas computacionales y de tecnologías de información que garanticen el bienestar de las generaciones futuras. - Desarrolla todos los componentes diseñados de un sistema computacional, con base en estándares internacionales. - Diseña componentes de software, a partir de requerimientos, con base en estándares internacionales. - Administra proyectos computacionales mediante el uso eficiente de los recursos. - Gestiona proyectos de diseño tecnológico mediante el uso eficiente de los recursos. - Modela sistemas embebidos con capacidad de interacción que dan solución a una problemática determinada. - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno. - Detecta requerimientos de largo plazo de la organización para asegurar la interoperabilidad, escalabilidad y usabilidad de las soluciones de tecnologías de información. - Diagnostica la efectividad de los procesos existentes en un área particular de la organización permitiendo identificar mejoras a los mismos. - Gestiona el diseño y la ejecución de proyectos de tecnologías de información usando de forma óptima los recursos."
+          },
+          {
+            "clave": "TC1031",
+            "nombre": "Programación de estructuras de datos y algoritmos fundamentales",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1030 y Haber Cursado TC1003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0302B&lang=ES",
+            "nombreCompleto": "Programación de estructuras de datos y algoritmos fundamentales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 3,
+            "competenciasDesarrollan": [
+              "SICT0302B",
+              "SICT0303B",
+              "SICT0301B",
+              "SEG0701A"
+            ],
+            "competenciasEvaluan": [
+              "SICT0302B",
+              "SICT0303B",
+              "SICT0301B",
+              "SEG0701A"
+            ],
+            "requisitosDetalle": "Equivalencia: TC2042",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo. - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales. - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo. - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida."
+          },
+          {
+            "clave": "TC1032",
+            "nombre": "Modelación de sistemas mínimos y arquitecturas computacionales",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1029 o Haber Cursado TC1028",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0102B&lang=ES",
+            "nombreCompleto": "Modelación de sistemas mínimos y arquitecturas computacionales",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0102B",
+              "SICT0202B"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante principios, experimentos y evidencias obtenidos mediante metodologías de investigación y de cómputo. - Interpreta interacciones entre patrones relevantes un problema, utilizando principios de ciencias, herramientas matemáticas y de tecnologías de información."
+          },
+          {
+            "clave": "TE1019",
+            "nombre": "Fundamentación de ingeniería eléctrica y electrónica",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado F1013B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0301B&lang=ES",
+            "nombreCompleto": "Fundamentación de ingeniería eléctrica y electrónica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "SICT0301B",
+              "SICT0101B"
+            ],
+            "requisitosDetalle": "Equivalencia: E1005 ; TE1020",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Determina los factores relevantes de un problema de sistemas y dispositivos ingenieriles, utilizando principios de ciencias y herramientas de tecnologías de información. Interpretar interacciones entre factores relevantes de un problema de sistemas y dispositivos ingenieriles, utilizando principios de ciencias, herramientas matemáticas y de tecnologías de información. - Analiza problemas de sistemas electrónicos con base en metodologías eficientes del ciclo de diseño electrónico."
+          },
+          {
+            "clave": "VA1001B",
+            "nombre": "Tópico de exploración",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasAuto": 3,
+            "nombreCompleto": "Tópico de exploración",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 9,
+            "aDetalle": 3
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1004",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "Al terminar la unidad de formación el alumno: - Desarrolla habilidades de emprendimiento e innovación con el fin de detectar oportunidades de negocio y crear empresas competitivas que contribuyan al progreso del país."
+          },
+          {
+            "clave": "MA2016",
+            "nombre": "Modelación matemática avanzada",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado MA1033",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0203A&lang=ES",
+            "nombreCompleto": "Modelación matemática avanzada",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STE0203A",
+              "SICT0101C",
+              "SICT0301C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en matemáticas enfocado a la modelación de sistemas electrónicos. Requiere conocimientos previos de cálculo integral, fundamentos de electrónica, y de solución a ecuaciones diferenciales. Como resultado del aprendizaje el alumno obtiene y resuelve el modelo matemático, representado por una ecuación diferencial, de un sistema físico, en particular de circuitos electrónicos.",
+            "objetivo": "Al terminar la unidad de formación el alumno utiliza técnicas para el tratamiento de señales y el análisis de datos en tiempo real de acuerdo a necesidades específicas."
+          },
+          {
+            "clave": "TE2002B",
+            "nombre": "Diseño con lógica programable",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TC1004B y Haber Cursado TC1032",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0101A&lang=ES",
+            "nombreCompleto": "Diseño con lógica programable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STE0101A",
+              "STE0102A",
+              "STE0103A",
+              "STE0202A",
+              "STE0204A",
+              "STE0205A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería electrónica enfocado al diseño de aplicaciones con sistemas digitales configurables. Requiere conocimientos previos de de arquitecturas computacionales y circuitos digitales. Como resultado de aprendizaje el alumno diseña, implementa y simula sistemas digitales mediante un lenguaje descriptor de hardware en un dispositivo lógico programable.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Sabrá describir hardware mediante un lenguaje de descripción de hardware para implementar circuitos lógicos digitales combinatorios, secuenciales y máquinas de estado y embeber procesadores en dispositivos de lógica programable. - Simular, verificar y validar la implementación de un diseño digital contra las especificaciones y requerimientos del reto."
+          },
+          {
+            "clave": "TE2003B",
+            "nombre": "Diseño de sistemas en chip",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "(Haber Cursado TE2002B o Estar Cursando TE2002B ) y (Estar Cursando TC1031 o Haber Cursado TC1031 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0101B&lang=ES",
+            "nombreCompleto": "Diseño de sistemas en chip",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "STE0101B",
+              "STE0102B",
+              "STE0103B",
+              "STE0204B",
+              "STE0302A",
+              "STE0303A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería electrónica enfocado a aplicaciones de sistemas digitales de propósito específico. Requiere conocimientos de programación, sistemas operativos y circuitos digitales. Como resultado de aprendizaje el alumno implementa sistemas en chip, basados en microcontroladores y/o Single Board Computers (SBC) operando en tiempo real.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Modela sistemas embebidos con capacidad de interacción que dan solución a una problemática determinada. - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno. - Valida el funcionamiento de sistemas embebidos tomando en cuenta la eficiencia, costos y estándares. - Selecciona los periféricos requeridos para interactuar con el medio que den solución a una problemática determinada. - Elige la unidad de procesamiento acorde a requerimientos. - Programa unidades funcionales que generan la percepción, navegación, manipulación e interacción. - Selecciona la interfaz de acuerdo a su aplicación. - Selecciona el protocolo de comunicación de acuerdo a su aplicación. - Genera la interacción inteligente entre una unidad de procesamiento y sus periféricos."
+          },
+          {
+            "clave": "TE2044",
+            "nombre": "Fundamentación electrónica",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TE1019",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0301A&lang=ES",
+            "nombreCompleto": "Fundamentación electrónica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STE0301A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio de electrónica, dirigido al diseño de circuitos basados en dispositivos semiconductores discretos. Requiere conocimientos previos de circuitos eléctricos. Como resultado de aprendizaje el alumno selecciona los componentes electrónicos adecuados para crear interfaces simples de acoplamiento y/o manejo de energía, tanto analógicas como digitales, haciendo uso de diodos, transistores y dispositivos de potencia.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Modela sistemas embebidos con capacidad de interacción que dan solución a una problemática determinada. - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno."
+          },
+          {
+            "clave": "TE2045",
+            "nombre": "Diseño de circuitos electrónicos",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TE2044 o Estar Cursando TE2044",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0301B&lang=ES",
+            "nombreCompleto": "Diseño de circuitos electrónicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STE0301B",
+              "SEG0303A",
+              "SICT0302C"
+            ],
+            "competenciasEvaluan": [
+              "SEG0303A",
+              "SICT0302C",
+              "STE0301B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio de electrónica, enfocado al diseño mediante amplificadores operacionales. Requiere conocimientos previos de circuitos eléctricos y electrónica. Como resultado de aprendizaje el alumno selecciona el tipo de interfaz utilizando amplificadores operacionales para acoplamiento, filtrado de frecuencias, generación de señales, temporizadores, circuitos de muestreo y retención, considerando la aplicación en donde será utilizada.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Modela sistemas embebidos con capacidad de interacción que dan solución a una problemática determinada. - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno."
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1005",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 0,
+            "tipo": "life",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1
+          },
+          {
+            "clave": "MR2002B",
+            "nombre": "Análisis de sistemas de control",
+            "creditos": 4,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado MA2016",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0201A&lang=ES",
+            "nombreCompleto": "Análisis de sistemas de control",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Mecatrónica",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 4,
+            "competenciasDesarrollan": [
+              "STE0201A",
+              "SICT0102C",
+              "SICT0203C",
+              "SICT0303C",
+              "SEG0502B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería mecatrónica enfocado en modelar y analizar sistemas dinámicos en lazo abierto y cerrado. Requiere conocimientos previos de sistemas de ecuaciones lineales, ecuaciones diferenciales y circuitos eléctricos. Como resultado del aprendizaje el alumno diseña, implementa y valida controladores clásicos para problema físicos, considerando principios de estabilidad y observabilidad.",
+            "objetivo": "Al terminar la unidad de formación el alumno utiliza técnicas para el tratamiento de señales y el análisis de datos en tiempo real de acuerdo a necesidades específicas."
+          },
+          {
+            "clave": "TC2036",
+            "nombre": "Implementación de redes seguras",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "Haber Cursado TC1004B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0302B&lang=ES",
+            "nombreCompleto": "Implementación de redes seguras",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 2,
+            "competenciasDesarrollan": [
+              "STE0302B",
+              "SICT0401C",
+              "SEG0403A",
+              "SEG0402A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0403A",
+              "SICT0401C",
+              "STE0302B",
+              "SEG0402A"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en tecnologías computacionales enfocado al diseño y gestión de una red computacional. Requiere conocimientos previos de de sistemas digitales y del internet de las cosas. Como resultado del aprendizaje, el alumno será capaz de diseñar e implementar, con base en necesidades de conectividad, una red corporativa de cobertura local y amplia que dé respuesta a las necesidades de crecimiento de una organización para habilitar de manera segura sus operaciones.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Selecciona el protocolo de comunicación de acuerdo a su aplicación. - Genera la interacción inteligente entre una unidad de procesamiento y sus periféricos."
+          },
+          {
+            "clave": "TE2004B",
+            "nombre": "Diseño de sistemas embebidos avanzados",
+            "creditos": 8,
+            "tipo": "regular",
+            "horasClase": 12,
+            "horasAuto": 4,
+            "requisitos": "Haber Cursado TE2003B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0101C&lang=ES",
+            "nombreCompleto": "Diseño de sistemas embebidos avanzados",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 12,
+            "aDetalle": 4,
+            "udcDetalle": 8,
+            "competenciasDesarrollan": [
+              "STE0101C",
+              "STE0202B",
+              "STE0303B",
+              "STE0102C",
+              "STE0205B",
+              "SEG0302A"
+            ],
+            "competenciasEvaluan": [
+              "SEG0302A",
+              "STE0101C",
+              "STE0102C",
+              "STE0202B",
+              "STE0205B",
+              "STE0303B"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería electrónica enfocado a aplicaciones de sistemas digitales con capacidad de procesamiento en paralelo. Requiere conocimientos de Sistemas en Chip. Como resultado de aprendizaje el alumno diseña sistemas digitales embebidos utilizando algoritmos avanzados e interfaces computacionales, basados en alternativas como: procesamiento de señales digitales y procesamiento en paralelo.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Modela sistemas embebidos con capacidad de interacción que dan solución a una problemática determinada. - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno. - Valida el funcionamiento de sistemas embebidos tomando en cuenta la eficiencia, costos y estándares. - Gestiona proyectos de diseño tecnológico mediante el uso eficiente de los recursos. - Selecciona los periféricos requeridos para interactuar con el medio que den solución a una problemática determinada. - Utiliza técnicas para el tratamiento de señales y el análisis de datos en tiempo real de acuerdo a necesidades específicas. - Programa unidades funcionales que generan la percepción, navegación, manipulación e interacción. - Selecciona la interfaz de acuerdo a su aplicación. - Selecciona el protocolo de comunicación de acuerdo a su aplicación. - Genera la interacción inteligente entre una unidad de procesamiento y sus periféricos."
+          },
+          {
+            "clave": "TE2046",
+            "nombre": "Análisis de señales y sistemas",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "requisitos": "(Haber Cursado MA2016 o Haber Cursado MA1034 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0203B&lang=ES",
+            "nombreCompleto": "Análisis de señales y sistemas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "udcDetalle": 1,
+            "competenciasDesarrollan": [
+              "STE0203B",
+              "STE0402C",
+              "SICT0202C",
+              "STE0401C",
+              "SICT0201C"
+            ],
+            "competenciasEvaluan": [
+              "SICT0201C",
+              "SICT0202C",
+              "STE0203B",
+              "STE0401C",
+              "STE0402C"
+            ],
+            "descripcion": "Es un curso de nivel intermedio en ingeniería electrónica con enfoque en la evaluación de tecnologías electrónicas para mejorar la comunicación de sistemas con base en el análisis y la caracterización de señales en el dominio del tiempo continuo y de la frecuencia. Requiere conocimientos previos de ecuaciones diferenciales, circuitos eléctricos, variable compleja y la transformada de Laplace. Como resultado del aprendizaje el alumno resuelve problemas de sistemas electrónicos sobre los requerimientos y características de las señales a utilizar fundamentadas en la teoría de señales y sistemas en el dominio del tiempo continuo y de la frecuencia.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Evalúa tecnologías existentes y emergentes de sensores, instrumentos y dispositivos electrónicos de acuerdo a requerimientos (de desempeño) establecidos. - Evalúa tecnologías de telecomunicaciones, existentes y emergentes, de acuerdo a figuras de mérito a nivel hardware, software y aplicación. - Evalúa las tecnologías existentes y emergentes en la electrónica de potencia de acuerdo a requerimientos industriales, sociales y ambientales. - Entiende el comportamiento de las señales y los sistemas en el dominio del tiempo y de la frecuencia (Fourier)."
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "TE3001B",
+            "nombre": "Fundamentación de robótica",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado MR2002B o Estar Cursando MR2002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0201B&lang=ES",
+            "nombreCompleto": "Fundamentación de robótica",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 6,
+            "competenciasDesarrollan": [
+              "STE0201B",
+              "STE0301C",
+              "STE0104B"
+            ],
+            "competenciasEvaluan": [
+              "STE0104B",
+              "STE0201B",
+              "STE0301C"
+            ],
+            "descripcion": "Es un curso de nivel avanzado enfocado a diseñar, construir y programar robots manipuladores. Requiere conocimientos previos de control, electrónica y programación. Como resultado del aprendizaje el alumno podrá modelar, simular y construir manipuladores robóticos, utilizando sensores, actuadores y sus ecuaciones cinemáticas y dinámicas.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Identifica los principios que describen el funcionamiento de un robot. - Elige la unidad de procesamiento acorde a requerimientos."
+          },
+          {
+            "clave": "TE3002B",
+            "nombre": "Implementación de robótica inteligente",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado TE3001B o Estar Cursando TE3001B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=SICT0402C&lang=ES",
+            "nombreCompleto": "Implementación de robótica inteligente",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "SICT0402C",
+              "STE0201C",
+              "STE0205C",
+              "STE0303C",
+              "SEG0404A"
+            ],
+            "competenciasEvaluan": [
+              "SICT0402C",
+              "STE0201C",
+              "STE0205C",
+              "STE0303C",
+              "SEG0404A"
+            ],
+            "descripcion": "Curso de nivel avanzado enfocado al diseño de un sistema robótico inteligente. Requiere de conocimientos previos de análisis cinemático, dinámico, sensores y actuadores. Como resultado de aprendizaje el alumno diseña, construye y programa un sistema robótico inteligente para una aplicación que atiende la necesidad real seleccionada, integrando conocimientos avanzados de robótica móvil, sistemas de visión, programación e inteligencia artificial.",
+            "objetivo": "Al terminar la unidad de formación el alumno: - Comprende los fundamentos de visión computacional, control Inteligente y aprendizaje profundo del área de la inteligencia artificial. - Comprende los fundamentos de robots móviles, robots humanoides y vehículos aéreos. - Aplica los temas de inteligencia artificial para resolver problemas de visión, control y navegación en un proyecto de robótica. - Identifica los principios que describen el funcionamiento de un robot. - Utiliza técnicas para el tratamiento de señales y el análisis de datos en tiempo real de acuerdo a necesidades específicas. - Elige la unidad de procesamiento acorde a requerimientos. - Programa unidades funcionales que generan la percepción, navegación, manipulación e interacción. - Selecciona la interfaz de acuerdo a su aplicación. - Genera la interacción inteligente entre una unidad de procesamiento y sus periféricos. - Utiliza técnicas para el tratamiento de señales y el análisis de datos en tiempo real de acuerdo a necesidades específicas. - Elige la unidad de procesamiento acorde a requerimientos. - Programa unidades funcionales que generan la percepción, navegación, manipulación e interacción. - Selecciona la interfaz de acuerdo a su aplicación. - Genera la interacción inteligente entre una unidad de procesamiento y sus periféricos."
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3091",
+            "nombre": "Optativa profesional I",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3092",
+            "nombre": "Optativa profesional II",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3093",
+            "nombre": "Optativa profesional III",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3094",
+            "nombre": "Optativa profesional IV",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3095",
+            "nombre": "Optativa profesional V",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          },
+          {
+            "clave": "OP3096",
+            "nombre": "Optativa profesional VI",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasAuto": 1,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 3,
+            "aDetalle": 1,
+            "objetivo": "El alumno seleccionará un curso."
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3001B",
+            "nombre": "Optativa profesional multidisciplinaria",
+            "creditos": 0,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "nombreCompleto": "Optativa profesional multidisciplinaria",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "clDetalle": 18,
+            "aDetalle": 6
+          },
+          {
+            "clave": "TE3003B",
+            "nombre": "Integración de robótica y sistemas inteligentes",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasAuto": 6,
+            "requisitos": "Haber Cursado TE3002B",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=STE0103C&lang=ES",
+            "nombreCompleto": "Integración de robótica y sistemas inteligentes",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "clDetalle": 18,
+            "aDetalle": 6,
+            "udcDetalle": 12,
+            "competenciasDesarrollan": [
+              "STE0103C",
+              "STE0202C",
+              "STE0203C",
+              "STE0204C",
+              "STE0302C",
+              "STE0104C"
+            ],
+            "competenciasEvaluan": [
+              "STE0103C",
+              "STE0104C",
+              "STE0202C",
+              "STE0203C",
+              "STE0204C",
+              "STE0302C"
+            ],
+            "objetivo": "Al terminar la unidad de formación el alumno: - Implementa sistemas embebidos considerando especificaciones y restricciones del entorno. - Valida el funcionamiento de sistemas embebidos tomando en cuenta la eficiencia, costos y estándares. - Selecciona los periféricos requeridos para interactuar con el medio que den solución a una problemática determinada. - Utiliza técnicas para el tratamiento de señales y el análisis de datos en tiempo real de acuerdo a necesidades específicas. - Elige la unidad de procesamiento acorde a requerimientos. - Selecciona la interfaz de acuerdo a su aplicación. - Selecciona el protocolo de comunicación de acuerdo a su aplicación."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "carreraClave": "IDM26",
+  "nombre": "Ingeniería en Inteligencia Artificial y Ciencia de Datos",
+  "descripcionES": "Un crédito académico, implica 15 horas clase y 25 horas de trabajo adicional fuera de horas clase. A cada hora-clase le corresponden 50 minutos para impartición, el doble de minutos para el trabajo fuera de la hora clase y 10 minutos para recesos y traslado entre aulas.",
+  "competencias": [
+    "Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas, estadística y programación.",
+    "Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia.",
+    "Habilidades para el pensamiento crítico, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales.",
+    "Capacidades para expresar ideas de manera clara y efectiva tanto en forma verbal, como escrita.",
+    "Aptitudes, para el trabajo en equipo y una comunicación asertiva, para la solución de problemas y el uso de algunas aplicaciones informáticas. Así como, para el razonamiento lógico, el liderazgo y una perseverancia y dedicación constantes.",
+    "Constructs deterministic and stochastic mathematical models to solve complex problems.",
+    "Analyzes large volumes of structured and unstructured data (big data) using mathematical, statistical methods, and data science techniques.",
+    "Utilizes machine learning and artificial intelligence methods and techniques with a task-solving approach.",
+    "Solves complex problems through computational methodologies and information technologies.",
+    "Generates data analysis models for decision-making, considering the requirements of the situation and project management.",
+    "Demonstrates ethical behavior based on principles of dignity, integrity, responsibility, and the common good.",
+    "Builds personal and shared visions of sustainable futures through the analysis of multiple possible scenarios.",
+    "Develops conscious opportunities that generate economic, social, and environmental value.",
+    "Exchanges oral and written messages that enable professional and social development.",
+    "Establishes personal judgments or positions, in various situations, based on a rigorous evaluation of information.",
+    "Knowledge of basic and exact sciences, fundamental elements of logic, mathematics, statistics, and programming.",
+    "Basic understanding of research methodologies and techniques, as well as notions of general culture and history.",
+    "Critical thinking, observation, and reasoning skills.",
+    "Project development and the use of digital media and tools.",
+    "The ability to express ideas clearly and effectively both verbally and in writing."
+  ],
+  "perfilIngreso": "Perfil de Ingreso Para ingresar al Programa académico de Ingeniería en Inteligencia Artificial y Ciencia de Datos, se requiere que el estudiante cuente con una serie de condiciones mínimas, tales como: Conocimientos sobre ciencias básicas y exactas, elementos fundamentales de lógica, matemáticas, estadística y programación. Comprensión básica de las metodologías y técnicas de investigación, así como, nociones sobre cultura general e historia. Habilidades para el pensamiento crítico, la observación y el razonamiento. Elaboración de proyectos y uso de medios y herramientas digitales.",
+  "data": {
+    "semestres": [
+      {
+        "numero": 0,
+        "nombre": "Semestre de Introducción",
+        "materias": [
+          {
+            "clave": "VA1005",
+            "nombre": "Unidades de formación de introducción",
+            "creditos": 24,
+            "tipo": "regular",
+            "horasClase": 24,
+            "nombreCompleto": "Unidades de formación de introducción",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": "Primer Semestre",
+        "materias": [
+          {
+            "clave": "EG1006",
+            "nombre": "Optativa de matemáticas y ciencias",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de matemáticas y ciencias",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "F1025B",
+            "nombre": "Leyes del movimiento y de conservación",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Leyes del movimiento y de conservación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar modelos matemáticos y principios científicos en la descripción de sistemas ingenieriles, mediante la elaboración de explicaciones argumentativas estructuradas y sustentadas en leyes y/o principios de la ingeniería y ciencias. - Comprender estrategias verbales de comunicación mediante la presentación de resultados a la solución de retos, escenarios y/o problemas relacionados con la cinemática y dinámica. - Transmitir mensajes de manera clara, elocuente, responsable y contextualizada, mediante la explicación de la solución y/o funcionamiento de retos, escenarios y/o problemas relacionados con la cinemática y dinámica."
+          },
+          {
+            "clave": "H1007S",
+            "nombre": "Inducción al servicio social",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 15,
+            "nombreCompleto": "Inducción al servicio social",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Estudios Humanísticos",
+            "objetivo": "Para alcanzar el fin de aprendizaje, se buscará que el estudiante: -Se sensibilice con las necesidades sociales. -Emplea dispositivos de escucha como herramientas para atender una necesidad social, a partir de una vivencia real. -Conozca el programa de Servicio Social en el Tecnológico de Monterrey."
+          },
+          {
+            "clave": "MA1003B",
+            "nombre": "Perspectivas innovadoras en ingeniería",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "nombreCompleto": "Perspectivas innovadoras en ingeniería",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "requisitosDetalle": "Equivalencia: F1001B",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Proponer colaborativamente soluciones a problemas ingenieriles considerando indicadores de sustentabilidad. - Promover la participación incluyente en la solución de problemas ayudando a establecer y respetar acuerdos para el trabajo colaborativo."
+          },
+          {
+            "clave": "MA1054",
+            "nombre": "Cálculo diferencial e integral",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Cálculo diferencial e integral",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos diferenciales. - Valorar la credibilidad de las afirmaciones y argumentos. visualizando múltiples soluciones a un mismo problema de cálculo diferencial."
+          },
+          {
+            "clave": "TC1038",
+            "nombre": "Fundamentos de programación",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Fundamentos de programación",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC1029",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Desarrollar componentes de la solución a través del diseño e implementación de algoritmos computacionales, utilizando un lenguaje de alto nivel, a partir del planteamiento de un problema claramente definido - Utilizar herramientas computacionales y de tecnologías de información en la solución de problemas a través de la técnica de divide y vencerás, así como el uso efectivo de un ambiente de desarrollo integrado - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas a través del planteamiento y evaluación de varias alternativas de solución para seleccionar la más adecuada"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Segundo Semestre",
+        "materias": [
+          {
+            "clave": "EG1007",
+            "nombre": "Optativa de humanidades y bellas artes",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de humanidades y bellas artes",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "HI1034",
+            "nombre": "Inglés académico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "requisitos": "Nivel de inglés de MCER Nivel B1",
+            "nombreCompleto": "Inglés académico",
+            "escuela": "Humanidades y Educación",
+            "departamento": "Lenguas",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Intercambiar mensajes escritos de acuerdo con los códigos y protocolos apropiados al contexto a través de la elaboración de textos que cuiden la coherencia, la gramática y respeten los requisitos y formatos solicitados. - Intercambiar mensajes orales a través del diálogo, la negociación y la persuasión con actividades que generen una comunicación de manera clara, elocuente, responsable y contextualizada."
+          },
+          {
+            "clave": "MA1004B",
+            "nombre": "Estadística y manejo de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado MA1054",
+            "nombreCompleto": "Estadística y manejo de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Describir el comportamiento de sistemas ingenieriles con el análisis de datos y la detección de patrones a través de métodos gráficos, medidas estadísticas y modelos matemáticos. - Plantear hipótesis para hacer estimaciones de parámetros e identificar supuestos de modelos obtenidos a partir de los datos. - Plantear conclusiones fundamentadas en argumentos validados con técnicas estadísticas."
+          },
+          {
+            "clave": "MA1005B",
+            "nombre": "Álgebra matricial y métodos numéricos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1054 )",
+            "nombreCompleto": "Álgebra matricial y métodos numéricos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Representar modelos con herramientas matemáticas y computacionales utilizando herramientas comerciales de solución de modelos lineales y no lineales. - Utilizar algoritmos para el procesamiento de datos utilizando herramientas de análisis para determinar soluciones de modelos matemáticos simples. - Utilizar metodologías en la evaluación de argumentos y evidencias para analizar cómo diferentes sesgos podrían afectar la evaluación de una solución matemática, proponiendo formas de mitigarlos. - Describir el comportamiento de sistemas ingenieriles a través de la aplicación de modelos matemáticos a problemas simples de diseño ingenieril."
+          },
+          {
+            "clave": "MA1055",
+            "nombre": "Cálculo multivariable",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1054",
+            "nombreCompleto": "Cálculo multivariable",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas, mediante la simulación de procesos ingenieriles de múltiples variables. - Describir el comportamiento de sistemas ingenieriles a través de la resolución de modelos matemáticos multivariables de aplicaciones prácticas."
+          },
+          {
+            "clave": "MA1057",
+            "nombre": "Matemáticas discretas",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Matemáticas discretas",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar técnicas, paradigmas y lenguajes de programación en el diseño de la solución a través de modelar funciones que permitan representar problemas reales susceptibles de automatización con programación. - Utilizar algoritmos para el procesamiento de datos con la resolución de problemas donde se requiera encontrar la ruta óptima a través de grafos. - Analizar sistémicamente las problemáticas desde diversos dominios, escalas y disciplinas utilizando herramientas de análisis para determinar una solución recursiva representa la mejor alternativa."
+          },
+          {
+            "clave": "TC1039",
+            "nombre": "Programación orientada a objetos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC1038",
+            "nombreCompleto": "Programación orientada a objetos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Evaluar que la solución satisfaga los requerimientos originales, usando esquemas de pruebas contemplando escenarios extremos y la consistencia con los diagramas de clases en UML en un formato acorde a estándares de la industria del desarrollo de software - Utilizar técnicas, paradigmas y lenguajes de programación para diseñar la solución, a través de la solución de problemas reales no estructurados con un paradigma orientado a objetos - Plantear múltiples escenarios para anticipar las posibilidades de cambio en el contexto analizado, a través de diseños de soluciones que sean robustas para contemplar más de contexto o uso - Documentar el proceso de diseño de la solución, usando buenas prácticas de programación y herramientas de control de versiones en acorde a estándares de la industria del desarrollo de software"
+          },
+          {
+            "clave": "VA1002B",
+            "nombre": "Optativa de exploración disciplinar",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "nombreCompleto": "Optativa de exploración disciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Tercer Semestre",
+        "materias": [
+          {
+            "clave": "EG1008",
+            "nombre": "Optativa de ciencias sociales y del comportamiento",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ciencias sociales y del comportamiento",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "MA1006B",
+            "nombre": "Probabilidad y estadística",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 6,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1004B y (Haber Cursado MA1055 o Estar Cursando MA1055 )",
+            "nombreCompleto": "Probabilidad y estadística",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos probabilistas, a partir del uso de técnicas de procesamiento de probabilidad y estadística en la resolución de problemas prácticos de la vida real. - Elaborar escritos coherentes, matemáticamente correctos, mediante la interpretación de la información obtenida del entendimiento y construcción de modelos probabilistas."
+          },
+          {
+            "clave": "MA2019",
+            "nombre": "Álgebra lineal avanzada",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1005B",
+            "nombreCompleto": "Álgebra lineal avanzada",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos algebraicos, a partir del uso de técnicas de álgebra lineal avanzada en la resolución de problemas prácticos de la vida real. - Elaborar escritos coherentes, matemáticamente correctos y respetando el formalismo matemático, mediante la interpretación de la información obtenida del entendimiento y construcción de modelos algebraicos."
+          },
+          {
+            "clave": "MA2020",
+            "nombre": "Integración multivariable y sistemas dinámicos",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1055 y Haber Aprobado MA1005B )",
+            "nombreCompleto": "Integración multivariable y sistemas dinámicos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido de los conceptos fundamentales del cálculo avanzado, aplicándolos en la resolución analítica de problemas prácticos de la vida real, usando técnicas del cálculo integral multivariado y métodos de resolución de ecuaciones diferenciales ordinarias. - Emplear estrategias verbales y no verbales de manera efectiva para dialogar, negociar, persuadir e inspirar por medio de presentaciones orales y escritas claras, en las cuales comunica de manera precisa y concisa los conceptos y técnicas matemáticas analíticas del cálculo avanzado y la relevancia de los resultados obtenidos, demostrando habilidad para adaptarse al público, estructurar argumentos de manera lógica y utilizar recursos visuales y gestuales para reforzar el mensaje."
+          },
+          {
+            "clave": "TC1040",
+            "nombre": "Introducción a la inteligencia artificial",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "nombreCompleto": "Introducción a la inteligencia artificial",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Utilizar métodos y técnicas de aprendizaje automático e inteligencia artificial en la solución de tareas específicas - Emplear algoritmos, métodos y modelos de inteligencia artificial en la solución de tareas específicas sin la intervención humana directa"
+          },
+          {
+            "clave": "TC2042",
+            "nombre": "Estructuras de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TC1039 y Estar Cursando MA1057 o Haber Cursado MA1057 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0002&lang=ES",
+            "nombreCompleto": "Estructuras de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0002",
+              "S26TI0001"
+            ],
+            "requisitosDetalle": "Equivalencia: TC1031",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demuestra el funcionamiento de los procesos computacionales y de las tecnologías de la información mediante evidencias empíricas obtenidas de diversas metodologías de investigación y de cómputo - Evalúa los componentes que integran una problemática de acuerdo a principios y procesos computacionales - Toma decisiones en la solución de problemas en condiciones de incertidumbre y diferentes niveles de complejidad con base metodologías de investigación y de cómputo - Implementa acciones científicas e ingenieriles o procesos computacionales que cumplen con el tipo de solución requerida"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Cuarto Semestre",
+        "materias": [
+          {
+            "clave": "EG1009",
+            "nombre": "Optativa de liderazgo, emprendimiento e innovación",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de liderazgo, emprendimiento e innovación",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "MA2021",
+            "nombre": "Optimización",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1055 y Haber Aprobado MA1005B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0001&lang=ES",
+            "nombreCompleto": "Optimización",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26MA0001",
+              "S26SI0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos deterministas, a partir de la interpretación de la información obtenida, aplicándolos en la resolución problemas prácticos de la vida real, usando técnicas de optimización lineal. - Identificar oportunidades de valor relevantes para la toma de decisiones a partir de la información obtenida al modelar y solucionar un problema de programación lineal."
+          },
+          {
+            "clave": "TC2043",
+            "nombre": "Análisis y diseño de algoritmos avanzados",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC2042",
+            "nombreCompleto": "Análisis y diseño de algoritmos avanzados",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "requisitosDetalle": "Equivalencia: TC2038",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Aplicar técnicas de optimización algorítmica para la solución de problemas - Construir algoritmos computacionales que se aplican para el diseño de soluciones - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad - Utilizar razonamiento algorítmico en la comprensión del problema a resolver"
+          },
+          {
+            "clave": "TI2007B",
+            "nombre": "Bases de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TC2042",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0003&lang=ES",
+            "nombreCompleto": "Bases de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de bases de datos, a partir de la interpretación de la información obtenida, aplicándolas en la resolución de problemas prácticos de la vida real, usando técnicas de las ciencias de la computación - Analizar sistemáticamente las problemáticas desde diversas perspectivas, estructurando la información obtenida de manera adecuada"
+          },
+          {
+            "clave": "TI2008B",
+            "nombre": "Análisis de datos y aprendizaje automático",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado MA1055 y (Haber Cursado MA2019 o Estar Cursando MA2019 ) y (Haber Cursado MA1006B o Estar Cursando MA1006B ) y (Haber Cursado TC2042 o Estar Cursando TC2042 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TI0002&lang=ES",
+            "nombreCompleto": "Análisis de datos y aprendizaje automático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26TI0002",
+              "S26TC0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos de aprendizaje automático, a partir de la interpretación y análisis de la información obtenida en grandes bases de datos, aplicándolos en la resolución de problemas prácticos de la vida real, usando técnicas de ciencia de datos - Analizar la problemática presentada desde distintas perspectivas, enfocándose en los pros y contras desde el punto de vista del aprendizaje automático"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Quinto Semestre",
+        "materias": [
+          {
+            "clave": "EG1010",
+            "nombre": "Optativa de ética y ciudadanía",
+            "creditos": 3,
+            "tipo": "life",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa de ética y ciudadanía",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "MA2009B",
+            "nombre": "Métodos multivariados en ciencia de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1006B y Haber Aprobado MA2019 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0003&lang=ES",
+            "nombreCompleto": "Métodos multivariados en ciencia de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26MA0003",
+              "S26SI0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos multivariados, a partir del uso de técnicas de análisis aplicadas en la resolución de problemas prácticos de la vida real. - Elaborar escritos coherentes, gramaticalmente correctos y respetando los requisitos y formatos usados, a partir de la interpretación de la información obtenida, en el área de métodos multivariados para el análisis de datos."
+          },
+          {
+            "clave": "MA2022",
+            "nombre": "Programación entera y algoritmos metaheurísticos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TC2043 y Haber Cursado MA2021 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26TC0002&lang=ES",
+            "nombreCompleto": "Programación entera y algoritmos metaheurísticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26TC0002",
+              "S26EH0006"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el desarrollo e implementación de simulaciones computacionales, a partir de la interpretación de la información obtenida aplicándolos en la resolución problemas prácticos de la vida real, usando técnicas de programación entera y metaheurísticos. - Plantear conclusiones fundamentadas en argumentos válidos a partir de los resultados obtenidos mediante la experimentación y simulación de problemas de optimización entera."
+          },
+          {
+            "clave": "MA2023",
+            "nombre": "Procesos estocásticos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1006B y Haber Aprobado MA2020 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26MA0002&lang=ES",
+            "nombreCompleto": "Procesos estocásticos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26MA0002",
+              "S26EM0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Determinar el entendimiento y construcción de modelos estocásticos a partir del uso de técnicas de matemáticas aplicadas a la resolución de problemas prácticos de la vida real. - Identificar supuestos, causas y posibles soluciones a través del planteamiento de hipótesis como resultados de la interpretación de la información obtenida."
+          },
+          {
+            "clave": "TI3006B",
+            "nombre": "Aprendizaje profundo",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Cursado TI2008B y Haber Aprobado MA2019 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26IA0003&lang=ES",
+            "nombreCompleto": "Aprendizaje profundo",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26IA0003",
+              "S26IA0004",
+              "S26CO0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos de redes neuronales profundas, a partir de la interpretación de la información obtenida, aplicándolos en la resolución de problemas prácticos de la vida real - Transmitir sus conocimientos y soluciones de manera clara, elocuente, responsable y contextualizada, promoviendo el bienestar y la sostenibilidad a partir de las conclusiones obtenidas al resolver una problemática usando aprendizaje profundo"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": "Sexto Semestre",
+        "materias": [
+          {
+            "clave": "MA2024",
+            "nombre": "Análisis numérico",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA2019 y Haber Aprobado MA2020 y Haber Cursado MA2021 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0004&lang=ES",
+            "nombreCompleto": "Análisis numérico",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26EH0004"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido de los conceptos fundamentales del análisis numérico, aplicándolos en la resolución analítica de problemas prácticos de la vida real, usando modelos deterministas o estocásticos. - Aplicar técnicas y modelos del análisis numérico que permita comprender herramientas de inteligencia artificial. - Emplear estrategias de acción que permita tomar decisiones en futuros posibles proyectados."
+          },
+          {
+            "clave": "MA3002B",
+            "nombre": "Procesamiento de lenguaje natural",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA1006B y Haber Cursado TI3006B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26IA0001&lang=ES",
+            "nombreCompleto": "Procesamiento de lenguaje natural",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "C26IA0001",
+              "C26MA0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y construcción de modelos deterministas y/o estocásticos, a partir de la interpretación de la información obtenida, aplicándolos en la resolución de problemas prácticos de la vida real, usando técnicas de procesamiento de lenguaje natural. - Elaborar escritos coherentes, gramaticalmente correctos y respetando los requisitos y formatos usados en el área del aprendizaje automático."
+          },
+          {
+            "clave": "MA3022",
+            "nombre": "Análisis topológico de datos",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado MA2019 y Haber Aprobado TI2008B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26EH0002&lang=ES",
+            "nombreCompleto": "Análisis topológico de datos",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Ciencias",
+            "competenciasEvaluan": [
+              "S26EH0002"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y aplicación de técnicas analíticas, a partir de la interpretación de la información obtenida, aplicándolos en la resolución de problemas prácticos de la vida real, usando técnicas de la ciencia de datos. - Realiza acciones orientadas a promover el bienestar y la sostenibilidad a partir de las conclusiones obtenidas al resolver una problemática usando análisis topológico de datos."
+          },
+          {
+            "clave": "TC2010B",
+            "nombre": "Cómputo en la nube para inteligencia artificial",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 9,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TC2042 y Haber Aprobado TI2007B )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EM0001&lang=ES",
+            "nombreCompleto": "Cómputo en la nube para inteligencia artificial",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26EM0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento, aprovechamiento y uso de las tecnologías y herramientas de la nube, a partir de la interpretación de la información obtenida, aplicándolas en la resolución de problemas prácticos de la vida real, usando alguna plataforma específica de cómputo en la nube - Diseña soluciones deseables, factibles y viables basadas en el uso de las tecnologías de la nube y sus ventajas para la sostenibilidad"
+          },
+          {
+            "clave": "TC2044",
+            "nombre": "Aprendizaje por refuerzo",
+            "creditos": 2,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Aprobado TI2008B y (Haber Cursado MA2023 o Estar Cursando MA2023 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=S26SI0003&lang=ES",
+            "nombreCompleto": "Aprendizaje por refuerzo",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "S26SI0003"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en el entendimiento y utilización de algoritmos para el procesamiento de datos, a partir de la interpretación de la información obtenida, aplicándolos en la resolución de problemas prácticos de la vida real, usando técnicas de aprendizaje automático - Diseñar soluciones deseables, factibles y viables, basadas en las necesidades del usuario y en la sostenibilidad a partir de la información obtenida, al modelar y solucionar un problema mediante técnicas de aprendizaje automático"
+          },
+          {
+            "clave": "TC3083",
+            "nombre": "Aprendizaje por transferencia",
+            "creditos": 1,
+            "tipo": "regular",
+            "horasClase": 3,
+            "horasLab": 1,
+            "requisitos": "Haber Cursado TI3006B",
+            "nombreCompleto": "Aprendizaje por transferencia",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Implementar modelos de Transfer Learning utilizando frameworks populares en proyectos prácticos - Evaluar la efectividad de Transfer Learning en diferentes contextos, analizando su desempeño en distintos dominios y problemas, y compararlo con enfoques tradicionales - Realizar propuestas estratégicas de acción para los futuros proyectados que generen valor a partir de la información obtenida, al modelar y solucionar un problema de aprendizaje automático mediante técnicas de Tranfer Learning"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": "Séptimo Semestre",
+        "materias": [
+          {
+            "clave": "OP3098",
+            "nombre": "Optativa profesional I",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional I",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3099",
+            "nombre": "Optativa profesional II",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional II",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3100",
+            "nombre": "Optativa profesional III",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional III",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3101",
+            "nombre": "Optativa profesional IV",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional IV",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3102",
+            "nombre": "Optativa profesional V",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional V",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          },
+          {
+            "clave": "OP3103",
+            "nombre": "Optativa profesional VI",
+            "creditos": 3,
+            "tipo": "regular",
+            "horasClase": 3,
+            "nombreCompleto": "Optativa profesional VI",
+            "escuela": "Por definir",
+            "departamento": "Por definir"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": "Octavo Semestre",
+        "materias": [
+          {
+            "clave": "OP3013B",
+            "nombre": "Optativa multidisciplinar",
+            "creditos": 6,
+            "tipo": "regular",
+            "horasClase": 18,
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26EH0002&lang=ES",
+            "nombreCompleto": "Optativa multidisciplinar",
+            "escuela": "Por definir",
+            "departamento": "Por definir",
+            "competenciasEvaluan": [
+              "C26EH0002",
+              "C26EH0003"
+            ]
+          },
+          {
+            "clave": "TC3006B",
+            "nombre": "Proyectos con aprendizaje automático",
+            "creditos": 12,
+            "tipo": "regular",
+            "horasClase": 18,
+            "horasLab": 1,
+            "requisitos": "(Haber Aprobado TI3006B y Haber Aprobado MA2009B y Haber Cursado TC3083 )",
+            "urlCompetencia": "/Competencias/VistaPreliminarCompetencia?clave=C26TC0001&lang=ES",
+            "nombreCompleto": "Proyectos con aprendizaje automático",
+            "escuela": "Ingeniería y Ciencias",
+            "departamento": "Computación",
+            "competenciasEvaluan": [
+              "C26TC0001",
+              "C26TI0001",
+              "C26TI0002",
+              "C26CO0001",
+              "C26EH0001"
+            ],
+            "objetivo": "Al finalizar la unidad de formación cada estudiante será capaz de: - Demostrar un dominio sólido en la implementación de pipelines de CI/CD para modelos de aprendizaje automático, la gestión de grandes volúmenes de datos, y la optimización de algoritmos para el despliegue y monitorización eficiente en producción - Transmitir sus conocimientos y soluciones de manera clara, elocuente, responsable y contextualizada, a partir de las conclusiones obtenidas al resolver una problemática usando aprendizaje profundo - Justificar de manera clara, elocuente y contextualizada las consideraciones éticas y normativas relevantes en la resolución de una problemática usando aprendizaje automático"
+          }
+        ]
+      }
+    ]
+  }
+}
