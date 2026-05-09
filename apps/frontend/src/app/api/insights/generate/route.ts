@@ -11,7 +11,11 @@ import {
 } from "@/lib/gemini/prompts";
 import { resolveConflicts } from "@/lib/scheduling/conflicts";
 import { getSupabaseServer } from "@/lib/supabase/server";
-import { extractClavesFromText, getTec21WeekInfo } from "@/lib/tec21/calendar";
+import {
+  extractClavesFromText,
+  getPeriodoActivo,
+  type MateriaConPeriodos,
+} from "@/lib/tec21/calendar";
 
 function currentSemanaISO(): string {
   const now = new Date();
@@ -74,7 +78,7 @@ export async function POST(request: NextRequest) {
 
     const { data: perfil } = await supabase
       .from("profiles")
-      .select("nombre, carrera_clave, modelo, semestre, semestre_inicio")
+      .select("nombre, carrera_clave, modelo, semestre, periodo_inicio, periodo_fin")
       .eq("id", user.id)
       .maybeSingle();
 
@@ -82,10 +86,19 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Profile not found" }, { status: 404 });
     }
 
+    // Materias with their periods (uploaded from MiTec PDF).
     const { data: materiasRows } = await supabase
       .from("materias_inscritas")
-      .select("clave, nombre, creditos, prioridad")
+      .select("clave, nombre, creditos, prioridad, periodos")
       .eq("user_id", user.id);
+
+    const enrolled: MateriaConPeriodos[] = (materiasRows ?? []).map((m) => ({
+      clave: m.clave,
+      nombre: m.nombre ?? m.clave,
+      creditos: m.creditos ?? 0,
+      prioridad: m.prioridad ?? 3,
+      periodos: Array.isArray(m.periodos) ? m.periodos : [],
+    }));
 
     const now = new Date();
     const weekLater = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
@@ -97,36 +110,48 @@ export async function POST(request: NextRequest) {
       .lte("fecha_inicio", weekLater.toISOString())
       .order("fecha_inicio", { ascending: true });
 
-    // --- Tec21 calendar context ---
-    // Default to Feb 9 of the current year if the profile doesn't have it set yet.
-    const fallbackInicio = `${now.getFullYear()}-02-09`;
-    const semestreInicio = perfil.semestre_inicio ?? fallbackInicio;
-    const calendario_tec21 = getTec21WeekInfo(now, semestreInicio);
+    // --- Compute current period from real schedule ---
+    const periodo_activo = getPeriodoActivo(now, enrolled, perfil.periodo_inicio ?? null);
+
+    // --- Filter to only materias active in the current period ---
+    const activas = enrolled.filter((m) =>
+      m.periodos.some((p) => {
+        const t = now.getTime();
+        const start = new Date(`${p.inicio}T00:00:00`).getTime();
+        const end = new Date(`${p.fin}T00:00:00`).getTime() + 24 * 60 * 60 * 1000 - 1;
+        return t >= start && t <= end;
+      }),
+    );
+
+    const activasClaves = new Set(activas.map((m) => m.clave.toUpperCase().split(".")[0]));
 
     // --- Materias inferred from Canvas events ---
-    const enrolled = materiasRows ?? [];
-    const enrolledClaves = new Set(enrolled.map((m) => m.clave.toUpperCase()));
-
     const inferredClaves = new Set<string>();
     for (const ev of eventosRows ?? []) {
       if (ev.source !== "canvas") continue;
       for (const clave of extractClavesFromText(ev.titulo ?? "")) {
-        if (!enrolledClaves.has(clave)) inferredClaves.add(clave);
+        if (!activasClaves.has(clave)) inferredClaves.add(clave);
       }
     }
 
     const materias: MateriaCtx[] = [
-      ...enrolled.map((m) => ({
+      ...activas.map((m) => ({
         clave: m.clave,
-        nombre: m.nombre ?? m.clave,
-        creditos: m.creditos ?? 0,
-        prioridad: m.prioridad ?? 3,
+        nombre: m.nombre,
+        creditos: m.creditos,
+        prioridad: m.prioridad,
+        es_semana_tec: m.periodos.some(
+          (p) =>
+            p.es_semana_tec &&
+            new Date(`${p.inicio}T00:00:00`).getTime() <= now.getTime() &&
+            now.getTime() <= new Date(`${p.fin}T00:00:00`).getTime() + 24 * 60 * 60 * 1000,
+        ),
       })),
       ...[...inferredClaves].map((clave) => ({
         clave,
         nombre: clave,
         creditos: 0,
-        prioridad: 4, // inferred from Canvas → likely active and has deadlines
+        prioridad: 4,
         inferida: true,
       })),
     ];
@@ -145,7 +170,7 @@ export async function POST(request: NextRequest) {
         modelo: perfil.modelo ?? "tec21",
         semestre: perfil.semestre ?? 1,
       },
-      calendario_tec21,
+      periodo_activo,
       materias,
       eventos_proximos,
     };
