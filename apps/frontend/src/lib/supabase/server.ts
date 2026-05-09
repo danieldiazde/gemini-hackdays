@@ -3,7 +3,11 @@ import { createServerClient } from "@supabase/ssr";
 
 import { requireEnv } from "@/lib/env";
 
-export async function getSupabaseServer() {
+type SupabaseServerOptions = {
+  allowCookieWriteFailure?: boolean;
+};
+
+export async function getSupabaseServer(options: SupabaseServerOptions = {}) {
   const cookieStore = await cookies();
 
   return createServerClient(
@@ -19,9 +23,12 @@ export async function getSupabaseServer() {
             for (const { name, value, options } of cookiesToSet) {
               cookieStore.set(name, value, options);
             }
-          } catch {
-            // Called from a Server Component where cookies are read-only.
-            // The middleware refreshes the session, so this is safe to ignore.
+          } catch (error) {
+            if (!options.allowCookieWriteFailure) {
+              throw error;
+            }
+            // Server Components cannot write cookies. Callers that opt into
+            // this mode must rely on middleware to refresh the session.
           }
         },
       },
