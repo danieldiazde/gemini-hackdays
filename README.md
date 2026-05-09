@@ -108,10 +108,14 @@ create table if not exists profiles (
   carrera_clave text,
   modelo text check (modelo in ('tec21','tec26')),
   semestre integer check (semestre between 1 and 10),
+  semestre_inicio date,
   canvas_ical_url text,
   created_at timestamptz default now(),
   updated_at timestamptz default now()
 );
+
+-- If profiles already exists, add the new column:
+--   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS semestre_inicio date;
 
 create table if not exists planes_estudio (
   carrera_clave text primary key,
