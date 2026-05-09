@@ -11,12 +11,6 @@ function getSafeNextPath(next: string | null) {
   return next;
 }
 
-function isMissingProfilesTable(error: { code?: string; message?: string } | null) {
-  return (
-    error?.code === "42P01" ||
-    /relation .*profiles.* does not exist/i.test(error?.message ?? "")
-  );
-}
 
 export async function GET(request: NextRequest) {
   const { searchParams, origin } = new URL(request.url);
@@ -58,15 +52,11 @@ export async function GET(request: NextRequest) {
       .eq("id", user.id)
       .maybeSingle();
 
-    if (lookupError && !isMissingProfilesTable(lookupError)) {
-      return NextResponse.redirect(`${origin}/?error=profile_lookup_failed`);
-    }
-
     if (!lookupError && data?.semestre != null) {
       needsOnboarding = false;
     }
   } catch {
-    return NextResponse.redirect(`${origin}/?error=profile_lookup_failed`);
+    // Table doesn't exist or lookup failed — treat as needs onboarding.
   }
 
   return NextResponse.redirect(

@@ -25,7 +25,7 @@ export type CarreraSummary = {
   nombre: string;
 };
 
-export type Modelo = "tec21" | "clasico";
+export type Modelo = "tec21" | "tec26";
 
 export type ProfileSetupBody = {
   matricula: string;
