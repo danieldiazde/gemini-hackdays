@@ -1,18 +1,16 @@
-import { getISOWeek, getYear, parseISO } from "date-fns";
+import { getISOWeek, getYear } from "date-fns";
 
 import { DashboardView } from "@/components/dashboard/DashboardView";
 import { EmptyInsightCard } from "@/components/dashboard/EmptyInsightCard";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { getWeekRange } from "@/lib/dates";
-import { EVENTOS_FIXTURE } from "@/lib/fixtures/eventos";
-import { INSIGHT_FIXTURE } from "@/lib/fixtures/insights";
+import { buildEventosFixture } from "@/lib/fixtures/eventos";
+import { buildInsightFixture } from "@/lib/fixtures/insights";
 import { syncGoogleCalendarToDb } from "@/lib/google/calendar";
 import { syncCanvasIcalToDb } from "@/lib/ical/parser";
 import { getSupabaseServer } from "@/lib/supabase/server";
 import type { Evento } from "@/lib/types/eventos";
 import type { Insight } from "@/lib/types/insights";
-
-const FIXTURE_REFERENCE_DATE = parseISO("2026-05-13");
 
 function hasSupabaseConfig() {
   return Boolean(
@@ -130,12 +128,13 @@ export default async function DashboardPage({
     await autoSyncExternalCalendars();
   }
 
+  const today = new Date();
   const realInsight = demo ? "missing" : await loadCurrentInsight();
   const insight: Insight | null | "error" =
     realInsight === "missing"
       ? showEmpty
         ? null
-        : INSIGHT_FIXTURE
+        : buildInsightFixture(today)
       : realInsight === "error"
         ? "error"
       : realInsight;
@@ -160,22 +159,20 @@ export default async function DashboardPage({
 
   const usingFixture = realInsight === "missing";
 
-  // Anchor the calendar week to TODAY for real data. Fixtures use the seed
-  // reference so demo events line up. Stale cached insights (from a previous
-  // ISO week) get treated as "no insight yet" so the user is prompted to
-  // regenerate instead of seeing last week's blocks on this week's calendar.
-  const today = new Date();
+  // Always anchor the calendar to today. Stale cached insights (from a
+  // previous ISO week) get treated as "no insight yet" so the user is
+  // prompted to regenerate instead of seeing last week's blocks on this
+  // week's calendar.
   const currentSemanaISO = `${getYear(today)}-W${String(getISOWeek(today)).padStart(2, "0")}`;
   if (!usingFixture && insight.semana_iso !== currentSemanaISO) {
     return <EmptyInsightCard />;
   }
-  const reference = usingFixture ? FIXTURE_REFERENCE_DATE : today;
-  const week = getWeekRange(reference);
+  const week = getWeekRange(today);
 
   const realEventos = demo ? "missing" : await loadWeekEventos(week.start, week.end);
   const eventos: Evento[] =
     realEventos === "missing"
-      ? EVENTOS_FIXTURE
+      ? buildEventosFixture(today)
       : realEventos === "error"
         ? []
         : realEventos;

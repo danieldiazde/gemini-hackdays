@@ -8,7 +8,6 @@ import {
 import { LoginButton } from "@/components/auth/LoginButton";
 import {
   Card,
-  CardContent,
   CardDescription,
   CardHeader,
   CardTitle,
@@ -97,7 +96,6 @@ export default function HomePage() {
               <CardTitle className="text-base">{title}</CardTitle>
               <CardDescription>{description}</CardDescription>
             </CardHeader>
-            <CardContent />
           </Card>
         ))}
       </section>

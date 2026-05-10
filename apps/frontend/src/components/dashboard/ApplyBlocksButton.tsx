@@ -129,7 +129,8 @@ export function ApplyBlocksButton({
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger
         disabled={disabled}
-        className="fixed bottom-6 right-6 z-30 inline-flex items-center gap-2 rounded-full bg-gemini-gradient px-5 py-3 text-sm font-semibold text-white shadow-xl shadow-gemini-blue/25 transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-50"
+        className="fixed right-6 z-30 inline-flex items-center gap-2 rounded-full bg-gemini-gradient px-5 py-3 text-sm font-semibold text-white shadow-xl shadow-gemini-blue/25 transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-50"
+        style={{ bottom: "max(1.5rem, calc(1.5rem + env(safe-area-inset-bottom)))" }}
       >
         <CalendarPlus className="size-4" />
         {disabled

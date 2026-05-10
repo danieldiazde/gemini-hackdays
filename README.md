@@ -300,19 +300,16 @@ Generates insights for the current week. Uses cache unless `forceRefresh` is tru
 
 `POST /api/profile/setup`
 
+Lightweight profile save (identity + carrera + modelo + semestre). Materias come from the PDF endpoint below.
+
 ```ts
 // Body
 {
-  matricula: string;
-  nombre: string;
+  matricula?: string;
+  nombre?: string;
   carreraClave: string;
-  modelo: "tec21" | "clasico";
-  semestre: number;
-  materias: Array<{
-    clave: string;
-    nombre: string;
-    creditos: number;
-  }>;
+  modelo: "tec21" | "tec26";
+  semestre: number; // 1-10
   canvasIcalUrl?: string;
 }
 
@@ -320,12 +317,32 @@ Generates insights for the current week. Uses cache unless `forceRefresh` is tru
 { success: true }
 ```
 
+`POST /api/profile/horario`
+
+Parses the student's official MiTec schedule PDF via Gemini multimodal. Replaces `materias_inscritas` and writes `periodo_*` columns on `profiles`.
+
+```ts
+// Body: multipart/form-data with field "pdf" (max 10 MB, application/pdf)
+
+// Response 200
+{
+  success: true;
+  alumno: string | null;
+  matricula: string | null;
+  periodo: string | null;
+  materias: number;
+}
+```
+
+`POST /api/gemini/test`
+
+Auth-gated smoke test for the Gemini integration. Returns a one-line response.
+
 ### Frontend Components
 
-- `<OnboardingFlow />`: multi-step flow, writes to `/api/profile/setup`.
-- `<Dashboard />`: fetches `/api/insights/current`.
-- `<WeeklyCalendar />`: fetches `/api/eventos?week=current`.
-- `<ApplyBlocksButton />`: posts approved blocks to `/api/calendar/create`.
+- `<OnboardingFlow />`: 3-step flow (datos → carrera → upload PDF), writes to `/api/profile/setup` then `/api/profile/horario`.
+- `<DashboardView />`: server component reads `insights` + `eventos` directly from Supabase; the page also auto-syncs Google Calendar + Canvas iCal on load.
+- `<ApplyBlocksButton />`: posts selected blocks to `/api/calendar/create`.
 
 ---
 
@@ -344,6 +361,10 @@ GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 
 NEXT_PUBLIC_APP_URL=http://localhost:3000
+
+# Optional: when set to 1, the app skips Supabase/Gemini/Google calls and
+# renders fixture data so you can run the UI without any external credentials.
+NEXT_PUBLIC_DEMO_MODE=
 ```
 
 Server-only variables must never be exposed through `NEXT_PUBLIC_*`.
@@ -353,32 +374,44 @@ Server-only variables must never be exposed through `NEXT_PUBLIC_*`.
 ## Target App Structure
 
 ```text
-apps/frontend/src/
-├── app/
-│   ├── (auth)/login/page.tsx
-│   ├── (app)/dashboard/page.tsx
-│   ├── (app)/onboarding/page.tsx
-│   ├── api/
-│   │   ├── canvas/sync/route.ts
-│   │   ├── calendar/sync/route.ts
-│   │   ├── calendar/create/route.ts
-│   │   ├── insights/generate/route.ts
-│   │   ├── insights/current/route.ts
-│   │   ├── planes/[clave]/route.ts
-│   │   └── profile/setup/route.ts
-│   └── layout.tsx
-├── components/
-│   ├── onboarding/
-│   ├── dashboard/
-│   └── ui/
-├── lib/
-│   ├── supabase/
-│   ├── gemini/
-│   ├── google/
-│   └── ical/
-├── types/
+apps/frontend/
+├── data/planes/              # 53 study-plan JSONs, seeded into planes_estudio
 ├── scripts/
-└── data/
+│   └── seed-planes.ts        # node script that upserts data/planes/* into Supabase
+└── src/
+    ├── app/
+    │   ├── page.tsx          # landing + LoginButton
+    │   ├── (app)/dashboard/
+    │   ├── (app)/onboarding/
+    │   ├── auth/callback/
+    │   └── api/
+    │       ├── canvas/sync/
+    │       ├── calendar/sync/
+    │       ├── calendar/create/
+    │       ├── insights/generate/
+    │       ├── insights/current/
+    │       ├── gemini/test/
+    │       ├── planes/[clave]/
+    │       ├── planes/
+    │       ├── profile/setup/
+    │       └── profile/horario/
+    ├── components/
+    │   ├── auth/
+    │   ├── onboarding/
+    │   ├── dashboard/
+    │   └── ui/
+    ├── lib/
+    │   ├── supabase/
+    │   ├── gemini/
+    │   ├── google/
+    │   ├── ical/
+    │   ├── pdf/              # MiTec horario parser via Gemini multimodal
+    │   ├── scheduling/       # study-block conflict resolver
+    │   ├── tec21/            # period helpers
+    │   ├── validation/       # zod schemas for API inputs
+    │   ├── fixtures/         # demo-mode data
+    │   └── types/
+    └── middleware.ts
 ```
 
 ---
