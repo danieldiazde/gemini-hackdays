@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getISOWeek, getYear } from "date-fns";
+import { getISOWeek, getYear, isValid, parseISO } from "date-fns";
 
 import { getGeminiClient, FLASH_MODEL } from "@/lib/gemini/client";
 import {
@@ -191,6 +191,10 @@ export async function POST(request: NextRequest) {
         [key: string]: unknown;
       }>;
     };
+
+    raw.bloques_sugeridos = raw.bloques_sugeridos.filter(
+      (b) => isValid(parseISO(b.inicio_iso)) && isValid(parseISO(b.fin_iso)),
+    );
 
     const eventRanges = (eventosRows ?? []).map((e) => ({
       inicio: e.fecha_inicio,
