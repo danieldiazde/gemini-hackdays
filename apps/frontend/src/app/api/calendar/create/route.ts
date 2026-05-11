@@ -1,54 +1,26 @@
 import { NextResponse } from 'next/server'
-import { getSupabaseServer } from '@/lib/supabase/server'
+
 import {
   getProviderToken,
   createEvents,
   type NewCalEvent,
 } from '@/lib/google/calendar'
-
-type EventInput = {
-  titulo: string
-  descripcion?: string
-  inicio: string
-  fin: string
-}
-
-function isEventInput(e: unknown): e is EventInput {
-  if (typeof e !== 'object' || e === null) return false
-  const ev = e as Record<string, unknown>
-  return (
-    typeof ev.titulo === 'string' &&
-    typeof ev.inicio === 'string' &&
-    typeof ev.fin === 'string'
-  )
-}
+import { getSupabaseServer } from '@/lib/supabase/server'
+import {
+  calendarCreateBodySchema,
+  parseOrFail,
+} from '@/lib/validation/schemas'
 
 export async function POST(request: Request) {
-  let body: unknown
-  try {
-    body = await request.json()
-  } catch {
+  const raw = await request.json().catch(() => null)
+  const parsed = parseOrFail(calendarCreateBodySchema, raw)
+  if (!parsed.ok) {
     return NextResponse.json(
-      { success: false, error: 'Body inválido' },
+      { success: false, error: parsed.error },
       { status: 400 },
     )
   }
-
-  const rawEvents = (body as Record<string, unknown>).events
-  if (!Array.isArray(rawEvents) || rawEvents.length === 0) {
-    return NextResponse.json(
-      { success: false, error: 'events debe ser un array no vacío' },
-      { status: 400 },
-    )
-  }
-
-  const validEvents: EventInput[] = rawEvents.filter(isEventInput)
-  if (validEvents.length === 0) {
-    return NextResponse.json(
-      { success: false, error: 'Ningún evento tiene los campos requeridos (titulo, inicio, fin)' },
-      { status: 400 },
-    )
-  }
+  const validEvents = parsed.data.events
 
   try {
     const supabase = await getSupabaseServer()
@@ -92,12 +64,18 @@ export async function POST(request: Request) {
         ? ` Google respondió ${first.status}: ${first.message}`
         : ''
       let hint = ''
+      let status = 500
       if (first) {
         const msg = first.message.toLowerCase()
         if (msg.includes('has not been used') || msg.includes('disabled')) {
           hint = ' Habilita la Google Calendar API en Google Cloud Console y reintenta.'
-        } else if (first.status === 401 || msg.includes('insufficient')) {
-          hint = ' Cierra sesión y vuelve a entrar para autorizar Google Calendar.'
+          status = 503
+        } else if (first.status === 401 || msg.includes('invalid credentials')) {
+          hint = ' Tu sesión con Google expiró. Cierra sesión y vuelve a entrar.'
+          status = 401
+        } else if (msg.includes('insufficient') || first.status === 403) {
+          hint = ' Falta el permiso de Google Calendar. Cierra sesión, vuelve a entrar y acepta el acceso al calendario.'
+          status = 403
         }
       }
       return NextResponse.json(
@@ -106,7 +84,7 @@ export async function POST(request: Request) {
           error: `No se pudo crear ningún evento.${detail}${hint}`,
           errors: createErrors,
         },
-        { status: 500 },
+        { status },
       )
     }
 

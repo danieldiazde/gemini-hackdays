@@ -11,7 +11,10 @@ export async function GET() {
 
     if (error) {
       console.error("[api/planes] supabase error:", error.message);
-      return NextResponse.json({ error: "DB error" }, { status: 500 });
+      return NextResponse.json(
+        { error: "No pudimos cargar las carreras." },
+        { status: 500 },
+      );
     }
 
     const carreras = (data ?? []).map((row) => ({
@@ -19,7 +22,18 @@ export async function GET() {
       nombre: row.nombre ?? row.carrera_clave,
     }));
 
-    return NextResponse.json({ carreras });
+    // Catalog data is essentially static (changes when we re-seed planes).
+    // Tell browsers + CDN edges to hold it for 5 minutes with a long
+    // stale-while-revalidate window.
+    return NextResponse.json(
+      { carreras },
+      {
+        headers: {
+          "Cache-Control":
+            "public, max-age=300, s-maxage=3600, stale-while-revalidate=86400",
+        },
+      },
+    );
   } catch (err) {
     console.error("[api/planes] unexpected:", err);
     return NextResponse.json({ error: "Error interno" }, { status: 500 });

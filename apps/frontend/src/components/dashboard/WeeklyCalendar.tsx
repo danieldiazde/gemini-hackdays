@@ -80,7 +80,87 @@ export function WeeklyCalendar({
 }) {
   return (
     <div className="overflow-hidden rounded-xl bg-card shadow-sm ring-1 ring-foreground/10">
-      <div className="overflow-x-auto">
+      {/* Mobile: vertical stacked list per day. The horizontal grid below is
+          768px+ only since at smaller widths it forces an unusable horizontal
+          scroll. */}
+      <div className="divide-y divide-border md:hidden">
+        {week.days.map((day) => {
+          const dayEventos = eventos.filter((e) => {
+            const start = parseISO(e.inicio);
+            const end = parseISO(e.fin);
+            return isValid(start) && isValid(end) && isSameDay(start, day);
+          });
+          const dayBloques = bloques.filter((b) => {
+            const start = parseISO(b.inicio_iso);
+            const end = parseISO(b.fin_iso);
+            return isValid(start) && isValid(end) && isSameDay(start, day);
+          });
+          const empty = dayEventos.length === 0 && dayBloques.length === 0;
+          return (
+            <section key={day.toISOString()} className="px-4 py-3">
+              <h3 className="text-sm font-semibold text-foreground">
+                {formatDayHeader(day)}
+              </h3>
+              {empty ? (
+                <p className="mt-1 text-xs text-muted-foreground">Sin eventos.</p>
+              ) : (
+                <ul className="mt-2 space-y-2">
+                  {dayBloques.map((b) => {
+                    const start = parseISO(b.inicio_iso);
+                    const end = parseISO(b.fin_iso);
+                    const key = blockKey(b);
+                    const isSelected = selected.has(key);
+                    return (
+                      <li key={key}>
+                        <button
+                          type="button"
+                          onClick={() => onToggle(key)}
+                          aria-pressed={isSelected}
+                          className={`flex w-full items-start justify-between gap-2 rounded-md p-2 text-left text-xs text-white shadow-sm transition ${
+                            isSelected
+                              ? "bg-gemini-gradient ring-2 ring-gemini-blue/70"
+                              : "bg-gemini-gradient/85 ring-1 ring-white/30"
+                          }`}
+                        >
+                          <div>
+                            <p className="font-semibold">{b.titulo}</p>
+                            <p className="text-[10px] opacity-90">
+                              {timeLabel(start)} – {timeLabel(end)} · TecCoach
+                            </p>
+                          </div>
+                          {isSelected && (
+                            <span className="flex size-4 shrink-0 items-center justify-center rounded-full bg-white text-gemini-blue">
+                              <Check className="size-3" />
+                            </span>
+                          )}
+                        </button>
+                      </li>
+                    );
+                  })}
+                  {dayEventos.map((e) => {
+                    const start = parseISO(e.inicio);
+                    const end = parseISO(e.fin);
+                    return (
+                      <li
+                        key={e.id}
+                        className={`rounded-md p-2 text-xs ring-1 ${FUENTE_STYLE[e.fuente]}`}
+                      >
+                        <p className="font-semibold">{e.titulo}</p>
+                        <p className="text-[10px] opacity-80">
+                          {timeLabel(start)} – {timeLabel(end)} · {FUENTE_LABEL[e.fuente]}
+                        </p>
+                      </li>
+                    );
+                  })}
+                </ul>
+              )}
+            </section>
+          );
+        })}
+      </div>
+
+      {/* Desktop: original horizontal grid */}
+      <div className="hidden overflow-x-auto md:block">
         <div className="min-w-[760px]">
       {/* Day header row */}
       <div className="grid grid-cols-[64px_repeat(7,minmax(0,1fr))] border-b border-border bg-muted/40">

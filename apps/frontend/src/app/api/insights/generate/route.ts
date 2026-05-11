@@ -35,10 +35,17 @@ async function callGemini(prompt: string, attempt = 0): Promise<unknown> {
       },
     });
     const text = response.candidates?.[0]?.content?.parts?.[0]?.text ?? "";
+    if (!text.trim()) {
+      throw new Error("Gemini returned empty response");
+    }
     return JSON.parse(text);
   } catch (err) {
     if (attempt < 2) {
-      await new Promise((r) => setTimeout(r, 2 ** attempt * 1000));
+      // Exponential backoff with jitter so concurrent failures don't all
+      // retry on the same beat and stampede Gemini's rate limit.
+      const base = 2 ** attempt * 1000;
+      const jitter = Math.random() * 500;
+      await new Promise((r) => setTimeout(r, base + jitter));
       return callGemini(prompt, attempt + 1);
     }
     throw err;

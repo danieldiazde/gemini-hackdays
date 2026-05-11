@@ -1,5 +1,6 @@
 import type { SupabaseClient } from '@supabase/supabase-js'
 
+import { fetchWithTimeout } from '@/lib/http'
 import { getSupabaseServer } from '@/lib/supabase/server'
 
 export type GCalEvent = {
@@ -53,7 +54,7 @@ export async function listEvents(
     maxResults: '100',
   })
 
-  const response = await fetch(
+  const response = await fetchWithTimeout(
     `https://www.googleapis.com/calendar/v3/calendars/primary/events?${params}`,
     { headers: { Authorization: `Bearer ${token}` } },
   )
@@ -86,7 +87,7 @@ export async function createEvents(
 
   for (const event of events) {
     try {
-      const response = await fetch(
+      const response = await fetchWithTimeout(
         'https://www.googleapis.com/calendar/v3/calendars/primary/events',
         {
           method: 'POST',

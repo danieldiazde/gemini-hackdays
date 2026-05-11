@@ -1,5 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
+
 import { getSupabaseServer } from "@/lib/supabase/server";
+import {
+  parseOrFail,
+  profileSetupBodySchema,
+} from "@/lib/validation/schemas";
 
 /**
  * Light profile setup — only saves identity + carrera + modelo + semestre.
@@ -17,14 +22,12 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
-    const body = (await request.json()) as {
-      matricula?: string;
-      nombre?: string;
-      carreraClave: string;
-      modelo: string;
-      semestre: number;
-      canvasIcalUrl?: string;
-    };
+    const raw = await request.json().catch(() => null);
+    const parsed = parseOrFail(profileSetupBodySchema, raw);
+    if (!parsed.ok) {
+      return NextResponse.json({ error: parsed.error }, { status: 400 });
+    }
+    const body = parsed.data;
 
     const { error: profileError } = await supabase.from("profiles").upsert(
       {
@@ -39,11 +42,20 @@ export async function POST(request: NextRequest) {
       },
       { onConflict: "id" },
     );
-    if (profileError) throw profileError;
+    if (profileError) {
+      console.error("[profile/setup] supabase:", profileError.message);
+      return NextResponse.json(
+        { error: "No pudimos guardar tu perfil." },
+        { status: 500 },
+      );
+    }
 
     return NextResponse.json({ success: true });
   } catch (err) {
     console.error("[profile/setup]", err);
-    return NextResponse.json({ error: "Failed to save profile" }, { status: 500 });
+    return NextResponse.json(
+      { error: "Failed to save profile" },
+      { status: 500 },
+    );
   }
 }

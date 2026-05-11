@@ -1,25 +1,19 @@
 import { NextResponse } from 'next/server'
-import { getSupabaseServer } from '@/lib/supabase/server'
+
 import { parseCanvasIcal } from '@/lib/ical/parser'
+import { getSupabaseServer } from '@/lib/supabase/server'
+import { canvasSyncBodySchema, parseOrFail } from '@/lib/validation/schemas'
 
 export async function POST(request: Request) {
-  let body: unknown
-  try {
-    body = await request.json()
-  } catch {
+  const raw = await request.json().catch(() => null)
+  const parsed = parseOrFail(canvasSyncBodySchema, raw)
+  if (!parsed.ok) {
     return NextResponse.json(
-      { success: false, error: 'Body inválido' },
+      { success: false, error: parsed.error },
       { status: 400 },
     )
   }
-
-  const icalUrl = (body as Record<string, unknown>).icalUrl
-  if (typeof icalUrl !== 'string' || !icalUrl.trim()) {
-    return NextResponse.json(
-      { success: false, error: 'icalUrl requerido' },
-      { status: 400 },
-    )
-  }
+  const { icalUrl } = parsed.data
 
   try {
     const supabase = await getSupabaseServer()
@@ -69,7 +63,23 @@ export async function POST(request: Request) {
     return NextResponse.json({ success: true, eventsAdded: rows.length })
   } catch (err) {
     console.error('[canvas/sync] unexpected:', err)
-    const message = err instanceof Error ? err.message : 'Error interno'
-    return NextResponse.json({ success: false, error: message }, { status: 500 })
+    // Only surface our own deliberately-thrown messages (URL validation,
+    // parse failures). Anything else stays generic to avoid leaking
+    // internal details like DB column names.
+    const safeMessages = [
+      'URL inválida',
+      'La URL debe usar HTTPS',
+      'Host no permitido',
+      'La URL debe terminar en .ics',
+      'No se pudo obtener el iCal de Canvas',
+    ]
+    const message = err instanceof Error ? err.message : ''
+    const surface = safeMessages.some((m) => message.startsWith(m))
+      ? message
+      : 'No pudimos sincronizar Canvas. Inténtalo de nuevo.'
+    return NextResponse.json(
+      { success: false, error: surface },
+      { status: 500 },
+    )
   }
 }

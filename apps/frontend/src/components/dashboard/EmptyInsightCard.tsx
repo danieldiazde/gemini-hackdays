@@ -44,10 +44,17 @@ export function EmptyInsightCard() {
     }
   }
 
-  // Auto-trigger generation on first mount so the user doesn't have to click.
+  // Auto-trigger generation once per browser session. We persist a flag in
+  // sessionStorage so navigating away and coming back, or React Strict-mode
+  // double mounts, don't repeatedly drain Gemini quota when generation keeps
+  // failing. The user can still manually retry with the button.
   useEffect(() => {
     if (autoTriggered.current) return;
     autoTriggered.current = true;
+    if (typeof window === "undefined") return;
+    const KEY = "teccoach.insight_auto_attempt";
+    if (window.sessionStorage.getItem(KEY) === "done") return;
+    window.sessionStorage.setItem(KEY, "done");
     void handleGenerate(false);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);

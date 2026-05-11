@@ -55,8 +55,16 @@ export async function POST(request: NextRequest) {
       .upsert(profileUpdate, { onConflict: "id" });
     if (profileError) throw profileError;
 
-    // Replace materias_inscritas with PDF data (PDF is source of truth).
-    await supabase.from("materias_inscritas").delete().eq("user_id", user.id);
+    // Replace materias_inscritas with PDF data, but never wipe the user's
+    // existing rows before the new ones are safely persisted. Snapshot the
+    // current row IDs, insert new rows, and only after the insert succeeds
+    // delete the snapshot. If the insert errors out, the user keeps their
+    // previous schedule.
+    const { data: existingRows } = await supabase
+      .from("materias_inscritas")
+      .select("id")
+      .eq("user_id", user.id);
+
     const rows = parsed.materias.map((m) => ({
       user_id: user.id,
       clave: m.clave_completa, // keep section info to match Canvas titles
@@ -66,10 +74,21 @@ export async function POST(request: NextRequest) {
       prioridad: m.periodos.some((p) => p.es_semana_tec) ? 5 : 3,
       periodos: m.periodos,
     }));
+
     const { error: materiasError } = await supabase
       .from("materias_inscritas")
       .insert(rows);
     if (materiasError) throw materiasError;
+
+    if (existingRows && existingRows.length > 0) {
+      await supabase
+        .from("materias_inscritas")
+        .delete()
+        .in(
+          "id",
+          existingRows.map((r) => r.id),
+        );
+    }
 
     return NextResponse.json({
       success: true,

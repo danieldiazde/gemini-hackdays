@@ -10,18 +10,16 @@ TecCoach is an academic coach for Tec students. It connects calendar context, Ca
 
 1. Open TecCoach.
 2. Click "Iniciar sesión con Google".
-3. Complete onboarding:
-   - matricula
-   - carrera
-   - semestre
-   - materias inscritas
-   - Canvas iCal URL
-4. Show dashboard:
-   - coach message
-   - three priorities
-   - urgency and rationale
-   - suggested weekly study blocks
-5. Click "Aplicar a Google Calendar".
+3. Complete onboarding (3 steps):
+   - Step 1: nombre + matricula
+   - Step 2: carrera + modelo (TEC21/TEC26) + semestre
+   - Step 3: upload official MiTec schedule PDF + optional Canvas iCal URL
+   - The PDF is parsed by Gemini multimodal to extract materias, periodos, CRNs and Semana Tec flags — no manual class selection.
+4. Dashboard auto-syncs Google Calendar + Canvas iCal, then auto-generates the weekly insight. Show:
+   - coach message (mentions current Tec21 block or Semana Tec)
+   - prioridades (2-4 with urgency)
+   - bloques sugeridos in the weekly grid (real Google + Canvas events appear underneath in gray)
+5. Click "Aplicar X bloques".
 6. Open Google Calendar and show the created study blocks.
 
 ## Gemini moment
