@@ -1,4 +1,4 @@
-import { getISOWeek, getYear } from "date-fns";
+import { getISOWeek, getYear, isValid, parseISO } from "date-fns";
 
 import { DashboardView } from "@/components/dashboard/DashboardView";
 import { EmptyInsightCard } from "@/components/dashboard/EmptyInsightCard";
@@ -177,9 +177,19 @@ export default async function DashboardPage({
         ? []
         : realEventos;
 
+  const cleanInsight: Insight = {
+    ...insight,
+    contenido: {
+      ...insight.contenido,
+      bloques_sugeridos: insight.contenido.bloques_sugeridos.filter(
+        (b) => isValid(parseISO(b.inicio_iso)) && isValid(parseISO(b.fin_iso)),
+      ),
+    },
+  };
+
   return (
     <DashboardView
-      insight={insight}
+      insight={cleanInsight}
       eventos={eventos}
       week={week}
       usingFixture={usingFixture}
