@@ -6,6 +6,8 @@ matter, and turns approved recommendations into Google Calendar study blocks.
 
 Live app: <https://teccoach.vercel.app>
 
+Public demo: <https://teccoach.vercel.app/dashboard?demo=1>
+
 ## What It Does
 
 - Signs students in with Google OAuth through Supabase.
