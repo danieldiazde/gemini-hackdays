@@ -16,6 +16,12 @@ import {
   getPeriodoActivo,
   type MateriaConPeriodos,
 } from "@/lib/tec21/calendar";
+import { checkRateLimit } from "@/lib/rate-limit";
+import {
+  insightContenidoSchema,
+  insightsGenerateBodySchema,
+  parseOrFail,
+} from "@/lib/validation/schemas";
 
 function currentSemanaISO(): string {
   const now = new Date();
@@ -54,8 +60,12 @@ async function callGemini(prompt: string, attempt = 0): Promise<unknown> {
 
 export async function POST(request: NextRequest) {
   try {
-    const body = (await request.json().catch(() => ({}))) as { forceRefresh?: boolean };
-    const forceRefresh = body.forceRefresh === true;
+    const rawBody = await request.json().catch(() => ({}));
+    const parsedBody = parseOrFail(insightsGenerateBodySchema, rawBody);
+    if (!parsedBody.ok) {
+      return NextResponse.json({ error: parsedBody.error }, { status: 400 });
+    }
+    const forceRefresh = parsedBody.data.forceRefresh === true;
 
     const supabase = await getSupabaseServer();
     const {
@@ -64,6 +74,25 @@ export async function POST(request: NextRequest) {
     } = await supabase.auth.getUser();
     if (authError || !user) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    }
+
+    const limit = checkRateLimit({
+      key: `insights:${user.id}`,
+      limit: forceRefresh ? 2 : 4,
+      windowMs: 60 * 60 * 1000,
+    });
+    if (!limit.ok) {
+      return NextResponse.json(
+        {
+          error: `Demasiados intentos. Reintenta en ${limit.retryAfterSeconds} segundos.`,
+        },
+        {
+          status: 429,
+          headers: {
+            "Retry-After": String(limit.retryAfterSeconds),
+          },
+        },
+      );
     }
 
     const semana_iso = currentSemanaISO();
@@ -182,17 +211,22 @@ export async function POST(request: NextRequest) {
       eventos_proximos,
     };
 
-    const raw = (await callGemini(buildCoachPrompt(ctx))) as {
-      mensaje: string;
-      prioridades: unknown[];
-      bloques_sugeridos: Array<{
-        inicio_iso: string;
-        fin_iso: string;
-        [key: string]: unknown;
-      }>;
-    };
+    const raw = await callGemini(buildCoachPrompt(ctx));
+    const parsedInsight = insightContenidoSchema.safeParse(raw);
+    if (!parsedInsight.success) {
+      console.error(
+        "[insights/generate] invalid Gemini output:",
+        parsedInsight.error.issues,
+      );
+      return NextResponse.json(
+        { error: "Gemini devolvió una respuesta inválida. Inténtalo de nuevo." },
+        { status: 502 },
+      );
+    }
 
-    raw.bloques_sugeridos = raw.bloques_sugeridos.filter(
+    const contenido = parsedInsight.data;
+
+    contenido.bloques_sugeridos = contenido.bloques_sugeridos.filter(
       (b) => isValid(parseISO(b.inicio_iso)) && isValid(parseISO(b.fin_iso)),
     );
 
@@ -200,14 +234,17 @@ export async function POST(request: NextRequest) {
       inicio: e.fecha_inicio,
       fin: e.fecha_fin,
     }));
-    raw.bloques_sugeridos = resolveConflicts(raw.bloques_sugeridos, eventRanges);
+    contenido.bloques_sugeridos = resolveConflicts(
+      contenido.bloques_sugeridos,
+      eventRanges,
+    );
 
     await supabase.from("insights").upsert(
-      { user_id: user.id, semana_iso, contenido: raw },
+      { user_id: user.id, semana_iso, contenido },
       { onConflict: "user_id,semana_iso" },
     );
 
-    return NextResponse.json({ semana_iso, contenido: raw });
+    return NextResponse.json({ semana_iso, contenido });
   } catch (err) {
     console.error("[insights/generate]", err);
     return NextResponse.json(

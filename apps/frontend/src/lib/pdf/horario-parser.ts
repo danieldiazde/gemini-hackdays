@@ -1,4 +1,5 @@
 import { getGeminiClient, FLASH_MODEL } from "@/lib/gemini/client";
+import { z } from "zod";
 
 export type HorarioPeriodo = {
   /** ISO date YYYY-MM-DD */
@@ -107,6 +108,31 @@ REGLAS:
 
 Devuelve JSON puro siguiendo el schema. Sin texto fuera del JSON.`;
 
+const horarioPeriodoSchema = z.object({
+  inicio: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+  fin: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+  dias: z.string().nullable(),
+  hora_inicio: z.string().nullable(),
+  hora_fin: z.string().nullable(),
+  ubicacion: z.string().nullable(),
+  es_semana_tec: z.boolean(),
+});
+
+const horarioParsedSchema = z.object({
+  alumno_nombre: z.string().nullable(),
+  matricula: z.string().nullable(),
+  periodo_nombre: z.string().nullable(),
+  materias: z.array(
+    z.object({
+      clave: z.string().trim().min(1).max(40),
+      clave_completa: z.string().trim().min(1).max(80),
+      nombre: z.string().trim().min(1).max(240),
+      crn: z.string().trim().min(1).max(40),
+      periodos: z.array(horarioPeriodoSchema),
+    }),
+  ),
+});
+
 export async function parseHorarioPdf(pdfBytes: Uint8Array): Promise<HorarioParsed> {
   const client = getGeminiClient();
 
@@ -136,7 +162,8 @@ export async function parseHorarioPdf(pdfBytes: Uint8Array): Promise<HorarioPars
   });
 
   const text = response.candidates?.[0]?.content?.parts?.[0]?.text ?? "";
-  const parsed = JSON.parse(text) as Omit<HorarioParsed, "periodo_inicio" | "periodo_fin">;
+  const parsedJson = JSON.parse(text) as unknown;
+  const parsed = horarioParsedSchema.parse(parsedJson);
 
   // Compute overall semester start and end from materia periods.
   const allInicios = parsed.materias.flatMap((m) => m.periodos.map((p) => p.inicio));

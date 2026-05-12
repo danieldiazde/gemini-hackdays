@@ -1,9 +1,11 @@
 import {
   CalendarRange,
   GraduationCap,
+  Play,
   Sparkles,
   WandSparkles,
 } from "lucide-react";
+import Link from "next/link";
 
 import { LoginButton } from "@/components/auth/LoginButton";
 import {
@@ -74,7 +76,16 @@ export default function HomePage() {
         </p>
 
         <div className="motion-safe:animate-in motion-safe:fade-in-0 motion-safe:zoom-in-95 motion-safe:duration-500 motion-safe:delay-300">
-          <LoginButton />
+          <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
+            <LoginButton />
+            <Link
+              href="/dashboard?demo=1"
+              className="inline-flex h-12 items-center justify-center gap-2 rounded-lg border border-border bg-background px-6 text-base font-semibold text-foreground shadow-sm transition hover:bg-muted"
+            >
+              <Play className="size-5" />
+              Ver demo
+            </Link>
+          </div>
         </div>
 
         <p className="text-xs text-muted-foreground">

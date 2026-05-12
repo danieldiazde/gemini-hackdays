@@ -1,9 +1,7 @@
 import type { CarreraSummary, PlanEstudio } from "@/lib/types/planes";
 
 /**
- * Static fallback for the carrera dropdown / materias list while Persona A's
- * `/api/planes` endpoints are being built. Keep the shapes in sync with
- * `lib/types/planes.ts` so swapping in real data is a no-op.
+ * Static fallback for demo mode and local development without Supabase data.
  */
 
 export const CARRERAS_FIXTURE: CarreraSummary[] = [
