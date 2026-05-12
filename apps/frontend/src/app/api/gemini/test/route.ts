@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 
 import { getGeminiClient, FLASH_MODEL } from "@/lib/gemini/client";
+import { checkRateLimit } from "@/lib/rate-limit";
 import { getSupabaseServer } from "@/lib/supabase/server";
 
 /**
@@ -16,6 +17,23 @@ export async function POST() {
   } = await supabase.auth.getUser();
   if (error || !user) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const limit = checkRateLimit({
+    key: `gemini-test:${user.id}`,
+    limit: 3,
+    windowMs: 60 * 60 * 1000,
+  });
+  if (!limit.ok) {
+    return NextResponse.json(
+      { error: "Too many requests" },
+      {
+        status: 429,
+        headers: {
+          "Retry-After": String(limit.retryAfterSeconds),
+        },
+      },
+    );
   }
 
   const client = getGeminiClient();

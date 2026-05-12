@@ -80,7 +80,11 @@ export function DashboardView({
         />
       </div>
 
-      <ApplyBlocksButton bloques={bloques} selectedKeys={selected} />
+      <ApplyBlocksButton
+        bloques={bloques}
+        selectedKeys={selected}
+        demoMode={usingFixture}
+      />
     </div>
   );
 }

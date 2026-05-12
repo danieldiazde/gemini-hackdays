@@ -44,6 +44,32 @@ export const insightsGenerateBodySchema = z.object({
   forceRefresh: z.boolean().optional(),
 });
 
+export const insightContenidoSchema = z.object({
+  mensaje: z.string().trim().min(1).max(1000),
+  prioridades: z
+    .array(
+      z.object({
+        materia: z.string().trim().min(1).max(160),
+        razon: z.string().trim().min(1).max(1000),
+        urgencia: z.enum(["alta", "media", "baja"]),
+      }),
+    )
+    .min(1)
+    .max(4),
+  bloques_sugeridos: z
+    .array(
+      z.object({
+        titulo: z.string().trim().min(1).max(160),
+        materia: z.string().trim().min(1).max(160),
+        inicio_iso: isoDatetimeSchema,
+        fin_iso: isoDatetimeSchema,
+        razon: z.string().trim().min(1).max(1000),
+      }),
+    )
+    .min(1)
+    .max(5),
+});
+
 /**
  * Helper: validate a request body or return a NextResponse-friendly error
  * payload. Caller decides what to do with the error (typically NextResponse.json).

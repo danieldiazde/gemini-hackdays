@@ -58,9 +58,11 @@ function describeBlock(b: BloqueSugerido) {
 export function ApplyBlocksButton({
   bloques,
   selectedKeys,
+  demoMode = false,
 }: {
   bloques: BloqueSugerido[];
   selectedKeys: Set<string>;
+  demoMode?: boolean;
 }) {
   const router = useRouter();
   const [open, setOpen] = useState(false);
@@ -87,29 +89,34 @@ export function ApplyBlocksButton({
 
     setPending(true);
     try {
+      if (demoMode) {
+        toast.success("Modo demo: bloques aplicados", {
+          description: `Habríamos creado ${count} ${count === 1 ? "evento" : "eventos"} en tu Google Calendar.`,
+        });
+        fireApplyConfetti();
+        setOpen(false);
+        return;
+      }
+
       const res = await fetch("/api/calendar/create", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
       });
 
-      if (res.status === 404) {
-        toast.success("Modo demo: bloques aplicados", {
-          description: `Habríamos creado ${count} ${count === 1 ? "evento" : "eventos"} en tu Google Calendar.`,
-        });
-      } else if (!res.ok) {
+      if (!res.ok) {
         const msg = await res.text().catch(() => "");
         throw new Error(msg || `status ${res.status}`);
-      } else {
-        const json = (await res.json()) as CalendarCreateResponse;
-        toast.success(
-          `${json.created} ${json.created === 1 ? "bloque agendado" : "bloques agendados"}`,
-          {
-            description:
-              selectedBlocks[0] && `Primer bloque: ${selectedBlocks[0].titulo}`,
-          },
-        );
       }
+
+      const json = (await res.json()) as CalendarCreateResponse;
+      toast.success(
+        `${json.created} ${json.created === 1 ? "bloque agendado" : "bloques agendados"}`,
+        {
+          description:
+            selectedBlocks[0] && `Primer bloque: ${selectedBlocks[0].titulo}`,
+        },
+      );
 
       fireApplyConfetti();
       setOpen(false);
@@ -139,11 +146,15 @@ export function ApplyBlocksButton({
       </DialogTrigger>
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
-          <DialogTitle>Crear bloques en Google Calendar</DialogTitle>
+          <DialogTitle>
+            {demoMode
+              ? "Simular bloques en Google Calendar"
+              : "Crear bloques en Google Calendar"}
+          </DialogTitle>
           <DialogDescription>
-            Vamos a agregar {count} {count === 1 ? "evento" : "eventos"} a tu
-            calendario primario. Puedes editarlos o borrarlos desde Google
-            Calendar después.
+            {demoMode
+              ? `Modo demo: se simularían ${count} ${count === 1 ? "evento" : "eventos"} sin escribir en Google Calendar.`
+              : `Vamos a agregar ${count} ${count === 1 ? "evento" : "eventos"} a tu calendario primario. Puedes editarlos o borrarlos desde Google Calendar después.`}
           </DialogDescription>
         </DialogHeader>
         <ul className="space-y-2 max-h-60 overflow-y-auto">

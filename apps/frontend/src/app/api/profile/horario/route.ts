@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 import { parseHorarioPdf } from "@/lib/pdf/horario-parser";
+import { checkRateLimit } from "@/lib/rate-limit";
 import { getSupabaseServer } from "@/lib/supabase/server";
 
 const MAX_PDF_BYTES = 10 * 1024 * 1024; // 10 MB
@@ -17,6 +18,25 @@ export async function POST(request: NextRequest) {
     } = await supabase.auth.getUser();
     if (authError || !user) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    }
+
+    const limit = checkRateLimit({
+      key: `horario:${user.id}`,
+      limit: 3,
+      windowMs: 60 * 60 * 1000,
+    });
+    if (!limit.ok) {
+      return NextResponse.json(
+        {
+          error: `Demasiados intentos. Reintenta en ${limit.retryAfterSeconds} segundos.`,
+        },
+        {
+          status: 429,
+          headers: {
+            "Retry-After": String(limit.retryAfterSeconds),
+          },
+        },
+      );
     }
 
     const formData = await request.formData();
@@ -99,7 +119,12 @@ export async function POST(request: NextRequest) {
     });
   } catch (err) {
     console.error("[profile/horario]", err);
-    const message = err instanceof Error ? err.message : "Failed to parse PDF";
-    return NextResponse.json({ error: message }, { status: 500 });
+    return NextResponse.json(
+      {
+        error:
+          "No pudimos leer el horario. Verifica que sea el PDF oficial de MiTec e inténtalo de nuevo.",
+      },
+      { status: 500 },
+    );
   }
 }

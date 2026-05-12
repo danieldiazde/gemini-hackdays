@@ -1,5 +1,6 @@
 import { NextResponse, type NextRequest } from "next/server";
 
+import { isUserAllowed } from "@/lib/auth/access";
 import { getSupabaseServer } from "@/lib/supabase/server";
 
 const ALLOWED_NEXT_PATHS = new Set(["/onboarding", "/dashboard"]);
@@ -41,9 +42,12 @@ export async function GET(request: NextRequest) {
     return NextResponse.redirect(`${origin}/?error=no_user`);
   }
 
-  // Persona A's `profiles` table may not exist yet. If the lookup fails for
-  // any reason — missing table, missing row, null semestre — push the user
-  // through onboarding and let them fill it in.
+  if (!isUserAllowed(user)) {
+    await supabase.auth.signOut();
+    return NextResponse.redirect(`${origin}/?error=access_denied`);
+  }
+
+  // If profile lookup fails or is incomplete, send the user through onboarding.
   let needsOnboarding = true;
   try {
     const { data, error: lookupError } = await supabase
@@ -56,7 +60,7 @@ export async function GET(request: NextRequest) {
       needsOnboarding = false;
     }
   } catch {
-    // Table doesn't exist or lookup failed — treat as needs onboarding.
+    // Treat lookup failures as incomplete onboarding.
   }
 
   return NextResponse.redirect(
